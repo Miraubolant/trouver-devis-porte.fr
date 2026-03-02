@@ -1,0 +1,4530 @@
+{
+  "couville": {
+    "artisans": [
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16062391816269295295",
+        "nom": "RDV Artisans",
+        "slug": "rdv-artisans",
+        "telephone": "06 19 30 53 69",
+        "site_web": "https://rdvartisans.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 71,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12298179549395516209",
+        "nom": "Renov' Habitat SOLABAIE - Portes, fenêtres, volets, portails, portes de garage, pergolas, stores, ITE, bardages et isolations",
+        "slug": "renov-habitat-solabaie-portes-fenetres-volets-portails-portes-de-garage-pergolas-stores-ite-bardages-et-isolations",
+        "telephone": "02 33 45 60 51",
+        "site_web": "http://www.renovhabitat50.com/",
+        "adresse": "du carrousel, LA FR, 1 ZA, 50250 La Haye",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vicq-sur-mer": {
+    "artisans": [
+      {
+        "id": "14171273776240589879",
+        "nom": "Menuiserie Lemaux",
+        "slug": "menuiserie-lemaux",
+        "telephone": "02 33 04 41 49",
+        "site_web": "http://www.saslemaux.fr/",
+        "adresse": "142 Route de la Croix Georges, Le Pont de Neuville, 50340 Bricquebosq",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16478049479612044779",
+        "nom": "Menuiseries Pro Home",
+        "slug": "menuiseries-pro-home",
+        "telephone": "02 33 05 48 63",
+        "site_web": "http://www.menuiseriesph.fr/?utm_source=gmb",
+        "adresse": "ZI, 1 Route de Saint Lo, La Détourbe, 50890 Condé-sur-Vire",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14455674823470815018",
+        "nom": "Performances Menuiseries Sébastien HAMEL",
+        "slug": "performances-menuiseries-sebastien-hamel",
+        "telephone": "02 33 95 21 13",
+        "site_web": "http://performancesmenuiseries.fr/",
+        "adresse": "1 VC ZI les Costils, 50340 Les Pieux",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8004726190254909939",
+        "nom": "Ouvert Verrou",
+        "slug": "ouvert-verrou",
+        "telephone": "06 32 88 99 30",
+        "site_web": "https://ouvert-verrou.fr/",
+        "adresse": "33 Le Tôt de Haut, 50840 Fermanville",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "8399078972022618651",
+        "nom": "KOMILFO ISO50 à Coutances - Pergolas, Stores, Fenêtres, Menuiseries, Portails",
+        "slug": "komilfo-iso50-a-coutances-pergolas-stores-fenetres-menuiseries-portails",
+        "telephone": "02 33 47 23 49",
+        "site_web": "https://www.komilfo.fr/magasins/iso-50-coutances-50",
+        "adresse": "2 Rue de l'Ecauderie, 50200 Coutances",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13832054664363969776",
+        "nom": "Julien Anquetil Menuiserie - J.A.M",
+        "slug": "julien-anquetil-menuiserie-jam",
+        "telephone": "06 20 35 01 10",
+        "site_web": "https://www.instagram.com/juloanquetilmenuiserie/",
+        "adresse": "412 Rte du Ham. des Hayes, 50110 Cherbourg-en-Cotentin",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14937856771491299214",
+        "nom": "Côté Pose Fenêtres Pvc, bois, aluminium, porte d'entrée, volets, Store, Portail, Pergola à Saint-Lô 50",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volets-store-portail-pergola-a-saint-lo-50",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "330 Rue Valvire, 50000 Saint-Lô",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10187682752057120643",
+        "nom": "Socodime à Saint Lô - Fabricant Installateur Portails, Vérandas, Carports, Fenêtres, Pergolas...",
+        "slug": "socodime-a-saint-lo-fabricant-installateur-portails-verandas-carports-fenetres-pergolas",
+        "telephone": "02 33 07 57 58",
+        "site_web": "http://www.socodime.com/",
+        "adresse": "Les Forges, 50680 Couvains",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4704954613035995849",
+        "nom": "Le Marchand SAS",
+        "slug": "le-marchand-sas",
+        "telephone": "02 33 52 45 52",
+        "site_web": "https://www.lemarchand-sas.com/",
+        "adresse": "Les Fleury, 50340 Benoîtville",
+        "note": 3.6,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12504577931205429211",
+        "nom": "CASÉO Cherbourg",
+        "slug": "caseo-cherbourg",
+        "telephone": "02 33 40 36 29",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-tourlaville-cherbourg-81",
+        "adresse": "173 Imp. des Sorbiers ZI de Sauxmarais, 50110 Tourlaville",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cherbourg-en-cotentin": {
+    "artisans": [
+      {
+        "id": "7618582034898694611",
+        "nom": "CBC 50 - Un Chouette Menuisier",
+        "slug": "cbc-50-un-chouette-menuisier",
+        "telephone": "02 33 22 09 09",
+        "site_web": "http://www.cbc50unchouettemenuisier.fr/?utm_source=gmb",
+        "adresse": "Zone Industrielle Du Maupas, 32 Av. Maréchal de Lattre de Tassigny, 50100 Cherbourg-en-Cotentin",
+        "note": 4.6,
+        "avis": 39,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5837187488339700802",
+        "nom": "METAL 2000 Cherbourg-en-Cotentin - Saint-Lô - Réparation portes sectionnelles industrielles et rideaux métalliques (50)",
+        "slug": "metal-2000-cherbourg-en-cotentin-saint-lo-reparation-portes-sectionnelles-industrielles-et-rideaux-metalliques-50",
+        "telephone": "02 61 51 06 07",
+        "site_web": "https://www.metal2000.fr/nos-agences/cherbourg-en-cotentin/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "16512682148954944966",
+        "nom": "Lorenove Cherbourg",
+        "slug": "lorenove-cherbourg",
+        "telephone": "02 33 41 05 64",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/cherbourg?utm_source=Google&utm_medium=My+Business&utm_campaign=Leads+GMB&utm_id=GMB",
+        "adresse": "478 Rue des Métiers, 50110 Cherbourg-en-Cotentin",
+        "note": 4.5,
+        "avis": 56,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16242449198780530524",
+        "nom": "Groupe Delplast",
+        "slug": "groupe-delplast",
+        "telephone": "02 33 01 82 40",
+        "site_web": "http://www.delplast.fr/",
+        "adresse": "620 Rue du Plat Chemin, 50460 Cherbourg-en-Cotentin",
+        "note": 3.9,
+        "avis": 91,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14812902498379120041",
+        "nom": "Décorisol",
+        "slug": "decorisol",
+        "telephone": "02 33 40 36 29",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/cherbourg-decorisol-caseo/",
+        "adresse": "173 Imp. des Sorbiers, 50110 Tourlaville",
+        "note": 4,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17136685295965437410",
+        "nom": "Les Ouvertures de votre habitat",
+        "slug": "les-ouvertures-de-votre-habitat",
+        "telephone": "06 73 86 73 83",
+        "site_web": "https://www.les-ouvertures-de-votre-habitat.fr/",
+        "adresse": "920A Rue Jean Bouin, 50110 Tourlaville",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6767066172807931746",
+        "nom": "Répar'stores Cherbourg - Réparation volet roulant, store et porte de garage",
+        "slug": "reparstores-cherbourg-reparation-volet-roulant-store-et-porte-de-garage",
+        "telephone": "06 51 55 51 80",
+        "site_web": "https://www.reparstores.com/intervenants/336-jimmy-theys?utm_source=google&utm_medium=gmb&utm_campaign=cherbourg-en-cotentin&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "4223977858382055339",
+        "nom": "SOS Multi-Dépannages",
+        "slug": "sos-multi-depannages",
+        "telephone": "06 33 24 17 78",
+        "site_web": "https://www.xn--sos-multi-dpannages-lzb.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 68,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14617181981666264109",
+        "nom": "Un Chouette Réseau",
+        "slug": "un-chouette-reseau",
+        "telephone": "02 33 22 09 09",
+        "site_web": "https://www.chouettereseau-cotentin.fr/",
+        "adresse": "32 Av. Maréchal de Lattre de Tassigny, 50100 Cherbourg-en-Cotentin",
+        "note": 3.9,
+        "avis": 30,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "4182306870416775705",
+        "nom": "Entreprise Leprince & Fils",
+        "slug": "entreprise-leprince-fils",
+        "telephone": "06 20 08 02 60",
+        "site_web": "https://entreprise-leprince.com/",
+        "adresse": "412a Rue Aristide Briand, 50110 Cherbourg-en-Cotentin",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cerisy-la-salle": {
+    "artisans": [
+      {
+        "id": "9796379359586880626",
+        "nom": "TENDANCE EVENT : DJ Manche, animation de mariage",
+        "slug": "tendance-event-dj-manche-animation-de-mariage",
+        "telephone": "06 72 90 51 63",
+        "site_web": "https://www.tendance-event.fr/",
+        "adresse": "31 Cité du Jardin Garot, 50210 Cerisy-la-Salle",
+        "note": 5,
+        "avis": 14,
+        "type": "Disc-jockey"
+      },
+      {
+        "id": "10446506261714344560",
+        "nom": "Hervio Yohann Menuiserie",
+        "slug": "hervio-yohann-menuiserie",
+        "telephone": "02 33 47 95 73",
+        "site_web": "https://www.hervio-menuiserie.fr/",
+        "adresse": "1 Rue de la ZA, 50210 Cerisy-la-Salle",
+        "note": 4.6,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1332008415089300323",
+        "nom": "MENUISERIE QUELLIER - Menuiserie & Maçonnerie -CERISY BELLE ETOILE",
+        "slug": "menuiserie-quellier-menuiserie-maconnerie-cerisy-belle-etoile",
+        "telephone": "06 61 33 04 99",
+        "site_web": "https://www.la-zouille.fr/menui-renovation/",
+        "adresse": "Le Bourg, 61100 Cerisy-Belle-Étoile",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4067175847848776000",
+        "nom": "LC FERMETURES AUTOMATIQUES - LCFA",
+        "slug": "lc-fermetures-automatiques-lcfa",
+        "telephone": "02 33 05 15 57",
+        "site_web": "https://lcfa.fr/",
+        "adresse": "305 Rue Henri Claudel, 50000 Saint-Lô",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "martinvast": {
+    "artisans": [
+      {
+        "id": "1602294195615379128",
+        "nom": "CREA CONFORT",
+        "slug": "crea-confort",
+        "telephone": "02 33 20 54 25",
+        "site_web": "https://www.creaconfort.fr/",
+        "adresse": "48 Les Chênaies, 50470 Tollevast",
+        "note": 4.3,
+        "avis": 125,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "13239195001498402421",
+        "nom": "La compagnie des pieuvres",
+        "slug": "la-compagnie-des-pieuvres",
+        "telephone": "06 77 08 26 59",
+        "site_web": "https://www.la-compagnie-des-pieuvres.fr/",
+        "adresse": "ZA les chèvres, 50470 Tollevast",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "12410013066429429893",
+        "nom": "Martin Eddy",
+        "slug": "martin-eddy",
+        "telephone": "02 33 08 35 34",
+        "site_web": "https://www.martin-renov.fr/",
+        "adresse": "23 La Fournellerie, 50690 Martinvast",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1892266813519310157",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 33 88 38 30",
+        "site_web": "https://magasins.lapeyre.fr/normandie/manche/lapeyre-cherbourg-73",
+        "adresse": "Du Rond-Point, Rue du Parc d'Activités, 50470 Cherbourg-en-Cotentin",
+        "note": 4.1,
+        "avis": 203,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4347595128586849492",
+        "nom": "Leroy Merlin Tollevast - Cherbourg",
+        "slug": "leroy-merlin-tollevast-cherbourg",
+        "telephone": "02 33 92 73 73",
+        "site_web": "https://www.leroymerlin.fr/magasins/tollevast-cherbourg.html",
+        "adresse": "LEROY MERLIN 19, zone d'activité commerciale Claude Chappe, Z.A.C. Claude Chappe, 50470 Tollevast",
+        "note": 4,
+        "avis": 3054,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "coutances": {
+    "artisans": [
+      {
+        "id": "12084988818361363337",
+        "nom": "B'PLAST ST LO",
+        "slug": "bplast-st-lo",
+        "telephone": "02 33 05 16 06",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-lo/?utm_source=gmb",
+        "adresse": "10 Rue des Frères Lumière, 50180 Agneaux",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7624758394766387846",
+        "nom": "ESPACE ET OUVERTURE",
+        "slug": "espace-et-ouverture",
+        "telephone": "02 33 76 40 40",
+        "site_web": "http://espace-et-ouverture.fr/",
+        "adresse": "Av. Division Leclerc, 50200 Coutances",
+        "note": 4.8,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5134807676900777192",
+        "nom": "Vérandas CONCEPT ALU",
+        "slug": "verandas-concept-alu",
+        "telephone": "02 33 45 07 46",
+        "site_web": "https://www.conceptalu.com/points-de-vente/france/manche-2/50-verandas-coutances/",
+        "adresse": "5 Rue Colbert, 50200 Coutances",
+        "note": 5,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8399078972022618651",
+        "nom": "KOMILFO ISO50 à Coutances - Pergolas, Stores, Fenêtres, Menuiseries, Portails",
+        "slug": "komilfo-iso50-a-coutances-pergolas-stores-fenetres-menuiseries-portails",
+        "telephone": "02 33 47 23 49",
+        "site_web": "https://www.komilfo.fr/magasins/iso-50-coutances-50",
+        "adresse": "2 Rue de l'Ecauderie, 50200 Coutances",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2183827311705910308",
+        "nom": "CASÉO Coutances",
+        "slug": "caseo-coutances",
+        "telephone": "02 33 76 60 00",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-coutances-coutances-38",
+        "adresse": "ZI Auberge de, 27 Rue des Boissières, 50200 Coutances",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13464815748873388406",
+        "nom": "La Menuiserie du Littoral",
+        "slug": "la-menuiserie-du-littoral",
+        "telephone": "09 73 88 91 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "creances": {
+    "artisans": [
+      {
+        "id": "7652578606656685541",
+        "nom": "EIRL YOHANN ANGOT",
+        "slug": "eirl-yohann-angot",
+        "telephone": "02 33 45 61 90",
+        "site_web": "https://www.yohannangot-50.fr/",
+        "adresse": "15 Rue de Saint-Lô, 50190 Périers",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6822848020874870941",
+        "nom": "Menuiserie de la Cote Ouest",
+        "slug": "menuiserie-de-la-cote-ouest",
+        "telephone": "02 33 76 65 35",
+        "site_web": "http://www.menuiserie-coteouest.com/",
+        "adresse": "Parc Activité Côte Ouest, Rue de Normandie, 50710 Créances",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Agenceur"
+      },
+      {
+        "id": "11138678440787193150",
+        "nom": "Lemoucheux (SARL)",
+        "slug": "lemoucheux-sarl",
+        "telephone": "09 63 53 51 97",
+        "site_web": null,
+        "adresse": "42 Rte de la ZI, 50430 Lessay",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5053358019234191423",
+        "nom": "Ozen Menuiserie",
+        "slug": "ozen-menuiserie",
+        "telephone": "02 33 45 05 23",
+        "site_web": "https://www.ozen-menuiserie.com/",
+        "adresse": "4 Rte de la Houguette, 50200 Gratot",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11923145247310087157",
+        "nom": "MACONNERIE LAVARDE",
+        "slug": "maconnerie-lavarde",
+        "telephone": "02 33 07 04 54",
+        "site_web": "https://lavarde-entreprise.fr/",
+        "adresse": "Parc Activité Côte Ouest, 50710 Créances",
+        "note": 3.9,
+        "avis": 15,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "conde-sur-vire": {
+    "artisans": [
+      {
+        "id": "11651702006732129139",
+        "nom": "Menuiserie Vaudru",
+        "slug": "menuiserie-vaudru",
+        "telephone": "02 33 55 46 52",
+        "site_web": "http://www.menuiserie-vaudru.fr/?utm_source=gmb",
+        "adresse": "17 Rue Raymond Brûle, 50890 Condé-sur-Vire",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "881238636690927027",
+        "nom": "Moncé Gilbert",
+        "slug": "monce-gilbert",
+        "telephone": "02 33 55 50 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "digosville": {
+    "artisans": [
+      {
+        "id": "7871836123998736572",
+        "nom": "Menuiserie Mériel",
+        "slug": "menuiserie-meriel",
+        "telephone": "02 33 22 96 00",
+        "site_web": "http://www.menuiserie-meriel-cherbourg.fr/",
+        "adresse": "3 Rte du Theil, 50110 Digosville",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "donville-les-bains": {
+    "artisans": [
+      {
+        "id": "16301080099444662085",
+        "nom": "CASÉO Granville",
+        "slug": "caseo-granville",
+        "telephone": "02 33 90 65 74",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-granville-granville-46",
+        "adresse": "ZAC du Prétot, 94 Imp. des Tremailleurs, 50400 Granville",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5668819286664876997",
+        "nom": "Miroiterie du Mont Saint-Michel",
+        "slug": "miroiterie-du-mont-saint-michel",
+        "telephone": "02 33 90 65 74",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/granville-miroiterie-du-mont-saint-michel-caseo/",
+        "adresse": "ZAC du Prétot, 94 Imp. des Tremailleurs, 50400 Granville",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17699798558621610231",
+        "nom": "Espace Aubade Maillard Granville",
+        "slug": "espace-aubade-maillard-granville",
+        "telephone": "02 33 90 51 88",
+        "site_web": "https://www.espace-aubade.fr/magasins/granville-172.html",
+        "adresse": "Z.A du Prétot, Rue des Baleiniers, 50400 Granville",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "1195089163846707039",
+        "nom": "Espace Baies",
+        "slug": "espace-baies",
+        "telephone": "02 33 91 86 19",
+        "site_web": "http://www.espace-baies.fr/",
+        "adresse": "49 Av. du Maréchal Leclerc, 50400 Granville",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "313635575735387229",
+        "nom": "Denis Protech",
+        "slug": "denis-protech",
+        "telephone": "07 83 76 41 28",
+        "site_web": "http://www.denisprotech.com/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5630628331105686025",
+        "nom": "GUILLAUME MENUISERIE",
+        "slug": "guillaume-menuiserie",
+        "telephone": "06 18 46 06 79",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9883060217107054993",
+        "nom": "Ozen Menuiserie",
+        "slug": "ozen-menuiserie",
+        "telephone": "02 33 45 05 23",
+        "site_web": "https://www.ozen-menuiserie.com/",
+        "adresse": "74 Rue Couraye, 50400 Granville",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16467648470541085280",
+        "nom": "B'PLAST AVRANCHES",
+        "slug": "bplast-avranches",
+        "telephone": "02 33 79 49 79",
+        "site_web": "https://www.bplast.fr/agence/bplast-avranche/?utm_source=gmb",
+        "adresse": "3 Rue nationale, 50300 Avranches",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ducey-les-cheris": {
+    "artisans": [
+      {
+        "id": "2580024194791302333",
+        "nom": "La Bonne Porte",
+        "slug": "la-bonne-porte",
+        "telephone": "02 50 26 92 62",
+        "site_web": "https://m.facebook.com/La-Bonne-Porte-104939484366971/?modal=admin_todo_tour",
+        "adresse": "44 Rue du Génie, 50220 Ducey-Les Chéris",
+        "note": 4.7,
+        "avis": 198,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "fermanville": {
+    "artisans": [
+      {
+        "id": "2976584605088285975",
+        "nom": "Performance Habitat",
+        "slug": "performance-habitat",
+        "telephone": "02 33 44 25 15",
+        "site_web": "http://www.performance-habitat.fr/",
+        "adresse": "55 Rte des Chênes, 50110 Bretteville",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9179604835437707325",
+        "nom": "B'Plast",
+        "slug": "bplast",
+        "telephone": "02 33 22 48 20",
+        "site_web": "https://www.bplast.fr/agence/bplast-cherbourg/?utm_source=gmb",
+        "adresse": "175 Rue des Métiers, 50110 Cherbourg-en-Cotentin",
+        "note": 3.8,
+        "avis": 75,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7871836123998736572",
+        "nom": "Menuiserie Mériel",
+        "slug": "menuiserie-meriel",
+        "telephone": "02 33 22 96 00",
+        "site_web": "http://www.menuiserie-meriel-cherbourg.fr/",
+        "adresse": "3 Rte du Theil, 50110 Digosville",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "folligny": {
+    "artisans": [
+      {
+        "id": "15014911758595402617",
+        "nom": "Eurl Lalouelle Aurelien menuiserie (Al menuiserie)",
+        "slug": "eurl-lalouelle-aurelien-menuiserie-al-menuiserie",
+        "telephone": "06 71 46 55 28",
+        "site_web": null,
+        "adresse": "9 La Boulaye, 50680 Saint-André-de-l'Épine",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14957691808812315973",
+        "nom": "Baie Pro",
+        "slug": "baie-pro",
+        "telephone": "02 33 07 29 29",
+        "site_web": "https://www.baie-pro.fr/",
+        "adresse": "4A Rue du Clos, 50590 Montmartin-sur-Mer",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8736247475957349871",
+        "nom": "Removo - Réparation de stores et volets roulants Avranches",
+        "slug": "removo-reparation-de-stores-et-volets-roulants-avranches",
+        "telephone": "07 83 19 05 75",
+        "site_web": "https://www.removo.fr/artisans/50-manche/manche-sud/",
+        "adresse": null,
+        "note": 5,
+        "avis": 31,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "flamanville": {
+    "artisans": [
+      {
+        "id": "11299755915744726571",
+        "nom": "CB Multiservice",
+        "slug": "cb-multiservice",
+        "telephone": "02 33 08 59 92",
+        "site_web": "https://www.facebook.com/Challier.Multiservices?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "7165336662549137254",
+        "nom": "Socodime à Coutances - Fabricant installateur Portails, Vérandas, Carports, Fenêtres, Pergolas.",
+        "slug": "socodime-a-coutances-fabricant-installateur-portails-verandas-carports-fenetres-pergolas",
+        "telephone": "02 33 07 57 58",
+        "site_web": "http://www.socodime.com/",
+        "adresse": "1459 Rue de la Montchatonnière, 50200 Tourville-sur-Sienne",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fleury": {
+    "artisans": [
+      {
+        "id": "9872789510560603701",
+        "nom": "Logikinov",
+        "slug": "logikinov",
+        "telephone": "02 31 52 00 78",
+        "site_web": "http://www.facebook.com/logikinov/?utm_source=gmb",
+        "adresse": "12 Avenue Digues, All. 1, 14123 Fleury-sur-Orne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17053816936755956597",
+        "nom": "KparK Caen",
+        "slug": "kpark-caen",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/135-kpark-caen?utm_source=gmb",
+        "adresse": "73 Rue d'Auge, 14000 Caen",
+        "note": 4,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8594022747271265866",
+        "nom": "La Boutique du Menuisier Caen",
+        "slug": "la-boutique-du-menuisier-caen",
+        "telephone": "06 76 97 83 22",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/gl-menuiseries",
+        "adresse": "119 Bd Maréchal Lyautey, 14000 Caen",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16460466430945011774",
+        "nom": "Batistyl Habitat - Caen - Fabricant installateur de menuiseries",
+        "slug": "batistyl-habitat-caen-fabricant-installateur-de-menuiseries",
+        "telephone": "02 72 62 91 80",
+        "site_web": "https://www.batistyl-habitat.fr/agences/batistyl-caen-fleury-sur-orne-installateur-fenetres/?utm_source=gmb",
+        "adresse": "522 Av. des Digues, 14123 Fleury-sur-Orne",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4387580838513996466",
+        "nom": "CASÉO Caen",
+        "slug": "caseo-caen",
+        "telephone": "02 31 47 45 45",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-caen-fleury-sur-orne-42",
+        "adresse": "Parc d'Activités Normandika, Av. des Digues Allée n°2, 14123 Fleury-sur-Orne",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8204021334056379906",
+        "nom": "Décorisol Caennaise",
+        "slug": "decorisol-caennaise",
+        "telephone": "02 31 47 45 45",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/caen-decorisol-caseo/",
+        "adresse": "222 Av. des Digues, 14123 Fleury-sur-Orne",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15596267249563860007",
+        "nom": "Eurl laville",
+        "slug": "eurl-laville",
+        "telephone": "06 74 06 07 48",
+        "site_web": null,
+        "adresse": "144 Rte de Granville, 50800 Fleury",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "116287712258788260",
+        "nom": "Manche Clôtures",
+        "slug": "manche-clotures",
+        "telephone": "02 33 78 85 27",
+        "site_web": "https://manche-clotures.fr/",
+        "adresse": "48 Rte de Granville, 50800 Fleury",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "4529754358742334353",
+        "nom": "Coudray Fermetures",
+        "slug": "coudray-fermetures",
+        "telephone": "02 31 52 27 13",
+        "site_web": "http://www.coudray-fermetures.fr/",
+        "adresse": "19 Rue François Mitterrand, 14123 Fleury-sur-Orne",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "gavray-sur-sienne": {
+    "artisans": [
+      {
+        "id": "14272124913663148947",
+        "nom": "Grente Didier Marcel",
+        "slug": "grente-didier-marcel",
+        "telephone": "02 33 90 95 04",
+        "site_web": null,
+        "adresse": "23 Rue du Maupas, 50450 Gavray-sur-Sienne",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Plombier"
+      },
+      {
+        "id": "307538961678610958",
+        "nom": "Godard Alain",
+        "slug": "godard-alain",
+        "telephone": "02 33 91 72 13",
+        "site_web": null,
+        "adresse": "Le Hamel aux Cerfs, 50410 Percy-en-Normandie",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6384469409196088412",
+        "nom": "Chaudronnerie Métallerie LAVIE",
+        "slug": "chaudronnerie-metallerie-lavie",
+        "telephone": "02 33 51 98 88",
+        "site_web": "http://www.chaudronnerie-lavie.fr/",
+        "adresse": "1 La Sayere, 50450 Gavray-sur-Sienne",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "17360393860756973226",
+        "nom": "SARL Lefevre Guillaume",
+        "slug": "sarl-lefevre-guillaume",
+        "telephone": "06 75 99 36 99",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "gonneville-le-theil": {
+    "artisans": [
+      {
+        "id": "2976584605088285975",
+        "nom": "Performance Habitat",
+        "slug": "performance-habitat",
+        "telephone": "02 33 44 25 15",
+        "site_web": "http://www.performance-habitat.fr/",
+        "adresse": "55 Rte des Chênes, 50110 Bretteville",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "granville": {
+    "artisans": [
+      {
+        "id": "8141989604269596563",
+        "nom": "Port de Hérel - Bureau du port",
+        "slug": "port-de-herel-bureau-du-port",
+        "telephone": "02 33 50 20 06",
+        "site_web": "https://ports-manche.com/ports/granville-herel",
+        "adresse": "Prom. du Dr Paul Lavat, 50400 Granville",
+        "note": 4.4,
+        "avis": 1187,
+        "type": "Port de plaisance"
+      },
+      {
+        "id": "2057244274628636294",
+        "nom": "Port STL Nautisme",
+        "slug": "port-stl-nautisme",
+        "telephone": "02 33 69 22 75",
+        "site_web": "http://www.stl-nautisme.com/",
+        "adresse": "657 Rue de la Parfonterie, 50400 Granville",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Concessionnaire de bateaux"
+      },
+      {
+        "id": "17393056370782812979",
+        "nom": "POINT.P - Granville",
+        "slug": "pointp-granville",
+        "telephone": "02 33 50 51 52",
+        "site_web": "https://www.pointp.fr/infos-agence/granville-point-p-3881",
+        "adresse": "Avenue des Matignon ZI, Rte de Villedieu, 50400 Granville",
+        "note": 4.2,
+        "avis": 68,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1978842773491592860",
+        "nom": "AM BAT",
+        "slug": "am-bat",
+        "telephone": "07 85 75 59 97",
+        "site_web": "http://ambat-granville.fr/",
+        "adresse": "Les salines, 8 Village aux Telliers, 50400 Anctoville-sur-Boscq",
+        "note": 5,
+        "avis": 9,
+        "type": "Service de pose de parquet"
+      },
+      {
+        "id": "4320083757058169092",
+        "nom": "Monsieur Store Granville - Stores - Pergolas - Alexis ETS",
+        "slug": "monsieur-store-granville-stores-pergolas-alexis-ets",
+        "telephone": "02 33 90 78 60",
+        "site_web": "https://monsieurstore.com/magasin/granville-50380/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "za de la lande de pucy, 64 Rue Marie Curie, 50380 Saint-Pair-sur-Mer",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "5779867409567736811",
+        "nom": "Komilfo TL Production à Granville - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-tl-production-a-granville-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 33 90 68 97",
+        "site_web": "https://www.komilfo.fr/magasins/tl-production-granville-50?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "531 Rte de Villedieu, 50400 Saint-Planchers",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5779867409567736811",
+        "nom": "Komilfo TL Production à Granville - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-tl-production-a-granville-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 33 90 68 97",
+        "site_web": "https://www.komilfo.fr/magasins/tl-production-granville-50?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "531 Rte de Villedieu, 50400 Saint-Planchers",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "gouville-sur-mer": {
+    "artisans": [
+      {
+        "id": "17973076315597509018",
+        "nom": "MENUISERIE PHILIPPE CHEVREL",
+        "slug": "menuiserie-philippe-chevrel",
+        "telephone": "06 89 08 24 70",
+        "site_web": null,
+        "adresse": "15 Rue des Loups de Mer, 50560 Gouville-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10655639070194029862",
+        "nom": "McM Gouvillaise",
+        "slug": "mcm-gouvillaise",
+        "telephone": "06 64 97 82 29",
+        "site_web": null,
+        "adresse": "6 Rue Pierre Hacquebecq, 50560 Gouville-sur-Mer",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "hambye": {
+    "artisans": [
+      {
+        "id": "16401496977028311069",
+        "nom": "Izabelle Bâtiment",
+        "slug": "izabelle-batiment",
+        "telephone": "02 33 56 64 37",
+        "site_web": "https://www.izabelle-batiment.com/",
+        "adresse": "17 La Joignerie rue de, 50750 Quibou",
+        "note": 4.1,
+        "avis": 47,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8297000810425290315",
+        "nom": "Artisans Ebénistes d'Hambye",
+        "slug": "artisans-ebenistes-dhambye",
+        "telephone": "02 33 51 92 97",
+        "site_web": null,
+        "adresse": "28 Rue la Croix au Breton, 50450 Hambye",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "15769852911840995857",
+        "nom": "ACH Menuiserie SOLABAIE Avranches",
+        "slug": "ach-menuiserie-solabaie-avranches",
+        "telephone": "02 33 60 67 13",
+        "site_web": "http://www.solabaie.fr/entreprise-menuiserie/manche/saint-martin-des-champs/ach-menuiserie-183",
+        "adresse": "24 Av. du Quesnoy, 50300 Avranches",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14342809864279793988",
+        "nom": "AML Menuiserie",
+        "slug": "aml-menuiserie",
+        "telephone": "02 33 76 59 20",
+        "site_web": "http://www.aml-menuiserie-technal.fr/",
+        "adresse": "Zone industrielle La Canurie, 50250 La Haye",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-haye-pesnel": {
+    "artisans": [
+      {
+        "id": "58752498314447279",
+        "nom": "Charcuterie Lecland Boucherie Traiteur",
+        "slug": "charcuterie-lecland-boucherie-traiteur",
+        "telephone": "02 33 61 50 18",
+        "site_web": null,
+        "adresse": "10 Rue du 30 Juillet, 50320 La Haye-Pesnel",
+        "note": 4.9,
+        "avis": 77,
+        "type": "Boucherie"
+      },
+      {
+        "id": "3743947275241168563",
+        "nom": "Home Ball",
+        "slug": "home-ball",
+        "telephone": "02 33 50 79 19",
+        "site_web": "http://www.home-ball.com/",
+        "adresse": "13 Rue des Abrincates, 50320 La Haye-Pesnel",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Service de location d'équipements sportifs"
+      }
+    ]
+  },
+  "la-haye": {
+    "artisans": [
+      {
+        "id": "12298179549395516209",
+        "nom": "Renov' Habitat SOLABAIE - Portes, fenêtres, volets, portails, portes de garage, pergolas, stores, ITE, bardages et isolations",
+        "slug": "renov-habitat-solabaie-portes-fenetres-volets-portails-portes-de-garage-pergolas-stores-ite-bardages-et-isolations",
+        "telephone": "02 33 45 60 51",
+        "site_web": "http://www.renovhabitat50.com/",
+        "adresse": "du carrousel, LA FR, 1 ZA, 50250 La Haye",
+        "note": 4.9,
+        "avis": 75,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "thereval": {
+    "artisans": [
+      {
+        "id": "14312193621824783235",
+        "nom": "Société Lecardonnel",
+        "slug": "societe-lecardonnel",
+        "telephone": "02 33 55 14 15",
+        "site_web": "https://www.lecardonnel-menuiserie.fr/?utm_source=Google_My_Business&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "9 La Folle Pensée, 50570 Carantilly",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12084988818361363337",
+        "nom": "B'PLAST ST LO",
+        "slug": "bplast-st-lo",
+        "telephone": "02 33 05 16 06",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-lo/?utm_source=gmb",
+        "adresse": "10 Rue des Frères Lumière, 50180 Agneaux",
+        "note": 4.2,
+        "avis": 127,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15003917620001737113",
+        "nom": "Palla Habitat",
+        "slug": "palla-habitat",
+        "telephone": "02 33 56 12 69",
+        "site_web": "http://www.pallahabitat.com/?utm_source=gmb",
+        "adresse": "Zone Artisanale La Chenée 5 La Chênée 50570 Marigny FR, 5 ZA La Chênée, 50570 Marigny-Le-Lozon",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15337422490544835901",
+        "nom": "DN Rem'aides Ouvertures",
+        "slug": "dn-remaides-ouvertures",
+        "telephone": "06 45 96 24 98",
+        "site_web": "https://dn-remaides-ouvertures.com/",
+        "adresse": "11 Rue de la Libération, 50880 Pont-Hébert",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6631644069768633189",
+        "nom": "Desmeulemester Rénovation",
+        "slug": "desmeulemester-renovation",
+        "telephone": "06 67 15 93 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 57,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "isigny-le-buat": {
+    "artisans": [
+      {
+        "id": "9290840305779155649",
+        "nom": "Électricité Gann'elec",
+        "slug": "electricite-gannelec",
+        "telephone": "07 62 54 59 11",
+        "site_web": "https://gann-elec.fr/",
+        "adresse": "21 Rue du Mortainais, 50540 Isigny-le-Buat",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "14973279750658154487",
+        "nom": "Liger Agencement",
+        "slug": "liger-agencement",
+        "telephone": "02 33 70 87 39",
+        "site_web": "https://www.ligeragencement.fr/",
+        "adresse": "ZA Le Carrefour des Biards, Le Mesnil-Thébault, 50540 Isigny-le-Buat",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15152470048323213581",
+        "nom": "Menuiserie CROCHET - SOLABAIE St Hilaire du H.",
+        "slug": "menuiserie-crochet-solabaie-st-hilaire-du-h",
+        "telephone": "02 33 49 01 86",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/manche/saint-hilaire-du-harcouet/menuiserie-crochet-232/",
+        "adresse": "21 Pl. Delaporte, 50600 Saint-Hilaire-du-Harcouët",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6789496040920950005",
+        "nom": "QBTS",
+        "slug": "qbts",
+        "telephone": "06 15 99 02 58",
+        "site_web": "https://www.qbts.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "13046804673864890217",
+        "nom": "NR ENTREPRISE",
+        "slug": "nr-entreprise",
+        "telephone": "02 33 42 62 02",
+        "site_web": "http://nr-entreprise.fr/",
+        "adresse": "9034 Rue d'Isigny, 50500 Carentan-les-Marais",
+        "note": 4.5,
+        "avis": 36,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "5260892932016767055",
+        "nom": "MAT ÉLECTRICITÉ",
+        "slug": "mat-electricite",
+        "telephone": "06 50 54 20 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4388198135759613209",
+        "nom": "TBSA",
+        "slug": "tbsa",
+        "telephone": "07 82 06 98 74",
+        "site_web": "http://www.tbsa.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8612963297000690904",
+        "nom": "SARL DBMP",
+        "slug": "sarl-dbmp",
+        "telephone": "07 77 38 47 62",
+        "site_web": "https://dbmp.fr/",
+        "adresse": "47 Rue des Monts, 50300 Avranches",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10047763200193381837",
+        "nom": "SOS BRICO 50",
+        "slug": "sos-brico-50",
+        "telephone": "06 83 11 08 82",
+        "site_web": "https://adherent.acces-sap.com/page-sap/BpTFXdUm3UyFjnwlpJUrXsITtFmihSJF_5U4HKvutGs=",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de bricolage"
+      }
+    ]
+  },
+  "juvigny-les-vallees": {
+    "artisans": [
+      {
+        "id": "10935115893756284886",
+        "nom": "SARL Polfliet",
+        "slug": "sarl-polfliet",
+        "telephone": "02 33 59 07 26",
+        "site_web": "http://www.polfliet-maconnerie.com/",
+        "adresse": "ZA du Plat Bois, 50520 Juvigny les Vallées",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Maçon"
+      },
+      {
+        "id": "8864170191906747061",
+        "nom": "HEDOU sarl",
+        "slug": "hedou-sarl",
+        "telephone": "02 33 59 08 85",
+        "site_web": "http://www.hedou-fabrication.fr/",
+        "adresse": "Rue de Mortain 100, 50520 Juvigny les Vallées",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de matériel agricole"
+      },
+      {
+        "id": "9892256305617949711",
+        "nom": "Georges et Bodin SARL",
+        "slug": "georges-et-bodin-sarl",
+        "telephone": "02 33 59 17 87",
+        "site_web": null,
+        "adresse": "67 bis Rue d'Avranches, 50520 Juvigny les Vallées",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2875733932676751728",
+        "nom": "Menuiserie Crochet Solabaie",
+        "slug": "menuiserie-crochet-solabaie",
+        "telephone": "02 33 49 01 86",
+        "site_web": null,
+        "adresse": "5 Rte du Pointon, 50600 Grandparigny",
+        "note": 3.8,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16006687865609111064",
+        "nom": "Ambrin",
+        "slug": "ambrin",
+        "telephone": "06 87 41 93 95",
+        "site_web": "https://ambrin.fr/",
+        "adresse": "9 Rue de Mortain, 50520 Juvigny les Vallées",
+        "note": 0,
+        "avis": 0,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "3897210293530737219",
+        "nom": "B'PLAST VIRE",
+        "slug": "bplast-vire",
+        "telephone": "02 31 66 25 10",
+        "site_web": "https://www.bplast.fr/agences/bplast-vire/?utm_source=GMB&utm_medium=Organique&utm_campaign=GMB+Vire",
+        "adresse": "ZA le maupas, 125 Rue de l'Allière, 14500 Vire Normandie",
+        "note": 4.4,
+        "avis": 155,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14772908670541244209",
+        "nom": "FL Plan Prestation",
+        "slug": "fl-plan-prestation",
+        "telephone": "09 82 33 78 55",
+        "site_web": "https://www.flplanprestation.fr/contact/",
+        "adresse": "9 Rue de Mortain, 50520 Juvigny les Vallées",
+        "note": 0,
+        "avis": 0,
+        "type": "Architecte"
+      },
+      {
+        "id": "14928798295725422133",
+        "nom": "MENUISERIE SARL LAL XAVIER MELIS",
+        "slug": "menuiserie-sarl-lal-xavier-melis",
+        "telephone": "06 67 85 00 62",
+        "site_web": "https://qfort.fr/",
+        "adresse": "Le Pont de la Forge, 50150 Sourdeval",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "marigny-le-lozon": {
+    "artisans": [
+      {
+        "id": "11531269483586451635",
+        "nom": "ID Domotique",
+        "slug": "id-domotique",
+        "telephone": "02 33 05 75 09",
+        "site_web": "https://iddomotique.fr/Nous-contacter-17",
+        "adresse": "3 La Buissonnerie, 50570 Marigny-Le-Lozon",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11194166924995024656",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "02 33 56 12 69",
+        "site_web": "https://www.gustaverideau.com/agences/marigny-le-lozon/?utm_campaign=marignylelozon&utm_medium=GMB&utm_source=google",
+        "adresse": "5 La Chênée Z.A de, 50570 Marigny-Le-Lozon",
+        "note": 3,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "marcey-les-greves": {
+    "artisans": [
+      {
+        "id": "8229651455658506706",
+        "nom": "Profil Plus Avranches-Marcey Les Greves",
+        "slug": "profil-plus-avranches-marcey-les-greves",
+        "telephone": "02 33 58 59 81",
+        "site_web": "https://www.profilplus.fr/agence/320-marcey",
+        "adresse": "124 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4.8,
+        "avis": 126,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "17131368583860930664",
+        "nom": "Menuisier Armory Tecni'Logis Avranches",
+        "slug": "menuisier-armory-tecnilogis-avranches",
+        "telephone": "02 33 51 54 84",
+        "site_web": "https://armory.bzh/?mtm_campaign=clic_site_web_fiche_GBP&mtm_source=google_business_profile&mtm_medium=organic",
+        "adresse": "Pl. de la Gare ZA moncreton, 50300 Avranches",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8606957681856211103",
+        "nom": "Belletoile Frères",
+        "slug": "belletoile-freres",
+        "telephone": "02 33 58 64 74",
+        "site_web": "https://www.belletoile-freres.fr/",
+        "adresse": "94 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4111601397472753474",
+        "nom": "CASÉO Avranches",
+        "slug": "caseo-avranches",
+        "telephone": "02 33 58 72 53",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-avranches-poilley-65",
+        "adresse": "Z.A de l'Estuaire, 21 Av. de la Pierre Vallée, 50220 Poilley",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1645493339009932373",
+        "nom": "Ferret SARL",
+        "slug": "ferret-sarl",
+        "telephone": "06 60 85 92 91",
+        "site_web": "https://www.ferretcouverture.fr/",
+        "adresse": "17 Route du Lavoir, 50300 Marcey-les-Grèves",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18263689788322948158",
+        "nom": "PROBAT LEBARBE",
+        "slug": "probat-lebarbe",
+        "telephone": "02 33 48 56 76",
+        "site_web": "http://www.probat-normandie.fr/",
+        "adresse": "138 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4,
+        "avis": 10,
+        "type": "Maçon"
+      },
+      {
+        "id": "7694227828980645328",
+        "nom": "Parquet Bois Décor / Poêle Bois Décor",
+        "slug": "parquet-bois-decor-poele-bois-decor",
+        "telephone": "02 33 79 51 92",
+        "site_web": "http://www.parquet-bois-decor.com/",
+        "adresse": "19 Le Pavé, 50300 Marcey-les-Grèves",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "7982868934064645948",
+        "nom": "Franck Bily Maitrise d'oeuvre",
+        "slug": "franck-bily-maitrise-doeuvre",
+        "telephone": "02 33 59 43 66",
+        "site_web": "https://www.franckbily.fr/",
+        "adresse": "116 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "brecey": {
+    "artisans": [
+      {
+        "id": "14799973931338017048",
+        "nom": "POINT.P - Brécey",
+        "slug": "pointp-brecey",
+        "telephone": "02 33 68 12 57",
+        "site_web": "https://www.pointp.fr/infos-agence/brecey-point-p-3848",
+        "adresse": "La Lucerie, ZA, 50370 Brécey",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14372270479797041388",
+        "nom": "Jules Menuis'",
+        "slug": "jules-menuis",
+        "telephone": "06 32 39 10 58",
+        "site_web": null,
+        "adresse": "Le Hamel, 50370 Brécey",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6502354599892505874",
+        "nom": "Sarl LEHERICEY",
+        "slug": "sarl-lehericey",
+        "telephone": "02 33 48 75 18",
+        "site_web": "http://www.sarl-lehericey.com/",
+        "adresse": "ZA, La Menardière, 50370 Brécey",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6327359741954985179",
+        "nom": "Façon Bois",
+        "slug": "facon-bois",
+        "telephone": "02 33 50 90 01",
+        "site_web": "http://facon-bois-menuiserie.fr/",
+        "adresse": "ZA, La Menardière, 50370 Brécey",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1444896695802927496",
+        "nom": "NORGEOT AGENCEMENT",
+        "slug": "norgeot-agencement",
+        "telephone": "06 47 03 67 31",
+        "site_web": null,
+        "adresse": "La Menardière, 50370 Brécey",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "avranches": {
+    "artisans": [
+      {
+        "id": "6487973443205449294",
+        "nom": "TRYBA Avranches",
+        "slug": "tryba-avranches",
+        "telephone": "02 21 83 12 74",
+        "site_web": "https://www.tryba.com/espace-conseil/50/tryba-avranches/?utm_campaign=Tryba_Avranches&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "42 Rue de la Constitution, 50300 Avranches",
+        "note": 4.6,
+        "avis": 19,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "agneaux": {
+    "artisans": [
+      {
+        "id": "10771015909643778524",
+        "nom": "Laud façades SARL",
+        "slug": "laud-facades-sarl",
+        "telephone": "02 33 05 55 42",
+        "site_web": "https://laudfacades.fr/",
+        "adresse": "82 Rue Guillaume Michel, 50180 Agneaux",
+        "note": 4.9,
+        "avis": 69,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "14093785249766128957",
+        "nom": "SIETRAM & CO Normandie - ASCENSEURS & ACCESSIBILITÉ",
+        "slug": "sietram-co-normandie-ascenseurs-accessibilite",
+        "telephone": "02 33 55 32 19",
+        "site_web": "http://www.sietram.fr/",
+        "adresse": "3120 Rue de la Vire, 50750 Canisy",
+        "note": 4.9,
+        "avis": 43,
+        "type": "Service de maintenance d'ascenseurs"
+      },
+      {
+        "id": "14115433593048070191",
+        "nom": "DH CHEMINEE",
+        "slug": "dh-cheminee",
+        "telephone": "06 20 97 61 58",
+        "site_web": "https://www.brisach.com/store/brisach-saint-lo/",
+        "adresse": "ZA de la Croix Carrée, 77 Rue des Coutures, 50180 Agneaux",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15777383702492953678",
+        "nom": "DARTY Saint-Lô",
+        "slug": "darty-saint-lo",
+        "telephone": "0 892 01 10 10",
+        "site_web": "https://magasin.darty.com/290-darty-saint-lo?utm_source=gmb",
+        "adresse": "Parc Commercial, Parc de la Tremblaye, 50180 Agneaux",
+        "note": 3.7,
+        "avis": 443,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "agon-coutainville": {
+    "artisans": [
+      {
+        "id": "4328757894760430497",
+        "nom": "ENT Christian Fanfani",
+        "slug": "ent-christian-fanfani",
+        "telephone": "02 33 45 61 60",
+        "site_web": "http://www.fanfani-batiment.fr/",
+        "adresse": "13 Rue du Dr Viaud, 50230 Agon-Coutainville",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8974451200337321679",
+        "nom": "Ravalement Agon-Coutainville - Peinture & Isolation",
+        "slug": "ravalement-agon-coutainville-peinture-isolation",
+        "telephone": "02 52 56 02 99",
+        "site_web": "https://ravalement-agon-coutainville.com/",
+        "adresse": "6 Rue Charles Jeanbin, 50230 Agon-Coutainville",
+        "note": 5,
+        "avis": 0,
+        "type": "Façadier"
+      },
+      {
+        "id": "4116197842835767585",
+        "nom": "Affini Pose",
+        "slug": "affini-pose",
+        "telephone": "06 22 61 54 38",
+        "site_web": "http://www.affinipose.fr/",
+        "adresse": "741 Charrière de la Haule, 50230 Agon-Coutainville",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "barneville-carteret": {
+    "artisans": [
+      {
+        "id": "1399248548600549228",
+        "nom": "Chantier Naval Mille Marin Carteret",
+        "slug": "chantier-naval-mille-marin-carteret",
+        "telephone": "07 68 97 41 68",
+        "site_web": "https://millemarincarteret.fr/",
+        "adresse": "8 Chem. du Ham. Boudet, 50270 Barneville-Carteret",
+        "note": 4.8,
+        "avis": 64,
+        "type": "Chantier naval"
+      },
+      {
+        "id": "4665013038168479080",
+        "nom": "Bar Du Port",
+        "slug": "bar-du-port",
+        "telephone": "02 33 53 87 29",
+        "site_web": null,
+        "adresse": "2 Prom. du Petit Port, 50270 Barneville-Carteret",
+        "note": 4.2,
+        "avis": 557,
+        "type": "Bar"
+      },
+      {
+        "id": "17072606886788286450",
+        "nom": "Poulain Bâtiment - OuvertureS",
+        "slug": "poulain-batiment-ouvertures",
+        "telephone": "02 33 04 63 53",
+        "site_web": null,
+        "adresse": "4 ZA, 50270 Les Moitiers-d'Allonne",
+        "note": 4.4,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14554620709452981383",
+        "nom": "Allianz Assurance BARNEVILLE - FRIGOT & POSTEL",
+        "slug": "allianz-assurance-barneville-frigot-postel",
+        "telephone": "02 33 52 13 10",
+        "site_web": "https://agence.allianz.fr/barneville-50270-H95070?utm_medium=organic&utm_source=na_organic_primelis&utm_campaign=2109_ongoing_na_organic_na_fiches-gmb-btn-site-web&utm_term=google_na_na_na_na_2109",
+        "adresse": "4 Rue des Halles, 50270 Barneville-Carteret",
+        "note": 4.9,
+        "avis": 63,
+        "type": "Agence d'assurance"
+      },
+      {
+        "id": "9373441805540073389",
+        "nom": "Jaro plombier chauffagiste",
+        "slug": "jaro-plombier-chauffagiste",
+        "telephone": "06 43 13 69 83",
+        "site_web": "https://jaro-plombier-chauffagiste.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "1892266813519310157",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 33 88 38 30",
+        "site_web": "https://magasins.lapeyre.fr/normandie/manche/lapeyre-cherbourg-73",
+        "adresse": "Du Rond-Point, Rue du Parc d'Activités, 50470 Cherbourg-en-Cotentin",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17129551070215580850",
+        "nom": "Port de Carteret - Bureau du port",
+        "slug": "port-de-carteret-bureau-du-port",
+        "telephone": "02 33 04 70 84",
+        "site_web": "https://ports-manche.com/ports/barneville-carteret",
+        "adresse": "Prom. J. Barbey d'Aurevilly, 50270 Barneville-Carteret",
+        "note": 4.4,
+        "avis": 566,
+        "type": "Port de plaisance"
+      }
+    ]
+  },
+  "barenton": {
+    "artisans": [
+      {
+        "id": "16478049479612044779",
+        "nom": "Menuiseries Pro Home",
+        "slug": "menuiseries-pro-home",
+        "telephone": "02 33 05 48 63",
+        "site_web": "http://www.menuiseriesph.fr/?utm_source=gmb",
+        "adresse": "ZI, 1 Route de Saint Lo, La Détourbe, 50890 Condé-sur-Vire",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "la-hague": {
+    "artisans": [
+      {
+        "id": "5120778516701034608",
+        "nom": "Menuim'Sur",
+        "slug": "menuimsur",
+        "telephone": "02 33 94 02 24",
+        "site_web": null,
+        "adresse": "3 Rue Winston Churchill, 50120 Cherbourg-en-Cotentin",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4241957132791590821",
+        "nom": "SARL Bonnemains stéphane",
+        "slug": "sarl-bonnemains-stephane",
+        "telephone": "02 33 21 12 03",
+        "site_web": "http://www.stephane-bonnemains.com/",
+        "adresse": "2 Rue du Ham. Mouchel, 50440 La Hague",
+        "note": 3.8,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5273103953116055592",
+        "nom": "Miroiterie Vitrerie Menuiserie",
+        "slug": "miroiterie-vitrerie-menuiserie",
+        "telephone": "06 52 68 45 89",
+        "site_web": null,
+        "adresse": "2 Rte És Contes, 50690 La Hague",
+        "note": 5,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "16537398561871761824",
+        "nom": "Artmeta",
+        "slug": "artmeta",
+        "telephone": "02 33 95 13 30",
+        "site_web": "http://www.artmeta.fr/",
+        "adresse": "3 rue des Goubelins, 50440 La Hague",
+        "note": 5,
+        "avis": 255,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "la-barre-de-semilly": {
+    "artisans": [
+      {
+        "id": "5324905512061138797",
+        "nom": "CASÉO Saint Lô",
+        "slug": "caseo-saint-lo",
+        "telephone": "02 33 57 93 04",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saint-lo-saint-lo-129",
+        "adresse": "438 Rue Jules Vallès, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1555184032688133750",
+        "nom": "Miroiterie du Mont Saint-Michel",
+        "slug": "miroiterie-du-mont-saint-michel",
+        "telephone": "02 33 57 93 04",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/installateur-menuiseries-platrerie-isolation-a-saint-lo-50/",
+        "adresse": "438 Rue Jules Vallès, 50000 Saint-Lô",
+        "note": 1,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13071771417461016633",
+        "nom": "Meslin",
+        "slug": "meslin",
+        "telephone": "02 33 56 16 27",
+        "site_web": "http://www.meslin-batiment.com/?utm_source=gmb",
+        "adresse": "20 La Crue, 50810 Saint-Jean-d'Elle",
+        "note": 4.9,
+        "avis": 36,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "brix": {
+    "artisans": [
+      {
+        "id": "1056212907519954915",
+        "nom": "Olivier Brix Menuiserie",
+        "slug": "olivier-brix-menuiserie",
+        "telephone": "06 59 58 88 78",
+        "site_web": "http://www.menuiserie-ebenisterie-manche.com/",
+        "adresse": "2 Rue du Vieux Presbytère, 50630 Quettehou",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2354841113437187250",
+        "nom": "Metal Home Concept",
+        "slug": "metal-home-concept",
+        "telephone": "06 33 36 68 68",
+        "site_web": "http://www.metalhomeconcept.fr/",
+        "adresse": "5 Rte Pierre de Belleville, 50700 Brix",
+        "note": 5,
+        "avis": 12,
+        "type": null
+      },
+      {
+        "id": "9381405569122042388",
+        "nom": "Menuiseries Presqu'île Décor",
+        "slug": "menuiseries-presquile-decor",
+        "telephone": "02 33 40 21 55",
+        "site_web": "http://www.presquiledecor.fr/",
+        "adresse": "15 rue Guillaume du Hommet, PAE Mont a la Kaine, 50700 Brix",
+        "note": 5,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8102428530071687401",
+        "nom": "Atelier vélos Cap Cotentin (Technicentre)",
+        "slug": "atelier-velos-cap-cotentin-technicentre",
+        "telephone": "06 61 95 58 90",
+        "site_web": "https://www.capcotentin.fr/velo/",
+        "adresse": "130 Rue des Ajoncs, 50110 Cherbourg-en-Cotentin",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Service de location de vélo"
+      },
+      {
+        "id": "8647460769139300126",
+        "nom": "Colein Sylvain SASU",
+        "slug": "colein-sylvain-sasu",
+        "telephone": "06 30 12 48 35",
+        "site_web": "http://www.sylvaincolein-sasu.com/",
+        "adresse": "559 Rue de la Tourelle, 50110 Cherbourg-en-Cotentin",
+        "note": 4.2,
+        "avis": 16,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "blainville-sur-mer": {
+    "artisans": [
+      {
+        "id": "441911143389161447",
+        "nom": "Danton Charton",
+        "slug": "danton-charton",
+        "telephone": "02 33 45 70 78",
+        "site_web": "http://www.choquenet-construction.fr/",
+        "adresse": "Rte des Landelles, 50560 Blainville-sur-Mer",
+        "note": 3,
+        "avis": 4,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "jullouville": {
+    "artisans": [
+      {
+        "id": "4320083757058169092",
+        "nom": "Monsieur Store Granville - Stores - Pergolas - Alexis ETS",
+        "slug": "monsieur-store-granville-stores-pergolas-alexis-ets",
+        "telephone": "02 33 90 78 60",
+        "site_web": "https://monsieurstore.com/magasin/granville-50380/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "za de la lande de pucy, 64 Rue Marie Curie, 50380 Saint-Pair-sur-Mer",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "brehal": {
+    "artisans": [
+      {
+        "id": "6018201175329350056",
+        "nom": "Asc Robine- Porte Fenêtre Véranda Manche 50",
+        "slug": "asc-robine-porte-fenetre-veranda-manche-50",
+        "telephone": "02 33 61 61 27",
+        "site_web": "http://www.ascrobine.com/",
+        "adresse": "550 route St Martin, La Fontenelle, 50290 Bréhal",
+        "note": 3.6,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15722929965170792589",
+        "nom": "Izabelle Batiment",
+        "slug": "izabelle-batiment",
+        "telephone": "02 33 70 98 16",
+        "site_web": "https://www.izabelle-batiment.com/",
+        "adresse": "3 Rue du Clos des Mares, 50290 Bréhal",
+        "note": 4.5,
+        "avis": 25,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10011880019387104384",
+        "nom": "Menuiserie Quesnel - D",
+        "slug": "menuiserie-quesnel-d",
+        "telephone": "06 88 46 39 81",
+        "site_web": null,
+        "adresse": "30 Chem. de la Clairette, 50290 Bréhal",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7800265874244713135",
+        "nom": "Bois et Moi - Granville Bréhal",
+        "slug": "bois-et-moi-granville-brehal",
+        "telephone": "07 87 81 27 09",
+        "site_web": "https://boisetmoi50.fr/",
+        "adresse": "9 bis rue de l'artisanat, 50290 Bréhal",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bretteville": {
+    "artisans": [
+      {
+        "id": "9328580384313080555",
+        "nom": "DRD Menuiserie - L'Expert Fenêtre",
+        "slug": "drd-menuiserie-lexpert-fenetre",
+        "telephone": "02 31 73 30 60",
+        "site_web": "http://www.drdmenuiserie.fr/",
+        "adresse": "ZA des Forques, 4 Rue du Long Douet, 14760 Bretteville-sur-Odon",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tourneville-sur-mer": {
+    "artisans": [
+      {
+        "id": "723975951667537664",
+        "nom": "Tourneville",
+        "slug": "tourneville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "50660 Tourneville-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "500059077842816255",
+        "nom": "MON REPARATEUR VOLETS ROULANTS",
+        "slug": "mon-reparateur-volets-roulants",
+        "telephone": "06 08 53 97 69",
+        "site_web": "http://monreparateurvoletsroulants.fr/",
+        "adresse": "9 Clos St Gatien, 50660 Quettreville-sur-Sienne",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "canisy": {
+    "artisans": [
+      {
+        "id": "1588734901375676728",
+        "nom": "Ozen Menuiserie",
+        "slug": "ozen-menuiserie",
+        "telephone": "02 33 45 05 23",
+        "site_web": "https://www.ozen-menuiserie.com/",
+        "adresse": "18 Rue Maréchal Leclerc, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2941969115919683281",
+        "nom": "Entreprise François",
+        "slug": "entreprise-francois",
+        "telephone": "02 50 61 00 36",
+        "site_web": "http://www.atelierfrancois.fr/",
+        "adresse": "22 zone artisanale de Canisy, 50750 Canisy",
+        "note": 5,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11914669473298665365",
+        "nom": "S-GATE AUTOMATION",
+        "slug": "s-gate-automation",
+        "telephone": "09 74 56 33 68",
+        "site_web": "http://sgate.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "4 le Hardichon, 50750 Canisy",
+        "note": 5,
+        "avis": 20,
+        "type": "Entreprise de domotique"
+      },
+      {
+        "id": "1501861742418248209",
+        "nom": "La Menuise d'Antoine",
+        "slug": "la-menuise-dantoine",
+        "telephone": "06 85 28 34 83",
+        "site_web": "https://lamenuisedantoine.fr/",
+        "adresse": "50750 Bourgvallées",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "450196043857952854",
+        "nom": "Chapuzet Guy SA",
+        "slug": "chapuzet-guy-sa",
+        "telephone": "02 31 68 05 21",
+        "site_web": "http://www.chapuzet.com/",
+        "adresse": "Les Heudinières, 50420 Saint-Vigor-des-Monts",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2789600220617407610",
+        "nom": "Ebénisterie Menuiserie Christophes",
+        "slug": "ebenisterie-menuiserie-christophes",
+        "telephone": "02 33 55 56 76",
+        "site_web": "https://menuiserie-christophes-saintlo.fr/",
+        "adresse": "42 Rue Louis Armand, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cerences": {
+    "artisans": [
+      {
+        "id": "14340690798181248094",
+        "nom": "Menuiserie Du Centre Manche",
+        "slug": "menuiserie-du-centre-manche",
+        "telephone": "02 33 50 49 43",
+        "site_web": null,
+        "adresse": "Le Village au Couppey, 50510 Cérences",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montsenelle": {
+    "artisans": [
+      {
+        "id": "12298179549395516209",
+        "nom": "Renov' Habitat SOLABAIE - Portes, fenêtres, volets, portails, portes de garage, pergolas, stores, ITE, bardages et isolations",
+        "slug": "renov-habitat-solabaie-portes-fenetres-volets-portails-portes-de-garage-pergolas-stores-ite-bardages-et-isolations",
+        "telephone": "02 33 45 60 51",
+        "site_web": "http://www.renovhabitat50.com/",
+        "adresse": "du carrousel, LA FR, 1 ZA, 50250 La Haye",
+        "note": 4.9,
+        "avis": 75,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "carentan-les-marais": {
+    "artisans": [
+      {
+        "id": "233621686516328731",
+        "nom": "Bati-fenetres",
+        "slug": "bati-fenetres",
+        "telephone": "02 33 42 23 82",
+        "site_web": "https://www.bati-fenetres.fr/",
+        "adresse": "20 Rte de Saint-Come, 50500 Carentan-les-Marais",
+        "note": 4.4,
+        "avis": 39,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "9081592068586981652",
+        "nom": "ANGER Portes Intérieures",
+        "slug": "anger-portes-interieures",
+        "telephone": "02 33 42 33 13",
+        "site_web": "https://nsa-menuiserie.fr/",
+        "adresse": "ZI Le Mont, 1A La Chasse Ceinture, 50500 Carentan-les-Marais",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9139733409891072365",
+        "nom": "Serrurerie Carentan",
+        "slug": "serrurerie-carentan",
+        "telephone": "02 31 22 38 71",
+        "site_web": "https://www.serrurier-carentan.com/?utm_source=gmb",
+        "adresse": "14 Rue Torteron, 50500 Carentan-les-Marais",
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "cerisy-la-foret": {
+    "artisans": [
+      {
+        "id": "1723296866708734819",
+        "nom": "Cerisy-la-Forêt",
+        "slug": "cerisy-la-foret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cerisy-la-Forêt",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "les-loges-marchis": {
+    "artisans": [
+      {
+        "id": "4125637315176496336",
+        "nom": "Sarl Silande",
+        "slug": "sarl-silande",
+        "telephone": "02 33 49 02 66",
+        "site_web": "http://www.charpente-couverture-silande.com/",
+        "adresse": "24 Imp. du Grand Chemin, 50600 Les Loges-Marchis",
+        "note": 4,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4909693104971144470",
+        "nom": "Menuiserie Chaumont",
+        "slug": "menuiserie-chaumont",
+        "telephone": "09 62 10 08 32",
+        "site_web": null,
+        "adresse": "15 Le Taillis, 50600 Les Loges-Marchis",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3602114241013124609",
+        "nom": "Amgis Confort Et Energies",
+        "slug": "amgis-confort-et-energies",
+        "telephone": "02 33 79 35 35",
+        "site_web": "https://www.amgis-ce.fr/",
+        "adresse": "2711 Rte de Fougères, 50600 Les Loges-Marchis",
+        "note": 3.4,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "10159616188029907928",
+        "nom": "SARL HH",
+        "slug": "sarl-hh",
+        "telephone": "07 72 38 65 77",
+        "site_web": "https://sarl-hh.com/",
+        "adresse": "1 La Hantraye, 50600 Les Loges-Marchis",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4283676440223575872",
+        "nom": "Gohin Alain",
+        "slug": "gohin-alain",
+        "telephone": "02 33 49 27 25",
+        "site_web": null,
+        "adresse": "13 La Simonnais, 50600 Les Loges-Marchis",
+        "note": 4,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11605304509594955924",
+        "nom": "Chaumont Philippe",
+        "slug": "chaumont-philippe",
+        "telephone": "02 33 49 20 26",
+        "site_web": null,
+        "adresse": "15 Le Taillis, 50600 Les Loges-Marchis",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13044403917641669098",
+        "nom": "Pichot Daniel",
+        "slug": "pichot-daniel",
+        "telephone": "02 33 49 67 37",
+        "site_web": null,
+        "adresse": "La Mesleraie, 50600 Les Loges-Marchis",
+        "note": 3,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pont-hebert": {
+    "artisans": [
+      {
+        "id": "721463576524570150",
+        "nom": "Dominique BREARD SERVICES",
+        "slug": "dominique-breard-services",
+        "telephone": "06 42 17 05 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "15337422490544835901",
+        "nom": "DN Rem'aides Ouvertures",
+        "slug": "dn-remaides-ouvertures",
+        "telephone": "06 45 96 24 98",
+        "site_web": "https://dn-remaides-ouvertures.com/",
+        "adresse": "11 Rue de la Libération, 50880 Pont-Hébert",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "881238636690927027",
+        "nom": "Moncé Gilbert",
+        "slug": "monce-gilbert",
+        "telephone": "02 33 55 50 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6179618919565248388",
+        "nom": "Société IDM",
+        "slug": "societe-idm",
+        "telephone": "02 33 42 27 06",
+        "site_web": "https://www.electromenager-manche.fr/",
+        "adresse": "518 Rue Saint-Pierre, 50620 Pont-Hébert",
+        "note": 5,
+        "avis": 91,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "villedieu-les-poeles-rouffigny": {
+    "artisans": [
+      {
+        "id": "8399078972022618651",
+        "nom": "KOMILFO ISO50 à Coutances - Pergolas, Stores, Fenêtres, Menuiseries, Portails",
+        "slug": "komilfo-iso50-a-coutances-pergolas-stores-fenetres-menuiseries-portails",
+        "telephone": "02 33 47 23 49",
+        "site_web": "https://www.komilfo.fr/magasins/iso-50-coutances-50",
+        "adresse": "2 Rue de l'Ecauderie, 50200 Coutances",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5779867409567736811",
+        "nom": "Komilfo TL Production à Granville - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-tl-production-a-granville-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 33 90 68 97",
+        "site_web": "https://www.komilfo.fr/magasins/tl-production-granville-50?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "531 Rte de Villedieu, 50400 Saint-Planchers",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14937856771491299214",
+        "nom": "Côté Pose Fenêtres Pvc, bois, aluminium, porte d'entrée, volets, Store, Portail, Pergola à Saint-Lô 50",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volets-store-portail-pergola-a-saint-lo-50",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "330 Rue Valvire, 50000 Saint-Lô",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16478049479612044779",
+        "nom": "Menuiseries Pro Home",
+        "slug": "menuiseries-pro-home",
+        "telephone": "02 33 05 48 63",
+        "site_web": "http://www.menuiseriesph.fr/?utm_source=gmb",
+        "adresse": "ZI, 1 Route de Saint Lo, La Détourbe, 50890 Condé-sur-Vire",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5066381500874709914",
+        "nom": "Sarl MPE Menuiserie (fournisseur de portes, fenêtres, volets, stores, pergola, portails...)",
+        "slug": "sarl-mpe-menuiserie-fournisseur-de-portes-fenetres-volets-stores-pergola-portails",
+        "telephone": "06 66 54 69 72",
+        "site_web": "https://sites.google.com/view/sarl-mpe/accueil?authuser=0",
+        "adresse": "2 impasse de bouval, 50220 Juilley",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4111601397472753474",
+        "nom": "CASÉO Avranches",
+        "slug": "caseo-avranches",
+        "telephone": "02 33 58 72 53",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-avranches-poilley-65",
+        "adresse": "Z.A de l'Estuaire, 21 Av. de la Pierre Vallée, 50220 Poilley",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5910297941117205817",
+        "nom": "Fenêtres et pergolas, Logikinov",
+        "slug": "fenetres-et-pergolas-logikinov",
+        "telephone": "02 33 25 56 82",
+        "site_web": "https://www.logikinov.com/",
+        "adresse": "133 Rue Maréchal de Lattre de Tassigny, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 186,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12298179549395516209",
+        "nom": "Renov' Habitat SOLABAIE - Portes, fenêtres, volets, portails, portes de garage, pergolas, stores, ITE, bardages et isolations",
+        "slug": "renov-habitat-solabaie-portes-fenetres-volets-portails-portes-de-garage-pergolas-stores-ite-bardages-et-isolations",
+        "telephone": "02 33 45 60 51",
+        "site_web": "http://www.renovhabitat50.com/",
+        "adresse": "du carrousel, LA FR, 1 ZA, 50250 La Haye",
+        "note": 4.9,
+        "avis": 75,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8665690781940410323",
+        "nom": "Inoker Menuiserie",
+        "slug": "inoker-menuiserie",
+        "telephone": "06 87 09 50 90",
+        "site_web": "https://www.inoker.fr/",
+        "adresse": "72 Rue Couesnon, 50170 Pontorson",
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8606957681856211103",
+        "nom": "Belletoile Frères",
+        "slug": "belletoile-freres",
+        "telephone": "02 33 58 64 74",
+        "site_web": "https://www.belletoile-freres.fr/",
+        "adresse": "94 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "quettreville-sur-sienne": {
+    "artisans": [
+      {
+        "id": "7165336662549137254",
+        "nom": "Socodime à Coutances - Fabricant installateur Portails, Vérandas, Carports, Fenêtres, Pergolas.",
+        "slug": "socodime-a-coutances-fabricant-installateur-portails-verandas-carports-fenetres-pergolas",
+        "telephone": "02 33 07 57 58",
+        "site_web": "http://www.socodime.com/",
+        "adresse": "1459 Rue de la Montchatonnière, 50200 Tourville-sur-Sienne",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16800467862442269770",
+        "nom": "Horlon Sébastien",
+        "slug": "horlon-sebastien",
+        "telephone": "02 33 17 26 40",
+        "site_web": "http://www.sebastien-horlon.fr/",
+        "adresse": "4 Impasse des Presmesnils, 50660 Quettreville-sur-Sienne",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "11409137764609041272",
+        "nom": "Immserv",
+        "slug": "immserv",
+        "telephone": "06 58 21 12 71",
+        "site_web": null,
+        "adresse": "5 La Hérisserie, 50210 Quettreville-sur-Sienne",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "7061112300579165904",
+        "nom": "LD Decor",
+        "slug": "ld-decor",
+        "telephone": "06 78 33 79 44",
+        "site_web": "http://www.ld-decor.com/?utm_source=gmb",
+        "adresse": "63 D Rue du Mont Saint-Michel, 50660 Quettreville-sur-Sienne",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Décorateur d'intérieur"
+      },
+      {
+        "id": "6614349036521630927",
+        "nom": "Vigot-Letemplier",
+        "slug": "vigot-letemplier",
+        "telephone": "02 33 47 62 77",
+        "site_web": "https://www.plombier-vigot-letemplier.fr/",
+        "adresse": "5 Le Bourg, 50660 Quettreville-sur-Sienne",
+        "note": 4.7,
+        "avis": 33,
+        "type": "Plombier"
+      },
+      {
+        "id": "14957691808812315973",
+        "nom": "Baie Pro",
+        "slug": "baie-pro",
+        "telephone": "02 33 07 29 29",
+        "site_web": "https://www.baie-pro.fr/",
+        "adresse": "4A Rue du Clos, 50590 Montmartin-sur-Mer",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "port-bail-sur-mer": {
+    "artisans": [
+      {
+        "id": "8588293867286807374",
+        "nom": "Port de Port-Bail-sur-Mer",
+        "slug": "port-de-port-bail-sur-mer",
+        "telephone": "02 33 04 83 48",
+        "site_web": "https://ports-manche.com/ports/port-bail",
+        "adresse": "La Caillourie, 50580 Portbail",
+        "note": 4.5,
+        "avis": 579,
+        "type": "Port de plaisance"
+      },
+      {
+        "id": "7790267097869812782",
+        "nom": "PC Rénovation EURL",
+        "slug": "pc-renovation-eurl",
+        "telephone": "02 33 47 32 36",
+        "site_web": "http://www.pcrenovation.fr/",
+        "adresse": "11 Pl. Edmond Laquaine, 50580 Port-Bail-sur-Mer",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14818414269052043514",
+        "nom": "Menuiseries du Cotentin MDC",
+        "slug": "menuiseries-du-cotentin-mdc",
+        "telephone": "02 33 03 40 70",
+        "site_web": "http://www.menuiseriesducotentin.fr/",
+        "adresse": "2 Rue du Colonel Charles Bowler King, 50580 Port-Bail-sur-Mer",
+        "note": 4,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rauville-la-bigot": {
+    "artisans": [
+      {
+        "id": "291630376679992640",
+        "nom": "Rauville-la-Bigot",
+        "slug": "rauville-la-bigot",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "50260 Rauville-la-Bigot",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "pontorson": {
+    "artisans": [
+      {
+        "id": "231675912121083992",
+        "nom": "Atelier Menuiserie Services / serrurerie",
+        "slug": "atelier-menuiserie-services-serrurerie",
+        "telephone": "06 77 18 42 06",
+        "site_web": "https://ateliermenuiserieservices.com/",
+        "adresse": "11 La Chapelle, 35610 Pleine-Fougères",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16467648470541085280",
+        "nom": "B'PLAST AVRANCHES",
+        "slug": "bplast-avranches",
+        "telephone": "02 33 79 49 79",
+        "site_web": "https://www.bplast.fr/agence/bplast-avranche/?utm_source=gmb",
+        "adresse": "3 Rue nationale, 50300 Avranches",
+        "note": 4.3,
+        "avis": 64,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5817344376988492574",
+        "nom": "SARL Costard",
+        "slug": "sarl-costard",
+        "telephone": "02 33 60 17 85",
+        "site_web": "https://www.entreprisecostard.fr/",
+        "adresse": "5 Rue des Colverts, 50170 Pontorson",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12468196707164786855",
+        "nom": "Menuiserie Videloup Gilles - Expert Conseil Fenetrea",
+        "slug": "menuiserie-videloup-gilles-expert-conseil-fenetrea",
+        "telephone": "02 99 48 51 54",
+        "site_web": "http://www.menuiserie-gilles-videloup.com/",
+        "adresse": "Zone d' activité, Le Point du Jour, 35610 Saint-Georges-de-Gréhaigne",
+        "note": 4.6,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16102097792716960313",
+        "nom": "Portéa",
+        "slug": "portea",
+        "telephone": "02 33 89 02 50",
+        "site_web": "https://www.facebook.com/110119125048863?utm_source=gmb",
+        "adresse": "18 Rte des 4 Vents, 50220 Pontaubault",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "13278046981468100373",
+        "nom": "THIERR'y POSE",
+        "slug": "thierry-pose",
+        "telephone": "06 37 98 84 79",
+        "site_web": "https://www.thierrypose.fr/",
+        "adresse": "2 Rue du Moulin À Vent, 35610 Pleine-Fougères",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16878631378613941808",
+        "nom": "Sidetech",
+        "slug": "sidetech",
+        "telephone": "02 33 60 52 20",
+        "site_web": "http://www.sidetech.net/",
+        "adresse": "78 Rue Couesnon, 50170 Pontorson",
+        "note": 4.8,
+        "avis": 96,
+        "type": "Service de réparation d'ordinateurs"
+      }
+    ]
+  },
+  "quettehou": {
+    "artisans": [
+      {
+        "id": "12980338841911181060",
+        "nom": "Mr.Bricolage Quettehou",
+        "slug": "mrbricolage-quettehou",
+        "telephone": "02 33 54 11 03",
+        "site_web": "https://magasin.mr-bricolage.fr/190-mr-bricolage-quettehou?utm_source=gmb",
+        "adresse": "15 Rue du Val de Saire, 50630 Quettehou",
+        "note": 3.9,
+        "avis": 111,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "9179604835437707325",
+        "nom": "B'Plast",
+        "slug": "bplast",
+        "telephone": "02 33 22 48 20",
+        "site_web": "https://www.bplast.fr/agence/bplast-cherbourg/?utm_source=gmb",
+        "adresse": "175 Rue des Métiers, 50110 Cherbourg-en-Cotentin",
+        "note": 3.8,
+        "avis": 75,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1056212907519954915",
+        "nom": "Olivier Brix Menuiserie",
+        "slug": "olivier-brix-menuiserie",
+        "telephone": "06 59 58 88 78",
+        "site_web": "http://www.menuiserie-ebenisterie-manche.com/",
+        "adresse": "2 Rue du Vieux Presbytère, 50630 Quettehou",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "7603391160876422042",
+        "nom": "Vincent Couverture",
+        "slug": "vincent-couverture",
+        "telephone": "02 33 92 16 53",
+        "site_web": "https://www.vincent-couverture.fr/",
+        "adresse": "21 Rue du Stade, 50630 Quettehou",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1394204631868522419",
+        "nom": "Gourbesville Maurice",
+        "slug": "gourbesville-maurice",
+        "telephone": "02 33 44 15 07",
+        "site_web": null,
+        "adresse": "9 Rue du Val de Saire, 50630 Quettehou",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13976976926928266880",
+        "nom": "Gourbesville Alain SARL",
+        "slug": "gourbesville-alain-sarl",
+        "telephone": "02 33 44 31 21",
+        "site_web": null,
+        "adresse": "25 Rue Sainte-Marie, 50630 Quettehou",
+        "note": 4,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11095846093627480898",
+        "nom": "LaMaison.fr",
+        "slug": "lamaisonfr",
+        "telephone": "02 33 88 65 50",
+        "site_web": "https://www.lamaison.fr/stores/quettehou-lamaison-fr?utm_campaign=googlebusinessprofile&utm_medium=local&utm_source=google&utm_content=site+web",
+        "adresse": "Rte de Barfleur, 50630 Quettehou",
+        "note": 4.4,
+        "avis": 87,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "pirou": {
+    "artisans": [
+      {
+        "id": "11138678440787193150",
+        "nom": "Lemoucheux (SARL)",
+        "slug": "lemoucheux-sarl",
+        "telephone": "09 63 53 51 97",
+        "site_web": null,
+        "adresse": "42 Rte de la ZI, 50430 Lessay",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "romagny-fontenay": {
+    "artisans": [
+      {
+        "id": "1621032965137329671",
+        "nom": "Menuiserie Pinson",
+        "slug": "menuiserie-pinson",
+        "telephone": "02 33 59 25 84",
+        "site_web": "http://www.menuiseriepinson.fr/",
+        "adresse": "Lefantais, 50140 Romagny Fontenay",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-hilaire-du-harcouet": {
+    "artisans": [
+      {
+        "id": "15152470048323213581",
+        "nom": "Menuiserie CROCHET - SOLABAIE St Hilaire du H.",
+        "slug": "menuiserie-crochet-solabaie-st-hilaire-du-h",
+        "telephone": "02 33 49 01 86",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/manche/saint-hilaire-du-harcouet/menuiserie-crochet-232/",
+        "adresse": "21 Pl. Delaporte, 50600 Saint-Hilaire-du-Harcouët",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6732348164246211272",
+        "nom": "FP Menuiserie",
+        "slug": "fp-menuiserie",
+        "telephone": "06 22 78 24 70",
+        "site_web": null,
+        "adresse": "221 Rue de Paris, 50600 Saint-Hilaire-du-Harcouët",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7381218468023057752",
+        "nom": "Menuiserie Corvee",
+        "slug": "menuiserie-corvee",
+        "telephone": "02 33 69 08 55",
+        "site_web": "https://www.menuiserie-corvee.com/",
+        "adresse": "1 Rue de Mortain, 50600 Saint-Hilaire-du-Harcouët",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "remilly-les-marais": {
+    "artisans": [
+      {
+        "id": "132235155669421789",
+        "nom": "Remilly Les Marais",
+        "slug": "remilly-les-marais",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Remilly Les Marais",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "reville": {
+    "artisans": [
+      {
+        "id": "3692411971890994442",
+        "nom": "Ruel Gilles",
+        "slug": "ruel-gilles",
+        "telephone": "02 33 54 31 45",
+        "site_web": null,
+        "adresse": "Chem. du Prieuré, 50760 Réville",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-jean-d-elle": {
+    "artisans": [
+      {
+        "id": "15014911758595402617",
+        "nom": "Eurl Lalouelle Aurelien menuiserie (Al menuiserie)",
+        "slug": "eurl-lalouelle-aurelien-menuiserie-al-menuiserie",
+        "telephone": "06 71 46 55 28",
+        "site_web": null,
+        "adresse": "9 La Boulaye, 50680 Saint-André-de-l'Épine",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1555184032688133750",
+        "nom": "Miroiterie du Mont Saint-Michel",
+        "slug": "miroiterie-du-mont-saint-michel",
+        "telephone": "02 33 57 93 04",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/installateur-menuiseries-platrerie-isolation-a-saint-lo-50/",
+        "adresse": "438 Rue Jules Vallès, 50000 Saint-Lô",
+        "note": 1,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5324905512061138797",
+        "nom": "CASÉO Saint Lô",
+        "slug": "caseo-saint-lo",
+        "telephone": "02 33 57 93 04",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saint-lo-saint-lo-129",
+        "adresse": "438 Rue Jules Vallès, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15005969425670619512",
+        "nom": "OTHON Menuiserie",
+        "slug": "othon-menuiserie",
+        "telephone": "06 98 39 19 25",
+        "site_web": "https://www.facebook.com/Othon.Menuiserie?mibextid=LQQJ4d",
+        "adresse": "10 ter la couture de haut rouxeville, 50810 Saint-Jean-d'Elle",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13071771417461016633",
+        "nom": "Meslin",
+        "slug": "meslin",
+        "telephone": "02 33 56 16 27",
+        "site_web": "http://www.meslin-batiment.com/?utm_source=gmb",
+        "adresse": "20 La Crue, 50810 Saint-Jean-d'Elle",
+        "note": 4.9,
+        "avis": 36,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4067175847848776000",
+        "nom": "LC FERMETURES AUTOMATIQUES - LCFA",
+        "slug": "lc-fermetures-automatiques-lcfa",
+        "telephone": "02 33 05 15 57",
+        "site_web": "https://lcfa.fr/",
+        "adresse": "305 Rue Henri Claudel, 50000 Saint-Lô",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "233621686516328731",
+        "nom": "Bati-fenetres",
+        "slug": "bati-fenetres",
+        "telephone": "02 33 42 23 82",
+        "site_web": "https://www.bati-fenetres.fr/",
+        "adresse": "20 Rte de Saint-Come, 50500 Carentan-les-Marais",
+        "note": 4.4,
+        "avis": 39,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "528220469656967044",
+        "nom": "Laporte",
+        "slug": "laporte",
+        "telephone": "06 10 58 69 62",
+        "site_web": "http://www.couverture-laporte.fr/",
+        "adresse": "5 la Grouardiere, 50810 Saint-Jean-d'Elle",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3629825381519815551",
+        "nom": "SARL LEBAILLIF HABITAT",
+        "slug": "sarl-lebaillif-habitat",
+        "telephone": "06 84 12 16 65",
+        "site_web": "http://michel-lebaillif.fr/",
+        "adresse": "1 Rte de Villeneuve, 50890 Condé-sur-Vire",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "7441381524380392031",
+        "nom": "Serrurerie Saint Loise",
+        "slug": "serrurerie-saint-loise",
+        "telephone": "02 33 05 65 47",
+        "site_web": "https://www.serrurerie-saintlo.fr/?utm_source=gmb",
+        "adresse": "280 Av. de Paris, 50000 Saint-Lô",
+        "note": 4.3,
+        "avis": 39,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "saint-amand-villages": {
+    "artisans": [
+      {
+        "id": "873610896194074036",
+        "nom": "BLAVAIT Menuiseries Guilberville",
+        "slug": "blavait-menuiseries-guilberville",
+        "telephone": "02 33 56 33 29",
+        "site_web": "https://www.blavait.fr/",
+        "adresse": "5 parc d'activité, 50160 Torigny-les-Villes",
+        "note": 4.9,
+        "avis": 56,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17565855673377594852",
+        "nom": "LG Menuiserie",
+        "slug": "lg-menuiserie",
+        "telephone": "06 62 32 50 01",
+        "site_web": "http://www.facebook.com/lg.menuiserie.torigny.les.villes?utm_source=gmb",
+        "adresse": "6 Les Montagnes, 50160 Torigny-les-Villes",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12448959887335187147",
+        "nom": "Asselin Père Et Fils",
+        "slug": "asselin-pere-et-fils",
+        "telephone": "02 33 56 71 32",
+        "site_web": "http://www.menuiserie-asselin.fr/?utm_source=gmb",
+        "adresse": "38 Rte de Caen, 50160 Saint-Amand-Villages",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9987071504388247044",
+        "nom": "Menuiserie Sylvain JEANNE",
+        "slug": "menuiserie-sylvain-jeanne",
+        "telephone": "06 89 33 14 97",
+        "site_web": "http://menuiseriesylvainjeanne.jimdo.com/",
+        "adresse": "14 Rue du Val, 50160 Saint-Amand-Villages",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-james": {
+    "artisans": [
+      {
+        "id": "8866010102784048153",
+        "nom": "Sas Menuiserie Crochet Solabaie",
+        "slug": "sas-menuiserie-crochet-solabaie",
+        "telephone": "02 33 51 76 50",
+        "site_web": null,
+        "adresse": "Croix Vincent, 50240 Saint-James",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14593671076007073015",
+        "nom": "Menuiserie HAMEL",
+        "slug": "menuiserie-hamel",
+        "telephone": "02 33 48 30 30",
+        "site_web": null,
+        "adresse": "La Croix Vincent, Rue des artisans Z.A, 50240 Saint-James",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-pieux": {
+    "artisans": [
+      {
+        "id": "14455674823470815018",
+        "nom": "Performances Menuiseries Sébastien HAMEL",
+        "slug": "performances-menuiseries-sebastien-hamel",
+        "telephone": "02 33 95 21 13",
+        "site_web": "http://performancesmenuiseries.fr/",
+        "adresse": "1 VC ZI les Costils, 50340 Les Pieux",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6334413883026645281",
+        "nom": "POINT.P - Les Pieux",
+        "slug": "pointp-les-pieux",
+        "telephone": "02 33 52 41 54",
+        "site_web": "https://www.pointp.fr/infos-agence/les-pieux-point-p-3892",
+        "adresse": "Rte de Cherbourg, 50340 Les Pieux",
+        "note": 4.5,
+        "avis": 58,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4704954613035995849",
+        "nom": "Le Marchand SAS",
+        "slug": "le-marchand-sas",
+        "telephone": "02 33 52 45 52",
+        "site_web": "https://www.lemarchand-sas.com/",
+        "adresse": "Les Fleury, 50340 Benoîtville",
+        "note": 3.6,
+        "avis": 25,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-jean-des-champs": {
+    "artisans": [
+      {
+        "id": "8755853638777650475",
+        "nom": "P2M",
+        "slug": "p2m",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Dôme, 50320 Saint-Jean-des-Champs",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "saint-lo": {
+    "artisans": [
+      {
+        "id": "1588734901375676728",
+        "nom": "Ozen Menuiserie",
+        "slug": "ozen-menuiserie",
+        "telephone": "02 33 45 05 23",
+        "site_web": "https://www.ozen-menuiserie.com/",
+        "adresse": "18 Rue Maréchal Leclerc, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12084988818361363337",
+        "nom": "B'PLAST ST LO",
+        "slug": "bplast-st-lo",
+        "telephone": "02 33 05 16 06",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-lo/?utm_source=gmb",
+        "adresse": "10 Rue des Frères Lumière, 50180 Agneaux",
+        "note": 4.2,
+        "avis": 127,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12084988818361363337",
+        "nom": "B'PLAST ST LO",
+        "slug": "bplast-st-lo",
+        "telephone": "02 33 05 16 06",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-lo/?utm_source=gmb",
+        "adresse": "10 Rue des Frères Lumière, 50180 Agneaux",
+        "note": 4.2,
+        "avis": 127,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sainte-mere-eglise": {
+    "artisans": [
+      {
+        "id": "291630376679991136",
+        "nom": "Sainte-Mère-Église",
+        "slug": "sainte-mere-eglise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "50480 Sainte-Mère-Église",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-pair-sur-mer": {
+    "artisans": [
+      {
+        "id": "4320083757058169092",
+        "nom": "Monsieur Store Granville - Stores - Pergolas - Alexis ETS",
+        "slug": "monsieur-store-granville-stores-pergolas-alexis-ets",
+        "telephone": "02 33 90 78 60",
+        "site_web": "https://monsieurstore.com/magasin/granville-50380/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "za de la lande de pucy, 64 Rue Marie Curie, 50380 Saint-Pair-sur-Mer",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "5779867409567736811",
+        "nom": "Komilfo TL Production à Granville - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-tl-production-a-granville-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 33 90 68 97",
+        "site_web": "https://www.komilfo.fr/magasins/tl-production-granville-50?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "531 Rte de Villedieu, 50400 Saint-Planchers",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11868897525845668607",
+        "nom": "CONCEPT VERANDAS LE MOAL",
+        "slug": "concept-verandas-le-moal",
+        "telephone": "02 33 91 25 26",
+        "site_web": "http://conceptverandaslemoal.fr/",
+        "adresse": "26 Rte de la Nicolière, 50380 Saint-Pair-sur-Mer",
+        "note": 5,
+        "avis": 9,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13074270096430798818",
+        "nom": "THOMAS LEPLUMEY – Menuiserie à Saint-Pair-sur-Mer.",
+        "slug": "thomas-leplumey-menuiserie-a-saint-pair-sur-mer",
+        "telephone": "06 21 74 95 80",
+        "site_web": "https://www.eurlthomasleplumey-menuisier.fr/",
+        "adresse": "84 chemin des nénuphars, 50380 Saint-Pair-sur-Mer",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-planchers": {
+    "artisans": [
+      {
+        "id": "5779867409567736811",
+        "nom": "Komilfo TL Production à Granville - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-tl-production-a-granville-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 33 90 68 97",
+        "site_web": "https://www.komilfo.fr/magasins/tl-production-granville-50?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "531 Rte de Villedieu, 50400 Saint-Planchers",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-quentin-sur-le-homme": {
+    "artisans": [
+      {
+        "id": "2325561610900178291",
+        "nom": "KOMILFO Avranches - Pergolas, Stores, Fenêtres, Menuiseries, Portails",
+        "slug": "komilfo-avranches-pergolas-stores-fenetres-menuiseries-portails",
+        "telephone": "02 61 67 12 23",
+        "site_web": "https://komilfo.fr/",
+        "adresse": "6 ZA de Cromel, 50220 Saint-Quentin-sur-le-Homme",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15769852911840995857",
+        "nom": "ACH Menuiserie SOLABAIE Avranches",
+        "slug": "ach-menuiserie-solabaie-avranches",
+        "telephone": "02 33 60 67 13",
+        "site_web": "http://www.solabaie.fr/entreprise-menuiserie/manche/saint-martin-des-champs/ach-menuiserie-183",
+        "adresse": "24 Av. du Quesnoy, 50300 Avranches",
+        "note": 4.5,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-pierre-eglise": {
+    "artisans": [
+      {
+        "id": "3635708982832346209",
+        "nom": "3M menuiserie - Saint Pierre Église",
+        "slug": "3m-menuiserie-saint-pierre-eglise",
+        "telephone": "06 15 28 40 75",
+        "site_web": "https://www.3m-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3205826015992751817",
+        "nom": "Fleury Nicolas",
+        "slug": "fleury-nicolas",
+        "telephone": "06 72 16 28 68",
+        "site_web": "https://www.fleury-maconnerie.fr/",
+        "adresse": "3 Rue des Castelets, 50330 Saint-Pierre-Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "2292011397153285178",
+        "nom": "Menuiserie Verdière",
+        "slug": "menuiserie-verdiere",
+        "telephone": "02 33 88 04 48",
+        "site_web": null,
+        "adresse": "52 Rue de l'Église, 50330 Saint-Pierre-Église",
+        "note": 4,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "bourgvallees": {
+    "artisans": [
+      {
+        "id": "1501861742418248209",
+        "nom": "La Menuise d'Antoine",
+        "slug": "la-menuise-dantoine",
+        "telephone": "06 85 28 34 83",
+        "site_web": "https://lamenuisedantoine.fr/",
+        "adresse": "50750 Bourgvallées",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "450196043857952854",
+        "nom": "Chapuzet Guy SA",
+        "slug": "chapuzet-guy-sa",
+        "telephone": "02 31 68 05 21",
+        "site_web": "http://www.chapuzet.com/",
+        "adresse": "Les Heudinières, 50420 Saint-Vigor-des-Monts",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18064034123838841571",
+        "nom": "Menuiserie Bottin SARL",
+        "slug": "menuiserie-bottin-sarl",
+        "telephone": "02 33 55 79 64",
+        "site_web": null,
+        "adresse": "14 Rte du Vert Buisson, 50750 Bourgvallées",
+        "note": 3.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6189733378475662788",
+        "nom": "Izabelle Batiment",
+        "slug": "izabelle-batiment",
+        "telephone": "02 33 56 64 37",
+        "site_web": "https://www.izabelle-batiment.com/?utm_source=gmb",
+        "adresse": "2340 Rte de Coutances, 50180 Agneaux",
+        "note": 4.4,
+        "avis": 33,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1438155228700140946",
+        "nom": "IDC",
+        "slug": "idc",
+        "telephone": "02 33 05 02 51",
+        "site_web": "https://idc50.pro/",
+        "adresse": "ZA la Lande, 50750 Bourgvallées",
+        "note": 5,
+        "avis": 8,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "3626318349538812185",
+        "nom": "CML menuiserie",
+        "slug": "cml-menuiserie",
+        "telephone": "06 31 94 61 25",
+        "site_web": null,
+        "adresse": "17 rue de la crespeliere, 50750 Bourgvallées",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14093785249766128957",
+        "nom": "SIETRAM & CO Normandie - ASCENSEURS & ACCESSIBILITÉ",
+        "slug": "sietram-co-normandie-ascenseurs-accessibilite",
+        "telephone": "02 33 55 32 19",
+        "site_web": "http://www.sietram.fr/",
+        "adresse": "3120 Rue de la Vire, 50750 Canisy",
+        "note": 4.9,
+        "avis": 43,
+        "type": "Service de maintenance d'ascenseurs"
+      },
+      {
+        "id": "8033777659005622222",
+        "nom": "ETS Lamour",
+        "slug": "ets-lamour",
+        "telephone": "02 33 57 09 78",
+        "site_web": "http://www.lamour-stlo.com/?utm_source=gmb",
+        "adresse": "545 Rue Léon Jouhaux, 50000 Saint-Lô",
+        "note": 3.9,
+        "avis": 37,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "12454759548920498976",
+        "nom": "MPS BODECOR",
+        "slug": "mps-bodecor",
+        "telephone": "02 33 55 42 42",
+        "site_web": "http://www.mps-bodecor.fr/",
+        "adresse": "228 Rue Jules Vallès, 50000 Saint-Lô",
+        "note": 4.2,
+        "avis": 34,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "13150235864299070236",
+        "nom": "SARL LOUVE",
+        "slug": "sarl-louve",
+        "telephone": "02 33 06 07 79",
+        "site_web": "http://www.louve-bat.fr/",
+        "adresse": "ZA la Lande, 50750 Bourgvallées",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "saint-sauveur-villages": {
+    "artisans": [
+      {
+        "id": "1049997029898246212",
+        "nom": "CYRILLE VILLARD - MENUISERIE - SAINT SAUVEUR VILLAGES",
+        "slug": "cyrille-villard-menuiserie-saint-sauveur-villages",
+        "telephone": "06 79 16 23 48",
+        "site_web": null,
+        "adresse": "18 Route du, 50490 Saint-Sauveur-Villages",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-sauveur-le-vicomte": {
+    "artisans": [
+      {
+        "id": "16093578549269656430",
+        "nom": "Menuiserie Rouxel",
+        "slug": "menuiserie-rouxel",
+        "telephone": "02 33 41 76 73",
+        "site_web": "https://www.facebook.com/profile.php?id=100083075474926&utm_source=gmb",
+        "adresse": "1 Rue de l'Avenir ZA de, 50390 Saint-Sauveur-le-Vicomte",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1315408204874560081",
+        "nom": "MVF Menuiserie Vasselin Frédy",
+        "slug": "mvf-menuiserie-vasselin-fredy",
+        "telephone": "06 29 08 76 95",
+        "site_web": null,
+        "adresse": "35 Ter Rte d'Aureville, 50390 Saint-Sauveur-le-Vicomte",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-senier-sous-avranches": {
+    "artisans": [
+      {
+        "id": "6487973443205449294",
+        "nom": "TRYBA Avranches",
+        "slug": "tryba-avranches",
+        "telephone": "02 21 83 12 74",
+        "site_web": "https://www.tryba.com/espace-conseil/50/tryba-avranches/?utm_campaign=Tryba_Avranches&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "42 Rue de la Constitution, 50300 Avranches",
+        "note": 4.6,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1869399067139684435",
+        "nom": "Grandbains Avranches (Saint-Senier)",
+        "slug": "grandbains-avranches-saint-senier",
+        "telephone": "02 50 61 01 49",
+        "site_web": "https://www.grandbains.fr/magasins/grandbains-avranches-saint-senier",
+        "adresse": "Rue Victor Lemarchand, 50300 Saint-Senier-sous-Avranches",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "6611197742097622629",
+        "nom": "Menuiserie Lecamus",
+        "slug": "menuiserie-lecamus",
+        "telephone": "02 33 48 91 51",
+        "site_web": "http://menuiserielecamus.com/",
+        "adresse": "13 All. de la Baie, 50300 Avranches",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sartilly-baie-bocage": {
+    "artisans": [
+      {
+        "id": "4986556360770527509",
+        "nom": "Platrerie 3d",
+        "slug": "platrerie-3d",
+        "telephone": "02 33 58 89 56",
+        "site_web": "http://platrerie3d.site-solocal.com/?utm_source=gmb",
+        "adresse": "Rte de Carolles, 50530 Sartilly-Baie-Bocage",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "4713194422895605344",
+        "nom": "Les Constructions du Mont Saint Michel",
+        "slug": "les-constructions-du-mont-saint-michel",
+        "telephone": "02 33 58 40 29",
+        "site_web": "https://www.constructions-du-mont.fr/",
+        "adresse": "26 Bd du Luxembourg, 50300 Avranches",
+        "note": 4.2,
+        "avis": 21,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "16529890221283181513",
+        "nom": "L T M P (Ludovic Tassin Menuisier Plaquiste)",
+        "slug": "l-t-m-p-ludovic-tassin-menuisier-plaquiste",
+        "telephone": "06 65 34 46 35",
+        "site_web": null,
+        "adresse": "Baie Bocage FR, Les Hauts Vents, 50530",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16747460979397486825",
+        "nom": "Menuiserie GOUELLE S.A.S.",
+        "slug": "menuiserie-gouelle-sas",
+        "telephone": "02 33 60 90 90",
+        "site_web": "http://www.gouelle.fr/",
+        "adresse": "La Cosnière, 50530 Sartilly-Baie-Bocage",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "302733339795101466",
+        "nom": "Menuiserie Jean-Louis Resbeut SARL",
+        "slug": "menuiserie-jean-louis-resbeut-sarl",
+        "telephone": "02 33 68 13 67",
+        "site_web": "http://www.menuiserie-resbeut.com/",
+        "adresse": "Rte de Carolles, 50530 Sartilly-Baie-Bocage",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4009838177825547600",
+        "nom": "Crespin Françis Sarl",
+        "slug": "crespin-francis-sarl",
+        "telephone": "02 33 48 12 59",
+        "site_web": null,
+        "adresse": "15 La Ferrerie, 50530 Sartilly-Baie-Bocage",
+        "note": 5,
+        "avis": 6,
+        "type": "Maçon"
+      },
+      {
+        "id": "6793328746441336091",
+        "nom": "Gosse Christophe",
+        "slug": "gosse-christophe",
+        "telephone": "02 33 68 13 70",
+        "site_web": null,
+        "adresse": "50530 Sartilly-Baie-Bocage",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "15446329879820599741",
+        "nom": "JEAN PIERRE PERRIGAULT",
+        "slug": "jean-pierre-perrigault",
+        "telephone": "02 33 48 89 85",
+        "site_web": null,
+        "adresse": "La Grattemottière, 50530",
+        "note": 5,
+        "avis": 5,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "8069382216343217858",
+        "nom": "POZZO IMMOBILIER - Agence Immobilière à Sartilly",
+        "slug": "pozzo-immobilier-agence-immobiliere-a-sartilly",
+        "telephone": "02 33 68 68 88",
+        "site_web": "https://www.pozzo-immobilier.fr/nos-agences-immobilieres/sartilly",
+        "adresse": "62 Grande Rue, 50530 Sartilly-Baie-Bocage",
+        "note": 4.6,
+        "avis": 87,
+        "type": "Agence immobilière"
+      },
+      {
+        "id": "61830522620893093",
+        "nom": "Marie Nicolas",
+        "slug": "marie-nicolas",
+        "telephone": "06 73 16 57 56",
+        "site_web": null,
+        "adresse": "20 Rue de la Bulaine, 50530 Dragey-Ronthon",
+        "note": 4,
+        "avis": 8,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "saint-vaast-la-hougue": {
+    "artisans": [
+      {
+        "id": "6673098540834177410",
+        "nom": "Port de Saint-Vaast-la-Hougue",
+        "slug": "port-de-saint-vaast-la-hougue",
+        "telephone": "02 33 23 61 00",
+        "site_web": "https://ports-manche.com/ports/saint-vaast-la-hougue",
+        "adresse": "Bureau du port de Saint-Vaast, 1 Pl. Auguste Contamine, 50550 Saint-Vaast-la-Hougue",
+        "note": 4.5,
+        "avis": 3188,
+        "type": "Port de plaisance"
+      }
+    ]
+  },
+  "terre-et-marais": {
+    "artisans": [
+      {
+        "id": "13046804673864890217",
+        "nom": "NR ENTREPRISE",
+        "slug": "nr-entreprise",
+        "telephone": "02 33 42 62 02",
+        "site_web": "http://nr-entreprise.fr/",
+        "adresse": "9034 Rue d'Isigny, 50500 Carentan-les-Marais",
+        "note": 4.5,
+        "avis": 36,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "9081592068586981652",
+        "nom": "ANGER Portes Intérieures",
+        "slug": "anger-portes-interieures",
+        "telephone": "02 33 42 33 13",
+        "site_web": "https://nsa-menuiserie.fr/",
+        "adresse": "ZI Le Mont, 1A La Chasse Ceinture, 50500 Carentan-les-Marais",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9139733409891072365",
+        "nom": "Serrurerie Carentan",
+        "slug": "serrurerie-carentan",
+        "telephone": "02 31 22 38 71",
+        "site_web": "https://www.serrurier-carentan.com/?utm_source=gmb",
+        "adresse": "14 Rue Torteron, 50500 Carentan-les-Marais",
+        "note": 5,
+        "avis": 5,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12998738285421304505",
+        "nom": "Norauto Carentan",
+        "slug": "norauto-carentan",
+        "telephone": "02 33 42 10 20",
+        "site_web": "https://www.norauto.fr/",
+        "adresse": "Chemin De La Chuque Cc E.Leclerc, 50500 Carentan-les-Marais",
+        "note": 4.1,
+        "avis": 345,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "8754195488371868833",
+        "nom": "ANGER Parquets & Revêtements",
+        "slug": "anger-parquets-revetements",
+        "telephone": "02 33 42 33 13",
+        "site_web": "http://www.nsa-menuiserie.fr/",
+        "adresse": "ZI Le Mont, 1A La Chasse Ceinture, 50500 Carentan-les-Marais",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Magasin de revêtements de sol"
+      },
+      {
+        "id": "8524700860694371183",
+        "nom": "Repar'stores",
+        "slug": "reparstores",
+        "telephone": "06 99 35 63 42",
+        "site_web": "https://www.reparstores.com/intervenants/336-jimmy-theys?utm_source=google&utm_medium=gmb&utm_campaign=bricquebec&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 5,
+        "avis": 28,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "sottevast": {
+    "artisans": [
+      {
+        "id": "12445426697011281355",
+        "nom": "Sarl joseph Lelong et fils",
+        "slug": "sarl-joseph-lelong-et-fils",
+        "telephone": "02 33 41 97 23",
+        "site_web": "https://sarl-lelong.com/",
+        "adresse": "75 Rte de Rauville, 50260 Sottevast",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sourdeval": {
+    "artisans": [
+      {
+        "id": "14928798295725422133",
+        "nom": "MENUISERIE SARL LAL XAVIER MELIS",
+        "slug": "menuiserie-sarl-lal-xavier-melis",
+        "telephone": "06 67 85 00 62",
+        "site_web": "https://qfort.fr/",
+        "adresse": "Le Pont de la Forge, 50150 Sourdeval",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6382334921693137447",
+        "nom": "Seguin Emmanuel",
+        "slug": "seguin-emmanuel",
+        "telephone": "02 33 59 68 41",
+        "site_web": null,
+        "adresse": "La Petite Chesnaie, 50150 Sourdeval",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3388774767313859114",
+        "nom": "BTC",
+        "slug": "btc",
+        "telephone": "06 69 77 96 08",
+        "site_web": null,
+        "adresse": "32 Rue de Mortain, 50150 Sourdeval",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4091676638196860887",
+        "nom": "Agencement de la See",
+        "slug": "agencement-de-la-see",
+        "telephone": "06 81 13 87 87",
+        "site_web": null,
+        "adresse": "50150 Sourdeval",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "surtainville": {
+    "artisans": [
+      {
+        "id": "15919498153359870489",
+        "nom": "Avoine Agencement",
+        "slug": "avoine-agencement",
+        "telephone": "02 33 52 08 43",
+        "site_web": "http://www.avoineagencement.com/",
+        "adresse": "27 Rte de la Carrière, 50340 Pierreville",
+        "note": 4.3,
+        "avis": 31,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5837187488339700802",
+        "nom": "METAL 2000 Cherbourg-en-Cotentin - Saint-Lô - Réparation portes sectionnelles industrielles et rideaux métalliques (50)",
+        "slug": "metal-2000-cherbourg-en-cotentin-saint-lo-reparation-portes-sectionnelles-industrielles-et-rideaux-metalliques-50",
+        "telephone": "02 61 51 06 07",
+        "site_web": "https://www.metal2000.fr/nos-agences/cherbourg-en-cotentin/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "le-teilleul": {
+    "artisans": [
+      {
+        "id": "1991832045978855492",
+        "nom": "LaMaison.fr",
+        "slug": "lamaisonfr",
+        "telephone": "02 33 59 40 89",
+        "site_web": "https://www.lamaison.fr/stores/le-teilleul-lamaison-fr?utm_campaign=googlebusinessprofile&utm_medium=local&utm_source=google&utm_content=site+web",
+        "adresse": "Parc d'activité, 9 L'Hôtel Morton, 50640 Le Teilleul",
+        "note": 4.5,
+        "avis": 54,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "tollevast": {
+    "artisans": [
+      {
+        "id": "1602294195615379128",
+        "nom": "CREA CONFORT",
+        "slug": "crea-confort",
+        "telephone": "02 33 20 54 25",
+        "site_web": "https://www.creaconfort.fr/",
+        "adresse": "48 Les Chênaies, 50470 Tollevast",
+        "note": 4.3,
+        "avis": 125,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "4347595128586849492",
+        "nom": "Leroy Merlin Tollevast - Cherbourg",
+        "slug": "leroy-merlin-tollevast-cherbourg",
+        "telephone": "02 33 92 73 73",
+        "site_web": "https://www.leroymerlin.fr/magasins/tollevast-cherbourg.html",
+        "adresse": "LEROY MERLIN 19, zone d'activité commerciale Claude Chappe, Z.A.C. Claude Chappe, 50470 Tollevast",
+        "note": 4,
+        "avis": 3054,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "4223977858382055339",
+        "nom": "SOS Multi-Dépannages",
+        "slug": "sos-multi-depannages",
+        "telephone": "06 33 24 17 78",
+        "site_web": "https://www.xn--sos-multi-dpannages-lzb.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 68,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13239195001498402421",
+        "nom": "La compagnie des pieuvres",
+        "slug": "la-compagnie-des-pieuvres",
+        "telephone": "06 77 08 26 59",
+        "site_web": "https://www.la-compagnie-des-pieuvres.fr/",
+        "adresse": "ZA les chèvres, 50470 Tollevast",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "9197588935275481232",
+        "nom": "123 Pare-Brise Cherbourg",
+        "slug": "123-pare-brise-cherbourg",
+        "telephone": "02 34 88 20 15",
+        "site_web": "https://www.123parebrise.fr/centre-cherbourg/?mtm_campaign=seo_local&mtm_medium=clic_site&mtm_placement=GMB_Cherbourg&mtm_source=gmb",
+        "adresse": "Rdpt des Marettes, 50470 Cherbourg-en-Cotentin",
+        "note": 4.8,
+        "avis": 622,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "1892266813519310157",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 33 88 38 30",
+        "site_web": "https://magasins.lapeyre.fr/normandie/manche/lapeyre-cherbourg-73",
+        "adresse": "Du Rond-Point, Rue du Parc d'Activités, 50470 Cherbourg-en-Cotentin",
+        "note": 4.1,
+        "avis": 203,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4786474474999963857",
+        "nom": "Norauto Cherbourg",
+        "slug": "norauto-cherbourg",
+        "telephone": "02 33 23 62 20",
+        "site_web": "https://www.norauto.fr/",
+        "adresse": "60A Rue de l'Hippodrome, 50470 Cherbourg-en-Cotentin",
+        "note": 3.6,
+        "avis": 1311,
+        "type": "Atelier de réparation automobile"
+      }
+    ]
+  },
+  "tessy-bocage": {
+    "artisans": [
+      {
+        "id": "9735936280720847370",
+        "nom": "Al multiservices",
+        "slug": "al-multiservices",
+        "telephone": "06 80 78 37 65",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11484654075983754197",
+        "nom": "SARL MATHIEU TANGUY",
+        "slug": "sarl-mathieu-tanguy",
+        "telephone": "06 77 42 74 64",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "teurtheville-hague": {
+    "artisans": [
+      {
+        "id": "14171273776240589879",
+        "nom": "Menuiserie Lemaux",
+        "slug": "menuiserie-lemaux",
+        "telephone": "02 33 04 41 49",
+        "site_web": "http://www.saslemaux.fr/",
+        "adresse": "142 Route de la Croix Georges, Le Pont de Neuville, 50340 Bricquebosq",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5273103953116055592",
+        "nom": "Miroiterie Vitrerie Menuiserie",
+        "slug": "miroiterie-vitrerie-menuiserie",
+        "telephone": "06 52 68 45 89",
+        "site_web": null,
+        "adresse": "2 Rte És Contes, 50690 La Hague",
+        "note": 5,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1766400710315322795",
+        "nom": "ATELIER LETAN BLESTEL",
+        "slug": "atelier-letan-blestel",
+        "telephone": "02 33 44 02 91",
+        "site_web": "http://www.atelierlb.eu/",
+        "adresse": "5 ZA Le Coignet, 50690 Sideville",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "valognes": {
+    "artisans": [
+      {
+        "id": "15250257941696152353",
+        "nom": "Les Stores de Cherbourg",
+        "slug": "les-stores-de-cherbourg",
+        "telephone": "02 33 41 05 64",
+        "site_web": "https://www.stores-cherbourg.fr/",
+        "adresse": "4 Rue Villault Duchesnois, 50700 Valognes",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7476353078189963337",
+        "nom": "SARL Miroiterie du Cotentin",
+        "slug": "sarl-miroiterie-du-cotentin",
+        "telephone": "02 33 95 05 05",
+        "site_web": "https://www.miroiterie-cotentin.com/",
+        "adresse": "3 Rte de la Bretonnerie, 50700 Valognes",
+        "note": 4.7,
+        "avis": 45,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14899137826201790978",
+        "nom": "Lorenove",
+        "slug": "lorenove",
+        "telephone": "02 33 41 05 64",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/valognes?utm_source=gmb",
+        "adresse": "4 Rue Villault Duchesnois, 50700 Valognes",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "494032235622714613",
+        "nom": "Clôtures Du Cotentin",
+        "slug": "clotures-du-cotentin",
+        "telephone": "02 33 21 42 62",
+        "site_web": "https://www.clotures-cotentin.fr/",
+        "adresse": "42 Rte de la Frm (Armanville), 50700 Valognes",
+        "note": 3.5,
+        "avis": 29,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "17532477345027416490",
+        "nom": "Clégam Extension Valognes - Créateur d'extension de maison et de garage sur le Cotentin et Cherbourg",
+        "slug": "clegam-extension-valognes-createur-dextension-de-maison-et-de-garage-sur-le-cotentin-et-cherbourg",
+        "telephone": "02 33 95 02 66",
+        "site_web": "http://www.clegam-extension.fr/",
+        "adresse": "136 La Jacquotterie, 50700 Flottemanville",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "9201462457571748193",
+        "nom": "A5 metal",
+        "slug": "a5-metal",
+        "telephone": "02 33 20 43 50",
+        "site_web": null,
+        "adresse": "64 Av. Jean Monnet, 50700 Valognes",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "10625346943075773598",
+        "nom": "Lamache Serge Sarl",
+        "slug": "lamache-serge-sarl",
+        "telephone": "02 33 95 16 76",
+        "site_web": "http://www.couverture-lamache.fr/",
+        "adresse": "15 Rte Hue de Caligny, 50700 Valognes",
+        "note": 4.9,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8004726190254909939",
+        "nom": "Ouvert Verrou",
+        "slug": "ouvert-verrou",
+        "telephone": "06 32 88 99 30",
+        "site_web": "https://ouvert-verrou.fr/",
+        "adresse": "33 Le Tôt de Haut, 50840 Fermanville",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "16512682148954944966",
+        "nom": "Lorenove Cherbourg",
+        "slug": "lorenove-cherbourg",
+        "telephone": "02 33 41 05 64",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/cherbourg?utm_source=Google&utm_medium=My+Business&utm_campaign=Leads+GMB&utm_id=GMB",
+        "adresse": "478 Rue des Métiers, 50110 Cherbourg-en-Cotentin",
+        "note": 4.5,
+        "avis": 56,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16870541983781431890",
+        "nom": "Métallerie MAARCEL",
+        "slug": "metallerie-maarcel",
+        "telephone": "02 33 08 51 96",
+        "site_web": "https://metallerie-maarcel.fr/",
+        "adresse": "39 Rte de la Bergerie(Armanville), 50700 Valognes",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "moyon-villages": {
+    "artisans": [
+      {
+        "id": "8665171198728551871",
+        "nom": "EURL HERVIEU",
+        "slug": "eurl-hervieu",
+        "telephone": "06 09 73 35 18",
+        "site_web": null,
+        "adresse": "92 ROUTE DE BEHIE, 50860, 50860 Moyon Villages",
+        "note": 5,
+        "avis": 2,
+        "type": "Artisanat"
+      },
+      {
+        "id": "6586764169293316408",
+        "nom": "Beaufils Yannick",
+        "slug": "beaufils-yannick",
+        "telephone": "06 77 83 49 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "le-val-saint-pere": {
+    "artisans": [
+      {
+        "id": "16752451046936099185",
+        "nom": "IXINA Avranches",
+        "slug": "ixina-avranches",
+        "telephone": "02 33 61 37 25",
+        "site_web": "https://www.ixina.fr/trouvez-votre-magasin/magasin-de-cuisine-ixina-avranches?at_campaign=5002_perm&at_channel=gmb&at_identifier=avranches&at_medium=local_organic&utm_campaign=5002_perm&utm_content=avranches&utm_medium=local_organic&utm_source=gmb",
+        "adresse": "49 Rue de la Division Leclerc, 50300 Avranches",
+        "note": 4.8,
+        "avis": 148,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "3004870885862109574",
+        "nom": "SARL DAILLENCOURT",
+        "slug": "sarl-daillencourt",
+        "telephone": "06 11 99 07 04",
+        "site_web": null,
+        "adresse": "La Prte, 50300 Avranches",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "8229651455658506706",
+        "nom": "Profil Plus Avranches-Marcey Les Greves",
+        "slug": "profil-plus-avranches-marcey-les-greves",
+        "telephone": "02 33 58 59 81",
+        "site_web": "https://www.profilplus.fr/agence/320-marcey",
+        "adresse": "124 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4.8,
+        "avis": 126,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "12526391962014063430",
+        "nom": "IDDE",
+        "slug": "idde",
+        "telephone": "06 43 32 17 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "mortain-bocage": {
+    "artisans": [
+      {
+        "id": "1621032965137329671",
+        "nom": "Menuiserie Pinson",
+        "slug": "menuiserie-pinson",
+        "telephone": "02 33 59 25 84",
+        "site_web": "http://www.menuiseriepinson.fr/",
+        "adresse": "Lefantais, 50140 Romagny Fontenay",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "percy-en-normandie": {
+    "artisans": [
+      {
+        "id": "307538961678610958",
+        "nom": "Godard Alain",
+        "slug": "godard-alain",
+        "telephone": "02 33 91 72 13",
+        "site_web": null,
+        "adresse": "Le Hamel aux Cerfs, 50410 Percy-en-Normandie",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "la-meauffe": {
+    "artisans": [
+      {
+        "id": "10187682752057120643",
+        "nom": "Socodime à Saint Lô - Fabricant Installateur Portails, Vérandas, Carports, Fenêtres, Pergolas...",
+        "slug": "socodime-a-saint-lo-fabricant-installateur-portails-verandas-carports-fenetres-pergolas",
+        "telephone": "02 33 07 57 58",
+        "site_web": "http://www.socodime.com/",
+        "adresse": "Les Forges, 50680 Couvains",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montmartin-sur-mer": {
+    "artisans": [
+      {
+        "id": "14957691808812315973",
+        "nom": "Baie Pro",
+        "slug": "baie-pro",
+        "telephone": "02 33 07 29 29",
+        "site_web": "https://www.baie-pro.fr/",
+        "adresse": "4A Rue du Clos, 50590 Montmartin-sur-Mer",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "grandparigny": {
+    "artisans": [
+      {
+        "id": "2875733932676751728",
+        "nom": "Menuiserie Crochet Solabaie",
+        "slug": "menuiserie-crochet-solabaie",
+        "telephone": "02 33 49 01 86",
+        "site_web": null,
+        "adresse": "5 Rte du Pointon, 50600 Grandparigny",
+        "note": 3.8,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "orval-sur-sienne": {
+    "artisans": [
+      {
+        "id": "1847486413962624991",
+        "nom": "BLANCHET FLORENTIN",
+        "slug": "blanchet-florentin",
+        "telephone": "06 15 17 10 88",
+        "site_web": "https://blanchet-florentin.fr/",
+        "adresse": "5 Rue des Fours À Chaux, 50660 Orval sur Sienne",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "periers": {
+    "artisans": [
+      {
+        "id": "7652578606656685541",
+        "nom": "EIRL YOHANN ANGOT",
+        "slug": "eirl-yohann-angot",
+        "telephone": "02 33 45 61 90",
+        "site_web": "https://www.yohannangot-50.fr/",
+        "adresse": "15 Rue de Saint-Lô, 50190 Périers",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12774389595408364386",
+        "nom": "Toutain Denis",
+        "slug": "toutain-denis",
+        "telephone": "06 38 93 52 61",
+        "site_web": null,
+        "adresse": "5 L'Hôtel Ruel, 50190 Millières",
+        "note": 3,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5579011803308095739",
+        "nom": "POINT.P - Périers",
+        "slug": "pointp-periers",
+        "telephone": "02 33 46 62 33",
+        "site_web": "https://www.pointp.fr/infos-agence/periers-point-p-5932",
+        "adresse": "aux Raines, ZA de la Mare, 15 rue Marcelle Terry, 50190 Périers",
+        "note": 4,
+        "avis": 50,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5110146273850306100",
+        "nom": "Philippe Julien",
+        "slug": "philippe-julien",
+        "telephone": "06 77 01 75 66",
+        "site_web": "http://www.julienphilippe-menuiserie.fr/",
+        "adresse": "30a Le Chemin Perrey, 50190 Saint-Patrice-de-Claids",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17558359198497659662",
+        "nom": "Dubois Dépannage Serrures",
+        "slug": "dubois-depannage-serrures",
+        "telephone": "02 33 45 50 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 15,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14157875908564814861",
+        "nom": "Lenormand SAS",
+        "slug": "lenormand-sas",
+        "telephone": "02 33 76 58 00",
+        "site_web": "http://www.lenormand-constructeur.com/",
+        "adresse": "68 Rue de Saint-Lô, 50190 Périers",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Fabricant"
+      },
+      {
+        "id": "7827208673423425537",
+        "nom": "Lambard Christophe",
+        "slug": "lambard-christophe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue de la Precourerie, 50190 Périers",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "18183302766716938526",
+        "nom": "SARL FAUVEL TOIT ET BOIS ( RGE)",
+        "slug": "sarl-fauvel-toit-et-bois-rge",
+        "telephone": "02 33 46 62 78",
+        "site_web": null,
+        "adresse": "Rue de Carentan, 50190 Périers",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "picauville": {
+    "artisans": [
+      {
+        "id": "15678509056901373209",
+        "nom": "Menuiserie Asseline",
+        "slug": "menuiserie-asseline",
+        "telephone": "02 33 21 23 09",
+        "site_web": null,
+        "adresse": "51 Rue d'Utah Beach, 50360 Picauville",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16189144677368167381",
+        "nom": "Menuiserie Illien Kevin",
+        "slug": "menuiserie-illien-kevin",
+        "telephone": "06 61 08 30 60",
+        "site_web": null,
+        "adresse": "15 Rue de la Pesquerie, 50480 Picauville",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17840346074983692932",
+        "nom": "MondialBox Picauville - Location Box de Stockage & Garde-Meuble",
+        "slug": "mondialbox-picauville-location-box-de-stockage-garde-meuble",
+        "telephone": "06 70 92 14 35",
+        "site_web": "https://www.mondialbox.com/trouver-un-box/france/normandie/centre-picauville",
+        "adresse": "La Verangerie ZA de, 50360 Picauville",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Garde-meubles en libre-service"
+      },
+      {
+        "id": "11054400435774417746",
+        "nom": "Denis Matériaux Picauville",
+        "slug": "denis-materiaux-picauville",
+        "telephone": "02 33 52 72 97",
+        "site_web": "https://www.denismateriaux.com/nos-agences/agence-picauville?utm_source=gmb",
+        "adresse": "ZA, La Verangerie, 50360 Picauville",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "377570934181670227",
+        "nom": "Rouxel Stéphane",
+        "slug": "rouxel-stephane",
+        "telephone": "09 70 35 68 23",
+        "site_web": "https://www.rouxel-stephane.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Zone Artisanale, 50360 Picauville",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montebourg": {
+    "artisans": [
+      {
+        "id": "12504577931205429211",
+        "nom": "CASÉO Cherbourg",
+        "slug": "caseo-cherbourg",
+        "telephone": "02 33 40 36 29",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-tourlaville-cherbourg-81",
+        "adresse": "173 Imp. des Sorbiers ZI de Sauxmarais, 50110 Tourlaville",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17136685295965437410",
+        "nom": "Les Ouvertures de votre habitat",
+        "slug": "les-ouvertures-de-votre-habitat",
+        "telephone": "06 73 86 73 83",
+        "site_web": "https://www.les-ouvertures-de-votre-habitat.fr/",
+        "adresse": "920A Rue Jean Bouin, 50110 Tourlaville",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9179604835437707325",
+        "nom": "B'Plast",
+        "slug": "bplast",
+        "telephone": "02 33 22 48 20",
+        "site_web": "https://www.bplast.fr/agence/bplast-cherbourg/?utm_source=gmb",
+        "adresse": "175 Rue des Métiers, 50110 Cherbourg-en-Cotentin",
+        "note": 3.8,
+        "avis": 75,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "yvetot-bocage": {
+    "artisans": [
+      {
+        "id": "494032235622714613",
+        "nom": "Clôtures Du Cotentin",
+        "slug": "clotures-du-cotentin",
+        "telephone": "02 33 21 42 62",
+        "site_web": "https://www.clotures-cotentin.fr/",
+        "adresse": "42 Rte de la Frm (Armanville), 50700 Valognes",
+        "note": 3.5,
+        "avis": 29,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "16478049479612044779",
+        "nom": "Menuiseries Pro Home",
+        "slug": "menuiseries-pro-home",
+        "telephone": "02 33 05 48 63",
+        "site_web": "http://www.menuiseriesph.fr/?utm_source=gmb",
+        "adresse": "ZI, 1 Route de Saint Lo, La Détourbe, 50890 Condé-sur-Vire",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14937856771491299214",
+        "nom": "Côté Pose Fenêtres Pvc, bois, aluminium, porte d'entrée, volets, Store, Portail, Pergola à Saint-Lô 50",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volets-store-portail-pergola-a-saint-lo-50",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "330 Rue Valvire, 50000 Saint-Lô",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16301080099444662085",
+        "nom": "CASÉO Granville",
+        "slug": "caseo-granville",
+        "telephone": "02 33 90 65 74",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-granville-granville-46",
+        "adresse": "ZAC du Prétot, 94 Imp. des Tremailleurs, 50400 Granville",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11128513104759834627",
+        "nom": "Coté Pose fenêtres Pvc, bois, Aluminium, porte d'entrée, volet, pergola, portail à Caen 14",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volet-pergola-portail-a-caen-14",
+        "telephone": "06 33 09 14 88",
+        "site_web": "https://www.cotepose.com/",
+        "adresse": "26 Av. de Thiès, 14000 Caen",
+        "note": 4.7,
+        "avis": 142,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8004726190254909939",
+        "nom": "Ouvert Verrou",
+        "slug": "ouvert-verrou",
+        "telephone": "06 32 88 99 30",
+        "site_web": "https://ouvert-verrou.fr/",
+        "adresse": "33 Le Tôt de Haut, 50840 Fermanville",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "5910297941117205817",
+        "nom": "Fenêtres et pergolas, Logikinov",
+        "slug": "fenetres-et-pergolas-logikinov",
+        "telephone": "02 33 25 56 82",
+        "site_web": "https://www.logikinov.com/",
+        "adresse": "133 Rue Maréchal de Lattre de Tassigny, 50000 Saint-Lô",
+        "note": 5,
+        "avis": 186,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "881238636690927027",
+        "nom": "Moncé Gilbert",
+        "slug": "monce-gilbert",
+        "telephone": "02 33 55 50 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8399078972022618651",
+        "nom": "KOMILFO ISO50 à Coutances - Pergolas, Stores, Fenêtres, Menuiseries, Portails",
+        "slug": "komilfo-iso50-a-coutances-pergolas-stores-fenetres-menuiseries-portails",
+        "telephone": "02 33 47 23 49",
+        "site_web": "https://www.komilfo.fr/magasins/iso-50-coutances-50",
+        "adresse": "2 Rue de l'Ecauderie, 50200 Coutances",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7165336662549137254",
+        "nom": "Socodime à Coutances - Fabricant installateur Portails, Vérandas, Carports, Fenêtres, Pergolas.",
+        "slug": "socodime-a-coutances-fabricant-installateur-portails-verandas-carports-fenetres-pergolas",
+        "telephone": "02 33 07 57 58",
+        "site_web": "http://www.socodime.com/",
+        "adresse": "1459 Rue de la Montchatonnière, 50200 Tourville-sur-Sienne",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "yquelon": {
+    "artisans": [
+      {
+        "id": "8665690781940410323",
+        "nom": "Inoker Menuiserie",
+        "slug": "inoker-menuiserie",
+        "telephone": "06 87 09 50 90",
+        "site_web": "https://www.inoker.fr/",
+        "adresse": "72 Rue Couesnon, 50170 Pontorson",
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16467648470541085280",
+        "nom": "B'PLAST AVRANCHES",
+        "slug": "bplast-avranches",
+        "telephone": "02 33 79 49 79",
+        "site_web": "https://www.bplast.fr/agence/bplast-avranche/?utm_source=gmb",
+        "adresse": "3 Rue nationale, 50300 Avranches",
+        "note": 4.3,
+        "avis": 64,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5779867409567736811",
+        "nom": "Komilfo TL Production à Granville - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-tl-production-a-granville-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 33 90 68 97",
+        "site_web": "https://www.komilfo.fr/magasins/tl-production-granville-50?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "531 Rte de Villedieu, 50400 Saint-Planchers",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9883060217107054993",
+        "nom": "Ozen Menuiserie",
+        "slug": "ozen-menuiserie",
+        "telephone": "02 33 45 05 23",
+        "site_web": "https://www.ozen-menuiserie.com/",
+        "adresse": "74 Rue Couraye, 50400 Granville",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5668819286664876997",
+        "nom": "Miroiterie du Mont Saint-Michel",
+        "slug": "miroiterie-du-mont-saint-michel",
+        "telephone": "02 33 90 65 74",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/granville-miroiterie-du-mont-saint-michel-caseo/",
+        "adresse": "ZAC du Prétot, 94 Imp. des Tremailleurs, 50400 Granville",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8606957681856211103",
+        "nom": "Belletoile Frères",
+        "slug": "belletoile-freres",
+        "telephone": "02 33 58 64 74",
+        "site_web": "https://www.belletoile-freres.fr/",
+        "adresse": "94 Rte de Granville, 50300 Marcey-les-Grèves",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1195089163846707039",
+        "nom": "Espace Baies",
+        "slug": "espace-baies",
+        "telephone": "02 33 91 86 19",
+        "site_web": "http://www.espace-baies.fr/",
+        "adresse": "49 Av. du Maréchal Leclerc, 50400 Granville",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6018201175329350056",
+        "nom": "Asc Robine- Porte Fenêtre Véranda Manche 50",
+        "slug": "asc-robine-porte-fenetre-veranda-manche-50",
+        "telephone": "02 33 61 61 27",
+        "site_web": "http://www.ascrobine.com/",
+        "adresse": "550 route St Martin, La Fontenelle, 50290 Bréhal",
+        "note": 3.6,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15722929965170792589",
+        "nom": "Izabelle Batiment",
+        "slug": "izabelle-batiment",
+        "telephone": "02 33 70 98 16",
+        "site_web": "https://www.izabelle-batiment.com/",
+        "adresse": "3 Rue du Clos des Mares, 50290 Bréhal",
+        "note": 4.5,
+        "avis": 25,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4111601397472753474",
+        "nom": "CASÉO Avranches",
+        "slug": "caseo-avranches",
+        "telephone": "02 33 58 72 53",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-avranches-poilley-65",
+        "adresse": "Z.A de l'Estuaire, 21 Av. de la Pierre Vallée, 50220 Poilley",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "paris": {
+    "artisans": [
+      {
+        "id": "9621192017127734887",
+        "nom": "SERRURERIE ROUGE - Point Fort Fichet",
+        "slug": "serrurerie-rouge-point-fort-fichet",
+        "telephone": "01 42 96 85 66",
+        "site_web": null,
+        "adresse": "3 Rue Cherubini, 75002 Paris",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14474636618985439851",
+        "nom": "SECURYPRO 75",
+        "slug": "securypro-75",
+        "telephone": "06 98 44 55 52",
+        "site_web": "http://www.securypro75.com/",
+        "adresse": "61 Rue Notre Dame de Nazareth, 75003 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6724663005717673915",
+        "nom": "Art et Fenêtres - Paris - SB Ouvertures",
+        "slug": "art-et-fenetres-paris-sb-ouvertures",
+        "telephone": "01 44 82 02 90",
+        "site_web": "http://sbouvertures.artetfenetres.com/",
+        "adresse": "135 Bd de Sébastopol, 75002 Paris",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "9746039851664578046",
+        "nom": "Marcel Plombier Paris 2",
+        "slug": "marcel-plombier-paris-2",
+        "telephone": "07 56 95 18 37",
+        "site_web": null,
+        "adresse": "36 Rue Étienne Marcel, 75002 Paris",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8903619440018550473",
+        "nom": "RC Serrurerie",
+        "slug": "rc-serrurerie",
+        "telephone": "01 42 36 96 10",
+        "site_web": "https://rcserrurerie.fr/",
+        "adresse": "142 Rue Montmartre, 75002 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8833986487962451309",
+        "nom": "METAL 2000 Paris 2 - Réparation rideaux métalliques et volets roulants",
+        "slug": "metal-2000-paris-2-reparation-rideaux-metalliques-et-volets-roulants",
+        "telephone": "01 83 64 62 37",
+        "site_web": "https://www.metal2000.fr/nos-agences/paris-2-75002/",
+        "adresse": "9 Rue du 4 septembre, 75002 Paris",
+        "note": 3,
+        "avis": 0,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "9613548938097216764",
+        "nom": "Artisans Associes serrurier paris",
+        "slug": "artisans-associes-serrurier-paris",
+        "telephone": "01 42 26 26 42",
+        "site_web": null,
+        "adresse": "2/4 Imp. des Peintres, 75002 Paris",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14404571531376461517",
+        "nom": "Fenêtres EBEN Paris",
+        "slug": "fenetres-eben-paris",
+        "telephone": "01 89 70 11 55",
+        "site_web": "http://www.eben.fr/",
+        "adresse": "10 Rue Saint-Marc, 75002 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17969633757356154366",
+        "nom": "LUX LOCK SECURITY",
+        "slug": "lux-lock-security",
+        "telephone": "01 69 24 67 43",
+        "site_web": "https://www.luxlock.fr/",
+        "adresse": "68 Avenue du Général de Gaulle, Pl. de la Gare, 91170 Viry-Châtillon",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15062807617277056606",
+        "nom": "PORTES ET FENÊTRES ESSONNE",
+        "slug": "portes-et-fenetres-essonne",
+        "telephone": "01 69 31 11 59",
+        "site_web": "https://www.portesetfenetres-essonne.com/",
+        "adresse": "158 Rue de Paris, 91120 Palaiseau",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}

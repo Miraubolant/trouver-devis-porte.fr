@@ -1,0 +1,1600 @@
+{
+  "le-vigan": {
+    "artisans": [
+      {
+        "id": "15208291629743935416",
+        "nom": "S.A.S Menuiserie Crémon",
+        "slug": "sas-menuiserie-cremon",
+        "telephone": "05 65 41 06 20",
+        "site_web": null,
+        "adresse": "Combe de Moles, 46300 Saint-Cirq-Madelon",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5593205892161027848",
+        "nom": "Menuiserie Laurens",
+        "slug": "menuiserie-laurens",
+        "telephone": "04 67 81 18 66",
+        "site_web": "http://www.menuiserielaurens.fr/",
+        "adresse": "Route du Pont de la Croix, 30120 Le Vigan",
+        "note": 3.2,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3257962285894173223",
+        "nom": "Gab Agencement - Le Vigan",
+        "slug": "gab-agencement-le-vigan",
+        "telephone": "07 67 66 90 00",
+        "site_web": "https://gab-agencement-30.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13026285727932482435",
+        "nom": "Menuiserie Philippe",
+        "slug": "menuiserie-philippe",
+        "telephone": "04 67 82 47 65",
+        "site_web": null,
+        "adresse": "202 Rte de Coularou, 30120 Le Vigan",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17982828923033376677",
+        "nom": "Foissac Fermetures",
+        "slug": "foissac-fermetures",
+        "telephone": "05 65 37 73 42",
+        "site_web": "http://foissacfermetures.fr/?utm_source=gmb",
+        "adresse": "Rte de Cahors, 46300 Gourdon",
+        "note": 5,
+        "avis": 29,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10778811689822975471",
+        "nom": "RENOV ' MENUISERIES",
+        "slug": "renov-menuiseries",
+        "telephone": "05 53 71 85 93",
+        "site_web": "https://www.renovmenuiseries.fr/",
+        "adresse": "Zac de Parasol, Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 62,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7269884756201183076",
+        "nom": "Menuiserie Soulhie, Bois Alu PVC - Gourdon",
+        "slug": "menuiserie-soulhie-bois-alu-pvc-gourdon",
+        "telephone": "05 65 41 67 49",
+        "site_web": "https://www.menuiserie-soulhie.fr/",
+        "adresse": "198 Impasse de l'artisan, 46300 Gourdon",
+        "note": 4.9,
+        "avis": 202,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12353805612875856580",
+        "nom": "Les Menuisiers Des Occitans",
+        "slug": "les-menuisiers-des-occitans",
+        "telephone": "05 53 75 50 06",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/les-menuisiers-des-occitans",
+        "adresse": "331 Zone du Haut Agenais, 47500 Montayral",
+        "note": 4.8,
+        "avis": 96,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3249700540180469789",
+        "nom": "LM METALLERIE",
+        "slug": "lm-metallerie",
+        "telephone": "06 15 49 69 18",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "654379413703698150",
+        "nom": "AM Fermetures",
+        "slug": "am-fermetures",
+        "telephone": "06 48 52 52 88",
+        "site_web": "https://www.am-fermetures.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 32,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "luzech": {
+    "artisans": [
+      {
+        "id": "2508010214467386184",
+        "nom": "Brico Dépôt Cahors",
+        "slug": "brico-depot-cahors",
+        "telephone": "05 65 30 37 20",
+        "site_web": "https://www.bricodepot.fr/cahors/?utm_content=Cahors&utm_medium=MyBusiness&utm_source=Google",
+        "adresse": "524 Côte du Pape, 46000 Cahors",
+        "note": 4.2,
+        "avis": 487,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "18111694937855703023",
+        "nom": "Collier Raphaël",
+        "slug": "collier-raphael",
+        "telephone": "06 19 58 68 17",
+        "site_web": "https://renovation-transformation.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16538541225276742326",
+        "nom": "RN Menuiserie - Menuisier à Agen RGE - Valence d'Agen - Lectoure - Villeneuve-sur-Lot",
+        "slug": "rn-menuiserie-menuisier-a-agen-rge-valence-dagen-lectoure-villeneuve-sur-lot",
+        "telephone": "05 53 95 91 16",
+        "site_web": "https://www.rn-menuiserie.fr/",
+        "adresse": "Lieu dit terrefort, 492 route d'agen, 47240 Lafox",
+        "note": 4.7,
+        "avis": 142,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8435890414478365218",
+        "nom": "Amaury Multiservices & Bois",
+        "slug": "amaury-multiservices-bois",
+        "telephone": "06 79 89 50 24",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "516171340065662539",
+        "nom": "EURL PMP",
+        "slug": "eurl-pmp",
+        "telephone": "07 86 90 73 18",
+        "site_web": "https://sites.google.com/view/eurl-pmp-plomberie-chauffage/accueil",
+        "adresse": null,
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "17037507396881564660",
+        "nom": "Floyrac Bati Amenagement",
+        "slug": "floyrac-bati-amenagement",
+        "telephone": "06 76 37 28 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14848654082754309553",
+        "nom": "DLT Application",
+        "slug": "dlt-application",
+        "telephone": "05 65 20 27 72",
+        "site_web": "https://www.dltapplication.fr/",
+        "adresse": "352 Av. Anatole de Monzie, 46000 Cahors",
+        "note": 4.9,
+        "avis": 108,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12542152182443559019",
+        "nom": "Menuiserie Prayssac | PVC 46/ISO+",
+        "slug": "menuiserie-prayssac-pvc-46iso",
+        "telephone": "05 65 31 69 39",
+        "site_web": "https://pvc-46.com/",
+        "adresse": "16 Rue de la Théze, 46220 Prayssac",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10514423297787182316",
+        "nom": "MC Service46 Paysagiste - Pisciniste",
+        "slug": "mc-service46-paysagiste-pisciniste",
+        "telephone": "06 43 74 35 77",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "267803460492846478",
+        "nom": "Menuiserie Quercynoise, menuisier à Cahors",
+        "slug": "menuiserie-quercynoise-menuisier-a-cahors",
+        "telephone": "06 77 73 92 84",
+        "site_web": "https://www.menuiserie-quercynoise.fr/?utm_source=gmb",
+        "adresse": "24 Imp. des Jardins de Saint-Cirice, 46000 Cahors",
+        "note": 5,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "labastide-marnhac": {
+    "artisans": [
+      {
+        "id": "138323642634438278",
+        "nom": "Idealuminium",
+        "slug": "idealuminium",
+        "telephone": "05 65 21 74 02",
+        "site_web": null,
+        "adresse": "520 Lieu-dit Bessières, 46090 Labastide-Marnhac",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "95232896420751723",
+        "nom": "La Boutique du Menuisier Menuiseries Faugere",
+        "slug": "la-boutique-du-menuisier-menuiseries-faugere",
+        "telephone": "05 65 35 51 01",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiseries-faugere-cahors?utm_source=gmb",
+        "adresse": "11 Chem. de la Sablière, 46000 Cahors",
+        "note": 4.4,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "830215680591294710",
+        "nom": "Brico'lot",
+        "slug": "bricolot",
+        "telephone": "07 45 83 86 66",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "13616862373165237365",
+        "nom": "Repar'stores Montauban - Cahors",
+        "slug": "reparstores-montauban-cahors",
+        "telephone": "05 32 09 64 91",
+        "site_web": "https://www.reparstores.com/rendez-vous/82/tarn-et-garonne?utm_source=google&utm_medium=gmb&utm_campaign=montauban&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 5,
+        "avis": 97,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "17226262003216969759",
+        "nom": "au p'tit service",
+        "slug": "au-ptit-service",
+        "telephone": "06 78 57 33 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "13229217669222414664",
+        "nom": "concept pose menuiserie",
+        "slug": "concept-pose-menuiserie",
+        "telephone": "06 78 64 41 14",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service de pose de parquet"
+      },
+      {
+        "id": "9461194874059456601",
+        "nom": "Achat vente maintenance installation défibrillateur",
+        "slug": "achat-vente-maintenance-installation-defibrillateur",
+        "telephone": "04 37 54 55 99",
+        "site_web": "https://www.sauvdefib.com/pages/centre-defibrillateur-cahors",
+        "adresse": "168 Rue Barry Porte 5, 46000 Cahors",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de matériel médical"
+      },
+      {
+        "id": "4564809078773210912",
+        "nom": "Alu-Pvc Menuiseries",
+        "slug": "alu-pvc-menuiseries",
+        "telephone": "05 65 23 98 69",
+        "site_web": "http://www.alu-pvc-menuiseries.fr/",
+        "adresse": "763 Rue du Dr Jean Ségala, 46000 Cahors",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "2394208535540882234",
+        "nom": "PONS MENUISERIES SAS",
+        "slug": "pons-menuiseries-sas",
+        "telephone": "05 65 35 30 62",
+        "site_web": "http://www.pons-menuiseries.com/",
+        "adresse": "Parc d'activités Cahors Sud, 500 Rte des Truffiers, 46230 Fontanes",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "lalbenque": {
+    "artisans": [
+      {
+        "id": "2464989457297587798",
+        "nom": "Bas-Quercy Menuiserie SOLABAIE",
+        "slug": "bas-quercy-menuiserie-solabaie",
+        "telephone": "05 63 03 55 01",
+        "site_web": "https://basquercymenuiserie.fr/",
+        "adresse": "27 Imp. des Metiers, 82240 Septfonds",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "95232896420751723",
+        "nom": "La Boutique du Menuisier Menuiseries Faugere",
+        "slug": "la-boutique-du-menuisier-menuiseries-faugere",
+        "telephone": "05 65 35 51 01",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiseries-faugere-cahors?utm_source=gmb",
+        "adresse": "11 Chem. de la Sablière, 46000 Cahors",
+        "note": 4.4,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10372821697591107600",
+        "nom": "AMV BOIS",
+        "slug": "amv-bois",
+        "telephone": "07 68 79 02 01",
+        "site_web": "https://www.amvbois.fr/",
+        "adresse": "1067 ROUTE DE ROUBY, 46230 Vaylats",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "gramat": {
+    "artisans": [
+      {
+        "id": "5207909795838814558",
+        "nom": "Lestrade",
+        "slug": "lestrade",
+        "telephone": "05 65 38 59 50",
+        "site_web": null,
+        "adresse": "Janoutou, 46500 Gramat",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6394672741422137846",
+        "nom": "MENUISERIE DU LOT",
+        "slug": "menuiserie-du-lot",
+        "telephone": "06 61 37 25 71",
+        "site_web": "https://www.menuiseriedulot.fr/",
+        "adresse": "58 Av. Louis Conte, 46500 Gramat",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5683371154130522405",
+        "nom": "SASU M.P.Isolation",
+        "slug": "sasu-mpisolation",
+        "telephone": "06 61 91 16 74",
+        "site_web": "http://www.m-p-isolation.fr/",
+        "adresse": "58 Av. Louis Conte, 46500 Gramat",
+        "note": 4.9,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3475857817718404397",
+        "nom": "Menuiseries Philippe Rougié",
+        "slug": "menuiseries-philippe-rougie",
+        "telephone": "05 65 33 42 26",
+        "site_web": "https://www.menuiserie-rougie.fr/?utm_source=gmb",
+        "adresse": "344 Rue des Artisans, 46500 Gramat",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10848554021194304501",
+        "nom": "Menuiserie-Iso-Réno-46",
+        "slug": "menuiserie-iso-reno-46",
+        "telephone": "06 46 04 27 35",
+        "site_web": "https://www.menuiserie-iso-reno-46.com/fr",
+        "adresse": "595 Mas de Martel route du, 46500 Bio",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17046036938058326824",
+        "nom": "MOLDO MULTI SERVICE",
+        "slug": "moldo-multi-service",
+        "telephone": "06 05 65 46 60",
+        "site_web": "https://www.moldomultiservice.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "14507896697664150253",
+        "nom": "POINT.P",
+        "slug": "pointp",
+        "telephone": "05 65 38 71 16",
+        "site_web": "https://www.pointp.fr/infos-agence/gramat-point-p-3345",
+        "adresse": "Rue des Artisans, 46500 Gramat",
+        "note": 4.4,
+        "avis": 60,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "martel": {
+    "artisans": [
+      {
+        "id": "4359776547803517804",
+        "nom": "ets perlot menuiserie",
+        "slug": "ets-perlot-menuiserie",
+        "telephone": "05 65 32 29 70",
+        "site_web": "https://www.perlot-menuiserie.fr/",
+        "adresse": "Chem. de la Carrette, 46600 Martel",
+        "note": 4.8,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8316985563465392454",
+        "nom": "PLAINO FREDERIC",
+        "slug": "plaino-frederic",
+        "telephone": "06 19 51 53 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "lacapelle-marival": {
+    "artisans": [
+      {
+        "id": "18099974066078160795",
+        "nom": "Pialou Laurent",
+        "slug": "pialou-laurent",
+        "telephone": "05 65 40 81 40",
+        "site_web": "http://www.chauffage-lacapelle-marival.fr/",
+        "adresse": "Le Bourg, 46120 Lacapelle-Marival",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "18006717853717525941",
+        "nom": "Thierry Costes Eurl",
+        "slug": "thierry-costes-eurl",
+        "telephone": "05 65 40 81 92",
+        "site_web": null,
+        "adresse": "Zone Artisanal ribaudenque, 46120 Lacapelle-Marival",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10391388663249002869",
+        "nom": "Garage Genot et Fils",
+        "slug": "garage-genot-et-fils",
+        "telephone": "05 65 40 81 50",
+        "site_web": null,
+        "adresse": "Le Pigeonnier, 46120 Lacapelle-Marival",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "1827839287972409553",
+        "nom": "Descargues Olivier SARL",
+        "slug": "descargues-olivier-sarl",
+        "telephone": "05 65 40 80 37",
+        "site_web": null,
+        "adresse": "140 Lieu-dit le Catalo, 46120 Lacapelle-Marival",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "17328173734727445145",
+        "nom": "BigMat Lacapelle-Marival",
+        "slug": "bigmat-lacapelle-marival",
+        "telephone": "05 65 40 44 44",
+        "site_web": "https://www.bigmat.fr/lafargue/lacapelle-marival/",
+        "adresse": "177 Rue de Ribaudenque, 46120 Lacapelle-Marival",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "11494296543577768285",
+        "nom": "Bergougnoux Jean-Pierre",
+        "slug": "bergougnoux-jean-pierre",
+        "telephone": "05 65 40 84 28",
+        "site_web": null,
+        "adresse": "Le Lac, 46120 Lacapelle-Marival",
+        "note": 3,
+        "avis": 3,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13495224841165412558",
+        "nom": "TotalEnergies - SAS GERVAIS BOS.",
+        "slug": "totalenergies-sas-gervais-bos",
+        "telephone": "05 65 40 80 20",
+        "site_web": "https://locator.totalenergies.com/NF001264?type=FUELING&business_type=RETAIL&utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "adresse": "Station Service, 142 Rte de Figeac, 46120 Lacapelle-Marival",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Station-service"
+      },
+      {
+        "id": "5595760773028450677",
+        "nom": "ELECTRICITE GENERALE",
+        "slug": "electricite-generale",
+        "telephone": "06 19 84 55 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "bellefont-la-rauze": {
+    "artisans": [
+      {
+        "id": "11352950711359727080",
+        "nom": "Tryba",
+        "slug": "tryba",
+        "telephone": "05 65 53 94 90",
+        "site_web": "https://www.tryba.com/",
+        "adresse": "Regourd, 46000 Cahors",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "le-montat": {
+    "artisans": [
+      {
+        "id": "4268238174197825564",
+        "nom": "Artisabois",
+        "slug": "artisabois",
+        "telephone": "05 65 23 96 69",
+        "site_web": "http://www.menuiserie-artisabois.fr/",
+        "adresse": "1046 All. des Rimades, 46090 Pradines",
+        "note": 4.5,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5073931941741453234",
+        "nom": "METAL 2000 Cahors - Figeac - Gourdon - Réparation Rideaux métalliques et portes sectionnelles (46)",
+        "slug": "metal-2000-cahors-figeac-gourdon-reparation-rideaux-metalliques-et-portes-sectionnelles-46",
+        "telephone": "05 36 04 05 50",
+        "site_web": "https://www.metal2000.fr/nos-agences/cahors/",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 6,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "12713056527893415541",
+        "nom": "SCMR (Serrurier Cahors Mabire René)",
+        "slug": "scmr-serrurier-cahors-mabire-rene",
+        "telephone": "06 89 33 03 26",
+        "site_web": "https://depannage-serrure-coffre.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 22,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5229147604200668897",
+        "nom": "Al Concept & Decor",
+        "slug": "al-concept-decor",
+        "telephone": "06 35 28 30 62",
+        "site_web": "https://al-concept-decor.com/",
+        "adresse": "199 Chem. de Belle Croix, 46000 Cahors",
+        "note": 5,
+        "avis": 50,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "17744501211418815721",
+        "nom": "Alex plomberie chauffage",
+        "slug": "alex-plomberie-chauffage",
+        "telephone": "06 38 10 09 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "14492210257281817630",
+        "nom": "Menuiserie Liopose",
+        "slug": "menuiserie-liopose",
+        "telephone": "06 86 18 83 42",
+        "site_web": null,
+        "adresse": "629 Côte des Ormeaux, 46000 Cahors",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9847793519760251222",
+        "nom": "Miroiterie du Lot",
+        "slug": "miroiterie-du-lot",
+        "telephone": "05 65 35 20 52",
+        "site_web": "http://miroiteriedulot.com/",
+        "adresse": "14 Av. Pierre Semard, 46000 Cahors",
+        "note": 4.3,
+        "avis": 26,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "pradines": {
+    "artisans": [
+      {
+        "id": "15295823902477140570",
+        "nom": "multiservices (yf)",
+        "slug": "multiservices-yf",
+        "telephone": "06 49 83 70 47",
+        "site_web": "https://facebook.com/profile.php?id=61577636679304",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Service d'entretien de pelouse"
+      },
+      {
+        "id": "9823750677131793378",
+        "nom": "amaraldavid46",
+        "slug": "amaraldavid46",
+        "telephone": "06 38 27 44 35",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Façadier"
+      },
+      {
+        "id": "11627789329072819317",
+        "nom": "Grandbains Cahors",
+        "slug": "grandbains-cahors",
+        "telephone": "05 65 20 82 20",
+        "site_web": "https://www.grandbains.fr/magasins/grandbains-cahors",
+        "adresse": "Chem. de la Sablière, 46000 Cahors",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "8767038812761280332",
+        "nom": "Caro Discount",
+        "slug": "caro-discount",
+        "telephone": "05 65 53 90 54",
+        "site_web": "https://carodiscount46.fr/",
+        "adresse": "46000 Cahors",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "2916993466518734058",
+        "nom": "TOP'élec",
+        "slug": "topelec",
+        "telephone": "07 68 07 53 52",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "13653147618478260903",
+        "nom": "Hôtel Restaurant Le Clos Grand",
+        "slug": "hotel-restaurant-le-clos-grand",
+        "telephone": "05 65 35 04 39",
+        "site_web": "http://www.leclosgrand.fr/",
+        "adresse": "12 Rue des Claux Grands, 46090 Pradines",
+        "note": 4.1,
+        "avis": 478,
+        "type": "Restaurant"
+      },
+      {
+        "id": "915137036383008749",
+        "nom": "amaraldavid46",
+        "slug": "amaraldavid46",
+        "telephone": "06 38 27 44 35",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "montcuq-en-quercy-blanc": {
+    "artisans": [
+      {
+        "id": "3718012151514276115",
+        "nom": "Informatique du Quercy",
+        "slug": "informatique-du-quercy",
+        "telephone": "07 45 84 91 73",
+        "site_web": null,
+        "adresse": "Le Pech lieu dit, 46800 Porte-du-Quercy",
+        "note": 0,
+        "avis": 0,
+        "type": "Assistance et services informatiques"
+      },
+      {
+        "id": "2217459830514043268",
+        "nom": "Menuiserie LAUNES",
+        "slug": "menuiserie-launes",
+        "telephone": "05 63 94 63 01",
+        "site_web": "http://www.menuiserie-launes.fr/",
+        "adresse": "Plaine Pont Rout, 82110 Lauzerte",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "10885410445422721375",
+        "nom": "Caumon Grillages",
+        "slug": "caumon-grillages",
+        "telephone": "05 65 31 96 55",
+        "site_web": "http://www.caumongrillages.fr/",
+        "adresse": "31 place du forgeron, 46800 Porte-du-Quercy",
+        "note": 4,
+        "avis": 22,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "11703809082453935592",
+        "nom": "Rabobois",
+        "slug": "rabobois",
+        "telephone": "06 37 32 14 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1670740936491396071",
+        "nom": "TravoReno46",
+        "slug": "travoreno46",
+        "telephone": "07 57 58 62 78",
+        "site_web": "http://travoreno46.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "puybrun": {
+    "artisans": [
+      {
+        "id": "4162591275984265039",
+        "nom": "Batiman Bex",
+        "slug": "batiman-bex",
+        "telephone": "05 65 38 65 65",
+        "site_web": "https://www.sarl-bex.fr/",
+        "adresse": "Route de Saint Céré, 46130 Bretenoux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "prayssac": {
+    "artisans": [
+      {
+        "id": "2750447654974949121",
+        "nom": "Maisons du Lot",
+        "slug": "maisons-du-lot",
+        "telephone": "05 81 42 24 18",
+        "site_web": "http://www.maisonsdulot46.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14342181038228511156",
+        "adresse": "24 Rue de la République, 46220 Prayssac",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Consultant en construction"
+      },
+      {
+        "id": "18284473683220015831",
+        "nom": "Menuiserie Aluminium Prayssacoise",
+        "slug": "menuiserie-aluminium-prayssacoise",
+        "telephone": "05 65 22 44 10",
+        "site_web": "http://www.menuiserie-aluminium-prayssacoise.fr/",
+        "adresse": "La Rivière de Meymes, 46220 Prayssac",
+        "note": 4,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9222073661011507237",
+        "nom": "Bricomarché Prayssac",
+        "slug": "bricomarche-prayssac",
+        "telephone": "05 65 22 46 47",
+        "site_web": "https://www.bricomarche.com/magasin/prayssac/07159?store=07159&utm_source=gmb",
+        "adresse": "Berlingous, 46220 Prayssac",
+        "note": 4,
+        "avis": 330,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "puy-l-eveque": {
+    "artisans": [
+      {
+        "id": "12224277823515754352",
+        "nom": "Antonin Barbe Plomberie",
+        "slug": "antonin-barbe-plomberie",
+        "telephone": "06 20 81 25 52",
+        "site_web": "https://abpplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "16742727992533309769",
+        "nom": "Lot Assistance",
+        "slug": "lot-assistance",
+        "telephone": "06 56 83 65 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "933334168298499593",
+        "nom": "METALLERIE MAIZIA",
+        "slug": "metallerie-maizia",
+        "telephone": "06 29 82 51 73",
+        "site_web": "http://www.maizia.fr/",
+        "adresse": "Zone de la Paganie, 46700 Puy-l'Évêque",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6454753014161517924",
+        "nom": "ACES Amélioration Confort Electrique Sécurité",
+        "slug": "aces-amelioration-confort-electrique-securite",
+        "telephone": "06 77 52 00 08",
+        "site_web": "http://aces-flaviencheyral.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "7077408296881644302",
+        "nom": "L.D.Menuiserie / Pompes Funèbres Deffreix",
+        "slug": "ldmenuiserie-pompes-funebres-deffreix",
+        "telephone": "06 07 38 49 24",
+        "site_web": "http://www.menuiserie-pompesfunebres.fr/",
+        "adresse": "4 Rue Costayral, 46700 Puy-l'Évêque",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de pompes funèbres"
+      },
+      {
+        "id": "11059703283931753135",
+        "nom": "FACTORIMMO Agence Immobilière",
+        "slug": "factorimmo-agence-immobiliere",
+        "telephone": "05 65 31 58 94",
+        "site_web": "http://factorimmo.com/",
+        "adresse": "38 Rue Ernest Marcouly, 46700 Puy-l'Évêque",
+        "note": 4.8,
+        "avis": 35,
+        "type": "Agence immobilière"
+      },
+      {
+        "id": "542535892204612955",
+        "nom": "EURO PROTECTION",
+        "slug": "euro-protection",
+        "telephone": "06 38 59 75 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Installateur de systèmes de sécurité"
+      },
+      {
+        "id": "7164332863563076455",
+        "nom": "Jean Opigez BTP",
+        "slug": "jean-opigez-btp",
+        "telephone": "05 65 36 51 02",
+        "site_web": null,
+        "adresse": "Lieu Dit, Cazes, 46700 Puy-l'Évêque",
+        "note": 4,
+        "avis": 2,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "16895079968996901521",
+        "nom": "MEIKOW Maçonnerie",
+        "slug": "meikow-maconnerie",
+        "telephone": "05 65 30 87 51",
+        "site_web": "http://maconnerie-construction-renovation-46.com/",
+        "adresse": "46700 Floressas",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "1251576060448010726",
+        "nom": "Multiservices à Votre Service",
+        "slug": "multiservices-a-votre-service",
+        "telephone": "06 72 75 33 32",
+        "site_web": "https://n872237.websitebuilder.online/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Assistance et services informatiques"
+      }
+    ]
+  },
+  "saint-cere": {
+    "artisans": [
+      {
+        "id": "842984302619378800",
+        "nom": "Carrés de Lumière",
+        "slug": "carres-de-lumiere",
+        "telephone": "05 65 10 73 20",
+        "site_web": "https://www.carresdelumiere.com/",
+        "adresse": "8 Av. du Dr Roux, 46400 Saint-Céré",
+        "note": 4.7,
+        "avis": 125,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7723686027137547511",
+        "nom": "TRYBA Saint-Céré",
+        "slug": "tryba-saint-cere",
+        "telephone": "05 82 92 95 41",
+        "site_web": "https://www.tryba.com/espace-conseil/46/tryba-saint-cere/?utm_campaign=Tryba_saint-c%C3%A9r%C3%A9&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "17 Rue de la République, 46400 Saint-Céré",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "salviac": {
+    "artisans": [
+      {
+        "id": "12415815500887215086",
+        "nom": "Alexandre Roques",
+        "slug": "alexandre-roques",
+        "telephone": "06 98 30 29 18",
+        "site_web": "https://eirl-roques-peinture.fr/?utm_source=gmb",
+        "adresse": "Lieu dit Bertrand Joly, 46340 Salviac",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "vayrac": {
+    "artisans": [
+      {
+        "id": "7822853807210014826",
+        "nom": "Favereaux Xavier",
+        "slug": "favereaux-xavier",
+        "telephone": "07 81 11 78 85",
+        "site_web": "https://www.favereaux-design.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "399 Route de Saint Céré, 46110 Vayrac",
+        "note": 5,
+        "avis": 9,
+        "type": "Cuisiniste"
+      }
+    ]
+  },
+  "cahors": {
+    "artisans": [
+      {
+        "id": "6227203187095382707",
+        "nom": "Dubois Industries",
+        "slug": "dubois-industries",
+        "telephone": "05 65 35 20 04",
+        "site_web": "http://www.dubois-industries.fr/",
+        "adresse": "140 Av. du Maquis, 46000 Cahors",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de sécurité"
+      },
+      {
+        "id": "15695311068800844580",
+        "nom": "Avenir Rénovations Cahors",
+        "slug": "avenir-renovations-cahors",
+        "telephone": "05 18 23 08 43",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-46-cahors/",
+        "adresse": "546 All. des Rimades, 46090 Pradines",
+        "note": 5,
+        "avis": 8,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3679802952572356813",
+        "nom": "MTechAlu46",
+        "slug": "mtechalu46",
+        "telephone": "06 79 27 18 95",
+        "site_web": "https://mtechalu46.com/",
+        "adresse": "Parc d'activités Cahors sud -Falguières, 30 Rte des Truffiers, 46230 Fontanes",
+        "note": 4.9,
+        "avis": 31,
+        "type": "Artisanat"
+      },
+      {
+        "id": "11084775303533380256",
+        "nom": "A.F.B 46 Automatisme",
+        "slug": "afb-46-automatisme",
+        "telephone": "06 89 32 70 67",
+        "site_web": "http://www.afb46.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de domotique"
+      },
+      {
+        "id": "16543424225127955057",
+        "nom": "Menuiserie 46",
+        "slug": "menuiserie-46",
+        "telephone": "05 65 20 19 42",
+        "site_web": "https://menuiserie46.fr/",
+        "adresse": "440 Route de cahors, 46090 Lamagdelaine",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sousceyrac-en-quercy": {
+    "artisans": [
+      {
+        "id": "1148166120421975715",
+        "nom": "Sousceyrac-en-Quercy",
+        "slug": "sousceyrac-en-quercy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "46190 Sousceyrac-en-Quercy",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "souillac": {
+    "artisans": [
+      {
+        "id": "16448132629875444957",
+        "nom": "Perlot Menuiseries Souillac",
+        "slug": "perlot-menuiseries-souillac",
+        "telephone": "05 65 32 29 70",
+        "site_web": "https://www.perlot-menuiserie.fr/",
+        "adresse": "zone artisanale de, Bramefond, 46200 Souillac",
+        "note": 4.7,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17843651430563975021",
+        "nom": "Point.P - Souillac",
+        "slug": "pointp-souillac",
+        "telephone": "05 65 32 67 34",
+        "site_web": "https://www.pointp.fr/infos-agence/souillac-point-p-3712",
+        "adresse": "Route de Martel, Les Combes de Martel, 46200 Lachapelle-Auzac",
+        "note": 4.1,
+        "avis": 79,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "capdenac": {
+    "artisans": [
+      {
+        "id": "10081274478334552405",
+        "nom": "France Fermetures",
+        "slug": "france-fermetures",
+        "telephone": null,
+        "site_web": "https://www.france-fermetures.fr/",
+        "adresse": "Saint-Julien d'Emparé, 12700 Capdenac-Gare",
+        "note": 4.8,
+        "avis": 124,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "954981983939412344",
+        "nom": "J L menuiserie",
+        "slug": "j-l-menuiserie",
+        "telephone": "07 82 55 67 37",
+        "site_web": null,
+        "adresse": "Z.A de la rotonde, 12700 Capdenac-Gare",
+        "note": 5,
+        "avis": 6,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15357671671992264890",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "05 65 43 39 01",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/elen-menuiserie-decazeville",
+        "adresse": "84 Rue Cayrade, 12300 Decazeville",
+        "note": 4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2271843277091031153",
+        "nom": "Diffusion Menuiseries Figeacoise – DMF",
+        "slug": "diffusion-menuiseries-figeacoise-dmf",
+        "telephone": "05 65 50 28 05",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/diffusion-menuiseries-figeacoise-dmf",
+        "adresse": "ZI De La Farayrie, 46100 Figeac",
+        "note": 3.4,
+        "avis": 45,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12669546509183651108",
+        "nom": "VM MENUISERIES",
+        "slug": "vm-menuiseries",
+        "telephone": "05 65 11 99 21",
+        "site_web": "https://www.v2m-menuiseries.com/",
+        "adresse": "Le Vern, 46100 Capdenac",
+        "note": 4.9,
+        "avis": 54,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16963306758395701674",
+        "nom": "LAUMOND MENUISERIE",
+        "slug": "laumond-menuiserie",
+        "telephone": "05 65 34 55 75",
+        "site_web": "http://www.miroiterie-point-verre.com/",
+        "adresse": "Zone Industrielle, Lafarrayrie, 46100 Figeac",
+        "note": 3.5,
+        "avis": 35,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "castelnau-montratier": {
+    "artisans": [
+      {
+        "id": "13229217669222414664",
+        "nom": "concept pose menuiserie",
+        "slug": "concept-pose-menuiserie",
+        "telephone": "06 78 64 41 14",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service de pose de parquet"
+      }
+    ]
+  },
+  "gourdon": {
+    "artisans": [
+      {
+        "id": "18370505797915008662",
+        "nom": "MENUISERIE VIERS",
+        "slug": "menuiserie-viers",
+        "telephone": "05 65 41 23 06",
+        "site_web": "http://www.menuiserie-viers.fr/",
+        "adresse": "438 Rue Jean Moulin, 46300 Gourdon",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3428061078503641251",
+        "nom": "Servistores Sud",
+        "slug": "servistores-sud",
+        "telephone": "05 65 32 29 86",
+        "site_web": "https://www.servistores-sud.com/?utm_source=fiche-gmb&utm_medium=Maps",
+        "adresse": "Zone Artisanale de la, Croix de Pierre, 46300 Gourdon",
+        "note": 4.1,
+        "avis": 61,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "17457313609904223816",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "05 65 41 05 98",
+        "site_web": "https://www.menuiseries-faugere.fr/",
+        "adresse": "7 Av. Gustave Larroumet, 46300 Gourdon",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "cajarc": {
+    "artisans": [
+      {
+        "id": "7224312313233060202",
+        "nom": "WICART JULIEN - PLAQUISTE CARRRELEUR - CAJARC - LABEL RGE",
+        "slug": "wicart-julien-plaquiste-carrreleur-cajarc-label-rge",
+        "telephone": "06 21 78 53 32",
+        "site_web": null,
+        "adresse": "30 Av. de la Capelette, 46160 Cajarc",
+        "note": 5,
+        "avis": 4,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "5868922988190332646",
+        "nom": "Castes Industrie",
+        "slug": "castes-industrie",
+        "telephone": "05 65 45 04 20",
+        "site_web": "https://www.castes-industrie.fr/",
+        "adresse": "660 Rte de Montauban, 12200 Villefranche-de-Rouergue",
+        "note": 4,
+        "avis": 57,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1271425525460845320",
+        "nom": "Metal Garden",
+        "slug": "metal-garden",
+        "telephone": "09 54 12 43 63",
+        "site_web": "https://metal-garden.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 21,
+        "type": "Magasin de matériel pour clôtures"
+      },
+      {
+        "id": "529882076842864238",
+        "nom": "Forestie Jean-Luc",
+        "slug": "forestie-jean-luc",
+        "telephone": "06 03 73 64 18",
+        "site_web": "https://www.pagesjaunes.fr/pros/53603459",
+        "adresse": "Mas de Gratufie, 46160 Cajarc",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "espere": {
+    "artisans": [
+      {
+        "id": "4668651716419902393",
+        "nom": "SOP Menuiserie",
+        "slug": "sop-menuiserie",
+        "telephone": "05 65 22 01 54",
+        "site_web": "https://www.sop-menuiserie.fr/",
+        "adresse": "515 Roc de Barroul Route du, 46090 Flaujac-Poujols",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "figeac": {
+    "artisans": [
+      {
+        "id": "5632952716743581373",
+        "nom": "Service Baie 46",
+        "slug": "service-baie-46",
+        "telephone": "07 68 30 39 14",
+        "site_web": "https://servicebaie46.fr/",
+        "adresse": "94 Hauteval, 46100 Figeac",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14910625472263420358",
+        "nom": "Rénovatout 46",
+        "slug": "renovatout-46",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Marius Moussie, 46100 Figeac",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "7500103943684641219",
+        "nom": "Menuiserie Roux Dominique à Figeac",
+        "slug": "menuiserie-roux-dominique-a-figeac",
+        "telephone": "05 65 34 73 45",
+        "site_web": "https://menuiserie-roux-figeac46.fr/",
+        "adresse": "Zone d'aménagement concerté Pech Alon, Pech de Balajou, 46100 Figeac",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "betaille": {
+    "artisans": [
+      {
+        "id": "14190503043684531973",
+        "nom": "SARL Laurent Poulet",
+        "slug": "sarl-laurent-poulet",
+        "telephone": "05 65 32 03 39",
+        "site_web": "https://www.facebook.com/ETS-Poulet-Laurent-1493126647657891/?ref=bookmarks",
+        "adresse": "64 ROUTE DE LA CHAPELLE AUX SAINTS, 46110 Bétaille",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "biars-sur-cere": {
+    "artisans": [
+      {
+        "id": "17574687892975041380",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 55 87 88 63",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/correze/lapeyre-brive-la-gaillarde-26",
+        "adresse": "Rue Armand Sourie, 19100 Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 319,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "5947865640456566580",
+        "nom": "Maisons Et Travaux",
+        "slug": "maisons-et-travaux",
+        "telephone": "05 55 88 37 77",
+        "site_web": "https://maisons-et-travaux.fr/",
+        "adresse": "9 All. des Châtaigniers, 19360 Malemort",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Entrepreneur en construction intérieure"
+      },
+      {
+        "id": "4308343216501341848",
+        "nom": "Brousse Menuiserie",
+        "slug": "brousse-menuiserie",
+        "telephone": "05 65 40 32 06",
+        "site_web": null,
+        "adresse": "110 Av. de la République, 46130 Biars-sur-Cère",
+        "note": 5,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15082462160533028251",
+        "nom": "espalieu christophe artisan peintre",
+        "slug": "espalieu-christophe-artisan-peintre",
+        "telephone": "06 76 69 42 88",
+        "site_web": "http://peintre-biars-espalieu.fr/",
+        "adresse": "All. Pierre Loti, 46130 Biars-sur-Cère",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "cressensac-sarrazac": {
+    "artisans": [
+      {
+        "id": "1980377419233435449",
+        "nom": "Etablissement Philip Christian SARL",
+        "slug": "etablissement-philip-christian-sarl",
+        "telephone": "05 65 37 71 38",
+        "site_web": null,
+        "adresse": "Route de Gignac, 46600",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6602733597815912413",
+        "nom": "Lauvie Menuiserie",
+        "slug": "lauvie-menuiserie",
+        "telephone": "05 65 32 60 40",
+        "site_web": "https://ets-lauvie.fr/",
+        "adresse": "Bellevue, 46600 Cressensac-Sarrazac",
+        "note": 4.3,
+        "avis": 24,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bagnac-sur-cele": {
+    "artisans": [
+      {
+        "id": "11791503839843481446",
+        "nom": "Quercy Entreprise",
+        "slug": "quercy-entreprise",
+        "telephone": "05 65 34 90 31",
+        "site_web": "https://quercy-entreprise.fr/",
+        "adresse": "Av. de la Gare, 46270 Bagnac-sur-Célé",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11010979917243913336",
+        "nom": "Menuiseries Ganga Bernard",
+        "slug": "menuiseries-ganga-bernard",
+        "telephone": "05 65 40 18 36",
+        "site_web": null,
+        "adresse": "17 Rue de la Plaine, 46270 Bagnac-sur-Célé",
+        "note": 4.3,
+        "avis": 21,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1036813315991876777",
+        "nom": "EURL Lavigne Pradier réseau TERRES DE FENETRE",
+        "slug": "eurl-lavigne-pradier-reseau-terres-de-fenetre",
+        "telephone": "06 79 50 97 58",
+        "site_web": "https://aurillac.terresdefenetre.fr/",
+        "adresse": "4 Rue du 8 Mai 1945, 15600 Maurs",
+        "note": 5,
+        "avis": 12,
+        "type": "Artisanat"
+      },
+      {
+        "id": "16113333391077019189",
+        "nom": "GAFFET MENUISERIES",
+        "slug": "gaffet-menuiseries",
+        "telephone": "05 65 33 70 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bretenoux": {
+    "artisans": [
+      {
+        "id": "17336448364450350253",
+        "nom": "SARL BOUNY - B CONCEPT46",
+        "slug": "sarl-bouny-b-concept46",
+        "telephone": "05 65 10 12 85",
+        "site_web": "http://www.bouny.fr/",
+        "adresse": "250 Prés de Boissy, 46130 Bretenoux",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "13702590185818630504",
+        "nom": "Gedimat Larroque - Saint-Michel-Loubéjou",
+        "slug": "gedimat-larroque-saint-michel-loubejou",
+        "telephone": "05 65 10 32 10",
+        "site_web": "https://www.gedimat.fr/?magDest=1669",
+        "adresse": "504 rte de la croix blanche, 46130 Saint-Michel-Loubéjou",
+        "note": 4.4,
+        "avis": 97,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4335095856468687120",
+        "nom": "Menuiserie Cronin",
+        "slug": "menuiserie-cronin",
+        "telephone": "06 71 47 68 33",
+        "site_web": "https://instagram.com/cronin.carpentry?igshid=NGVhN2U2NjQ0Yg==",
+        "adresse": "52 Rte de l’hermitage, 46130 Bretenoux",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4162591275984265039",
+        "nom": "Batiman Bex",
+        "slug": "batiman-bex",
+        "telephone": "05 65 38 65 65",
+        "site_web": "https://www.sarl-bex.fr/",
+        "adresse": "Route de Saint Céré, 46130 Bretenoux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17641692629408956907",
+        "nom": "SAS SP Carvalho",
+        "slug": "sas-sp-carvalho",
+        "telephone": "09 81 81 00 59",
+        "site_web": "https://www.sp-carvalho.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "740 Av. de la Libération, 46130 Bretenoux",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Façadier"
+      },
+      {
+        "id": "7633507839117538479",
+        "nom": "France Pare-Brise - Chez First Stop",
+        "slug": "france-pare-brise-chez-first-stop",
+        "telephone": "05 65 20 02 00",
+        "site_web": "https://centre.franceparebrise.fr/reparation-pare-brise/occitanie/lot/bretenoux/bretenoux-point-de-proximite",
+        "adresse": "669 Av. de la Libération, 46130 Bretenoux",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "3549497926169783740",
+        "nom": "BATIPEIN 46 pierre Dettinger",
+        "slug": "batipein-46-pierre-dettinger",
+        "telephone": "06 72 74 16 27",
+        "site_web": "https://batipein46.wixstudio.com/batipein46",
+        "adresse": "998 Rte de l'Église, 46130 Girac",
+        "note": 5,
+        "avis": 8,
+        "type": "Artisanat"
+      },
+      {
+        "id": "8619306969002953466",
+        "nom": "SARL A&M CARVALHO CONSTRUCTION",
+        "slug": "sarl-am-carvalho-construction",
+        "telephone": "05 81 48 90 64",
+        "site_web": "https://www.amcarvalho.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "730 Av. de la Libération, 46130 Bretenoux",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3140098777571317604",
+        "nom": "Chanet TP SAS CHANET TP",
+        "slug": "chanet-tp-sas-chanet-tp",
+        "telephone": "06 77 90 53 97",
+        "site_web": null,
+        "adresse": "525 Av. Charles de Gaulle, 46130 Bretenoux",
+        "note": 5,
+        "avis": 5,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "15786422025939801510",
+        "nom": "Missigoï (SARL)",
+        "slug": "missigoi-sarl",
+        "telephone": "06 88 53 67 14",
+        "site_web": "https://peintre-batiment-biars.fr/",
+        "adresse": "Le Theil, 46130 Bretenoux",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  }
+}

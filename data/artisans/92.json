@@ -1,0 +1,3112 @@
+{
+  "la-garenne-colombes": {
+    "artisans": [
+      {
+        "id": "16356692531436362243",
+        "nom": "ALCOF SÉCURITÉ - Point Fort Fichet | Paris 9ème Serrurerie",
+        "slug": "alcof-securite-point-fort-fichet-paris-9eme-serrurerie",
+        "telephone": "01 42 47 16 43",
+        "site_web": "https://www.alcof-securite.fr/nos-boutiques/serrurier-fichet-paris-9eme-alcof-securite/",
+        "adresse": "37-39 Rue du Faubourg Montmartre, 75009 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16984112585446426080",
+        "nom": "Ak Pro'pose",
+        "slug": "ak-propose",
+        "telephone": "06 07 11 64 84",
+        "site_web": "http://www.ak-propose.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "60 Av. de Paris, 91790 Boissy-sous-Saint-Yon",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3207788480950028401",
+        "nom": "CA ISOL'",
+        "slug": "ca-isol",
+        "telephone": "01 30 76 36 35",
+        "site_web": "http://www.ca-isol.com/",
+        "adresse": "3 Av. Damiette, 95110 Sannois",
+        "note": 5,
+        "avis": 125,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9724233845643710167",
+        "nom": "Alain Père & Fils - Plombier - Dépannage Plomberie - Paris 1",
+        "slug": "alain-pere-fils-plombier-depannage-plomberie-paris-1",
+        "telephone": "01 42 21 38 79",
+        "site_web": "https://direct-depannages.fr/plombier-depannage-idf/",
+        "adresse": "4 Rue Hérold, 75001 Paris",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "15935862298034803867",
+        "nom": "Artisan Bernard Paris 9 - Plombier et Chauffagiste",
+        "slug": "artisan-bernard-paris-9-plombier-et-chauffagiste",
+        "telephone": "01 86 61 91 62",
+        "site_web": "https://artisan-bernard-paris-9.fr/",
+        "adresse": "9 Rue Notre Dame des Victoires, 75002 Paris",
+        "note": 4.5,
+        "avis": 740,
+        "type": "Plombier"
+      },
+      {
+        "id": "9613548938097216764",
+        "nom": "Artisans Associes serrurier paris",
+        "slug": "artisans-associes-serrurier-paris",
+        "telephone": "01 42 26 26 42",
+        "site_web": null,
+        "adresse": "2/4 Imp. des Peintres, 75002 Paris",
+        "note": 4.9,
+        "avis": 329,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10163976584466052534",
+        "nom": "TRYBA Paris 2e",
+        "slug": "tryba-paris-2e",
+        "telephone": "01 45 08 19 68",
+        "site_web": "https://www.tryba.com/espace-conseil/75/tryba-paris-2e/?utm_campaign=Tryba_Paris-2e&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "107 Bd de Sébastopol, 75002 Paris",
+        "note": 4.7,
+        "avis": 141,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12240896100371701900",
+        "nom": "Excellence Bâti Rénov",
+        "slug": "excellence-bati-renov",
+        "telephone": "07 60 90 78 06",
+        "site_web": "https://excellence-batirenov.com/devis-personnalise/",
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "9621192017127734887",
+        "nom": "SERRURERIE ROUGE - Point Fort Fichet",
+        "slug": "serrurerie-rouge-point-fort-fichet",
+        "telephone": "01 42 96 85 66",
+        "site_web": null,
+        "adresse": "3 Rue Cherubini, 75002 Paris",
+        "note": 4.3,
+        "avis": 16,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6724663005717673915",
+        "nom": "Art et Fenêtres - Paris - SB Ouvertures",
+        "slug": "art-et-fenetres-paris-sb-ouvertures",
+        "telephone": "01 44 82 02 90",
+        "site_web": "http://sbouvertures.artetfenetres.com/",
+        "adresse": "135 Bd de Sébastopol, 75002 Paris",
+        "note": 4.9,
+        "avis": 231,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "villeneuve-la-garenne": {
+    "artisans": [
+      {
+        "id": "1661019501846688455",
+        "nom": "Turpin-Longueville",
+        "slug": "turpin-longueville",
+        "telephone": "01 47 98 55 04",
+        "site_web": "http://www.turpin-longueville.com/",
+        "adresse": "22 Chem. de la Litté, 92390 Villeneuve-la-Garenne",
+        "note": 3.6,
+        "avis": 22,
+        "type": "Fabricant"
+      },
+      {
+        "id": "492748989634114408",
+        "nom": "L'Expert Fenêtre Henriet F.A.S.E.",
+        "slug": "lexpert-fenetre-henriet-fase",
+        "telephone": "01 48 83 76 67",
+        "site_web": "http://www.henriet-fase.fr/",
+        "adresse": "7 Av. Clément Ader, 94420 Le Plessis-Trévise",
+        "note": 4.7,
+        "avis": 72,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7112740630462771614",
+        "nom": "CDE / HUET ATELIER SERVICES",
+        "slug": "cde-huet-atelier-services",
+        "telephone": "01 41 47 44 00",
+        "site_web": "http://www.cdenegoce.fr/nos-entites/cde/villeneve-la-garenne/",
+        "adresse": "5 Av. Marcellin Berthelot, 92390 Villeneuve-la-Garenne",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "8870654009004617251",
+        "nom": "H2O DEPANNE RENOVE",
+        "slug": "h2o-depanne-renove",
+        "telephone": "06 59 16 98 66",
+        "site_web": null,
+        "adresse": "212 bis Bd Gallieni, 92390 Villeneuve-la-Garenne",
+        "note": 4.8,
+        "avis": 59,
+        "type": "Plombier"
+      },
+      {
+        "id": "6808788192450297025",
+        "nom": "Serrurerie du Caire",
+        "slug": "serrurerie-du-caire",
+        "telephone": "06 63 49 68 73",
+        "site_web": "https://serrurerieducaire.fr/",
+        "adresse": "111 Bd de Sébastopol, 75002 Paris",
+        "note": 5,
+        "avis": 104,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12077448011426734587",
+        "nom": "quincaillerie serrurerie multiservices 24/24",
+        "slug": "quincaillerie-serrurerie-multiservices-2424",
+        "telephone": "01 87 44 44 27",
+        "site_web": "https://securemme.fr/page7.html",
+        "adresse": "40 Rue Chaillon, 92390 Villeneuve-la-Garenne",
+        "note": 1.5,
+        "avis": 8,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "9237602139800574498",
+        "nom": "Soeur Serrure",
+        "slug": "soeur-serrure",
+        "telephone": "06 37 72 69 36",
+        "site_web": "https://soeurserrure.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 58,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  },
+  "fontenay-aux-roses": {
+    "artisans": [
+      {
+        "id": "13893427035774088990",
+        "nom": "Entreprise Priez",
+        "slug": "entreprise-priez",
+        "telephone": "01 43 50 24 40",
+        "site_web": "http://www.entreprisepriez.fr/",
+        "adresse": "22 Rue d'Estienne d'Orves, 92260 Fontenay-aux-Roses",
+        "note": 3.8,
+        "avis": 45,
+        "type": "Plombier"
+      },
+      {
+        "id": "4856096790768592511",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "01 55 28 95 55",
+        "site_web": "https://magasins.lapeyre.fr/ile-de-france/paris/lapeyre-bhv-marais-138",
+        "adresse": "52 Rue de Rivoli, 75004 Paris",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12426704002726217319",
+        "nom": "Serrurerie LBR",
+        "slug": "serrurerie-lbr",
+        "telephone": "01 40 30 78 81",
+        "site_web": "https://www.societe.com/societe/serrurerie-lbr-899812085.html",
+        "adresse": "3 Rue du Val Content, 92260 Fontenay-aux-Roses",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3166378761833113277",
+        "nom": "Comptoir des Serruriers",
+        "slug": "comptoir-des-serruriers",
+        "telephone": "01 42 65 65 68",
+        "site_web": "https://www.comptoirdesserruriers.fr/",
+        "adresse": "30 Rue Vignon, 75009 Paris",
+        "note": 4.9,
+        "avis": 112,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13994866642014477157",
+        "nom": "Gallant Fermetures",
+        "slug": "gallant-fermetures",
+        "telephone": "01 43 50 49 22",
+        "site_web": "http://www.gallant-fermetures.fr/",
+        "adresse": "15 Rue Jean Jaurès, 92260 Fontenay-aux-Roses",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4828789277672172301",
+        "nom": "ALCOF SÉCURITÉ - Point Fort Fichet | Paris 7ème Serrurerie",
+        "slug": "alcof-securite-point-fort-fichet-paris-7eme-serrurerie",
+        "telephone": "01 40 60 08 60",
+        "site_web": "https://www.alcof-securite.fr/",
+        "adresse": "260 Bd Saint-Germain, 75007 Paris",
+        "note": 4.8,
+        "avis": 76,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7902331620071532780",
+        "nom": "AMS Bâtiment Services",
+        "slug": "ams-batiment-services",
+        "telephone": "07 67 27 42 96",
+        "site_web": "https://amsparis.fr/",
+        "adresse": "57 Rue de Paradis, 75010 Paris",
+        "note": 4.2,
+        "avis": 54,
+        "type": "Plombier"
+      },
+      {
+        "id": "6175037090508101447",
+        "nom": "Serrurerie Fontenay sous Bois Fenêtres Porte Blindée Volets - Picard Serrures",
+        "slug": "serrurerie-fontenay-sous-bois-fenetres-porte-blindee-volets-picard-serrures",
+        "telephone": "01 48 75 29 97",
+        "site_web": "https://serrureriedefontenay.net/",
+        "adresse": "32 Av. de la République, 94120 Fontenay-sous-Bois",
+        "note": 4.8,
+        "avis": 267,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "14474636618985439851",
+        "nom": "SECURYPRO 75",
+        "slug": "securypro-75",
+        "telephone": "06 98 44 55 52",
+        "site_web": "http://www.securypro75.com/",
+        "adresse": "61 Rue Notre Dame de Nazareth, 75003 Paris",
+        "note": 5,
+        "avis": 108,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13840126790155715727",
+        "nom": "Artisan Bruno Urgence",
+        "slug": "artisan-bruno-urgence",
+        "telephone": "01 85 15 63 86",
+        "site_web": "https://artisan-bruno-urgence.fr/",
+        "adresse": "1 Rue Saulnier, 75009 Paris",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  },
+  "colombes": {
+    "artisans": [
+      {
+        "id": "13430591031476780136",
+        "nom": "LJI Fermetures",
+        "slug": "lji-fermetures",
+        "telephone": "01 47 86 26 06",
+        "site_web": "https://www.ljifermetures.fr/",
+        "adresse": "1 Rue de la Fraternité, 92700 Colombes",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10214783603362921769",
+        "nom": "SO Serrurier",
+        "slug": "so-serrurier",
+        "telephone": "07 56 80 06 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 375,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15621778006600143624",
+        "nom": "Les Cles sur la Porte",
+        "slug": "les-cles-sur-la-porte",
+        "telephone": "09 83 04 87 71",
+        "site_web": "https://www.facebook.com/LesClesSurlaPorte?utm_source=gmb",
+        "adresse": "7 Rue du 11 Novembre 1918, 92700 Colombes",
+        "note": 4.7,
+        "avis": 182,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "gennevilliers": {
+    "artisans": [
+      {
+        "id": "9761952798559613780",
+        "nom": "Expert Menuiseries - Art & Fenêtres - Le Pré-Saint-Gervais",
+        "slug": "expert-menuiseries-art-fenetres-le-pre-saint-gervais",
+        "telephone": "01 41 50 11 00",
+        "site_web": "https://expertmenuiseries.artetfenetres.com/?utm_campaign=GMB_le-pre-saint-gervais&utm_medium=organic&utm_source=GMB",
+        "adresse": "Le, 52 Rue d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais",
+        "note": 4.8,
+        "avis": 206,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16097636265473564208",
+        "nom": "Avenir Rénovations 92 Boulogne Billancourt",
+        "slug": "avenir-renovations-92-boulogne-billancourt",
+        "telephone": "01 83 62 53 14",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-boulogne-billancourt/",
+        "adresse": "21 Rue des Longs Prés, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 66,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "5236299535280191293",
+        "nom": "Serrurier - Le Seigneur des Clés",
+        "slug": "serrurier-le-seigneur-des-cles",
+        "telephone": "07 69 35 93 97",
+        "site_web": "https://artisan-serrurier-idf.fr/",
+        "adresse": "17 Rue Edouard Manet, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 798,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3152556691900461724",
+        "nom": "Lorenove Paris Ouest",
+        "slug": "lorenove-paris-ouest",
+        "telephone": "01 47 89 45 90",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/paris-ouest?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_paris-ouest",
+        "adresse": "13 Quai des Gresillons Bâtiment B, 21, 92230 Gennevilliers",
+        "note": 4.8,
+        "avis": 100,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4855494597296348821",
+        "nom": "DB ASSISTANCE",
+        "slug": "db-assistance",
+        "telephone": "01 83 64 75 25",
+        "site_web": "https://www.db-assistance.fr/",
+        "adresse": "2 bis Rue du Jardin Modèle, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 105,
+        "type": "Entreprise d'automatisation"
+      },
+      {
+        "id": "17440753516996277198",
+        "nom": "Espace TECHNAL Gennevilliers",
+        "slug": "espace-technal-gennevilliers",
+        "telephone": "01 80 03 80 30",
+        "site_web": "https://www.technal.com/fr/fr/accueil-professionnels/",
+        "adresse": "99/101 Av. Louis Roche Péripark - E4, 92230 Gennevilliers",
+        "note": 4.5,
+        "avis": 34,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9300843534879625757",
+        "nom": "IRIS Fenêtres Agence Hauts de Seine",
+        "slug": "iris-fenetres-agence-hauts-de-seine",
+        "telephone": "01 41 11 99 38",
+        "site_web": "https://iris-fenetres.com/",
+        "adresse": "49 Av. d'Argenteuil, 92600 Asnières-sur-Seine",
+        "note": 3.9,
+        "avis": 35,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10651601894484189971",
+        "nom": "TRYBA Asnières",
+        "slug": "tryba-asnieres",
+        "telephone": "01 59 30 12 42",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-asnieres/?utm_campaign=Tryba_Asnieres&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "79 Av. de la Marne, 92600 Asnières-sur-Seine",
+        "note": 4.4,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2222725742644040951",
+        "nom": "Serrurerie Joseph",
+        "slug": "serrurerie-joseph",
+        "telephone": "06 95 52 46 83",
+        "site_web": "https://www.serrureriejoseph.fr/",
+        "adresse": "29 Av. de la Paix, 92600 Asnières-sur-Seine",
+        "note": 5,
+        "avis": 1061,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3521088571522439597",
+        "nom": "Port de Gennevilliers",
+        "slug": "port-de-gennevilliers",
+        "telephone": "01 46 13 98 98",
+        "site_web": "https://www.haropaport.com/fr",
+        "adresse": "62 Rte Principale du Port, 92230 Gennevilliers",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Autorité portuaire"
+      }
+    ]
+  },
+  "garches": {
+    "artisans": [
+      {
+        "id": "4378765923767919461",
+        "nom": "GAIF Dépannage Volets Roulants, Stores, Fenêtres, Portes de Garage",
+        "slug": "gaif-depannage-volets-roulants-stores-fenetres-portes-de-garage",
+        "telephone": "01 84 20 20 19",
+        "site_web": "https://gaif-depannage.fr/",
+        "adresse": "107 Rue de Buzenval, 92380 Garches",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "12818923564301849916",
+        "nom": "METAL 2000 Paris 16 - Réparation rideaux métalliques et volets roulants",
+        "slug": "metal-2000-paris-16-reparation-rideaux-metalliques-et-volets-roulants",
+        "telephone": "01 83 64 18 16",
+        "site_web": "https://www.metal2000.fr/nos-agences/paris-16-75016/",
+        "adresse": "27 Rue Raffet, 75016 Paris",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "7184357118095025475",
+        "nom": "GAIF Sarl - Installation de Fenêtres, Stores, Volets Roulants et équipements de la maison.",
+        "slug": "gaif-sarl-installation-de-fenetres-stores-volets-roulants-et-equipements-de-la-maison",
+        "telephone": "01 47 01 32 60",
+        "site_web": "https://volets-stores-garches.fr/?utm_source=gmb",
+        "adresse": "107 Rue de Buzenval, 92380 Garches",
+        "note": 4.6,
+        "avis": 134,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13838057599527727094",
+        "nom": "ENT JEANMAIRE couvreur 92 vaucresson, Garches, marnes la coquette, saint cloud, 78 la celle saint cloud, etc. ravalement.",
+        "slug": "ent-jeanmaire-couvreur-92-vaucresson-garches-marnes-la-coquette-saint-cloud-78-la-celle-saint-cloud-etc-ravalement",
+        "telephone": "01 47 01 28 89",
+        "site_web": "https://www.ent-jeanmaire.fr/",
+        "adresse": "12 Grande Rue, 92420 Vaucresson",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12265640500930307877",
+        "nom": "SFD INOVAR",
+        "slug": "sfd-inovar",
+        "telephone": "06 18 64 51 99",
+        "site_web": "https://www.sfd-inovar.fr/?utm_source=gmb",
+        "adresse": "1 Pass. du Clos, 92380 Garches",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "3957016129157515405",
+        "nom": "HUGUET SAS",
+        "slug": "huguet-sas",
+        "telephone": "01 47 51 68 49",
+        "site_web": "http://www.huguet-sa.fr/",
+        "adresse": "20 Av. du 18 Juin 1940, 92500 Rueil-Malmaison",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "14201186187563883030",
+        "nom": "MJ Serrurerie des Hauts-de-Seine",
+        "slug": "mj-serrurerie-des-hauts-de-seine",
+        "telephone": "01 47 41 02 95",
+        "site_web": null,
+        "adresse": "1 Rue Claude Liard, 92380 Garches",
+        "note": 5,
+        "avis": 6,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3310358243572308650",
+        "nom": "Fenêtres Consulting",
+        "slug": "fenetres-consulting",
+        "telephone": "01 47 01 25 89",
+        "site_web": "https://fenetresconsulting.fr/",
+        "adresse": "21 Av. Joffre, 92380 Garches",
+        "note": 4.8,
+        "avis": 175,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10050895216231805850",
+        "nom": "AWS-Custom",
+        "slug": "aws-custom",
+        "telephone": "06 26 47 64 21",
+        "site_web": "http://www.aws-custom.fr/",
+        "adresse": "68 Rue de Suresnes, 92380 Garches",
+        "note": 5,
+        "avis": 0,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "13372748309088413082",
+        "nom": "IDF PRESTATIONS",
+        "slug": "idf-prestations",
+        "telephone": "06 46 42 03 03",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "clichy": {
+    "artisans": [
+      {
+        "id": "12274934285775278833",
+        "nom": "Ayman Noman",
+        "slug": "ayman-noman",
+        "telephone": "06 52 94 66 74",
+        "site_web": null,
+        "adresse": "16 Rue du Guichet, 92110 Clichy",
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12586182168547995512",
+        "nom": "Home Batiment",
+        "slug": "home-batiment",
+        "telephone": "01 89 16 68 61",
+        "site_web": "https://adcserrurerie.fr/hauts-de-seine/clichy-92110/home-batiment_clichy/",
+        "adresse": "30 Rue Martre, 92110 Clichy",
+        "note": 4.9,
+        "avis": 87,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4183522126006765690",
+        "nom": "Access Depann | Serrurier - Dépannage d'Urgence",
+        "slug": "access-depann-serrurier-depannage-durgence",
+        "telephone": "01 87 58 31 94",
+        "site_web": "https://service-serrurier.fr/",
+        "adresse": "122 Bd Jean Jaurès, 92110 Clichy",
+        "note": 4.9,
+        "avis": 265,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "5894475124091642622",
+        "nom": "Morin Serrurier Clichy",
+        "slug": "morin-serrurier-clichy",
+        "telephone": "01 85 09 49 38",
+        "site_web": "https://morinserrurierclichy.fr/",
+        "adresse": "72 Rue Martre, 92110 Clichy",
+        "note": 5,
+        "avis": 1,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2766408714083807607",
+        "nom": "btqualit installation vmc clichy",
+        "slug": "btqualit-installation-vmc-clichy",
+        "telephone": "01 85 42 06 57",
+        "site_web": "https://btqualit-installation-vmc-clichy.com/",
+        "adresse": "19 Rue Morice, 92110 Clichy",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17649322987785224044",
+        "nom": "Atelier Paris Menuiserie",
+        "slug": "atelier-paris-menuiserie",
+        "telephone": "01 45 26 00 50",
+        "site_web": "http://atelierparismenuiserie.fr/",
+        "adresse": "62 Rue de Paris, 92110 Clichy",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10985615861900395234",
+        "nom": "Napc renovation",
+        "slug": "napc-renovation",
+        "telephone": "07 61 97 79 50",
+        "site_web": null,
+        "adresse": "22b All. Léon Gambetta, 92110 Clichy",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16465074106520108462",
+        "nom": "Global Multitec : Maintenance multitechniques & Travaux",
+        "slug": "global-multitec-maintenance-multitechniques-travaux",
+        "telephone": "07 44 99 90 90",
+        "site_web": "https://globalmultitec.com/",
+        "adresse": "6 Rue des Bateliers, 92110 Clichy",
+        "note": 4.8,
+        "avis": 108,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1716351495716523637",
+        "nom": "BELHADJIO - Entreprise Générale de Bâtiment à Clichy et île de France",
+        "slug": "belhadjio-entreprise-generale-de-batiment-a-clichy-et-ile-de-france",
+        "telephone": "01 55 90 80 30",
+        "site_web": "http://renovation-clichy.fr/",
+        "adresse": "6 Rue Huntziger, 92110 Clichy",
+        "note": 5,
+        "avis": 45,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "12041040046624104280",
+        "nom": "DMB ElecPro",
+        "slug": "dmb-elecpro",
+        "telephone": "06 99 41 37 34",
+        "site_web": null,
+        "adresse": "6 Rue des Bateliers, 92110 Clichy",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "courbevoie": {
+    "artisans": [
+      {
+        "id": "3824134870957823666",
+        "nom": "ASC Serruriers",
+        "slug": "asc-serruriers",
+        "telephone": "06 72 03 27 38",
+        "site_web": "http://www.asc-serruriers.com/",
+        "adresse": "46 Bd Aristide Briand, 92400 Courbevoie",
+        "note": 5,
+        "avis": 7,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14664592608992711264",
+        "nom": "Kardelen renovation",
+        "slug": "kardelen-renovation",
+        "telephone": "06 63 42 97 38",
+        "site_web": "https://kardelenrenovation.com/",
+        "adresse": "15 Av. Marceau, 92400 Courbevoie",
+        "note": 5,
+        "avis": 11,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2681879576417549533",
+        "nom": "Pro Signal Point Fort Fichet - Serrurier Courbevoie - Dépannage, réparation & motorisation de volets roulants",
+        "slug": "pro-signal-point-fort-fichet-serrurier-courbevoie-depannage-reparation-motorisation-de-volets-roulants",
+        "telephone": "06 69 55 86 45",
+        "site_web": "https://www.serrurerie-prosignal.fr/?utm_source=GMB&utm_medium=seo_local&utm_campaign=GMB_Courbevoie",
+        "adresse": "102 Rue de Colombes, 92400 Courbevoie",
+        "note": 4.9,
+        "avis": 85,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12579694463104023449",
+        "nom": "Serrurerie Rapid - serrurier courbevoie",
+        "slug": "serrurerie-rapid-serrurier-courbevoie",
+        "telephone": "06 47 20 77 26",
+        "site_web": "https://www.serrurerie-courbevoie.ovh/",
+        "adresse": "1 Av. Marceau, 92400 Courbevoie",
+        "note": 4.6,
+        "avis": 154,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11888395522325566787",
+        "nom": "Serrurerie Charras",
+        "slug": "serrurerie-charras",
+        "telephone": "01 47 68 93 86",
+        "site_web": "http://www.serrureriecharras.com/?utm_source=gmb",
+        "adresse": "29 Av. Marceau, 92400 Courbevoie",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11017192599010040381",
+        "nom": "Serrurerie Sécurité Protection",
+        "slug": "serrurerie-securite-protection",
+        "telephone": "01 84 20 23 46",
+        "site_web": "https://www.travaux.com/bricolage/serrurier-professionnels/courbevoie",
+        "adresse": null,
+        "note": 4.2,
+        "avis": 21,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3275340455022102809",
+        "nom": "ART & FENETRES PARISIENNES COURBEVOIE",
+        "slug": "art-fenetres-parisiennes-courbevoie",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/courbevoie-92400.php",
+        "adresse": "82 Rue de Colombes, 92400 Courbevoie",
+        "note": 4.4,
+        "avis": 115,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4843470169894996055",
+        "nom": "Tordjman Metal",
+        "slug": "tordjman-metal",
+        "telephone": "01 47 68 93 86",
+        "site_web": "http://www.serrureriecharras.com/",
+        "adresse": "92400 Courbevoie",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Boutique de serrurerie"
+      },
+      {
+        "id": "17134607005110574702",
+        "nom": "COURBEVOIE PLOMBIER E.L.P.F",
+        "slug": "courbevoie-plombier-elpf",
+        "telephone": "01 46 30 46 12",
+        "site_web": "http://www.artisansparis-plombier-serrurier.fr/",
+        "adresse": "49 Rue de Bitche, 92400 Courbevoie",
+        "note": 4.9,
+        "avis": 73,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "issy-les-moulineaux": {
+    "artisans": [
+      {
+        "id": "4508938361856468107",
+        "nom": "Miel Issy-les-Moulineaux",
+        "slug": "miel-issy-les-moulineaux",
+        "telephone": "01 84 21 69 47",
+        "site_web": "https://mielserrurierissy-les-moulineaux.fr/",
+        "adresse": "4 Rue René Jacques, 92130 Issy-les-Moulineaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12728340933720937279",
+        "nom": "IBER PROTECTION - Point Fort Fichet",
+        "slug": "iber-protection-point-fort-fichet",
+        "telephone": "01 46 42 75 75",
+        "site_web": "https://www.iber-protection.fr/",
+        "adresse": "176 Av. de Verdun, 92130 Issy-les-Moulineaux",
+        "note": 4.7,
+        "avis": 107,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11766798870176750634",
+        "nom": "Renoserrure - Serrurerie, Vitrerie, Dépannage",
+        "slug": "renoserrure-serrurerie-vitrerie-depannage",
+        "telephone": "06 58 82 26 61",
+        "site_web": "https://www.renoserrure.fr/",
+        "adresse": "38 Rue Danton, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 153,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1754772258427182562",
+        "nom": "ART ET FENETRES PARISIENNES ISSY LES MOULINEAUX",
+        "slug": "art-et-fenetres-parisiennes-issy-les-moulineaux",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/",
+        "adresse": "11 bis Rue Ernest Renan, 92130 Issy-les-Moulineaux",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "9470670266416886704",
+        "nom": "ASV Services - volet roulant/vitrerie",
+        "slug": "asv-services-volet-roulantvitrerie",
+        "telephone": "01 78 76 83 95",
+        "site_web": "http://asv-services.fr/",
+        "adresse": "41 Rue des Bois, 75019 Paris",
+        "note": 3.9,
+        "avis": 123,
+        "type": "Serrurier"
+      },
+      {
+        "id": "761669862583118526",
+        "nom": "Etablissements Guy Duval",
+        "slug": "etablissements-guy-duval",
+        "telephone": "01 40 93 07 07",
+        "site_web": "https://www.egd-serrurier.com/",
+        "adresse": "52 Rue Jean Pierre Timbaud, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 155,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8121464727244015792",
+        "nom": "Bastien Serrurier Issy-les-moulineaux",
+        "slug": "bastien-serrurier-issy-les-moulineaux",
+        "telephone": "06 68 57 38 83",
+        "site_web": "http://bastienserrurierissylesmoulineaux.fr/",
+        "adresse": "07 Av. Victor Cresson, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 8,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8850981043595552914",
+        "nom": "BATEC SERRURERIE",
+        "slug": "batec-serrurerie",
+        "telephone": "06 19 06 42 42",
+        "site_web": "http://www.porteclaquee.fr/",
+        "adresse": "8 Pl. Léon Blum, 92130 Issy-les-Moulineaux",
+        "note": 4.8,
+        "avis": 48,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6671919261621304899",
+        "nom": "Artisans D'Issy",
+        "slug": "artisans-dissy",
+        "telephone": "06 62 55 57 28",
+        "site_web": "http://artisans-dissy.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 57,
+        "type": "Plombier"
+      },
+      {
+        "id": "9020569602695914831",
+        "nom": "IPE ISOLATION PROTECTION EQUIPEMENT",
+        "slug": "ipe-isolation-protection-equipement",
+        "telephone": "01 46 38 13 00",
+        "site_web": "http://www.ipe-issy92.fr/",
+        "adresse": "23 bis Rue Danton, 92130 Issy-les-Moulineaux",
+        "note": 3.8,
+        "avis": 25,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "malakoff": {
+    "artisans": [
+      {
+        "id": "7257140787726979632",
+        "nom": "Ateliers Dewerpe - Bureaux",
+        "slug": "ateliers-dewerpe-bureaux",
+        "telephone": "01 46 05 04 32",
+        "site_web": "https://www.ateliersdewerpe.com/",
+        "adresse": "16 Rue Eugène Varlin, 92240 Malakoff",
+        "note": 4,
+        "avis": 8,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1396941193161462154",
+        "nom": "Avenir Rénovations 92 Montrouge",
+        "slug": "avenir-renovations-92-montrouge",
+        "telephone": "01 86 65 10 63",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-montrouge/",
+        "adresse": "1 Rue Sadi Carnot, 92120 Montrouge",
+        "note": 4.6,
+        "avis": 57,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12651471946379366441",
+        "nom": "METAL 2000 Paris 14 - Réparation rideaux métalliques et volets roulants",
+        "slug": "metal-2000-paris-14-reparation-rideaux-metalliques-et-volets-roulants",
+        "telephone": "01 83 64 25 16",
+        "site_web": "https://www.metal2000.fr/nos-agences/paris-14-75014/",
+        "adresse": "25 Bd Romain Rolland, 75014 Paris",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "16259400431567417404",
+        "nom": "Etablissement Laroche",
+        "slug": "etablissement-laroche",
+        "telephone": "01 42 03 05 85",
+        "site_web": "https://www.etablissements-laroche.fr/malakoff-92240?utm_source=gmb",
+        "adresse": "13 Rue Victor Hugo, 92240 Malakoff",
+        "note": 4.5,
+        "avis": 78,
+        "type": "Électricien"
+      },
+      {
+        "id": "8391208897315914553",
+        "nom": "JZ Sécurité - Point Fort Fichet",
+        "slug": "jz-securite-point-fort-fichet",
+        "telephone": "01 46 57 04 51",
+        "site_web": "https://www.jz-securite.com/",
+        "adresse": "106 Av. de la République, 92120 Montrouge",
+        "note": 4.8,
+        "avis": 106,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15409857364353117550",
+        "nom": "Nouvelle Miroiterie du Sud",
+        "slug": "nouvelle-miroiterie-du-sud",
+        "telephone": "01 46 05 04 32",
+        "site_web": null,
+        "adresse": "16 Rue Eugène Varlin, 92240 Malakoff",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1004165763228513499",
+        "nom": "AED Serrurerie",
+        "slug": "aed-serrurerie",
+        "telephone": "06 81 58 39 73",
+        "site_web": "https://aed-serrurerie.fr/",
+        "adresse": "14 Rue Auguste Comte, 92170 Vanves",
+        "note": 5,
+        "avis": 39,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10359705778032815301",
+        "nom": "LumyBat-Entreprise de rénovation Malakoff",
+        "slug": "lumybat-entreprise-de-renovation-malakoff",
+        "telephone": "01 85 53 78 39",
+        "site_web": "https://www.lumybat.fr/",
+        "adresse": "1 Rue Danton, 92240 Malakoff",
+        "note": 5,
+        "avis": 7,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "levallois-perret": {
+    "artisans": [
+      {
+        "id": "10320874849643944932",
+        "nom": "alain pere et fils serrurier vitrier",
+        "slug": "alain-pere-et-fils-serrurier-vitrier",
+        "telephone": "01 42 70 52 60",
+        "site_web": "https://hubert-pere-fils.fr/serrurerie/",
+        "adresse": "65 Rue Edouard Vaillant, 92300 Levallois-Perret",
+        "note": 3.6,
+        "avis": 56,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4264748725763417985",
+        "nom": "WEISZ",
+        "slug": "weisz",
+        "telephone": "01 41 13 45 45",
+        "site_web": "https://www.weisz.fr/",
+        "adresse": "8 Rte de la Garenne, 92140 Clamart",
+        "note": 4.2,
+        "avis": 222,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "16682111133062203174",
+        "nom": "Serrurerie & Vitrerie Elite Services",
+        "slug": "serrurerie-vitrerie-elite-services",
+        "telephone": "01 80 46 81 38",
+        "site_web": "https://asv-eliteservices.fr/",
+        "adresse": "27 Rue Chaptal, 92300 Levallois-Perret",
+        "note": 4.6,
+        "avis": 259,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6647029537324324115",
+        "nom": "ART & FENETRES PARISIENNES LEVALLOIS",
+        "slug": "art-fenetres-parisiennes-levallois",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/levallois-perret-92300.php",
+        "adresse": "28 Rue Rivay, 92300 Levallois-Perret",
+        "note": 4.8,
+        "avis": 118,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "922554995976544746",
+        "nom": "Vitrier Levallois Perret",
+        "slug": "vitrier-levallois-perret",
+        "telephone": "01 87 21 11 87",
+        "site_web": "https://temp-gsyppvvhcscvhbxxwhwr.webadorsite.com/",
+        "adresse": "3 Rue Louise Michel, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "4302794736927441162",
+        "nom": "Serrurier Levallois Perret",
+        "slug": "serrurier-levallois-perret",
+        "telephone": "01 80 88 95 55",
+        "site_web": "https://www.serrurier-levalloisperret.com/?utm_source=gmb",
+        "adresse": "12 Rue Aristide Briand, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 148,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10426825749038096479",
+        "nom": "Vitrerie et Miroiterie Moderne - Levallois",
+        "slug": "vitrerie-et-miroiterie-moderne-levallois",
+        "telephone": "06 64 54 15 76",
+        "site_web": "http://miroiteriemoderne.fr/",
+        "adresse": "110 Rue du Président Wilson, 92300 Levallois-Perret",
+        "note": 4.8,
+        "avis": 297,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9650552102498649905",
+        "nom": "HK-SERRURIER PLOMBIER",
+        "slug": "hk-serrurier-plombier",
+        "telephone": "01 89 16 33 63",
+        "site_web": null,
+        "adresse": "74 Rue Aristide Briand, 92300 Levallois-Perret",
+        "note": 4.8,
+        "avis": 95,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14773002928991223898",
+        "nom": "BATI LS LEVALLOIS PERRET",
+        "slug": "bati-ls-levallois-perret",
+        "telephone": "06 15 17 23 72",
+        "site_web": "https://avsbati.com/",
+        "adresse": "64 Rue Anatole France, 92300 Levallois-Perret",
+        "note": 4.7,
+        "avis": 74,
+        "type": "Plombier"
+      },
+      {
+        "id": "8848841659534604735",
+        "nom": "L' Atelier De La Serrure - Picard serrures . Serrurier-Vitrier",
+        "slug": "l-atelier-de-la-serrure-picard-serrures-serrurier-vitrier",
+        "telephone": "01 80 88 68 08",
+        "site_web": "https://latelierdelaserrure.com/?utm_source=gmb",
+        "adresse": "12 Rue Rivay, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 210,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "marnes-la-coquette": {
+    "artisans": [
+      {
+        "id": "5712649538841125237",
+        "nom": "Porte Blanche",
+        "slug": "porte-blanche",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6-12 Rue de la Prte Blanche, 92430 Marnes-la-Coquette",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Site historique"
+      },
+      {
+        "id": "1716633067475342876",
+        "nom": "Confort Installation Actuel",
+        "slug": "confort-installation-actuel",
+        "telephone": "01 47 01 02 31",
+        "site_web": "https://www.cuisines-cia.com/",
+        "adresse": "9 Bd Raymond Poincaré, 92430 Marnes-la-Coquette",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Cuisiniste"
+      }
+    ]
+  },
+  "meudon": {
+    "artisans": [
+      {
+        "id": "15062807617277056606",
+        "nom": "PORTES ET FENÊTRES ESSONNE",
+        "slug": "portes-et-fenetres-essonne",
+        "telephone": "01 69 31 11 59",
+        "site_web": "https://www.portesetfenetres-essonne.com/",
+        "adresse": "158 Rue de Paris, 91120 Palaiseau",
+        "note": 4.9,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5646295425896537572",
+        "nom": "Les Fermetures de la Maison - Agence Fenêtres & Menuiseries",
+        "slug": "les-fermetures-de-la-maison-agence-fenetres-menuiseries",
+        "telephone": "01 45 74 60 06",
+        "site_web": "https://www.fenetreetmenuiserie.com/",
+        "adresse": "1 Pl. Rabelais, 92190 Meudon",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5250299457815045868",
+        "nom": "DOMOMAX",
+        "slug": "domomax",
+        "telephone": "07 81 53 05 17",
+        "site_web": "https://www.domomax.fr/",
+        "adresse": "Rue du Bois de Fleury, 92190 Meudon",
+        "note": 5,
+        "avis": 18,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5771707722229646616",
+        "nom": "Securigam",
+        "slug": "securigam",
+        "telephone": "06 81 26 38 63",
+        "site_web": "https://securigam.com/",
+        "adresse": "11 Rue d'Arthelon, 92190 Meudon",
+        "note": 5,
+        "avis": 20,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11128327914998516775",
+        "nom": "Peyraud Jean-Pierre",
+        "slug": "peyraud-jean-pierre",
+        "telephone": "01 46 23 83 60",
+        "site_web": "https://www.facebook.com/Jean-Pierre-Peyraud-Serrurier-111842960993164",
+        "adresse": "30 Rue Lucien Feuchot, 92190 Meudon",
+        "note": 5,
+        "avis": 33,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9766901193300671186",
+        "nom": "Les Petits Rénovateurs",
+        "slug": "les-petits-renovateurs",
+        "telephone": "06 64 43 77 81",
+        "site_web": "https://www.facebook.com/lespetitsrenovateurs",
+        "adresse": "35 bis Av. du Bois, 92190 Meudon",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "492139931227860684",
+        "nom": "Isolespace",
+        "slug": "isolespace",
+        "telephone": "01 45 34 04 50",
+        "site_web": "http://www.isolespace.com/",
+        "adresse": "62B Rte des Gardes, 92190 Meudon",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "9524029826459614655",
+        "nom": "ARTISAN PLOMBIER MEUDON E.L.P.F ASSISTANCE",
+        "slug": "artisan-plombier-meudon-elpf-assistance",
+        "telephone": "01 46 30 46 12",
+        "site_web": "http://www.artisans-plombiers-meudon.fr/",
+        "adresse": "2 Bis Rue Robert Julien Lanen, 92190 Meudon",
+        "note": 4.8,
+        "avis": 113,
+        "type": "Plombier"
+      },
+      {
+        "id": "424217554574025770",
+        "nom": "Bl serrurier 92 installation dépannage",
+        "slug": "bl-serrurier-92-installation-depannage",
+        "telephone": "01 84 73 18 73",
+        "site_web": "https://serrurier-artisanbl.fr/",
+        "adresse": "9 Rue des Grimettes, 92190 Meudon",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8908879842351774215",
+        "nom": "Maitrise work",
+        "slug": "maitrise-work",
+        "telephone": "07 53 06 52 58",
+        "site_web": null,
+        "adresse": "Rue des Larris, 92190 Meudon",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nanterre": {
+    "artisans": [
+      {
+        "id": "4021275356728022768",
+        "nom": "Budprotect",
+        "slug": "budprotect",
+        "telephone": "07 53 65 30 19",
+        "site_web": "http://budprotect.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5424683101342860461",
+        "nom": "Serrurier Nanterre",
+        "slug": "serrurier-nanterre",
+        "telephone": "07 56 92 55 55",
+        "site_web": "https://www.serruriernanterre.net/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 436,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "2545653032600058944",
+        "nom": "Vasseur Fenêtres",
+        "slug": "vasseur-fenetres",
+        "telephone": "01 47 24 76 47",
+        "site_web": "http://www.vasseur-fenetres.fr/coordonnees/",
+        "adresse": "150 Bd National, 92000 Nanterre",
+        "note": 4.8,
+        "avis": 83,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14075626720469213270",
+        "nom": "Beynat Fermetures - OuvertureS - Nanterre",
+        "slug": "beynat-fermetures-ouvertures-nanterre",
+        "telephone": "01 40 99 00 36",
+        "site_web": "https://www.beynat-fermetures.net/",
+        "adresse": "290 Av. Georges Clemenceau, 92000 Nanterre",
+        "note": 4.5,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7721076160171689137",
+        "nom": "Serrurier 92000 - Urgence Serrurerie 24h/24 à Nanterre, Paris & IDF",
+        "slug": "serrurier-92000-urgence-serrurerie-24h24-a-nanterre-paris-idf",
+        "telephone": "06 19 60 29 95",
+        "site_web": "https://serrurier92000.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 68,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11620228185834153321",
+        "nom": "GLASSGOW WINDOWS : Fabricant de fenêtres, Installation, Pose. Volets, Portes, Stores",
+        "slug": "glassgow-windows-fabricant-de-fenetres-installation-pose-volets-portes-stores",
+        "telephone": "01 89 29 19 80",
+        "site_web": "https://www.glassgow.fr/",
+        "adresse": "51 Rue Henri Barbusse, 92000 Nanterre",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12089957388743796552",
+        "nom": "Europe Carrelage",
+        "slug": "europe-carrelage",
+        "telephone": "01 47 21 57 90",
+        "site_web": "http://www.europecarrelage.fr/",
+        "adresse": "21 Rue de Stalingrad, 92000 Nanterre",
+        "note": 4.4,
+        "avis": 62,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "9033216016911529988",
+        "nom": "METAL 2000 Ouest francilien - Installation, dépannage rideaux Métalliques, Portes de garage Sectionnelles industrielles (95)",
+        "slug": "metal-2000-ouest-francilien-installation-depannage-rideaux-metalliques-portes-de-garage-sectionnelles-industrielles-95",
+        "telephone": "01 84 18 07 06",
+        "site_web": "https://www.metal2000.fr/nos-agences/agence-bezons/",
+        "adresse": null,
+        "note": 5,
+        "avis": 23,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "montrouge": {
+    "artisans": [
+      {
+        "id": "10064683855568849310",
+        "nom": "ART & FENETRES PARISIENNES MONTROUGE",
+        "slug": "art-fenetres-parisiennes-montrouge",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/montrouge-92120.php",
+        "adresse": "82 Av. Aristide Briand, 92120 Montrouge",
+        "note": 4.7,
+        "avis": 181,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12182702394592871572",
+        "nom": "alain pere et fils",
+        "slug": "alain-pere-et-fils",
+        "telephone": "01 42 70 52 60",
+        "site_web": "https://direct-depannages.fr/plombier-depannage-idf/",
+        "adresse": "76 Av. Aristide Briand, 92120 Montrouge",
+        "note": 4,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "15654193441749407708",
+        "nom": "Ross Montrouge",
+        "slug": "ross-montrouge",
+        "telephone": "01 84 20 64 85",
+        "site_web": "https://rossserruriermontrouge.fr/",
+        "adresse": "64 Av. de la République, 92120 Montrouge",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8790093616438174800",
+        "nom": "serrurerie Le Bloas - Picard Serrures",
+        "slug": "serrurerie-le-bloas-picard-serrures",
+        "telephone": "01 46 56 00 00",
+        "site_web": null,
+        "adresse": "103 Rue Gabriel Péri, 92120 Montrouge",
+        "note": 4.7,
+        "avis": 54,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14415865873454758376",
+        "nom": "YL Services - Paris 14",
+        "slug": "yl-services-paris-14",
+        "telephone": "01 85 09 32 26",
+        "site_web": "https://depannage-serrurier-proximite.fr/",
+        "adresse": "35 Rue Beaunier, 75014 Paris",
+        "note": 5,
+        "avis": 24,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1396941193161462154",
+        "nom": "Avenir Rénovations 92 Montrouge",
+        "slug": "avenir-renovations-92-montrouge",
+        "telephone": "01 86 65 10 63",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-montrouge/",
+        "adresse": "1 Rue Sadi Carnot, 92120 Montrouge",
+        "note": 4.6,
+        "avis": 57,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "13945185318376010191",
+        "nom": "Diruy",
+        "slug": "diruy",
+        "telephone": "01 45 45 46 46",
+        "site_web": "http://diruy.fr/",
+        "adresse": "168 Rue Raymond Losserand, 75014 Paris",
+        "note": 4.8,
+        "avis": 116,
+        "type": "Magasin"
+      },
+      {
+        "id": "7554264443651194773",
+        "nom": "AEF Fenêtres",
+        "slug": "aef-fenetres",
+        "telephone": "01 45 42 00 00",
+        "site_web": "https://www.aef-fenetres.com/?utm_source=GMB-14&utm_medium=web_site_button&utm_id=google",
+        "adresse": "37 Rue Sarrette, 75014 Paris",
+        "note": 4.5,
+        "avis": 71,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9856655455815902557",
+        "nom": "Diallo vitrier artisan",
+        "slug": "diallo-vitrier-artisan",
+        "telephone": "06 34 03 72 49",
+        "site_web": "http://diallovitrierartisan.com/accueil",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 618,
+        "type": "Vitrier"
+      },
+      {
+        "id": "12940907917536591495",
+        "nom": "Shurgard Self Storage Paris - Porte de Châtillon",
+        "slug": "shurgard-self-storage-paris-porte-de-chatillon",
+        "telephone": "01 46 57 50 50",
+        "site_web": "https://www.shurgard.com/fr-fr/garde-meuble/hauts-de-seine/paris-porte-de-chatillon?utm_source=local-listings&utm_campaign=FR01&utm_medium=organic",
+        "adresse": "95 Av. Pierre Brossolette, 92120 Montrouge",
+        "note": 4.8,
+        "avis": 721,
+        "type": "Garde-meubles en libre-service"
+      }
+    ]
+  },
+  "neuilly-sur-seine": {
+    "artisans": [
+      {
+        "id": "2425491973649758319",
+        "nom": "Electricien Neuilly",
+        "slug": "electricien-neuilly",
+        "telephone": "06 99 52 22 55",
+        "site_web": "https://electricienneuilly.com/",
+        "adresse": "22 Rue de Chartres, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 33,
+        "type": "Électricien"
+      },
+      {
+        "id": "3363943371213157249",
+        "nom": "ACIER PROTECTION IRON NEUILLY SUR SEINE. INSTALLATEUR AGREE PICARD SERRURES NEUILLY SUR SEINE",
+        "slug": "acier-protection-iron-neuilly-sur-seine-installateur-agree-picard-serrures-neuilly-sur-seine",
+        "telephone": "01 46 24 24 65",
+        "site_web": "https://www.serrurier-iron-neuillysurseine.fr/",
+        "adresse": "58 Av. du Roule, 92200 Neuilly-sur-Seine",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2686465246108740922",
+        "nom": "SERRURIER NEUILLY-SUR-SEINE ALCOF SÉCURITÉ - Point Fort Fichet | Serrurerie Neuilly-sur-Seine",
+        "slug": "serrurier-neuilly-sur-seine-alcof-securite-point-fort-fichet-serrurerie-neuilly-sur-seine",
+        "telephone": "01 40 88 40 40",
+        "site_web": "https://www.alcof-securite.fr/",
+        "adresse": "13 Rue des Huissiers, 92200 Neuilly-sur-Seine",
+        "note": 4.6,
+        "avis": 56,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9904476878211217038",
+        "nom": "MICKA SERVICES Neuilly sur Seine 92 ( serrurerie ,blindage ….)",
+        "slug": "micka-services-neuilly-sur-seine-92-serrurerie-blindage",
+        "telephone": "07 65 88 22 22",
+        "site_web": null,
+        "adresse": "20 Rue Paul Chatrousse, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 63,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4830421184052523534",
+        "nom": "Etudes Services",
+        "slug": "etudes-services",
+        "telephone": "07 56 28 33 82",
+        "site_web": "https://www.etudes-services.fr/?utm_source=gmb",
+        "adresse": "191 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.8,
+        "avis": 342,
+        "type": "Plombier"
+      },
+      {
+        "id": "13051671203608271089",
+        "nom": "TRYBA Neuilly-sur-Seine",
+        "slug": "tryba-neuilly-sur-seine",
+        "telephone": "01 59 30 12 29",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-neuilly-sur-seine/?utm_campaign=Tryba_Neuilly-sur-Seine&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "31 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.4,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6940293642236048342",
+        "nom": "Ile de France Fermetures",
+        "slug": "ile-de-france-fermetures",
+        "telephone": "07 82 70 35 55",
+        "site_web": "http://www.idf-fermetures-neuillysurseine.fr/",
+        "adresse": "20 bis Rue Louis Philippe, 92200 Neuilly-sur-Seine",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4223199322836711816",
+        "nom": "Jacques & Sam - Dépannage - Plombier Neuilly - Electricien - Climatisation - Pompe à Chaleur",
+        "slug": "jacques-sam-depannage-plombier-neuilly-electricien-climatisation-pompe-a-chaleur",
+        "telephone": "06 50 48 09 39",
+        "site_web": "https://jacques-et-sam-depannage.fr/",
+        "adresse": "80 Bd Bineau, 92200 Neuilly-sur-Seine",
+        "note": 4.5,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "16904807757984184245",
+        "nom": "SAS STM AU PETIT SERRURIER NEUILLY",
+        "slug": "sas-stm-au-petit-serrurier-neuilly",
+        "telephone": "07 81 69 20 79",
+        "site_web": "https://www.aupetitserrurier-de-neuilly.fr/",
+        "adresse": "Service de dépannage d’urgence 7/7, Atelier de Réparation de Serrures, 176 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.8,
+        "avis": 189,
+        "type": "Serrurier"
+      },
+      {
+        "id": "382167713955659685",
+        "nom": "Les Rénovations Sublimes",
+        "slug": "les-renovations-sublimes",
+        "telephone": "01 84 20 94 17",
+        "site_web": "http://www.triomphe-concept.fr/",
+        "adresse": "99 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur en construction intérieure"
+      }
+    ]
+  },
+  "rueil-malmaison": {
+    "artisans": [
+      {
+        "id": "15495157837763144919",
+        "nom": "LM Fermetures",
+        "slug": "lm-fermetures",
+        "telephone": "06 48 67 58 51",
+        "site_web": "https://fermetures-lm.fr/",
+        "adresse": "8 Rue des Géraniums, 92500 Rueil-Malmaison",
+        "note": 4.9,
+        "avis": 218,
+        "type": "Serrurier"
+      },
+      {
+        "id": "399941914136279542",
+        "nom": "SERRURIER RUEIL-MALMAISON - APS ALCOF- Point Fort Fichet - Serrurerie Rueil-Malmaison",
+        "slug": "serrurier-rueil-malmaison-aps-alcof-point-fort-fichet-serrurerie-rueil-malmaison",
+        "telephone": "01 47 51 27 20",
+        "site_web": "http://www.ap-securite.fr/",
+        "adresse": "8 Rue Hervet, 92500 Rueil-Malmaison",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13015015832205761182",
+        "nom": "MEOVIA Habitat - WC Lavants japonais, Portes et fenêtres en bois & Rénovation électrique/domotique",
+        "slug": "meovia-habitat-wc-lavants-japonais-portes-et-fenetres-en-bois-renovation-electriquedomotique",
+        "telephone": "09 75 57 22 52",
+        "site_web": "https://meoviahabitat.fr/",
+        "adresse": "31 Rue de l'Yser, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 94,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-plessis-robinson": {
+    "artisans": [
+      {
+        "id": "12520615387804511338",
+        "nom": "TRYBA Faron Fenêtres",
+        "slug": "tryba-faron-fenetres",
+        "telephone": "01 69 07 62 62",
+        "site_web": "http://www.faron-fenetres.com/",
+        "adresse": "65 Av. de Robinson, 92290 Châtenay-Malabry",
+        "note": 4.9,
+        "avis": 139,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12801102397714851715",
+        "nom": "M.Armand sos volets",
+        "slug": "marmand-sos-volets",
+        "telephone": "06 73 32 60 52",
+        "site_web": "https://www.sosvolets92.fr/",
+        "adresse": null,
+        "note": 2.8,
+        "avis": 12,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "10569905521214615048",
+        "nom": "Alarmes Stores Fermetures",
+        "slug": "alarmes-stores-fermetures",
+        "telephone": "01 47 02 57 61",
+        "site_web": "http://www.asfstore.fr/",
+        "adresse": "12 Av. des 4 Chemins, 92290 Châtenay-Malabry",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "puteaux": {
+    "artisans": [
+      {
+        "id": "3314267733350250864",
+        "nom": "Sarl nouvelles Rénovations",
+        "slug": "sarl-nouvelles-renovations",
+        "telephone": "06 07 79 79 75",
+        "site_web": null,
+        "adresse": "31-33 Rue Jean Jaurès, 92800 Puteaux",
+        "note": 5,
+        "avis": 8,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "17204610931469885316",
+        "nom": "Etablissement Laroche",
+        "slug": "etablissement-laroche",
+        "telephone": "01 40 90 05 72",
+        "site_web": "http://www.etablissements-laroche.fr/?utm_source=gmb",
+        "adresse": "39 Rue Rousselle, 92800 Puteaux",
+        "note": 4.7,
+        "avis": 106,
+        "type": "Plombier"
+      },
+      {
+        "id": "17082816853795052488",
+        "nom": "Vitrier puteaux",
+        "slug": "vitrier-puteaux",
+        "telephone": "01 87 58 74 11",
+        "site_web": null,
+        "adresse": "26 Rue de la République, 92800 Puteaux",
+        "note": 5,
+        "avis": 9,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "14725804699913993060",
+        "nom": "Serrurerie Normand",
+        "slug": "serrurerie-normand",
+        "telephone": "07 87 59 70 32",
+        "site_web": "http://www.serrurerie-cordonnerie-normand.com/",
+        "adresse": "71 Rue de la République, 92800 Puteaux",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "16618560497068764707",
+        "nom": "SERPEO FELIX FAURE - Point Fort Fichet",
+        "slug": "serpeo-felix-faure-point-fort-fichet",
+        "telephone": "01 47 73 03 30",
+        "site_web": "http://www.serpeopro.com/",
+        "adresse": "21 Rue Arago, 92800 Puteaux",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Serrurier"
+      },
+      {
+        "id": "116290446776016708",
+        "nom": "Église Évangélique La Porte",
+        "slug": "eglise-evangelique-la-porte",
+        "telephone": null,
+        "site_web": "http://www.egliselaporte.fr/",
+        "adresse": "32 Rue Charles Lorilleux, 92800 Puteaux",
+        "note": 4.6,
+        "avis": 25,
+        "type": "Église évangélique"
+      },
+      {
+        "id": "6972905487116654310",
+        "nom": "Q-Park Puteaux Michelet",
+        "slug": "q-park-puteaux-michelet",
+        "telephone": "01 47 78 16 52",
+        "site_web": "https://www.q-park.fr/fr-fr/villes/paris-la-d%C3%A9fense/la-d%C3%A9fense-michelet/?utm_campaign=partoo&utm_medium=partoo&utm_source=partoo",
+        "adresse": "8 Rue Michelet, 92800 Puteaux",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Parking couvert"
+      },
+      {
+        "id": "15929084267562163395",
+        "nom": "Iso Store Puteaux - Fenêtres, Volets, Portes, Stores",
+        "slug": "iso-store-puteaux-fenetres-volets-portes-stores",
+        "telephone": "01 39 55 62 66",
+        "site_web": "https://isostore.fr/magasin/puteaux/",
+        "adresse": "85 Avenue du Général de Gaulle, 92800 Puteaux",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "6063930223996892041",
+        "nom": "Busnel & Co Plombier Serrurier Dépannage 24h/24",
+        "slug": "busnel-co-plombier-serrurier-depannage-24h24",
+        "telephone": "07 68 26 65 96",
+        "site_web": "https://sites.google.com/view/site-busnel-co/accueil",
+        "adresse": null,
+        "note": 5,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "8229365381433927657",
+        "nom": "Parking Q-Park Villon",
+        "slug": "parking-q-park-villon",
+        "telephone": "01 47 78 16 52",
+        "site_web": "https://www.parkingsparisladefense.fr/fr-fr/villes/paris-la-d%C3%A9fense/la-d%C3%A9fense-villon/?utm_campaign=partoo&utm_medium=partoo&utm_source=partoo",
+        "adresse": "47 Rue Paradis, 92800 Puteaux",
+        "note": 3.5,
+        "avis": 163,
+        "type": "Parking couvert"
+      }
+    ]
+  },
+  "sceaux": {
+    "artisans": [
+      {
+        "id": "8452643242292642575",
+        "nom": "Avenir Rénovations Châtenay-Malabry (92)",
+        "slug": "avenir-renovations-chatenay-malabry-92",
+        "telephone": "01 59 30 14 83",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-chatenay-malabry/",
+        "adresse": "174 Av. de la Division Leclerc, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 12,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "14647221782919749528",
+        "nom": "Fenêtres d'Hier Et D'Aujourdhui",
+        "slug": "fenetres-dhier-et-daujourdhui",
+        "telephone": "01 49 73 38 02",
+        "site_web": "https://op-fenetres-fha.com/les-offres-promotionnelles/ste-fenetres-dhier-et-daujourdhui/menuiseries",
+        "adresse": "144 Bis Av. du Général Leclerc, 92330 Sceaux",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3877974012195439057",
+        "nom": "Fenêtres à la française",
+        "slug": "fenetres-a-la-francaise",
+        "telephone": "01 44 98 00 04",
+        "site_web": "http://www.fenetresalafrancaise.fr/",
+        "adresse": "111 Rue Houdan, 92330 Sceaux",
+        "note": 5,
+        "avis": 103,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4682732131870819557",
+        "nom": "SEDIPEC - batardeau, porte et barrière anti-inondation",
+        "slug": "sedipec-batardeau-porte-et-barriere-anti-inondation",
+        "telephone": "01 87 66 10 20",
+        "site_web": "https://sedipec.com/",
+        "adresse": "32 Rue des Cheneaux, 92330 Sceaux",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "3643036551173681095",
+        "nom": "Jeremy serrurier Sceaux",
+        "slug": "jeremy-serrurier-sceaux",
+        "telephone": "01 84 18 31 13",
+        "site_web": "https://jeremyserruriersceaux.fr/",
+        "adresse": "10 Rue Florian, 92330 Sceaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "suresnes": {
+    "artisans": [
+      {
+        "id": "15484625233465349539",
+        "nom": "Gilsol SAS",
+        "slug": "gilsol-sas",
+        "telephone": "01 47 72 10 99",
+        "site_web": "http://www.gilsol.com/?utm_source=gmb",
+        "adresse": "10 Rue de Verdun, 92150 Suresnes",
+        "note": 4.6,
+        "avis": 59,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16267257478882804195",
+        "nom": "Longchamp sécurité",
+        "slug": "longchamp-securite",
+        "telephone": "01 42 04 71 17",
+        "site_web": "http://www.longchamp-securite.fr/",
+        "adresse": "28 Rue Carnot, 92150 Suresnes",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15232211923727941801",
+        "nom": "LOCKALL Suresnes - Box et Garde meuble",
+        "slug": "lockall-suresnes-box-et-garde-meuble",
+        "telephone": "01 89 71 30 75",
+        "site_web": "https://www.lockall.fr/nos-sites/box-stockage-suresnes/?utm_source=gmb",
+        "adresse": "5 Rue Marcel Monge, 92150 Suresnes",
+        "note": 4.9,
+        "avis": 167,
+        "type": "Garde-meubles en libre-service"
+      },
+      {
+        "id": "2393779547211789720",
+        "nom": "Miroiterie Du Mont Valerien",
+        "slug": "miroiterie-du-mont-valerien",
+        "telephone": "01 40 99 11 74",
+        "site_web": "https://www.mmv-miroiterie.fr/",
+        "adresse": "2 Av. Gustave Stresemann, 92150 Suresnes",
+        "note": 4.6,
+        "avis": 60,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13634467937463563080",
+        "nom": "Cyrille Bel-Capafons",
+        "slug": "cyrille-bel-capafons",
+        "telephone": "09 51 62 78 83",
+        "site_web": "http://www.menuiseriechemin.fr/",
+        "adresse": "9 Chem. des Roses, 92150 Suresnes",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6096475178102463763",
+        "nom": "S2A RENOVATION",
+        "slug": "s2a-renovation",
+        "telephone": "01 84 80 19 58",
+        "site_web": null,
+        "adresse": "17 Rue Georges Appay, 92150 Suresnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "8518631366669014124",
+        "nom": "Longchamp Securite",
+        "slug": "longchamp-securite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "92150 Suresnes",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-cloud": {
+    "artisans": [
+      {
+        "id": "531021153705969918",
+        "nom": "TRYBA Rueil-Malmaison",
+        "slug": "tryba-rueil-malmaison",
+        "telephone": "01 59 30 25 99",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-rueil-malmaison/?utm_campaign=Tryba_Rueil-Malmaison&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "86 Av. du 18 Juin 1940, 92500 Rueil-Malmaison",
+        "note": 4.6,
+        "avis": 68,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17080011738291602210",
+        "nom": "La Boutique du Menuisier Saint Cloud - Fenêtres et Menuiseries 92",
+        "slug": "la-boutique-du-menuisier-saint-cloud-fenetres-et-menuiseries-92",
+        "telephone": "01 86 04 23 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/fenetres-et-menuiseries-92",
+        "adresse": "5 Rue Dailly, 92210 Saint-Cloud",
+        "note": 5,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2190108781561143541",
+        "nom": "Vitrier Saint-Cloud",
+        "slug": "vitrier-saint-cloud",
+        "telephone": "01 87 58 37 64",
+        "site_web": "https://readdy.link/preview/09131cf9-8b94-46a1-a50c-54b58ca28391/5698544",
+        "adresse": "13 Av. du Maréchal Foch, 92210 Saint-Cloud",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "7262300393471788349",
+        "nom": "TRYBA VAUCRESSON",
+        "slug": "tryba-vaucresson",
+        "telephone": "01 47 50 69 04",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-vaucresson/?utm_campaign=Tryba_vaucresson&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "102 Bd de la République, 92420 Vaucresson",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13178348608788261929",
+        "nom": "TRYBA BOULOGNE BILLANCOURT",
+        "slug": "tryba-boulogne-billancourt",
+        "telephone": "01 59 30 27 96",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-boulogne-billancourt/?utm_campaign=Tryba_boulogne_billancourt&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "41 Av. Pierre Grenier, 92100 Boulogne-Billancourt",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sevres": {
+    "artisans": [
+      {
+        "id": "12628893691299741600",
+        "nom": "Pavel Serrurier Sèvres",
+        "slug": "pavel-serrurier-sevres",
+        "telephone": "01 84 18 31 11",
+        "site_web": "https://xn--pavelserruriersvres-4yb.fr/",
+        "adresse": "40 Rue des Caves du Roi, 92310 Sèvres",
+        "note": 5,
+        "avis": 1,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16435165039699914334",
+        "nom": "DOMOOWE Point Fort Fichet",
+        "slug": "domoowe-point-fort-fichet",
+        "telephone": "01 46 26 60 30",
+        "site_web": "https://www.domoowe.fr/",
+        "adresse": "90 Grande Rue, 92310 Sèvres",
+        "note": 4.8,
+        "avis": 143,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13033207526231370273",
+        "nom": "Sécuristes de France",
+        "slug": "securistes-de-france",
+        "telephone": "01 45 07 93 30",
+        "site_web": "http://www.securiste.com/",
+        "adresse": "22 Grande Rue, 92310 Sèvres",
+        "note": 5,
+        "avis": 14,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6313884245530117297",
+        "nom": "Atika Serrurerie - Serrurier à Sèvres",
+        "slug": "atika-serrurerie-serrurier-a-sevres",
+        "telephone": "06 64 81 60 62",
+        "site_web": "https://atika-serrurerie.fr/",
+        "adresse": "64bis Rue des Binelles, 92310 Sèvres",
+        "note": 5,
+        "avis": 58,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "8536804496281925563",
+        "nom": "TRYBA Chaville",
+        "slug": "tryba-chaville",
+        "telephone": "01 47 50 69 04",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-chaville/?utm_campaign=Tryba_chaville&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "594 Av. Roger Salengro, 92370 Chaville",
+        "note": 4.5,
+        "avis": 111,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6718522414883190514",
+        "nom": "Peinture & Décoration d'intérieur - M. Trochez",
+        "slug": "peinture-decoration-dinterieur-m-trochez",
+        "telephone": "06 19 24 09 54",
+        "site_web": "https://mtrochez.fr/",
+        "adresse": "143 Grande Rue, 92310 Sèvres",
+        "note": 5,
+        "avis": 13,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "7817776005807278378",
+        "nom": "RS Serrurerie",
+        "slug": "rs-serrurerie",
+        "telephone": "06 66 15 08 74",
+        "site_web": "https://www.rs-serrurerie.fr/",
+        "adresse": "9 All. des Acacias, 92310 Sèvres",
+        "note": 5,
+        "avis": 33,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5485379032093406201",
+        "nom": "YJ Services",
+        "slug": "yj-services",
+        "telephone": "06 45 10 62 33",
+        "site_web": "https://yj-serrurier.fr/services/serrurier-tous-services-92-hauts-de-seine",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14399273708356821112",
+        "nom": "Tadeko rénov (rénovation peinture, carrelages, électricité, plomberie)",
+        "slug": "tadeko-renov-renovation-peinture-carrelages-electricite-plomberie",
+        "telephone": "06 95 27 92 42",
+        "site_web": null,
+        "adresse": "5 Rue Pierre Midrin, 92310 Sèvres",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "12427976147140107127",
+        "nom": "Alizee Fermetures",
+        "slug": "alizee-fermetures",
+        "telephone": "01 47 50 51 50",
+        "site_web": "https://www.alizeefermetures.com/",
+        "adresse": "17 Rue Victor Hugo, 78350 Jouy-en-Josas",
+        "note": 4.8,
+        "avis": 10,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "vanves": {
+    "artisans": [
+      {
+        "id": "4249174891449969788",
+        "nom": "GalboBain",
+        "slug": "galbobain",
+        "telephone": "01 47 65 89 62",
+        "site_web": "http://www.galbobain.fr/",
+        "adresse": "1 Rue Murillo, 92170 Vanves",
+        "note": 4.7,
+        "avis": 135,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "11699908542963690983",
+        "nom": "Serrurerie Honesty",
+        "slug": "serrurerie-honesty",
+        "telephone": "06 60 94 94 55",
+        "site_web": null,
+        "adresse": "20 Rue de Châtillon, 92170 Vanves",
+        "note": 5,
+        "avis": 42,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8584303662843694125",
+        "nom": "AMDF - Aluminier agréé Technal",
+        "slug": "amdf-aluminier-agree-technal",
+        "telephone": "01 46 45 65 28",
+        "site_web": "https://www.amdf-technal.fr/",
+        "adresse": "10 Rue Vieille Forge, 92170 Vanves",
+        "note": 4.3,
+        "avis": 47,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14756556517130120155",
+        "nom": "Thomas Serrurier Vanves",
+        "slug": "thomas-serrurier-vanves",
+        "telephone": "01 84 21 68 85",
+        "site_web": "https://thomasserruriervanves.fr/",
+        "adresse": "52 Rue Mary Besseyre, 92170 Vanves",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15937502481010042513",
+        "nom": "B.E.D.S. - Blindage Entretien Dépannage Serrurerie",
+        "slug": "beds-blindage-entretien-depannage-serrurerie",
+        "telephone": "01 46 44 71 90",
+        "site_web": null,
+        "adresse": "112 Rue Sadi Carnot, 92170 Vanves",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2855187173287372978",
+        "nom": "TECHNO PIERRE - Tailleur de pierres",
+        "slug": "techno-pierre-tailleur-de-pierres",
+        "telephone": "09 74 56 39 83",
+        "site_web": "https://www.technopierre.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "35 Rue Aristide Briand, 92170 Vanves",
+        "note": 5,
+        "avis": 1,
+        "type": "Tailleur de pierre"
+      },
+      {
+        "id": "7123523127514169473",
+        "nom": "BATI LP Rénovation",
+        "slug": "bati-lp-renovation",
+        "telephone": "01 47 36 83 05",
+        "site_web": "https://www.batilp-renovation.fr/",
+        "adresse": "2 Rue Pruvot, 92170 Vanves",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16828883959943633316",
+        "nom": "Dokteur Store & Volet",
+        "slug": "dokteur-store-volet",
+        "telephone": "01 84 18 14 14",
+        "site_web": "https://www.dokteur.store/ile-de-france/",
+        "adresse": "168 Rue Raymond Losserand, 75014 Paris",
+        "note": 5,
+        "avis": 132,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "4484204653898920545",
+        "nom": "Serrurerie Chevalier SARL",
+        "slug": "serrurerie-chevalier-sarl",
+        "telephone": "06 50 99 07 80",
+        "site_web": "http://www.serrurerie-chevalier.fr/?utm_source=gmb",
+        "adresse": "64 Rue Raymond Losserand, 75014 Paris",
+        "note": 5,
+        "avis": 345,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16122115262973521196",
+        "nom": "Luggage Storage Porte De Vanves - Radical Storage",
+        "slug": "luggage-storage-porte-de-vanves-radical-storage",
+        "telephone": "+44 7441 359076",
+        "site_web": "https://radicalstorage.com/luggage-storage/paris/plaisance/luggage-storage-porte-de-vanves?utm_source=gmb&utm_medium=paris&utm_campaign=porte-de-vanves&utm_content=websiteclick",
+        "adresse": "225 Rue Raymond Losserand, 75014 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Consigne à bagages"
+      }
+    ]
+  },
+  "vaucresson": {
+    "artisans": [
+      {
+        "id": "15596407329766772395",
+        "nom": "Solutions Ouvertures - FENÊTRES, PORTES, VOLETS ÎLE DE FRANCE",
+        "slug": "solutions-ouvertures-fenetres-portes-volets-ile-de-france",
+        "telephone": "01 84 20 29 15",
+        "site_web": null,
+        "adresse": "18 Bd de Jardy, 92420 Vaucresson",
+        "note": 5,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ville-d-avray": {
+    "artisans": [
+      {
+        "id": "18365666572369769452",
+        "nom": "Sté Preciselec : Portes de Garage et Portails automatiques",
+        "slug": "ste-preciselec-portes-de-garage-et-portails-automatiques",
+        "telephone": "01 39 46 77 63",
+        "site_web": "https://www.preciselec.net/",
+        "adresse": "7 Av. Louis Breguet, 78140 Vélizy-Villacoublay",
+        "note": 4.7,
+        "avis": 104,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "7906178732474672116",
+        "nom": "Lopama Fermetures",
+        "slug": "lopama-fermetures",
+        "telephone": "01 47 50 69 04",
+        "site_web": null,
+        "adresse": "594 Av. Roger Salengro, 92370 Chaville",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "1624038992597078446",
+        "nom": "Le P'tit Serrurier Chavillois",
+        "slug": "le-ptit-serrurier-chavillois",
+        "telephone": "06 38 81 10 89",
+        "site_web": "https://www.le-ptit-serrurier-chavillois.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 48,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13825181076345760587",
+        "nom": "Pro Tech Fermeture",
+        "slug": "pro-tech-fermeture",
+        "telephone": "01 69 53 19 70",
+        "site_web": "http://www.protechfermeture.fr/",
+        "adresse": "50 Rue Cambronne, 75015 Paris",
+        "note": 4.3,
+        "avis": 37,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bois-colombes": {
+    "artisans": [
+      {
+        "id": "17238419877244269349",
+        "nom": "Azur Bois-Colombes",
+        "slug": "azur-bois-colombes",
+        "telephone": "01 84 21 69 42",
+        "site_web": "https://azurserrurierbois-colombes.fr/",
+        "adresse": "51 Rue Paul Déroulède, 92270 Bois-Colombes",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10114773574855621960",
+        "nom": "Maison Boucault - L'Expert Fenêtre",
+        "slug": "maison-boucault-lexpert-fenetre",
+        "telephone": "01 60 11 44 48",
+        "site_web": "https://maison-boucault.fr/",
+        "adresse": "11 Rue des Petits Ruisseaux, 91370 Verrières-le-Buisson",
+        "note": 4.6,
+        "avis": 154,
+        "type": "Menuisier"
+      },
+      {
+        "id": "548753622911438054",
+        "nom": "A.Ogalod",
+        "slug": "aogalod",
+        "telephone": null,
+        "site_web": "https://www.ogalod.com/",
+        "adresse": "19 Rue Maurice Berteaux, 92700 Colombes",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3357627336013610916",
+        "nom": "PARE ATTACK SECURITE",
+        "slug": "pare-attack-securite",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "33 Rue Raspail, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 74,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10270207383996027324",
+        "nom": "SARL Artelier",
+        "slug": "sarl-artelier",
+        "telephone": "06 10 11 85 14",
+        "site_web": "https://artelier.fr/",
+        "adresse": "99 Rue des Bourguignons, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 24,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8584974117275735708",
+        "nom": "Stephyr Renovation",
+        "slug": "stephyr-renovation",
+        "telephone": "06 50 55 17 91",
+        "site_web": null,
+        "adresse": "56 Av. Henri Barbusse, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "14265843259038277797",
+        "nom": "Dude in the wood - Le menuisier d'à côté",
+        "slug": "dude-in-the-wood-le-menuisier-da-cote",
+        "telephone": "06 27 80 08 33",
+        "site_web": "https://www.dudeinthewood.fr/",
+        "adresse": "273 Rue Gabriel Péri, 92700 Colombes",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7749734217019803587",
+        "nom": "SOS AVIVA",
+        "slug": "sos-aviva",
+        "telephone": "07 78 70 60 10",
+        "site_web": "https://www.sosaviva.com/",
+        "adresse": "105 Rue des Bourguignons, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 7,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "8916923343880367966",
+        "nom": "Miroiterie MVA",
+        "slug": "miroiterie-mva",
+        "telephone": "01 47 81 18 62",
+        "site_web": "https://www.miroiterie-mva.fr/?utm_source=gmb",
+        "adresse": "12 Rue du 8 Mai 1945, 92700 Colombes",
+        "note": 4.8,
+        "avis": 38,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "boulogne-billancourt": {
+    "artisans": [
+      {
+        "id": "15323119178615767893",
+        "nom": "SERRURERIE VICTOR H",
+        "slug": "serrurerie-victor-h",
+        "telephone": "06 09 82 09 68",
+        "site_web": "https://serrurerie-victorh.com/",
+        "adresse": "55 Rue Georges Sorel, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 111,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6083964189646142136",
+        "nom": "Serrurerie & vitrerie Clevys",
+        "slug": "serrurerie-vitrerie-clevys",
+        "telephone": "06 60 44 11 72",
+        "site_web": "http://www.clevys.fr/",
+        "adresse": "57-59 Bd Jean Jaurès, 92100 Boulogne-Billancourt",
+        "note": 5,
+        "avis": 36,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "2977143948808118316",
+        "nom": "La Fenêtre de la Reine",
+        "slug": "la-fenetre-de-la-reine",
+        "telephone": "01 41 31 09 33",
+        "site_web": "http://www.fenetredelareine.com/?utm_source=gmb",
+        "adresse": "160 Rte de la Reine, 92100 Boulogne-Billancourt",
+        "note": 4.8,
+        "avis": 187,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18007406850235556536",
+        "nom": "Serrurerie Centrale - serrurier Boulogne",
+        "slug": "serrurerie-centrale-serrurier-boulogne",
+        "telephone": "01 41 10 55 55",
+        "site_web": "http://serrurerie-centrale.com/",
+        "adresse": "8 Rue Jean Bouveri, 92100 Boulogne-Billancourt",
+        "note": 4.9,
+        "avis": 190,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16049652591319651933",
+        "nom": "ADC Serrurerie",
+        "slug": "adc-serrurerie",
+        "telephone": "01 84 25 64 55",
+        "site_web": "https://adcserrurerie.fr/hauts-de-seine/boulogne-billancourt-92100/",
+        "adresse": "47 Rue Marcel Dassault, 92100 Boulogne-Billancourt",
+        "note": 4.6,
+        "avis": 83,
+        "type": "Serrurier"
+      },
+      {
+        "id": "17588577269296370584",
+        "nom": "SERRURIER BOULOGNE BILLANCOURT ALCOF SÉCURITÉ - Point Fort Fichet | Serrurerie Boulogne Billancourt",
+        "slug": "serrurier-boulogne-billancourt-alcof-securite-point-fort-fichet-serrurerie-boulogne-billancourt",
+        "telephone": "01 46 05 90 90",
+        "site_web": "https://www.alcof-securite.fr/",
+        "adresse": "52 Av. Victor Hugo, 92100 Boulogne-Billancourt",
+        "note": 4.3,
+        "avis": 39,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1351515060009515891",
+        "nom": "Fenêtres et fermetures francilienne",
+        "slug": "fenetres-et-fermetures-francilienne",
+        "telephone": "06 64 67 90 86",
+        "site_web": "http://fenetresfermetures.fr/",
+        "adresse": "73 Rue du Château, 92100 Boulogne-Billancourt",
+        "note": 5,
+        "avis": 146,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5174361859957869036",
+        "nom": "Fenêtres Étoile",
+        "slug": "fenetres-etoile",
+        "telephone": "01 46 89 15 84",
+        "site_web": "https://fenetresetoile.fr/",
+        "adresse": "94 Rue du Point du Jour, 92100 Boulogne-Billancourt",
+        "note": 5,
+        "avis": 194,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18200343604726609088",
+        "nom": "Alain Père & Fils - Serrurier - Boulogne-Billancourt 92100",
+        "slug": "alain-pere-fils-serrurier-boulogne-billancourt-92100",
+        "telephone": "01 57 21 57 05",
+        "site_web": "https://hubert-pere-fils.fr/serrurerie/",
+        "adresse": "30 Rue Thiers, 92100 Boulogne-Billancourt",
+        "note": 4.1,
+        "avis": 31,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1298384614429970558",
+        "nom": "ART & FENETRES PARISIENNES - BOULOGNE BILLANCOURT",
+        "slug": "art-fenetres-parisiennes-boulogne-billancourt",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/boulogne-billancourt-92100.php",
+        "adresse": "9 bis Av. du Maréchal de Lattre de Tassigny, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "clamart": {
+    "artisans": [
+      {
+        "id": "17047357612304591173",
+        "nom": "FMC , Fermetures et Menuiseries de Clamart",
+        "slug": "fmc-fermetures-et-menuiseries-de-clamart",
+        "telephone": "06 63 99 05 14",
+        "site_web": "http://www.fmc92.fr/",
+        "adresse": "124 bis Av. Jean Jaurès, 92140 Clamart",
+        "note": 5,
+        "avis": 111,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16884012417560462089",
+        "nom": "RENOVA TCE",
+        "slug": "renova-tce",
+        "telephone": "01 41 90 00 01",
+        "site_web": "https://renovation-clamart.fr/",
+        "adresse": "6 Rue de Vanves, 92140 Clamart",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12072058788992341999",
+        "nom": "TRYBA Clamart",
+        "slug": "tryba-clamart",
+        "telephone": "01 59 30 13 19",
+        "site_web": "https://www.tryba.com/espace-conseil/92/tryba-clamart/?utm_campaign=Tryba_Clamart&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "97 Av. Jean Jaurès, 92140 Clamart",
+        "note": 4.8,
+        "avis": 110,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15041029842513162357",
+        "nom": "SAFE",
+        "slug": "safe",
+        "telephone": "01 84 19 31 00",
+        "site_web": "http://www.safemenuiseries.fr/",
+        "adresse": "1, BIS Rue Pierre et Marie Curie, 92140 Clamart",
+        "note": 5,
+        "avis": 70,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4848670444116893066",
+        "nom": "Iso Store Clamart - Fenêtres, Volets, Portes, Stores",
+        "slug": "iso-store-clamart-fenetres-volets-portes-stores",
+        "telephone": "01 39 55 62 66",
+        "site_web": "https://isostore.fr/magasin/clamart/",
+        "adresse": "39 Av. Victor Hugo, 92140 Clamart",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12072200112212498413",
+        "nom": "PLOMB ART CLAM ART",
+        "slug": "plomb-art-clam-art",
+        "telephone": "06 60 91 85 12",
+        "site_web": "http://www.plombart-clamart.fr/",
+        "adresse": "8 Rue des Aubépines, 92140 Clamart",
+        "note": 4.8,
+        "avis": 178,
+        "type": "Plombier"
+      },
+      {
+        "id": "12920967589486489817",
+        "nom": "Sarl Mpfe",
+        "slug": "sarl-mpfe",
+        "telephone": "06 49 87 72 84",
+        "site_web": "http://www.mpfe.fr/",
+        "adresse": "1 Rdpt du Général Leclerc, 92140 Clamart",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7671658950247974242",
+        "nom": "Fenêtre sur Rue - Partenaire Arcades et Baies",
+        "slug": "fenetre-sur-rue-partenaire-arcades-et-baies",
+        "telephone": "09 81 21 65 65",
+        "site_web": null,
+        "adresse": "86 Av. Henri Barbusse, 92140 Clamart",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11183614811972363214",
+        "nom": "KparK Clamart",
+        "slug": "kpark-clamart",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/104-kpark-clamart?utm_source=gmb",
+        "adresse": "144 Av. Jean Jaurès, 92140 Clamart",
+        "note": 3.8,
+        "avis": 22,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5732964302995405329",
+        "nom": "ALBA SAS",
+        "slug": "alba-sas",
+        "telephone": "06 46 59 60 80",
+        "site_web": "https://alba-batiment.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 28,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "chatenay-malabry": {
+    "artisans": [
+      {
+        "id": "13467178572458294611",
+        "nom": "ART & FENETRES PARISIENNES CHATENAY MALABRY",
+        "slug": "art-fenetres-parisiennes-chatenay-malabry",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/chatenay-malabry-92290.php",
+        "adresse": "105 Av. de la Division Leclerc, 92290 Châtenay-Malabry",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1854570152843473500",
+        "nom": "Saph Chatenay-Malabry",
+        "slug": "saph-chatenay-malabry",
+        "telephone": "01 84 23 64 23",
+        "site_web": "http://saphserrurierchatenay-malabry.fr/",
+        "adresse": "4 Rue Henri Marrou, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 2,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "chatillon": {
+    "artisans": [
+      {
+        "id": "11621470825348793885",
+        "nom": "METAL 2000 Paris 15 - Réparation rideaux métalliques et volets roulants",
+        "slug": "metal-2000-paris-15-reparation-rideaux-metalliques-et-volets-roulants",
+        "telephone": "01 83 64 24 45",
+        "site_web": "https://www.metal2000.fr/nos-agences/paris-15-75015/",
+        "adresse": "42 Rue Cambronne, 75015 Paris",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "17905552009254860667",
+        "nom": "Couvreur façadier 92 Bischoff Pose de Velux hauts de Seine isolation gouttière fuite, toiture, intervention rapide",
+        "slug": "couvreur-facadier-92-bischoff-pose-de-velux-hauts-de-seine-isolation-gouttiere-fuite-toiture-intervention-rapide",
+        "telephone": "06 22 62 07 37",
+        "site_web": "https://bischoff-couvreur-91.fr/",
+        "adresse": "81 Rue Gabriel Péri, 92120 Montrouge",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16658735629299375931",
+        "nom": "ISAL Châtillon 92 Daniel Fy - FENÊTRES, VOLETS ROULANTS, STORES - Dépannage - réparation",
+        "slug": "isal-chatillon-92-daniel-fy-fenetres-volets-roulants-stores-depannage-reparation",
+        "telephone": "01 46 42 64 00",
+        "site_web": "https://www.isal-92320.com/",
+        "adresse": "61 Rue Pierre Brossolette, 92320 Châtillon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16298083204685445821",
+        "nom": "Frances fenêtres",
+        "slug": "frances-fenetres",
+        "telephone": "01 55 58 16 16",
+        "site_web": "https://www.francefenetres-chatillon.fr/",
+        "adresse": "47 Av. de Verdun, 92320 Châtillon",
+        "note": 4.7,
+        "avis": 47,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13568090159190746826",
+        "nom": "Franck Colombus",
+        "slug": "franck-colombus",
+        "telephone": "06 03 30 78 82",
+        "site_web": null,
+        "adresse": "75 Rue de Richelieu, 75002 Paris",
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2997891845185369418",
+        "nom": "Bounce Luggage Storage - Pyramides",
+        "slug": "bounce-luggage-storage-pyramides",
+        "telephone": "09 71 07 93 99",
+        "site_web": "https://bounce.com/stores/paris/KFjv0W?utm_campaign=store_gmbs&utm_medium=website_url&utm_source=gmb",
+        "adresse": "29 Rue des Petits Champs, 75001 Paris",
+        "note": 4.8,
+        "avis": 269,
+        "type": "Consigne à bagages"
+      },
+      {
+        "id": "3957874092580267578",
+        "nom": "Point.P - Châtillon",
+        "slug": "pointp-chatillon",
+        "telephone": "01 55 58 11 30",
+        "site_web": "https://www.pointp.fr/infos-agence/chatillon-point-p-1552",
+        "adresse": "29 Bd de Vanves, 92320 Châtillon",
+        "note": 4.5,
+        "avis": 207,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2155004285161982897",
+        "nom": "AR 92 SUD",
+        "slug": "ar-92-sud",
+        "telephone": "06 74 13 30 59",
+        "site_web": "https://www.ar92sud.fr/",
+        "adresse": "34 Rue Périer, 92120 Montrouge",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "5361346861052629442",
+        "nom": "Domzalski Jean Claude Electricien Paris 2",
+        "slug": "domzalski-jean-claude-electricien-paris-2",
+        "telephone": "01 84 16 22 07",
+        "site_web": null,
+        "adresse": "9 Rue des Colonnes, 75002 Paris",
+        "note": 5,
+        "avis": 21,
+        "type": "Électricien"
+      },
+      {
+        "id": "16930816698976724161",
+        "nom": "Decorasol Parquet Paris",
+        "slug": "decorasol-parquet-paris",
+        "telephone": "01 40 20 49 76",
+        "site_web": "http://www.decorasol.fr/magasins?type=single&store_id=1",
+        "adresse": "49 Bis Rue Sainte-Anne, 75002 Paris",
+        "note": 4.8,
+        "avis": 67,
+        "type": "Magasin de revêtements de sol"
+      }
+    ]
+  },
+  "bourg-la-reine": {
+    "artisans": [
+      {
+        "id": "3007103334159292201",
+        "nom": "Flare Bourg-la-Reine",
+        "slug": "flare-bourg-la-reine",
+        "telephone": "01 84 21 69 48",
+        "site_web": "https://flareserrurierbourg-la-reine.fr/",
+        "adresse": "137 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2466629046706156785",
+        "nom": "BLR Protection",
+        "slug": "blr-protection",
+        "telephone": "01 47 02 20 20",
+        "site_web": "https://www.iber-protection.fr/",
+        "adresse": "141 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 4.8,
+        "avis": 91,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11488460490005007732",
+        "nom": "Stop Talon - Picard Serrures",
+        "slug": "stop-talon-picard-serrures",
+        "telephone": "01 46 61 82 88",
+        "site_web": null,
+        "adresse": "114 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 3.7,
+        "avis": 29,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15151946271819784854",
+        "nom": "KparK Bourg La Reine",
+        "slug": "kpark-bourg-la-reine",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/134-kpark-bourg-la-reine?utm_source=gmb",
+        "adresse": "96 Bd du Maréchal Joffre, 92340 Bourg-la-Reine",
+        "note": 2.7,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9878012063658680213",
+        "nom": "TRYBA Faron Fenêtres",
+        "slug": "tryba-faron-fenetres",
+        "telephone": "01 69 07 62 62",
+        "site_web": "https://www.faron-fenetres.com/",
+        "adresse": "153 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 4.9,
+        "avis": 185,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4105541055515679842",
+        "nom": "EXCEL RENOVATION - Paris & Île-de-France",
+        "slug": "excel-renovation-paris-ile-de-france",
+        "telephone": "06 58 21 42 54",
+        "site_web": "https://excelrenovation.fr/",
+        "adresse": "13 Av. de Montrouge, 92340 Bourg-la-Reine",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "6445871202343617012",
+        "nom": "Point Fort Fichet",
+        "slug": "point-fort-fichet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "141 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "asnieres-sur-seine": {
+    "artisans": [
+      {
+        "id": "13597226281801450678",
+        "nom": "BIPBIP PARE BRISE - remplacement vitrage automobile - serrurier automobile - diagnostique - Prestataire de tuning automobile",
+        "slug": "bipbip-pare-brise-remplacement-vitrage-automobile-serrurier-automobile-diagnostique-prestataire-de-tuning-automobile",
+        "telephone": "01 47 93 60 48",
+        "site_web": "http://www.bipbip-parebrise.com/",
+        "adresse": "7 Gd Rue Charles de Gaulle, 92600 Asnières-sur-Seine",
+        "note": 5,
+        "avis": 430,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "17945182486125754510",
+        "nom": "TORDJMAN Métal",
+        "slug": "tordjman-metal",
+        "telephone": "01 41 60 82 60",
+        "site_web": "http://www.tordjmanmetal.fr/",
+        "adresse": "34-50 Av. Henri Barbusse, 93000 Bobigny",
+        "note": 4,
+        "avis": 222,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6602231880095724907",
+        "nom": "SERRURERIE ASNIÈRES-SUR-SEINE ALCOF SÉCURITÉ - Point Fort Fichet | Serrurier Asnières-sur-Seine",
+        "slug": "serrurerie-asnieres-sur-seine-alcof-securite-point-fort-fichet-serrurier-asnieres-sur-seine",
+        "telephone": "01 40 86 10 00",
+        "site_web": "https://www.alcof-securite.fr/",
+        "adresse": "64 Av. de la Marne, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9182257083783275960",
+        "nom": "Asnières Dépann Serrurerie",
+        "slug": "asnieres-depann-serrurerie",
+        "telephone": "01 47 90 22 95",
+        "site_web": "https://www.ads-serrurerie.fr/",
+        "adresse": "32 Rue Pierre Brossolette, 92600 Asnières-sur-Seine",
+        "note": 3.7,
+        "avis": 26,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13947007366836254920",
+        "nom": "ARTISAN PRO SERVICES: Dépannage Plombier - Chauffagiste - électricien 92",
+        "slug": "artisan-pro-services-depannage-plombier-chauffagiste-electricien-92",
+        "telephone": "01 47 93 80 38",
+        "site_web": "http://artisanproservices.com/",
+        "adresse": "23 Rue de Bretagne, 92600 Asnières-sur-Seine",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Plombier"
+      },
+      {
+        "id": "8662691745258672004",
+        "nom": "Asnieres Blindage",
+        "slug": "asnieres-blindage",
+        "telephone": "01 47 93 70 68",
+        "site_web": "http://www.asnieres-blindages.com/",
+        "adresse": "58 Av. d'Argenteuil, 92600 Asnières-sur-Seine",
+        "note": 4.2,
+        "avis": 62,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11811618439033064194",
+        "nom": "Cuisines ELITE Premium Asnieres-sur-Seine - Cuisiniste",
+        "slug": "cuisines-elite-premium-asnieres-sur-seine-cuisiniste",
+        "telephone": "01 47 99 87 16",
+        "site_web": "https://www.cuisineselite.com/cuisines-elite-premium-asnieres-sur-seine/",
+        "adresse": "103 Av. de la Marne, 92600 Asnières-sur-Seine",
+        "note": 4.7,
+        "avis": 216,
+        "type": "Cuisiniste"
+      }
+    ]
+  },
+  "bagneux": {
+    "artisans": [
+      {
+        "id": "6266072793771290103",
+        "nom": "Habitat Automatisme",
+        "slug": "habitat-automatisme",
+        "telephone": "01 41 17 43 67",
+        "site_web": "https://www.habitat-automatisme.com/",
+        "adresse": "15 All. du Parc de Garlande, 92220 Bagneux",
+        "note": 3.6,
+        "avis": 49,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "6482576994060500694",
+        "nom": "Point.P - Bagneux",
+        "slug": "pointp-bagneux",
+        "telephone": "01 46 11 16 16",
+        "site_web": "https://www.pointp.fr/infos-agence/bagneux-point-p-3195",
+        "adresse": "30 Rue des Bas Longchamps, 92220 Bagneux",
+        "note": 4.3,
+        "avis": 206,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4430784679454730973",
+        "nom": "Les 4 Services",
+        "slug": "les-4-services",
+        "telephone": "01 45 36 12 70",
+        "site_web": "http://les4services.fr/",
+        "adresse": "1 Rue des Fossés, 92220 Bagneux",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4591311573500898306",
+        "nom": "Menuiserie de France",
+        "slug": "menuiserie-de-france",
+        "telephone": "06 25 10 98 11",
+        "site_web": "https://menuiseriedefrance.wixsite.com/website",
+        "adresse": "21 Rue des Cuverons, 92220 Bagneux",
+        "note": 5,
+        "avis": 124,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14683700836557811597",
+        "nom": "M4S - maFenetre.com",
+        "slug": "m4s-mafenetrecom",
+        "telephone": "01 44 08 66 73",
+        "site_web": null,
+        "adresse": "79 Av. Aristide Briand, 94110 Arcueil",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7070577108685815644",
+        "nom": "Ardillo",
+        "slug": "ardillo",
+        "telephone": "09 86 29 65 39",
+        "site_web": "https://www.instagram.com/ardillomiroiterie/?utm_source=gmb",
+        "adresse": "108 Av. Aristide Briand, 92220 Bagneux",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5863986725768218784",
+        "nom": "DIFFAM",
+        "slug": "diffam",
+        "telephone": "01 41 17 43 67",
+        "site_web": "https://www.diffam.fr/",
+        "adresse": "13 All. du Parc de Garlande, 92220 Bagneux",
+        "note": 3.7,
+        "avis": 29,
+        "type": "Distributeur d'appareils électroniques"
+      },
+      {
+        "id": "15885664157835015180",
+        "nom": "Amatex Rénovation",
+        "slug": "amatex-renovation",
+        "telephone": "06 09 43 50 02",
+        "site_web": "http://www.amatex-renovation.com/",
+        "adresse": "25 Rue du Général Sarrail, 92220 Bagneux",
+        "note": 5,
+        "avis": 20,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13660959455169433898",
+        "nom": "La Maçonnerie Française",
+        "slug": "la-maconnerie-francaise",
+        "telephone": "06 44 94 63 40",
+        "site_web": "https://www.la-maconnerie-francaise.fr/",
+        "adresse": "15 Rue de la Prte d'en Bas, 92220 Bagneux",
+        "note": 5,
+        "avis": 28,
+        "type": "Maçon"
+      },
+      {
+        "id": "9329223369300372945",
+        "nom": "BAKOnline",
+        "slug": "bakonline",
+        "telephone": "01 46 72 30 00",
+        "site_web": "https://www.bakonline.net/",
+        "adresse": "13 All. du Parc de Garlande, 92220 Bagneux",
+        "note": 4.1,
+        "avis": 100,
+        "type": "Magasin de matériel de surveillance"
+      }
+    ]
+  },
+  "antony": {
+    "artisans": [
+      {
+        "id": "12068819664840770722",
+        "nom": "Antony Fenêtres",
+        "slug": "antony-fenetres",
+        "telephone": "01 46 66 01 58",
+        "site_web": "https://antony-fenetres-verandas-volets.fr/",
+        "adresse": "2 Av. du President Kennedy, 92160 Antony",
+        "note": 4.5,
+        "avis": 103,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6588986864555203163",
+        "nom": "Artisan Du Verrou",
+        "slug": "artisan-du-verrou",
+        "telephone": "06 60 10 77 47",
+        "site_web": "https://artisanduverrou.fr/",
+        "adresse": "11 Rue de Champagne, 92160 Antony",
+        "note": 5,
+        "avis": 11,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16429338631010032830",
+        "nom": "OuvertureS - Côté Fermetures - Pose de fenêtres à Antony",
+        "slug": "ouvertures-cote-fermetures-pose-de-fenetres-a-antony",
+        "telephone": "01 40 96 87 03",
+        "site_web": "https://antony.ouvertures.com/?utm_campaign=GMB_antony&utm_medium=organic&utm_source=GMB",
+        "adresse": "77 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.6,
+        "avis": 166,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16020682861436038924",
+        "nom": "Avenir Rénovations Antony (92)",
+        "slug": "avenir-renovations-antony-92",
+        "telephone": "01 59 30 10 71",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-92-antony/",
+        "adresse": "7 Rue Marcelin Berthelot 5 et, 92160 Antony",
+        "note": 5,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3789164455536606066",
+        "nom": "Gautier rémy",
+        "slug": "gautier-remy",
+        "telephone": "01 46 68 80 13",
+        "site_web": "http://www.gautier-fermetures.fr/",
+        "adresse": "34 Av. Jean Monnet, 92160 Antony",
+        "note": 4.9,
+        "avis": 38,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18231993144955463627",
+        "nom": "RCM FENETRIER \"VEKA\" ANTONY",
+        "slug": "rcm-fenetrier-veka-antony",
+        "telephone": "01 57 63 01 70",
+        "site_web": "https://www.fenetrier-rcm.fr/",
+        "adresse": "150 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.8,
+        "avis": 62,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12701356037154098723",
+        "nom": "Protec 92",
+        "slug": "protec-92",
+        "telephone": "01 46 68 32 50",
+        "site_web": "https://www.protec92.fr/",
+        "adresse": "215 Av. de la Division Leclerc, 92160 Antony",
+        "note": 3.4,
+        "avis": 34,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9426297201998953624",
+        "nom": "Du Cèdre à l'Olivier - Menuisier",
+        "slug": "du-cedre-a-lolivier-menuisier",
+        "telephone": "06 63 78 82 80",
+        "site_web": null,
+        "adresse": "2 Av. Raymond Aron, 92160 Antony",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12145670942697266466",
+        "nom": "Lorenove Antony",
+        "slug": "lorenove-antony",
+        "telephone": "01 40 91 91 16",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/antony?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_antony",
+        "adresse": "76 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.7,
+        "avis": 111,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10346404040368451457",
+        "nom": "A.F.M.H. à Fresnes - Fenêtres, Menuiseries, Pergolas, Stores",
+        "slug": "afmh-a-fresnes-fenetres-menuiseries-pergolas-stores",
+        "telephone": "01 46 30 87 64",
+        "site_web": "http://www.artistore-volet.fr/",
+        "adresse": "47 Bd Pasteur, 94260 Fresnes",
+        "note": 3.4,
+        "avis": 34,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  }
+}

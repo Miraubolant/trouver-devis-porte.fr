@@ -1,0 +1,2162 @@
+{
+  "aiguilhe": {
+    "artisans": [
+      {
+        "id": "711850053938488407",
+        "nom": "Portes de garage MOOS",
+        "slug": "portes-de-garage-moos",
+        "telephone": "03 89 76 89 29",
+        "site_web": "https://www.moos.fr/portes-de-garage-haute-loire/",
+        "adresse": "19 Rue Saint-Vosy, 43700 Brives-Charensac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "17166891643284117443",
+        "nom": "Chapuis",
+        "slug": "chapuis",
+        "telephone": "04 71 04 55 12",
+        "site_web": "http://www.menuiseriechapuis.fr/",
+        "adresse": "Le, 210 Chem. de Farnier, 43000 Le Puy-en-Velay",
+        "note": 4.4,
+        "avis": 58,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1295054545147395904",
+        "nom": "Reynaud Menuiseries Pose de menuiseries PVC Alu Bois Haute Loire Le Puy en Velay",
+        "slug": "reynaud-menuiseries-pose-de-menuiseries-pvc-alu-bois-haute-loire-le-puy-en-velay",
+        "telephone": "04 71 05 11 79",
+        "site_web": "https://www.gmt-menuiseries.com/reynaud-menuiseries/?utm_source=gmb",
+        "adresse": "17 Rte de Saint-Julien, 43150 Laussonne",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8131484242897949699",
+        "nom": "BATIMAN KASABAT",
+        "slug": "batiman-kasabat",
+        "telephone": "04 71 01 16 16",
+        "site_web": "http://kasabat.site-solocal.com/?utm_source=gmb",
+        "adresse": "429 avenue Chambon, Rue de Chirel Zone De, 43000 Le Puy-en-Velay",
+        "note": 4.3,
+        "avis": 88,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "4072672492450939085",
+        "nom": "Ets François - Le Puy En Velay",
+        "slug": "ets-francois-le-puy-en-velay",
+        "telephone": "04 71 09 18 55",
+        "site_web": "https://www.stores-francois.fr/?utm_source=Google+Maps&utm_medium=Organic&utm_campaign=Maps",
+        "adresse": "6 Côte de Tireboeuf, 43700 Brives-Charensac",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "315429745745529182",
+        "nom": "A.V.I Agencements Vitrerie Art et Fenêtres -- Pont - Salomon",
+        "slug": "avi-agencements-vitrerie-art-et-fenetres-pont-salomon",
+        "telephone": "04 71 75 48 01",
+        "site_web": "http://avi.artetfenetres.com/",
+        "adresse": "ZA des Portes du Velay, 43330 Pont-Salomon",
+        "note": 4.7,
+        "avis": 61,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16062391816269295295",
+        "nom": "RDV Artisans",
+        "slug": "rdv-artisans",
+        "telephone": "06 19 30 53 69",
+        "site_web": "https://rdvartisans.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 71,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "5552782928085423117",
+        "nom": "BF ALU PVC",
+        "slug": "bf-alu-pvc",
+        "telephone": "04 71 08 64 51",
+        "site_web": "https://www.bf-alupvc.fr/",
+        "adresse": "ZA la combe, Rue des faisans, 43320 Chaspuzac",
+        "note": 4.8,
+        "avis": 67,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bas-en-basset": {
+    "artisans": [
+      {
+        "id": "1093698546249853588",
+        "nom": "La Boutique Du Menuisier Montbrison - 3D DIFFUSION",
+        "slug": "la-boutique-du-menuisier-montbrison-3d-diffusion",
+        "telephone": "04 77 24 80 69",
+        "site_web": "https://www.laboutiquedumenuisier.fr/",
+        "adresse": "34 Av. de Saint-Etienne, 42600 Montbrison",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1889068332797722570",
+        "nom": "Déménagement Beaulaigue",
+        "slug": "demenagement-beaulaigue",
+        "telephone": "04 77 93 22 44",
+        "site_web": "https://www.demenagement-beaulaigue.com/",
+        "adresse": "ZA, Le Patural, 43210 Bas-en-Basset",
+        "note": 5,
+        "avis": 4,
+        "type": "Déménageur"
+      },
+      {
+        "id": "10534708586172763082",
+        "nom": "AUVERGNE INNOV",
+        "slug": "auvergne-innov",
+        "telephone": "04 71 61 51 68",
+        "site_web": "http://auvergneinnov.fr/",
+        "adresse": "ZA de la Borie, 43120 Monistrol-sur-Loire",
+        "note": 3.8,
+        "avis": 49,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15001631169418551117",
+        "nom": "Ets Fauvet Lardon - EFL",
+        "slug": "ets-fauvet-lardon-efl",
+        "telephone": "07 85 80 62 28",
+        "site_web": null,
+        "adresse": "3 za, Le Patural, 43210 Bas-en-Basset",
+        "note": 5,
+        "avis": 24,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "12533492623069017583",
+        "nom": "Agencement 43 - Magasin",
+        "slug": "agencement-43-magasin",
+        "telephone": "06 11 53 45 31",
+        "site_web": "http://www.agencement43.fr/",
+        "adresse": "za, Le Patural, 43210 Bas-en-Basset",
+        "note": 4,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "12103034621636383106",
+        "nom": "FPSM",
+        "slug": "fpsm",
+        "telephone": "06 77 14 25 10",
+        "site_web": "http://www.fpsm-43.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11756041783327826616",
+        "nom": "Point.P - Bas-en-Basset",
+        "slug": "pointp-bas-en-basset",
+        "telephone": "04 71 66 36 94",
+        "site_web": "https://www.pointp.fr/infos-agence/bas-en-basset-point-p-3553",
+        "adresse": "Le Patural, Rte de Monistrol, 43210 Bas-en-Basset",
+        "note": 4.4,
+        "avis": 55,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17546312556335780176",
+        "nom": "TRYBA Monistrol-sur-Loire",
+        "slug": "tryba-monistrol-sur-loire",
+        "telephone": "04 20 98 13 21",
+        "site_web": "https://www.tryba.com/espace-conseil/43/tryba-monistrol-sur-loire/?utm_campaign=Tryba_monistrol-sur-loire&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "30 Av. de la Libération, 43120 Monistrol-sur-Loire",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15832289884567611497",
+        "nom": "Burlet",
+        "slug": "burlet",
+        "telephone": "04 71 66 06 17",
+        "site_web": "https://www.burlet.pro/",
+        "adresse": "Daille, ZA des Portes du Velay, 43140 La Séauve-sur-Semène",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "259053989694149226",
+        "nom": "Faure Fermetures - Résobaies 43",
+        "slug": "faure-fermetures-resobaies-43",
+        "telephone": "06 40 47 49 28",
+        "site_web": "https://faure-fermetures.fr/",
+        "adresse": "Z.a des granges, 329 Rue des Ribes, 43110 Aurec-sur-Loire",
+        "note": 5,
+        "avis": 64,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-vincent": {
+    "artisans": [
+      {
+        "id": "2996916832536033515",
+        "nom": "STYL'VERANDAS",
+        "slug": "stylverandas",
+        "telephone": "04 77 89 13 58",
+        "site_web": "https://www.stylverandas.com/",
+        "adresse": "ZA la, Chem. de la Sagne, 43330 Saint-Ferréol-d'Auroure",
+        "note": 5,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12701514470134144150",
+        "nom": "Gauthier",
+        "slug": "gauthier",
+        "telephone": "04 71 03 10 14",
+        "site_web": "https://www.gauthier-menuiserie.fr/?utm_source=gmb",
+        "adresse": "Rte de Saint-Christophe, 43370 Cussac-sur-Loire",
+        "note": 4.3,
+        "avis": 55,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "2417699587408041698",
+        "nom": "Monsieur Store Saint-Maurice-de-Lignon - Chapuis Store et Fermetures",
+        "slug": "monsieur-store-saint-maurice-de-lignon-chapuis-store-et-fermetures",
+        "telephone": "04 71 65 32 67",
+        "site_web": "https://monsieurstore.com/magasin/saint-maurice-de-lignon-43200/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "140 Rue du Bouchet za, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.8,
+        "avis": 61,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "12678299866604559323",
+        "nom": "Groupe MCC Concepteur de Fermetures. Fenêtres, vérandas, pergolas, portail; produits PVC, Aluminium, Composite et Acier",
+        "slug": "groupe-mcc-concepteur-de-fermetures-fenetres-verandas-pergolas-portail-produits-pvc-aluminium-composite-et-acier",
+        "telephone": "04 71 00 48 86",
+        "site_web": "http://www.groupemcc.com/",
+        "adresse": "ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 4.5,
+        "avis": 153,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16615476383130407253",
+        "nom": "Ngel Paris Ouest",
+        "slug": "ngel-paris-ouest",
+        "telephone": "06 77 17 88 14",
+        "site_web": "http://ngelfenetre.com/etude-devis-fenetres-pvc-porte-pvc.html",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 58,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16382218737956944405",
+        "nom": "Pontvianne Thierry",
+        "slug": "pontvianne-thierry",
+        "telephone": "04 71 65 38 31",
+        "site_web": "http://www.monsieurstore.com/",
+        "adresse": "140 Le Bouchet, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "aurec-sur-loire": {
+    "artisans": [
+      {
+        "id": "10756031380750028657",
+        "nom": "Côté Clé",
+        "slug": "cote-cle",
+        "telephone": "06 19 68 71 37",
+        "site_web": "http://cotecle.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 38,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15832289884567611497",
+        "nom": "Burlet",
+        "slug": "burlet",
+        "telephone": "04 71 66 06 17",
+        "site_web": "https://www.burlet.pro/",
+        "adresse": "Daille, ZA des Portes du Velay, 43140 La Séauve-sur-Semène",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2045224523765767769",
+        "nom": "KparK Saint Etienne",
+        "slug": "kpark-saint-etienne",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/37-kpark-saint-etienne?utm_source=gmb",
+        "adresse": "79 Rue Bergson, 42000 Saint-Étienne",
+        "note": 3.7,
+        "avis": 46,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16915186198454161596",
+        "nom": "Sagnol Patrick",
+        "slug": "sagnol-patrick",
+        "telephone": "06 33 87 41 94",
+        "site_web": "https://www.patrick-sagnol.fr/",
+        "adresse": "155 Chem. de Mandrin, 43110 Aurec-sur-Loire",
+        "note": 4.9,
+        "avis": 21,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "10202018232265178993",
+        "nom": "NC Serrurerie",
+        "slug": "nc-serrurerie",
+        "telephone": "06 80 67 36 00",
+        "site_web": "http://www.depanne-ouverture43.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 40,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "18412323249347499818",
+        "nom": "AUTHOMEATIQUE",
+        "slug": "authomeatique",
+        "telephone": "06 44 09 51 09",
+        "site_web": "https://www.authomeatique.fr/",
+        "adresse": "10 Rue l'Industrie, 42240 Unieux",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14812264462300251739",
+        "nom": "Menuiserie de Beauvoir",
+        "slug": "menuiserie-de-beauvoir",
+        "telephone": "06 31 09 02 21",
+        "site_web": "https://menuiseriedebeauvoir.wordpress.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6841976028356117564",
+        "nom": "JD Sécurité",
+        "slug": "jd-securite",
+        "telephone": "04 77 47 00 18",
+        "site_web": "http://www.jd-securite.com/",
+        "adresse": "4 Rues des Haveuses, 42230 Roche-la-Molière",
+        "note": 4.2,
+        "avis": 27,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10415892829668256667",
+        "nom": "KPS Pose - Kevin, votre serrurier",
+        "slug": "kps-pose-kevin-votre-serrurier",
+        "telephone": "04 28 77 03 39",
+        "site_web": "https://kpspose.fr/fr",
+        "adresse": "51 Rue Jean Jaurès, 42700 Firminy",
+        "note": 5,
+        "avis": 204,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12541569621020999814",
+        "nom": "Point Protection - Picard Serrures",
+        "slug": "point-protection-picard-serrures",
+        "telephone": "04 77 75 56 31",
+        "site_web": "https://www.point-protection.fr/",
+        "adresse": "21 Rue Martin d'Aurec, 42000 Saint-Étienne",
+        "note": 4.4,
+        "avis": 63,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "bains": {
+    "artisans": [
+      {
+        "id": "17635439391789840640",
+        "nom": "iD Concept Bain",
+        "slug": "id-concept-bain",
+        "telephone": "06 13 42 04 91",
+        "site_web": "http://www.idconceptbain.fr/",
+        "adresse": "Monnac, 43260 Saint-Pierre-Eynac",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "290830376680030992",
+        "nom": "Bains",
+        "slug": "bains",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "43370 Bains",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "lempdes-sur-allagnon": {
+    "artisans": [
+      {
+        "id": "13745630626956152355",
+        "nom": "Menuiserie Dumon Et Fils Brioude Issoire",
+        "slug": "menuiserie-dumon-et-fils-brioude-issoire",
+        "telephone": "04 71 76 51 55",
+        "site_web": "https://www.dumon-fils.fr/",
+        "adresse": "2 Bis Rue du Vingt Mai 1952, 43250 Frugerès-les-Mines",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6932209329942588540",
+        "nom": "Sylvain Ramos",
+        "slug": "sylvain-ramos",
+        "telephone": "06 26 86 87 10",
+        "site_web": "http://www.facebook.com/profile.php?id=100073654823643",
+        "adresse": "20 Rue du Suc du N, 43410 Lempdes-sur-Allagnon",
+        "note": 5,
+        "avis": 22,
+        "type": "Installateur de systèmes de sécurité"
+      },
+      {
+        "id": "17127367996782476374",
+        "nom": "DRP Fermetures",
+        "slug": "drp-fermetures",
+        "telephone": "06 81 16 32 49",
+        "site_web": "https://drpfermetures.fr/",
+        "adresse": "39 Rue Ambroise Thomas, 43250 Sainte-Florine",
+        "note": 5,
+        "avis": 89,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "17278961136992993580",
+        "nom": "Pierre Giraud",
+        "slug": "pierre-giraud",
+        "telephone": "06 50 29 03 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "beaulieu": {
+    "artisans": [
+      {
+        "id": "5486863584981837098",
+        "nom": "B.p.s.c OCEANE menuiseries PVC ALU BOIS BOIS/ALU haute loire",
+        "slug": "bpsc-oceane-menuiseries-pvc-alu-bois-boisalu-haute-loire",
+        "telephone": "04 71 01 31 56",
+        "site_web": "https://www.bpsc-oceane.fr/",
+        "adresse": "Zone Artisanale, Le Cros, 43800 Saint-Vincent",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "arsac-en-velay": {
+    "artisans": [
+      {
+        "id": "12479921418045367379",
+        "nom": "Altet Lionel urgence dépannage entretien Plomberie Chauffage Electricité frigoriste 43",
+        "slug": "altet-lionel-urgence-depannage-entretien-plomberie-chauffage-electricite-frigoriste-43",
+        "telephone": "07 81 12 85 81",
+        "site_web": null,
+        "adresse": "19 Rue de Pranaud, 43700 Coubon",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "bournoncle-saint-pierre": {
+    "artisans": [
+      {
+        "id": "7453902312673008314",
+        "nom": "Berioux Menuiserie / La Boutique Du Menuisier",
+        "slug": "berioux-menuiserie-la-boutique-du-menuisier",
+        "telephone": "04 73 28 03 48",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/berioux-menuiserie",
+        "adresse": "402 rue Des Meuliers, 63270 Vic-le-Comte",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11490186698568276553",
+        "nom": "EURL BRUHAT Dimitri",
+        "slug": "eurl-bruhat-dimitri",
+        "telephone": "07 66 09 64 54",
+        "site_web": null,
+        "adresse": "44 Rue du Genièvre, 43100 Cohade",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "blavozy": {
+    "artisans": [
+      {
+        "id": "12100580816981542675",
+        "nom": "Pôle Habitat Auvergne",
+        "slug": "pole-habitat-auvergne",
+        "telephone": "04 37 28 30 30",
+        "site_web": "http://www.pole-habitat-au.com/",
+        "adresse": "ZA Laprade Doue, 808 Rue Jean-Baptiste Lamarck, 43700 Saint-Germain-Laprade",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "2884680813473705296",
+        "nom": "TRYBA Brives-Charensac",
+        "slug": "tryba-brives-charensac",
+        "telephone": "04 20 98 13 22",
+        "site_web": "https://www.tryba.com/espace-conseil/43/tryba-brives-charensac/",
+        "adresse": "Zone commerciale la Chartreuse, Rue Saint-Vosy, 43700 Brives-Charensac",
+        "note": 4.3,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1369921706860100107",
+        "nom": "Artisan Menuisier ébéniste/ Copeaux d'Auvergne",
+        "slug": "artisan-menuisier-ebeniste-copeaux-dauvergne",
+        "telephone": "06 31 48 57 62",
+        "site_web": "http://copeauxdauvergne.fr/",
+        "adresse": "474 Av. René Descartes, 43700 Saint-Germain-Laprade",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4872083671374122933",
+        "nom": "Dupuy Stores Auvergne",
+        "slug": "dupuy-stores-auvergne",
+        "telephone": "04 71 04 25 16",
+        "site_web": "http://www.dupuystores.fr/",
+        "adresse": "565 Rue Jean-Baptiste Lamarck, 43700 Saint-Germain-Laprade",
+        "note": 4.4,
+        "avis": 22,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "6428962114659178237",
+        "nom": "ASF Allegre Stores et Fermetures",
+        "slug": "asf-allegre-stores-et-fermetures",
+        "telephone": "04 71 03 55 92",
+        "site_web": "http://www.allegre-stores-fermetures.fr/?utm_source=gmb",
+        "adresse": "zone industrielle, 139 Av. Pascal Blaise, 43700 Saint-Germain-Laprade",
+        "note": 4.9,
+        "avis": 98,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "brives-charensac": {
+    "artisans": [
+      {
+        "id": "16001085942479135946",
+        "nom": "Gedimat/Gedibois Artisans du Velay - Brives-Charensac",
+        "slug": "gedimatgedibois-artisans-du-velay-brives-charensac",
+        "telephone": "04 71 05 74 00",
+        "site_web": "https://www.gedibois.fr/2215-magasin-gedibois-artisans-du-velay-brives-charensac.htm",
+        "adresse": "22 Av. de la Gare, 43700 Brives-Charensac",
+        "note": 4.2,
+        "avis": 67,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "14221447766210025538",
+        "nom": "Velay Bois - Menuiserie bois, PVC, Aluminium",
+        "slug": "velay-bois-menuiserie-bois-pvc-aluminium",
+        "telephone": "04 71 05 26 87",
+        "site_web": "http://www.velay-bois.com/",
+        "adresse": "375 Chem. de Farnier, 43700 Brives-Charensac",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2657714512842587561",
+        "nom": "DB Menuiseries",
+        "slug": "db-menuiseries",
+        "telephone": "04 15 46 01 43",
+        "site_web": "https://www.dbmenuiseries.fr/",
+        "adresse": "8B Rte de Coubon, 43700 Brives-Charensac",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9485573432379844421",
+        "nom": "Monsieur Store - Le Puy-en-Velay - Stores & Pergolas - Chapuis Store",
+        "slug": "monsieur-store-le-puy-en-velay-stores-pergolas-chapuis-store",
+        "telephone": "04 71 65 01 01",
+        "site_web": "https://monsieurstore.com/magasin/le-puy-43700/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "34 Av. Charles Dupuy, 43700 Brives-Charensac",
+        "note": 4.9,
+        "avis": 50,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "4233408628557008595",
+        "nom": "Point.P - Brives Charensac",
+        "slug": "pointp-brives-charensac",
+        "telephone": "04 71 05 47 76",
+        "site_web": "https://www.pointp.fr/infos-agence/le-puy-brives-charensac-pointp-3568",
+        "adresse": "4 rue De La Trancevenole, Rue de Corsac ZI DE, 43700 Brives-Charensac",
+        "note": 4.2,
+        "avis": 59,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16059936643135879961",
+        "nom": "Grandbains Le Puy (Brives Charensac)",
+        "slug": "grandbains-le-puy-brives-charensac",
+        "telephone": "04 71 05 89 89",
+        "site_web": "https://www.grandbains.fr/magasins/grandbains-le-puy-brives-charensac",
+        "adresse": "16 Rte de Coubon, 43700 Brives-Charensac",
+        "note": 5,
+        "avis": 5,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "1754654664630151555",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 71 07 06 80",
+        "site_web": "https://magasins.lapeyre.fr/auvergne-rhone-alpes/haute-loire/lapeyre-le-puy-en-velay-92",
+        "adresse": "131 Av. Charles Dupuy, 43700 Brives-Charensac",
+        "note": 3.5,
+        "avis": 118,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "brioude": {
+    "artisans": [
+      {
+        "id": "8985596854134322514",
+        "nom": "Isobat43",
+        "slug": "isobat43",
+        "telephone": "06 80 02 25 88",
+        "site_web": "https://www.isobat43.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Vitrier"
+      },
+      {
+        "id": "17450749801371491999",
+        "nom": "BATIMAN Multibois Brioude Pont de Lamothe",
+        "slug": "batiman-multibois-brioude-pont-de-lamothe",
+        "telephone": "04 71 76 44 36",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-43-brioude-brioude/batiman-multibois",
+        "adresse": "Qur du Pont de Lamothe, 43100 Brioude",
+        "note": 4.8,
+        "avis": 154,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6569623566656846302",
+        "nom": "TRYBA Brioude",
+        "slug": "tryba-brioude",
+        "telephone": "04 20 98 14 37",
+        "site_web": "https://www.tryba.com/espace-conseil/43/tryba-brioude/?utm_campaign=Tryba_Brioude&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "58 Bd Vercingétorix 58 bis, 43100 Brioude",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chadrac": {
+    "artisans": [
+      {
+        "id": "459104203836845035",
+        "nom": "Innov'Alu",
+        "slug": "innovalu",
+        "telephone": "04 71 08 66 23",
+        "site_web": "https://www.innov-alu.fr/?utm_source=gmb",
+        "adresse": "29 Rte de Beauregard, 43770 Chadrac",
+        "note": 4.9,
+        "avis": 49,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13658909237254108804",
+        "nom": "Menuiserie Renaissance 43",
+        "slug": "menuiserie-renaissance-43",
+        "telephone": "04 71 05 76 57",
+        "site_web": "https://www.renaissance43.com/",
+        "adresse": "16 Route de la Chartreuse, 43700 Le Monteil",
+        "note": 5,
+        "avis": 130,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-chambon-sur-lignon": {
+    "artisans": [
+      {
+        "id": "10145181480614011662",
+        "nom": "Chausson Matériaux",
+        "slug": "chausson-materiaux",
+        "telephone": "04 71 59 73 60",
+        "site_web": "https://www.chausson.fr/agences/329?utm_source=fiche&utm_medium=GMB",
+        "adresse": "S/Lignon, ZA les Lebreyres, 43400 Le Chambon-sur-Lignon",
+        "note": 4.5,
+        "avis": 40,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17093764179257324965",
+        "nom": "Faraza Menuiserie",
+        "slug": "faraza-menuiserie",
+        "telephone": "06 86 69 06 00",
+        "site_web": "http://www.farazamenuiserie.com/",
+        "adresse": "2 impasse des balcons des tavas, 43400 Le Chambon-sur-Lignon",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6923642841107954538",
+        "nom": "Passerelle des Gorges du Lignon",
+        "slug": "passerelle-des-gorges-du-lignon",
+        "telephone": "04 71 59 10 76",
+        "site_web": "https://www.sucsetloire-tourisme.fr/decouvrir/les-gorges-du-lignon/passerelle-les-gorges-du-lignon/",
+        "adresse": "Passerelle himalayenne du Lignon Maubourg, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.6,
+        "avis": 1342,
+        "type": "Circuit de randonnée"
+      },
+      {
+        "id": "9336267855637840949",
+        "nom": "Barriol Jean-Pierre",
+        "slug": "barriol-jean-pierre",
+        "telephone": "06 32 03 74 57",
+        "site_web": null,
+        "adresse": "4 chemin des bouleaux, 43400 Le Chambon-sur-Lignon",
+        "note": 3,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "966010768876333725",
+        "nom": "Logis Bois Construction",
+        "slug": "logis-bois-construction",
+        "telephone": "04 71 59 29 69",
+        "site_web": "http://www.logisbois43.pro/",
+        "adresse": "Chem. du Dragon, 43400 Le Chambon-sur-Lignon",
+        "note": 4,
+        "avis": 5,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "5025914928503595297",
+        "nom": "Sarl Leygatrans",
+        "slug": "sarl-leygatrans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7 Chem. de la Plage, 43400 Le Chambon-sur-Lignon",
+        "note": 5,
+        "avis": 3,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "la-chapelle-d-aurec": {
+    "artisans": [
+      {
+        "id": "12110500152149918873",
+        "nom": "La Boutique du Menuisier, Rive-de-Gier, Saint-Chamond",
+        "slug": "la-boutique-du-menuisier-rive-de-gier-saint-chamond",
+        "telephone": "04 77 75 61 55",
+        "site_web": "http://www.boutiquemenuisier-42-43.fr/",
+        "adresse": "Genilac FR, 18 Rue du Sardon, 42800 Rive-de-Gier",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3944770596284204875",
+        "nom": "POSTAL CHAUDRONNERIE",
+        "slug": "postal-chaudronnerie",
+        "telephone": "07 66 98 46 96",
+        "site_web": "https://www.chaudronnerie-postal.fr/",
+        "adresse": "129 Rte du Moulin, 43120 La Chapelle-d'Aurec",
+        "note": 5,
+        "avis": 5,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "6586551191258822392",
+        "nom": "Engrenage de La Chapelle",
+        "slug": "engrenage-de-la-chapelle",
+        "telephone": "04 71 66 08 34",
+        "site_web": null,
+        "adresse": "997 Montusclat, 43120 La Chapelle-d'Aurec",
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant"
+      },
+      {
+        "id": "4854928482289275392",
+        "nom": "A T C Aulagner",
+        "slug": "a-t-c-aulagner",
+        "telephone": "04 71 56 57 15",
+        "site_web": "http://atc-chaudronnerie.com/",
+        "adresse": "551 Rue de Seteyre, 43120 La Chapelle-d'Aurec",
+        "note": 5,
+        "avis": 1,
+        "type": "Chaudronnerie"
+      }
+    ]
+  },
+  "coubon": {
+    "artisans": [
+      {
+        "id": "12701514470134144150",
+        "nom": "Gauthier",
+        "slug": "gauthier",
+        "telephone": "04 71 03 10 14",
+        "site_web": "https://www.gauthier-menuiserie.fr/?utm_source=gmb",
+        "adresse": "Rte de Saint-Christophe, 43370 Cussac-sur-Loire",
+        "note": 4.3,
+        "avis": 55,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "6623714291974542831",
+        "nom": "Carrières et Concassage du Velay",
+        "slug": "carrieres-et-concassage-du-velay",
+        "telephone": "04 71 08 80 33",
+        "site_web": "http://www.carrieres-concassage-du-velay.fr/",
+        "adresse": "Rte de Brives, 43700 Coubon",
+        "note": 5,
+        "avis": 2,
+        "type": "Carrière"
+      },
+      {
+        "id": "18441503218082100497",
+        "nom": "Besset Aménagement Création",
+        "slug": "besset-amenagement-creation",
+        "telephone": "04 71 08 56 46",
+        "site_web": "https://www.besset-amenagement.com/",
+        "adresse": "1 Imp. des Artisans, 43700 Coubon",
+        "note": 5,
+        "avis": 3,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "2756744131866065348",
+        "nom": "SARL ELEC JEAN",
+        "slug": "sarl-elec-jean",
+        "telephone": "04 71 08 91 24",
+        "site_web": "https://www.facebook.com/sarlelecjean",
+        "adresse": "2 All. du Parc, 43700 Coubon",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "2128176474107960251",
+        "nom": "Ets Iris Travaux de A à Z",
+        "slug": "ets-iris-travaux-de-a-a-z",
+        "telephone": "07 81 23 11 44",
+        "site_web": "https://iris-sanitaire.fr/",
+        "adresse": "Za De Taulhac, 142 Rue Ja Cubizolle, 43000 Le Puy-en-Velay",
+        "note": 5,
+        "avis": 24,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4467608635578373788",
+        "nom": "BEX Sarl Plâtrerie Peinture Isolation RGE",
+        "slug": "bex-sarl-platrerie-peinture-isolation-rge",
+        "telephone": "06 27 42 24 64",
+        "site_web": "https://bexsarl.fr/",
+        "adresse": "La Coutoule, 43000 Espaly-Saint-Marcel",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "13821379592947567651",
+        "nom": "Agrain Yvon",
+        "slug": "agrain-yvon",
+        "telephone": "04 71 08 80 84",
+        "site_web": null,
+        "adresse": "Rue de Pranaud, 43700 Coubon",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "14292982508390066246",
+        "nom": "Borelly SARL",
+        "slug": "borelly-sarl",
+        "telephone": "04 71 08 63 73",
+        "site_web": "https://www.expert-renovateur.k-line.fr/?utm_source=gmb",
+        "adresse": "4 Impasse de l'École, 43320 Sanssac-l'Église",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12479921418045367379",
+        "nom": "Altet Lionel urgence dépannage entretien Plomberie Chauffage Electricité frigoriste 43",
+        "slug": "altet-lionel-urgence-depannage-entretien-plomberie-chauffage-electricite-frigoriste-43",
+        "telephone": "07 81 12 85 81",
+        "site_web": null,
+        "adresse": "19 Rue de Pranaud, 43700 Coubon",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "craponne-sur-arzon": {
+    "artisans": [
+      {
+        "id": "12833547814139939871",
+        "nom": "Roland Menuiserie",
+        "slug": "roland-menuiserie",
+        "telephone": "06 44 91 21 54",
+        "site_web": "https://www.facebook.com/%7Brolandmenuiserie%7D",
+        "adresse": "6 Bd de Vinols, 43500 Craponne-sur-Arzon",
+        "note": 3.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15223207835859730023",
+        "nom": "Atelier de Métallerie de l'Arzon",
+        "slug": "atelier-de-metallerie-de-larzon",
+        "telephone": "04 71 01 16 23",
+        "site_web": "https://metallerie-arzon.com/",
+        "adresse": "Av. du Vernet, 43500 Craponne-sur-Arzon",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7827217000832601315",
+        "nom": "Pro Isol’Menuiserie Usson en forez",
+        "slug": "pro-isolmenuiserie-usson-en-forez",
+        "telephone": "06 76 71 36 36",
+        "site_web": "https://www.pro-isol-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cussac-sur-loire": {
+    "artisans": [
+      {
+        "id": "17476790292672606863",
+        "nom": "METAL 2000 Le Puy en Velay - Yssingeaux - Réparation rideaux métalliques / Portes garage sectionnelles et Industrielles (43)",
+        "slug": "metal-2000-le-puy-en-velay-yssingeaux-reparation-rideaux-metalliques-portes-garage-sectionnelles-et-industrielles-43",
+        "telephone": "04 15 46 01 84",
+        "site_web": "https://www.metal2000.fr/nos-agences/puy-en-velay/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "dunieres": {
+    "artisans": [
+      {
+        "id": "14671984027970014743",
+        "nom": "JV Agencement",
+        "slug": "jv-agencement",
+        "telephone": "04 71 65 61 83",
+        "site_web": "https://www.agencement.fr/",
+        "adresse": "Le Cantonnier N°3 ZA, 43290 Montfaucon-en-Velay",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14835384453434098919",
+        "nom": "L'Ouverture des Cevennes",
+        "slug": "louverture-des-cevennes",
+        "telephone": "04 71 56 15 86",
+        "site_web": null,
+        "adresse": "Le Cantonnier, 43290 Montfaucon-en-Velay",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8335330662408403153",
+        "nom": "Nergeco",
+        "slug": "nergeco",
+        "telephone": "04 71 66 85 98",
+        "site_web": "https://www.nergeco.com/fr/portes-rapides-automatiques-nergeco-1.html",
+        "adresse": "8 Rue de l'Industrie, 43220 Dunières",
+        "note": 3.8,
+        "avis": 25,
+        "type": "Administration"
+      }
+    ]
+  },
+  "grazac": {
+    "artisans": [
+      {
+        "id": "6923642841107954538",
+        "nom": "Passerelle des Gorges du Lignon",
+        "slug": "passerelle-des-gorges-du-lignon",
+        "telephone": "04 71 59 10 76",
+        "site_web": "https://www.sucsetloire-tourisme.fr/decouvrir/les-gorges-du-lignon/passerelle-les-gorges-du-lignon/",
+        "adresse": "Passerelle himalayenne du Lignon Maubourg, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.6,
+        "avis": 1342,
+        "type": "Circuit de randonnée"
+      }
+    ]
+  },
+  "espaly-saint-marcel": {
+    "artisans": [
+      {
+        "id": "11690851131680856249",
+        "nom": "AB PETITS TRAVAUX",
+        "slug": "ab-petits-travaux",
+        "telephone": "07 86 27 56 00",
+        "site_web": "https://sites.google.com/view/abpetitstravaux",
+        "adresse": "8 Rue des Fauvettes, 43000 Espaly-Saint-Marcel",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "langeac": {
+    "artisans": [
+      {
+        "id": "6916618393426696352",
+        "nom": "BATIMAN Hausner Langeac",
+        "slug": "batiman-hausner-langeac",
+        "telephone": "04 71 77 02 10",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-43-langeac-langeac/batiman-hausner",
+        "adresse": "16 Av. de l'Europe, 43300 Langeac",
+        "note": 5,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12276911340235746914",
+        "nom": "Menuiseries du Gévaudan",
+        "slug": "menuiseries-du-gevaudan",
+        "telephone": "04 66 31 69 23",
+        "site_web": "https://www.menuiserie-du-gevaudan.fr/",
+        "adresse": "1 impasse Des Entrepreneurs, 48200 Saint-Chély-d'Apcher",
+        "note": 3.3,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7932938106789187047",
+        "nom": "Valentin Sarl",
+        "slug": "valentin-sarl",
+        "telephone": "04 71 77 07 83",
+        "site_web": "http://socdexploitationdesetsvalentin-langeac.site-solocal.com/?utm_source=gmb",
+        "adresse": "Von, 43300 Langeac",
+        "note": 4.3,
+        "avis": 14,
+        "type": "Constructeur de maisons en bois"
+      }
+    ]
+  },
+  "lapte": {
+    "artisans": [
+      {
+        "id": "10253593087124030896",
+        "nom": "GM Peintures",
+        "slug": "gm-peintures",
+        "telephone": "06 58 29 48 64",
+        "site_web": "http://www.gmpeinture.fr/",
+        "adresse": "43200 Lapte",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "laussonne": {
+    "artisans": [
+      {
+        "id": "1295054545147395904",
+        "nom": "Reynaud Menuiseries Pose de menuiseries PVC Alu Bois Haute Loire Le Puy en Velay",
+        "slug": "reynaud-menuiseries-pose-de-menuiseries-pvc-alu-bois-haute-loire-le-puy-en-velay",
+        "telephone": "04 71 05 11 79",
+        "site_web": "https://www.gmt-menuiseries.com/reynaud-menuiseries/?utm_source=gmb",
+        "adresse": "17 Rte de Saint-Julien, 43150 Laussonne",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "mazeyrat-d-allier": {
+    "artisans": [
+      {
+        "id": "6916618393426696352",
+        "nom": "BATIMAN Hausner Langeac",
+        "slug": "batiman-hausner-langeac",
+        "telephone": "04 71 77 02 10",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-43-langeac-langeac/batiman-hausner",
+        "adresse": "16 Av. de l'Europe, 43300 Langeac",
+        "note": 5,
+        "avis": 34,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-ferreol-d-auroure": {
+    "artisans": [
+      {
+        "id": "4142086991608475506",
+        "nom": "La boutique Du Menuisier Saint Ferréol D'auroure",
+        "slug": "la-boutique-du-menuisier-saint-ferreol-dauroure",
+        "telephone": "04 77 93 52 23",
+        "site_web": "https://www.boutiquemenuisier-42-43.fr/",
+        "adresse": "101 Terres de Villeneuve, 43330 Saint-Ferréol-d'Auroure",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16714265434451561455",
+        "nom": "La Boutique du menuisier, fenêtre Firminy, volets, pergola Loire (42), porte de garage Haute-Loire (43)",
+        "slug": "la-boutique-du-menuisier-fenetre-firminy-volets-pergola-loire-42-porte-de-garage-haute-loire-43",
+        "telephone": "04 77 93 52 23",
+        "site_web": "https://boutiquemenuisier-42-43.fr/",
+        "adresse": "18 Rue Dorian, 42700 Firminy",
+        "note": 4.5,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9844011121384896021",
+        "nom": "Menuiseries Courby",
+        "slug": "menuiseries-courby",
+        "telephone": "04 15 50 43 43",
+        "site_web": "https://www.menuiseriecourby.fr/",
+        "adresse": "99 Terres de Villeneuve, 43330 Saint-Ferréol-d'Auroure",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mazet-saint-voy": {
+    "artisans": [
+      {
+        "id": "4481645727685615688",
+        "nom": "Métallerie Mazet&fils",
+        "slug": "metallerie-mazetfils",
+        "telephone": "06 77 59 39 46",
+        "site_web": "https://www.metallerie-serrurerie-saint-maurice-de-lignon.fr/",
+        "adresse": "285 Rue de Lachamp, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "le-monastier-sur-gazeille": {
+    "artisans": [
+      {
+        "id": "17511875718037049621",
+        "nom": "S&B Métallerie",
+        "slug": "sb-metallerie",
+        "telephone": "06 45 80 63 99",
+        "site_web": null,
+        "adresse": "1 Route de Coubon, 43150 Le Monastier-sur-Gazeille",
+        "note": 5,
+        "avis": 10,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "polignac": {
+    "artisans": [
+      {
+        "id": "4209981067698534533",
+        "nom": "Jouffre Vitrerie",
+        "slug": "jouffre-vitrerie",
+        "telephone": "04 71 09 42 89",
+        "site_web": "http://www.miroiterie-jouffre.fr/",
+        "adresse": "Zone Artisanale de bleu, 15 rue du Suchat, 43000 Polignac",
+        "note": 4.8,
+        "avis": 47,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "6556168898525497448",
+        "nom": "Grimaldi Decoration",
+        "slug": "grimaldi-decoration",
+        "telephone": "04 71 02 02 49",
+        "site_web": "https://www.vg-deco.com/",
+        "adresse": "13 Rue de Genebret, 43700 Brives-Charensac",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9945332307526849006",
+        "nom": "JBesson menuiseries - Travaux de menuiseries & agencement",
+        "slug": "jbesson-menuiseries-travaux-de-menuiseries-agencement",
+        "telephone": "06 98 04 57 54",
+        "site_web": null,
+        "adresse": "Coyac 13 rue du four, 43320 Sanssac-l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "monistrol-sur-loire": {
+    "artisans": [
+      {
+        "id": "9556042821467925713",
+        "nom": "Duplain Julien Menuiserie",
+        "slug": "duplain-julien-menuiserie",
+        "telephone": "04 71 66 53 86",
+        "site_web": null,
+        "adresse": "11 Allee des Taillas, 43120 Monistrol-sur-Loire",
+        "note": 3,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13342888483401697501",
+        "nom": "SAMSE Monistrol",
+        "slug": "samse-monistrol",
+        "telephone": "04 71 66 51 13",
+        "site_web": "https://www.samse.fr/agences/monistrol",
+        "adresse": "ZA Chavanon 2, 43120 Monistrol-sur-Loire",
+        "note": 4.2,
+        "avis": 60,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15205020348206733108",
+        "nom": "SJ PEINTURE DECO / Loire / Haute Loire",
+        "slug": "sj-peinture-deco-loire-haute-loire",
+        "telephone": "06 35 70 03 49",
+        "site_web": null,
+        "adresse": "89 La Croix Saint-Martin CHEMIN DE, 43120 Monistrol-sur-Loire",
+        "note": 5,
+        "avis": 6,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16153848269681494950",
+        "nom": "Electricité Générale Saby",
+        "slug": "electricite-generale-saby",
+        "telephone": "04 71 75 10 00",
+        "site_web": "https://www.saby.fr/",
+        "adresse": "5 Rue des Bleuets, 43120 Monistrol-sur-Loire",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "4942690791763842691",
+        "nom": "AG Menuiserie 43",
+        "slug": "ag-menuiserie-43",
+        "telephone": "09 78 37 05 20",
+        "site_web": "http://agmenuiserie43.fr/",
+        "adresse": "2 Rue de Bartou, 43620 Saint-Pal-de-Mons",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1858716173240367294",
+        "nom": "Décor du Velay",
+        "slug": "decor-du-velay",
+        "telephone": "04 71 61 17 00",
+        "site_web": "https://www.poele-bois-monistrol.fr/",
+        "adresse": "Zone d'activité des Portes du Velay, 251 Imp. de l'Artisanat, 43330 Pont-Salomon",
+        "note": 4.3,
+        "avis": 49,
+        "type": "Magasin de carrelage"
+      }
+    ]
+  },
+  "pont-salomon": {
+    "artisans": [
+      {
+        "id": "17661788334242775131",
+        "nom": "Le Puy Solaire Clim Chauffage Pont Salomon | Pompe à chaleur & Rénovation globale | Photovoltaïque",
+        "slug": "le-puy-solaire-clim-chauffage-pont-salomon-pompe-a-chaleur-renovation-globale-photovoltaique",
+        "telephone": "04 82 29 73 75",
+        "site_web": "https://lepuy.solaireclimchauffage.fr/?utm_source=gmb&utm_medium=organic&utm_campaign=pontsalomon",
+        "adresse": "Les, ZA des Portes du Velay, 43330 Pont-Salomon",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-puy-en-velay": {
+    "artisans": [
+      {
+        "id": "8168937971084517261",
+        "nom": "Maison de Santé du Pensio",
+        "slug": "maison-de-sante-du-pensio",
+        "telephone": "04 43 94 00 94",
+        "site_web": "http://www.msp-du-pensio.fr/",
+        "adresse": "9 Rue du Frère Théodore, 43000 Le Puy-en-Velay",
+        "note": 3.7,
+        "avis": 22,
+        "type": "Centre médical"
+      },
+      {
+        "id": "9084728710205710629",
+        "nom": "Norauto Le Puy En Velay",
+        "slug": "norauto-le-puy-en-velay",
+        "telephone": "04 71 07 01 50",
+        "site_web": "https://www.norauto.fr/",
+        "adresse": "Zac Est Les, All. des Portes Occitanes, 43000 Le Puy-en-Velay",
+        "note": 3.5,
+        "avis": 711,
+        "type": "Atelier de réparation automobile"
+      }
+    ]
+  },
+  "retournac": {
+    "artisans": [
+      {
+        "id": "10418086500157801337",
+        "nom": "Menuiserie COURBY - Cloisons Services",
+        "slug": "menuiserie-courby-cloisons-services",
+        "telephone": "04 71 56 15 57",
+        "site_web": "http://menuiseriescourby.fr/",
+        "adresse": "ZONE ARTISANALE, La Sausse, 43130 Retournac",
+        "note": 4.3,
+        "avis": 40,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "riotord": {
+    "artisans": [
+      {
+        "id": "12471692043093413586",
+        "nom": "Durieux Fermetures Saint-Romain-Lachalm",
+        "slug": "durieux-fermetures-saint-romain-lachalm",
+        "telephone": "04 71 61 98 22",
+        "site_web": "http://www.durieux-fermetures.com/",
+        "adresse": "2, Zone Artisanale de, 43620 Saint-Romain-Lachalm",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "rosieres": {
+    "artisans": [
+      {
+        "id": "9155450962148178887",
+        "nom": "Haute Loire",
+        "slug": "haute-loire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "43800 Rosières",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-didier-en-velay": {
+    "artisans": [
+      {
+        "id": "12025256136615011873",
+        "nom": "Gauthier",
+        "slug": "gauthier",
+        "telephone": "04 77 57 39 71",
+        "site_web": "https://www.gauthier-menuiserie.fr/",
+        "adresse": "zone industrielle, 2 Chem. du Pinay, 42700 Firminy",
+        "note": 4.1,
+        "avis": 32,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4372497408177136047",
+        "nom": "Aquilus Piscines et Spas Pont-Salomon",
+        "slug": "aquilus-piscines-et-spas-pont-salomon",
+        "telephone": "04 71 61 27 27",
+        "site_web": "https://magasin.aquilus-piscines.com/123-aquilus-piscines-et-spas-pont-salomon?utm_source=gmb",
+        "adresse": "Desforange, ZA les portes du Velay, 43330 Pont-Salomon",
+        "note": 3.8,
+        "avis": 28,
+        "type": "Société de construction de piscine"
+      },
+      {
+        "id": "8734351257903602166",
+        "nom": "Dépannage D'ANTONA",
+        "slug": "depannage-dantona",
+        "telephone": "04 71 61 21 73",
+        "site_web": "http://www.dantona-electricite-plomberie.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "12025256136615011873",
+        "nom": "Gauthier",
+        "slug": "gauthier",
+        "telephone": "04 77 57 39 71",
+        "site_web": "https://www.gauthier-menuiserie.fr/",
+        "adresse": "zone industrielle, 2 Chem. du Pinay, 42700 Firminy",
+        "note": 4.1,
+        "avis": 32,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4939226052933879504",
+        "nom": "Depeyre Menuisiers",
+        "slug": "depeyre-menuisiers",
+        "telephone": "06 86 66 78 76",
+        "site_web": "https://depeyremenuisiers.fr/",
+        "adresse": "4 Chem. de la Croix Verte, 43240 Saint-Just-Malmont",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-paulien": {
+    "artisans": [
+      {
+        "id": "12678299866604559323",
+        "nom": "Groupe MCC Concepteur de Fermetures. Fenêtres, vérandas, pergolas, portail; produits PVC, Aluminium, Composite et Acier",
+        "slug": "groupe-mcc-concepteur-de-fermetures-fenetres-verandas-pergolas-portail-produits-pvc-aluminium-composite-et-acier",
+        "telephone": "04 71 00 48 86",
+        "site_web": "http://www.groupemcc.com/",
+        "adresse": "ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 4.5,
+        "avis": 153,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "saint-germain-laprade": {
+    "artisans": [
+      {
+        "id": "6428962114659178237",
+        "nom": "ASF Allegre Stores et Fermetures",
+        "slug": "asf-allegre-stores-et-fermetures",
+        "telephone": "04 71 03 55 92",
+        "site_web": "http://www.allegre-stores-fermetures.fr/?utm_source=gmb",
+        "adresse": "zone industrielle, 139 Av. Pascal Blaise, 43700 Saint-Germain-Laprade",
+        "note": 4.9,
+        "avis": 98,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "saint-julien-chapteuil": {
+    "artisans": [
+      {
+        "id": "1295054545147395904",
+        "nom": "Reynaud Menuiseries Pose de menuiseries PVC Alu Bois Haute Loire Le Puy en Velay",
+        "slug": "reynaud-menuiseries-pose-de-menuiseries-pvc-alu-bois-haute-loire-le-puy-en-velay",
+        "telephone": "04 71 05 11 79",
+        "site_web": "https://www.gmt-menuiseries.com/reynaud-menuiseries/?utm_source=gmb",
+        "adresse": "17 Rte de Saint-Julien, 43150 Laussonne",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-romain-lachalm": {
+    "artisans": [
+      {
+        "id": "12471692043093413586",
+        "nom": "Durieux Fermetures Saint-Romain-Lachalm",
+        "slug": "durieux-fermetures-saint-romain-lachalm",
+        "telephone": "04 71 61 98 22",
+        "site_web": "http://www.durieux-fermetures.com/",
+        "adresse": "2, Zone Artisanale de, 43620 Saint-Romain-Lachalm",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "saint-just-malmont": {
+    "artisans": [
+      {
+        "id": "14888187631893044162",
+        "nom": "Fred Pose - menuiseries extérieures",
+        "slug": "fred-pose-menuiseries-exterieures",
+        "telephone": "06 61 59 54 51",
+        "site_web": null,
+        "adresse": "3 Chem. de la Fayollière, 42700 Firminy",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "saint-pierre-eynac": {
+    "artisans": [
+      {
+        "id": "15258408061575418573",
+        "nom": "Charpente Menuiserie Pagès",
+        "slug": "charpente-menuiserie-pages",
+        "telephone": "04 71 57 66 92",
+        "site_web": "https://etablissementpages.fr/",
+        "adresse": "Le Batailloux, 43260 Saint-Hostien",
+        "note": 4,
+        "avis": 8,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-pal-de-chalencon": {
+    "artisans": [
+      {
+        "id": "5254470981290013422",
+        "nom": "Atelier Bénière : Ebéniste / Agenceurs Haut de gamme",
+        "slug": "atelier-beniere-ebeniste-agenceurs-haut-de-gamme",
+        "telephone": "06 38 38 49 86",
+        "site_web": "https://www.atelierbeniere.fr/",
+        "adresse": "3765 Route des volcans, 43500 Saint-Pal-de-Chalencon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2942832559435356510",
+        "nom": "Mosnier Bois",
+        "slug": "mosnier-bois",
+        "telephone": "04 71 61 32 43",
+        "site_web": null,
+        "adresse": "Le Sap, 43500 Saint-Pal-de-Chalencon",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-pal-de-mons": {
+    "artisans": [
+      {
+        "id": "13838202404989693954",
+        "nom": "Profession Menuisier Saint-Pal-de-Mons | Installateur de fenêtres et menuiseries",
+        "slug": "profession-menuisier-saint-pal-de-mons-installateur-de-fenetres-et-menuiseries",
+        "telephone": "04 71 75 91 27",
+        "site_web": "http://www.professionhabitat.fr/",
+        "adresse": "21 Barthou, 43620 Saint-Pal-de-Mons",
+        "note": 4.6,
+        "avis": 94,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "sainte-sigolene": {
+    "artisans": [
+      {
+        "id": "18042623475058230590",
+        "nom": "Lioger Métallerie Chaudronnerie Tuyauterie Industrielle",
+        "slug": "lioger-metallerie-chaudronnerie-tuyauterie-industrielle",
+        "telephone": "04 71 66 61 14",
+        "site_web": null,
+        "adresse": "Lotissement Peybessoux, Rte de Monistrol, 43600 Sainte-Sigolène",
+        "note": 5,
+        "avis": 7,
+        "type": "Chaudronnerie"
+      }
+    ]
+  },
+  "yssingeaux": {
+    "artisans": [
+      {
+        "id": "10418086500157801337",
+        "nom": "Menuiserie COURBY - Cloisons Services",
+        "slug": "menuiserie-courby-cloisons-services",
+        "telephone": "04 71 56 15 57",
+        "site_web": "http://menuiseriescourby.fr/",
+        "adresse": "ZONE ARTISANALE, La Sausse, 43130 Retournac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6161988494858844699",
+        "nom": "Menuiserie Savel",
+        "slug": "menuiserie-savel",
+        "telephone": "04 71 59 02 02",
+        "site_web": "http://menuiserie-savel.com/",
+        "adresse": "555 RUE DES ENTREPRISES, ZA de Lavée, 43200 Yssingeaux",
+        "note": 4,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2045224523765767769",
+        "nom": "KparK Saint Etienne",
+        "slug": "kpark-saint-etienne",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/37-kpark-saint-etienne?utm_source=gmb",
+        "adresse": "79 Rue Bergson, 42000 Saint-Étienne",
+        "note": 3.7,
+        "avis": 46,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14974841284507120071",
+        "nom": "Yssi'pose",
+        "slug": "yssipose",
+        "telephone": "06 95 21 82 88",
+        "site_web": "https://yssipose.fr/",
+        "adresse": "Les Aiguës, 43200 Yssingeaux",
+        "note": 4,
+        "avis": 4,
+        "type": "Artisanat"
+      },
+      {
+        "id": "1295054545147395904",
+        "nom": "Reynaud Menuiseries Pose de menuiseries PVC Alu Bois Haute Loire Le Puy en Velay",
+        "slug": "reynaud-menuiseries-pose-de-menuiseries-pvc-alu-bois-haute-loire-le-puy-en-velay",
+        "telephone": "04 71 05 11 79",
+        "site_web": "https://www.gmt-menuiseries.com/reynaud-menuiseries/?utm_source=gmb",
+        "adresse": "17 Rte de Saint-Julien, 43150 Laussonne",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1607812517515428173",
+        "nom": "Eric Fayolle - Menuiserie",
+        "slug": "eric-fayolle-menuiserie",
+        "telephone": "04 71 59 16 27",
+        "site_web": "http://www.eric-fayolle-menuiserie.fr/",
+        "adresse": "ZA de Chatimbarbe, 43200 Yssingeaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8985596854134322514",
+        "nom": "Isobat43",
+        "slug": "isobat43",
+        "telephone": "06 80 02 25 88",
+        "site_web": "https://www.isobat43.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Vitrier"
+      },
+      {
+        "id": "315429745745529182",
+        "nom": "A.V.I Agencements Vitrerie Art et Fenêtres -- Pont - Salomon",
+        "slug": "avi-agencements-vitrerie-art-et-fenetres-pont-salomon",
+        "telephone": "04 71 75 48 01",
+        "site_web": "http://avi.artetfenetres.com/",
+        "adresse": "ZA des Portes du Velay, 43330 Pont-Salomon",
+        "note": 4.7,
+        "avis": 61,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5486863584981837098",
+        "nom": "B.p.s.c OCEANE menuiseries PVC ALU BOIS BOIS/ALU haute loire",
+        "slug": "bpsc-oceane-menuiseries-pvc-alu-bois-boisalu-haute-loire",
+        "telephone": "04 71 01 31 56",
+        "site_web": "https://www.bpsc-oceane.fr/",
+        "adresse": "Zone Artisanale, Le Cros, 43800 Saint-Vincent",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13946510080572723256",
+        "nom": "Menuiserie Rousson, portes & fenetres Firminy (Loire 42)",
+        "slug": "menuiserie-rousson-portes-fenetres-firminy-loire-42",
+        "telephone": "04 77 10 93 75",
+        "site_web": "https://www.menuiserie-rousson.fr/fenetres-loire-42/",
+        "adresse": "76 bis Rue Victor Hugo, 42700 Firminy",
+        "note": 3.9,
+        "avis": 124,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vieille-brioude": {
+    "artisans": [
+      {
+        "id": "3838940310589833688",
+        "nom": "VOLET9 - Rénovation volets",
+        "slug": "volet9-renovation-volets",
+        "telephone": "04 71 50 65 92",
+        "site_web": "http://www.volet9.fr/",
+        "adresse": "13 Rue Julien Fayolle, 43100 Brioude",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7560030555985124744",
+        "nom": "ISOBAT 43 menuiserie sanmarti",
+        "slug": "isobat-43-menuiserie-sanmarti",
+        "telephone": "06 80 02 25 88",
+        "site_web": "http://isobat43.fr/",
+        "adresse": "55 Av. Henri Veysseyre, 43100 Fontannes",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "622496620479405834",
+        "nom": "Elit'service",
+        "slug": "elitservice",
+        "telephone": "04 73 38 03 83",
+        "site_web": "https://elitservice.fr/",
+        "adresse": "ZAC de La Novialle, 20 Rue de la Serre, 63670 La Roche-Blanche",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "10705294135574042113",
+        "nom": "Elit'service Brioude",
+        "slug": "elitservice-brioude",
+        "telephone": "04 71 03 50 63",
+        "site_web": "https://www.elitservice.fr/",
+        "adresse": "38 Rue Sébastopol, 43100 Brioude",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "9695487318956522235",
+        "nom": "M'Fermetures",
+        "slug": "mfermetures",
+        "telephone": "07 89 70 46 00",
+        "site_web": "https://www.m-fermetures.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6569623566656846302",
+        "nom": "TRYBA Brioude",
+        "slug": "tryba-brioude",
+        "telephone": "04 20 98 14 37",
+        "site_web": "https://www.tryba.com/espace-conseil/43/tryba-brioude/?utm_campaign=Tryba_Brioude&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "58 Bd Vercingétorix 58 bis, 43100 Brioude",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sanssac-l-eglise": {
+    "artisans": [
+      {
+        "id": "9945332307526849006",
+        "nom": "JBesson menuiseries - Travaux de menuiseries & agencement",
+        "slug": "jbesson-menuiseries-travaux-de-menuiseries-agencement",
+        "telephone": "06 98 04 57 54",
+        "site_web": null,
+        "adresse": "Coyac 13 rue du four, 43320 Sanssac-l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "414352319893584543",
+        "nom": "Menuiserie Industrielle du Velay",
+        "slug": "menuiserie-industrielle-du-velay",
+        "telephone": "04 71 08 60 65",
+        "site_web": "https://www.miv-lagarde.fr/",
+        "adresse": "Za Le Martouret, 43320 Sanssac-l'Église",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14292982508390066246",
+        "nom": "Borelly SARL",
+        "slug": "borelly-sarl",
+        "telephone": "04 71 08 63 73",
+        "site_web": "https://www.expert-renovateur.k-line.fr/?utm_source=gmb",
+        "adresse": "4 Impasse de l'École, 43320 Sanssac-l'Église",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10344033510123758733",
+        "nom": "SARL ARNAUDON",
+        "slug": "sarl-arnaudon",
+        "telephone": "06 19 67 56 21",
+        "site_web": null,
+        "adresse": "Le Martouret, 43320 Sanssac-l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15823993535939855718",
+        "nom": "NICOLAS Stéphane (maître artisan)",
+        "slug": "nicolas-stephane-maitre-artisan",
+        "telephone": "04 71 08 07 48",
+        "site_web": null,
+        "adresse": "43320 Sanssac-l'Église",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "711850053938488407",
+        "nom": "Portes de garage MOOS",
+        "slug": "portes-de-garage-moos",
+        "telephone": "03 89 76 89 29",
+        "site_web": "https://www.moos.fr/portes-de-garage-haute-loire/",
+        "adresse": "19 Rue Saint-Vosy, 43700 Brives-Charensac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "la-seauve-sur-semene": {
+    "artisans": [
+      {
+        "id": "14812264462300251739",
+        "nom": "Menuiserie de Beauvoir",
+        "slug": "menuiserie-de-beauvoir",
+        "telephone": "06 31 09 02 21",
+        "site_web": "https://menuiseriedebeauvoir.wordpress.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15832289884567611497",
+        "nom": "Burlet",
+        "slug": "burlet",
+        "telephone": "04 71 66 06 17",
+        "site_web": "https://www.burlet.pro/",
+        "adresse": "Daille, ZA des Portes du Velay, 43140 La Séauve-sur-Semène",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15890289615280141147",
+        "nom": "Obotoit",
+        "slug": "obotoit",
+        "telephone": "04 71 56 43 90",
+        "site_web": null,
+        "adresse": "43140 La Séauve-sur-Semène",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4120186663813648360",
+        "nom": "METAL CONCEPT",
+        "slug": "metal-concept",
+        "telephone": "04 43 08 50 15",
+        "site_web": "http://www.metalconcept.fr/",
+        "adresse": "70bis Av. de la Semène, 43140 La Séauve-sur-Semène",
+        "note": 0,
+        "avis": 0,
+        "type": "Aciériste"
+      },
+      {
+        "id": "3775341358192026384",
+        "nom": "Renov'toit",
+        "slug": "renovtoit",
+        "telephone": "06 76 62 17 35",
+        "site_web": null,
+        "adresse": "5 Pl. de l'Église, 43140 La Séauve-sur-Semène",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2996916832536033515",
+        "nom": "STYL'VERANDAS",
+        "slug": "stylverandas",
+        "telephone": "04 77 89 13 58",
+        "site_web": "https://www.stylverandas.com/",
+        "adresse": "ZA la, Chem. de la Sagne, 43330 Saint-Ferréol-d'Auroure",
+        "note": 5,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8131484242897949699",
+        "nom": "BATIMAN KASABAT",
+        "slug": "batiman-kasabat",
+        "telephone": "04 71 01 16 16",
+        "site_web": "http://kasabat.site-solocal.com/?utm_source=gmb",
+        "adresse": "429 avenue Chambon, Rue de Chirel Zone De, 43000 Le Puy-en-Velay",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "16915186198454161596",
+        "nom": "Sagnol Patrick",
+        "slug": "sagnol-patrick",
+        "telephone": "06 33 87 41 94",
+        "site_web": "https://www.patrick-sagnol.fr/",
+        "adresse": "155 Chem. de Mandrin, 43110 Aurec-sur-Loire",
+        "note": 4.9,
+        "avis": 21,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "4939226052933879504",
+        "nom": "Depeyre Menuisiers",
+        "slug": "depeyre-menuisiers",
+        "telephone": "06 86 66 78 76",
+        "site_web": "https://depeyremenuisiers.fr/",
+        "adresse": "4 Chem. de la Croix Verte, 43240 Saint-Just-Malmont",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1419689768359033190",
+        "nom": "LAFFONT MENUISERIE",
+        "slug": "laffont-menuiserie",
+        "telephone": "04 71 08 17 82",
+        "site_web": "https://www.laffontmenuiserie-43.fr/",
+        "adresse": "Rue du Grand Pré, 43260 Lantriac",
+        "note": 5,
+        "avis": 160,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "solignac-sur-loire": {
+    "artisans": [
+      {
+        "id": "12701514470134144150",
+        "nom": "Gauthier",
+        "slug": "gauthier",
+        "telephone": "04 71 03 10 14",
+        "site_web": "https://www.gauthier-menuiserie.fr/?utm_source=gmb",
+        "adresse": "Rte de Saint-Christophe, 43370 Cussac-sur-Loire",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "tence": {
+    "artisans": [
+      {
+        "id": "8439737223552732784",
+        "nom": "Fima - Menuiseries Du Haut Lignon",
+        "slug": "fima-menuiseries-du-haut-lignon",
+        "telephone": "04 71 75 87 50",
+        "site_web": "https://fima.fr/",
+        "adresse": "9 Av. de l'Industrie, 43190 Tence",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "vals-pres-le-puy": {
+    "artisans": [
+      {
+        "id": "8131484242897949699",
+        "nom": "BATIMAN KASABAT",
+        "slug": "batiman-kasabat",
+        "telephone": "04 71 01 16 16",
+        "site_web": "http://kasabat.site-solocal.com/?utm_source=gmb",
+        "adresse": "429 avenue Chambon, Rue de Chirel Zone De, 43000 Le Puy-en-Velay",
+        "note": 4.3,
+        "avis": 88,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "saugues": {
+    "artisans": [
+      {
+        "id": "7030151911348192503",
+        "nom": "LR Aluminium",
+        "slug": "lr-aluminium",
+        "telephone": "09 74 56 06 84",
+        "site_web": "https://www.lr-aluminium.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "270 Rue Maurice Favard, 43170 Saugues",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "vorey": {
+    "artisans": [
+      {
+        "id": "5486863584981837098",
+        "nom": "B.p.s.c OCEANE menuiseries PVC ALU BOIS BOIS/ALU haute loire",
+        "slug": "bpsc-oceane-menuiseries-pvc-alu-bois-boisalu-haute-loire",
+        "telephone": "04 71 01 31 56",
+        "site_web": "https://www.bpsc-oceane.fr/",
+        "adresse": "Zone Artisanale, Le Cros, 43800 Saint-Vincent",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vergongheon": {
+    "artisans": [
+      {
+        "id": "17278961136992993580",
+        "nom": "Pierre Giraud",
+        "slug": "pierre-giraud",
+        "telephone": "06 50 29 03 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6932209329942588540",
+        "nom": "Sylvain Ramos",
+        "slug": "sylvain-ramos",
+        "telephone": "06 26 86 87 10",
+        "site_web": "http://www.facebook.com/profile.php?id=100073654823643",
+        "adresse": "20 Rue du Suc du N, 43410 Lempdes-sur-Allagnon",
+        "note": 5,
+        "avis": 0,
+        "type": "Installateur de systèmes de sécurité"
+      },
+      {
+        "id": "13745630626956152355",
+        "nom": "Menuiserie Dumon Et Fils Brioude Issoire",
+        "slug": "menuiserie-dumon-et-fils-brioude-issoire",
+        "telephone": "04 71 76 51 55",
+        "site_web": "https://www.dumon-fils.fr/",
+        "adresse": "2 Bis Rue du Vingt Mai 1952, 43250 Frugerès-les-Mines",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-villettes": {
+    "artisans": [
+      {
+        "id": "17546312556335780176",
+        "nom": "TRYBA Monistrol-sur-Loire",
+        "slug": "tryba-monistrol-sur-loire",
+        "telephone": "04 20 98 13 21",
+        "site_web": "https://www.tryba.com/espace-conseil/43/tryba-monistrol-sur-loire/?utm_campaign=Tryba_monistrol-sur-loire&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "30 Av. de la Libération, 43120 Monistrol-sur-Loire",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15205020348206733108",
+        "nom": "SJ PEINTURE DECO / Loire / Haute Loire",
+        "slug": "sj-peinture-deco-loire-haute-loire",
+        "telephone": "06 35 70 03 49",
+        "site_web": null,
+        "adresse": "89 La Croix Saint-Martin CHEMIN DE, 43120 Monistrol-sur-Loire",
+        "note": 5,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16382218737956944405",
+        "nom": "Pontvianne Thierry",
+        "slug": "pontvianne-thierry",
+        "telephone": "04 71 65 38 31",
+        "site_web": "http://www.monsieurstore.com/",
+        "adresse": "140 Le Bouchet, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "2417699587408041698",
+        "nom": "Monsieur Store Saint-Maurice-de-Lignon - Chapuis Store et Fermetures",
+        "slug": "monsieur-store-saint-maurice-de-lignon-chapuis-store-et-fermetures",
+        "telephone": "04 71 65 32 67",
+        "site_web": "https://monsieurstore.com/magasin/saint-maurice-de-lignon-43200/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "140 Rue du Bouchet za, 43200 Saint-Maurice-de-Lignon",
+        "note": 4.8,
+        "avis": 61,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "14715779001355099954",
+        "nom": "L'atelier du store",
+        "slug": "latelier-du-store",
+        "telephone": "06 26 96 19 04",
+        "site_web": "https://www.latelierdustore.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  }
+}

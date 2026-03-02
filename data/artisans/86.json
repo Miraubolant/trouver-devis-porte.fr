@@ -1,0 +1,4894 @@
+{
+  "marcay": {
+    "artisans": [
+      {
+        "id": "14663959086888296163",
+        "nom": "Fermeture Docking Service",
+        "slug": "fermeture-docking-service",
+        "telephone": "05 86 98 07 60",
+        "site_web": "http://www.fds-fermetures.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "17950805524072876398",
+        "nom": "Côté pose fenêtres PVC, Aluminium, bois, volets, portes d'entrée, portail, pergola à Poitiers 86",
+        "slug": "cote-pose-fenetres-pvc-aluminium-bois-volets-portes-dentree-portail-pergola-a-poitiers-86",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "60 Bd du Grand Cerf, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17771870892370029972",
+        "nom": "Toit Mon Toit - Pergolas, Fenêtres, Portes, Volets, Portails, Toiture",
+        "slug": "toit-mon-toit-pergolas-fenetres-portes-volets-portails-toiture",
+        "telephone": "05 49 83 09 09",
+        "site_web": "https://toitmontoit.fr/",
+        "adresse": "6 Av. de l'Europe, 86500 Montmorillon",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10352658724472143113",
+        "nom": "Automatismes 86",
+        "slug": "automatismes-86",
+        "telephone": "05 49 21 12 76",
+        "site_web": "http://automatismes-86-37.fr/",
+        "adresse": "ZI, 3 avenue Naurais Bachaud, La Naurais Bachaud, 86530 Naintré",
+        "note": 4.4,
+        "avis": 26,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "18079431459511559987",
+        "nom": "Ridoret Menuiserie - Poitiers",
+        "slug": "ridoret-menuiserie-poitiers",
+        "telephone": "05 49 61 35 22",
+        "site_web": "https://ridoret-menuiserie.fr/",
+        "adresse": "4 Rue de Chandy, 86180 Buxerolles",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "beruges": {
+    "artisans": [
+      {
+        "id": "15065696565876269865",
+        "nom": "Boissinot Menuiserie Ebenisterie - Sur Mesure Menuiserie",
+        "slug": "boissinot-menuiserie-ebenisterie-sur-mesure-menuiserie",
+        "telephone": "05 49 22 91 90",
+        "site_web": "https://loudun.surmesure-menuiserie.fr/",
+        "adresse": "3 Rue des Forges, 86200 Loudun",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6812315010024273492",
+        "nom": "La menuiserie d'Augustin",
+        "slug": "la-menuiserie-daugustin",
+        "telephone": "06 50 51 37 55",
+        "site_web": "http://www.lamenuiseriedaugustin.fr/",
+        "adresse": "18 Rue de la Croix Berthon, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16062391816269295295",
+        "nom": "RDV Artisans",
+        "slug": "rdv-artisans",
+        "telephone": "06 19 30 53 69",
+        "site_web": "https://rdvartisans.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 71,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15409662378306559613",
+        "nom": "Art & Fenêtres - FUTURODIFF",
+        "slug": "art-fenetres-futurodiff",
+        "telephone": "05 49 02 60 41",
+        "site_web": "https://futurodiff.artetfenetres.com/adresses-magasins/naintre-86530.php",
+        "adresse": "Nerpuy, 86530 Naintré",
+        "note": 4.6,
+        "avis": 96,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5066040977494474068",
+        "nom": "Menuiserie Tavares",
+        "slug": "menuiserie-tavares",
+        "telephone": "06 36 99 17 79",
+        "site_web": "https://www.artisansartipole.fr/artisans/samuel-tavares-86210-menuisier-charpentier-ebeniste-plaquiste-platrier-isolation-int",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10676202031499443224",
+        "nom": "Menuiserie Godu",
+        "slug": "menuiserie-godu",
+        "telephone": "06 20 26 07 29",
+        "site_web": "https://business.google.com/v/menuiserie-godu/08017677569172566665/e3db/_",
+        "adresse": "40 Rue de l'Epinellerie, 86170 Champigny en Rochereau",
+        "note": 5,
+        "avis": 64,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3186938236214765837",
+        "nom": "CC Bat",
+        "slug": "cc-bat",
+        "telephone": "05 49 54 48 20",
+        "site_web": "https://www.ccbat-christophecaniot.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Entrepreneur de cloisons sèches"
+      },
+      {
+        "id": "11507556285726021643",
+        "nom": "METAL 2000 Poitiers - Châtellerault - Dépannage et entretien rideaux métalliques et portes sectionnelles industrielles (86)",
+        "slug": "metal-2000-poitiers-chatellerault-depannage-et-entretien-rideaux-metalliques-et-portes-sectionnelles-industrielles-86",
+        "telephone": "05 86 16 08 30",
+        "site_web": "https://www.metal2000.fr/nos-agences/metal-2000-chasseneuil-du-poitou/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 13,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "6832093823151374975",
+        "nom": "Poitou Travaux Sarl",
+        "slug": "poitou-travaux-sarl",
+        "telephone": "05 16 83 10 29",
+        "site_web": "http://www.poitou-travaux.fr/",
+        "adresse": "ZA du, Bois de la Grève 19 Bis, 86380 Saint-Martin-la-Pallu",
+        "note": 4.8,
+        "avis": 66,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fleure": {
+    "artisans": [
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "dange-saint-romain": {
+    "artisans": [
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "aslonnes": {
+    "artisans": [
+      {
+        "id": "14886048706819789294",
+        "nom": "Monsieur Habitat - Rénoval - Maison du Menuisier",
+        "slug": "monsieur-habitat-renoval-maison-du-menuisier",
+        "telephone": "05 49 59 02 95",
+        "site_web": "https://smarves.maisondumenuisier.fr/",
+        "adresse": "17 Rue de la Croix de la Cadoue, 86240 Smarves",
+        "note": 4.1,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2563337403046273283",
+        "nom": "Brunet Pascal",
+        "slug": "brunet-pascal",
+        "telephone": "06 78 81 81 97",
+        "site_web": null,
+        "adresse": "7 Rue des Jardins de Puygrenioux, 86340 Aslonnes",
+        "note": 5,
+        "avis": 3,
+        "type": "Vitrier"
+      },
+      {
+        "id": "11686784127154985253",
+        "nom": "Automatismes & Fermetures",
+        "slug": "automatismes-fermetures",
+        "telephone": "06 30 50 08 16",
+        "site_web": null,
+        "adresse": "35 Rte de la Gare, 86240 Iteuil",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "12623090315726003620",
+        "nom": "automatisme repare",
+        "slug": "automatisme-repare",
+        "telephone": "06 26 98 22 65",
+        "site_web": "https://automatismerepare.fr/",
+        "adresse": "35 Rte de Jardres, 86800 Pouillé",
+        "note": 5,
+        "avis": 9,
+        "type": "Entreprise d'automatisation"
+      },
+      {
+        "id": "13512149789318741048",
+        "nom": "Cédric Lehnasch",
+        "slug": "cedric-lehnasch",
+        "telephone": "06 98 99 91 77",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "8229074152535138045",
+        "nom": "SP FLUIDES",
+        "slug": "sp-fluides",
+        "telephone": "06 86 99 73 41",
+        "site_web": "https://www.facebook.com/profile.php?id=61576658283529&locale=fr_FR",
+        "adresse": "10 Rte du Prieure, 86340 Aslonnes",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "coulombiers": {
+    "artisans": [
+      {
+        "id": "5836429088662019820",
+        "nom": "LEONARD FERMETURES",
+        "slug": "leonard-fermetures",
+        "telephone": "05 49 39 02 10",
+        "site_web": "http://www.fermetures-leonard.fr/",
+        "adresse": "5 ZA de, La Pazioterie, 86600 Coulombiers",
+        "note": 4,
+        "avis": 25,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "dissay": {
+    "artisans": [
+      {
+        "id": "13380769228092910851",
+        "nom": "Huguet Thibault Société Nouvelle",
+        "slug": "huguet-thibault-societe-nouvelle",
+        "telephone": "05 49 88 86 84",
+        "site_web": "https://www.komilfo.fr/magasins/huguet-thibault-poitiers-86?utm_source=gmb",
+        "adresse": "ZI de la République, 14 Rue de la République, 86000 Poitiers",
+        "note": 4.8,
+        "avis": 190,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "10092743952450414165",
+        "nom": "BF CONCEPT MENUISERIE – Menuisier à Chateau du Loir, entre Tours et Le Mans",
+        "slug": "bf-concept-menuiserie-menuisier-a-chateau-du-loir-entre-tours-et-le-mans",
+        "telephone": "02 43 38 97 01",
+        "site_web": "http://www.bfconcept.fr/",
+        "adresse": "8 Rue Sainte-Geneviève, 72500 Dissay-sous-Courcillon",
+        "note": 4.6,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13323620062355374320",
+        "nom": "Pôle Froid Service",
+        "slug": "pole-froid-service",
+        "telephone": "05 49 37 11 25",
+        "site_web": "http://www.pole-froid-service.net/",
+        "adresse": "283 All. des Peupliers, 86130 Dissay",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Entrepôt frigorifique"
+      },
+      {
+        "id": "10905404528520977952",
+        "nom": "S.O.S. DEPANNAGE HABITAT",
+        "slug": "sos-depannage-habitat",
+        "telephone": "06 82 20 24 30",
+        "site_web": "http://sos-depannage-habitat.webnode.fr/",
+        "adresse": "35 Rue des Joncs, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 242,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2947420457155475163",
+        "nom": "Grateau Jose Alain",
+        "slug": "grateau-jose-alain",
+        "telephone": "06 42 58 84 60",
+        "site_web": null,
+        "adresse": "75 Rue de la Grange aux Dîmes, 86130 Dissay",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2359580869834357265",
+        "nom": "Poitevin Frédéric",
+        "slug": "poitevin-frederic",
+        "telephone": "05 49 62 36 43",
+        "site_web": "http://www.menuiserie-fenetre-vienne.fr/",
+        "adresse": "16 Rte de Poitiers, 86380 Saint-Martin-la-Pallu",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8635670152704314869",
+        "nom": "Doc Serrure",
+        "slug": "doc-serrure",
+        "telephone": "07 80 46 06 48",
+        "site_web": "https://www.docserrure.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 121,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "2239426887714135699",
+        "nom": "MVP Decostory Menuiseries Et Verandas Du Poitou",
+        "slug": "mvp-decostory-menuiseries-et-verandas-du-poitou",
+        "telephone": "05 49 52 90 54",
+        "site_web": "https://www.decostory.fr/mvp-menuiseries-et-verandas/",
+        "adresse": "90 Rte de Paris, 86360 Chasseneuil-du-Poitou",
+        "note": 4.9,
+        "avis": 153,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8800764334735740233",
+        "nom": "Menuiserie Services 86",
+        "slug": "menuiserie-services-86",
+        "telephone": "06 74 29 03 62",
+        "site_web": "https://menuiserie-services-86.fr/",
+        "adresse": "16 All. Chp Dinard, 86440 Migné-Auxances",
+        "note": 5,
+        "avis": 2,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "2584607390871639529",
+        "nom": "Faucher 3M",
+        "slug": "faucher-3m",
+        "telephone": "06 14 05 31 50",
+        "site_web": "http://serrurier-depannage79.fr/?utm_source=gmb",
+        "adresse": "28 bis Rue Sylvain Drault, 86000 Poitiers",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "fontaine-le-comte": {
+    "artisans": [
+      {
+        "id": "12492205843646109511",
+        "nom": "Ste Poitevine de Renovation",
+        "slug": "ste-poitevine-de-renovation",
+        "telephone": "05 49 53 06 94",
+        "site_web": "http://www.soporen.fr/",
+        "adresse": "39 Rte de Poitiers, 86240 Fontaine-le-Comte",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "13141047993231946152",
+        "nom": "Guillon Berger Sas",
+        "slug": "guillon-berger-sas",
+        "telephone": "05 49 59 23 53",
+        "site_web": null,
+        "adresse": "8 Rue Jean Moulin, 86240 Fontaine-le-Comte",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12919402658063760783",
+        "nom": "Entreprise Gaillard-Pain",
+        "slug": "entreprise-gaillard-pain",
+        "telephone": "05 49 37 97 22",
+        "site_web": null,
+        "adresse": "16 Rue Jean Moulin, 86240 Fontaine-le-Comte",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13487256635660027170",
+        "nom": "Freret Jean-Francis",
+        "slug": "freret-jean-francis",
+        "telephone": "05 49 88 80 58",
+        "site_web": "https://www.freret-jfr.com/",
+        "adresse": "8 Rue de l'Audemont, 86240 Fontaine-le-Comte",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7003750655018479450",
+        "nom": "Adéquation habitat",
+        "slug": "adequation-habitat",
+        "telephone": "09 50 74 02 68",
+        "site_web": null,
+        "adresse": "63 Rue du Vercors, 86240 Fontaine-le-Comte",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1414362866673696819",
+        "nom": "Vienne Miroiterie",
+        "slug": "vienne-miroiterie",
+        "telephone": "05 49 53 00 10",
+        "site_web": "https://www.gvitrage.fr/",
+        "adresse": "246 Av. du 8 Mai 1945, 86000 Poitiers",
+        "note": 3,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5462994962950042627",
+        "nom": "Commentfer",
+        "slug": "commentfer",
+        "telephone": "05 49 49 71 21",
+        "site_web": "http://www.commentfer.fr/",
+        "adresse": "53 Rue du Vercors, 86240 Fontaine-le-Comte",
+        "note": 4.1,
+        "avis": 26,
+        "type": "Fournisseur de métal"
+      },
+      {
+        "id": "3428795551774903407",
+        "nom": "FC CONCEPT - Terres de Fenêtre - Poitiers",
+        "slug": "fc-concept-terres-de-fenetre-poitiers",
+        "telephone": "05 49 51 46 29",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/fc-concept",
+        "adresse": "4 Rue de l'Esplanade, 86240 Fontaine-le-Comte",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "l-isle-jourdain": {
+    "artisans": [
+      {
+        "id": "11220311240429205687",
+        "nom": "CASÉO L'Isle Jourdain",
+        "slug": "caseo-lisle-jourdain",
+        "telephone": "05 62 07 30 36",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-l-isle-jourdain-l-isle-jourdain-54",
+        "adresse": "16 Rue Colette Besson, 32600 L'Isle-Jourdain",
+        "note": 4.1,
+        "avis": 54,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1494164298700636909",
+        "nom": "AFH Menuiserie SOLABAIE L'Isle-Jourdain",
+        "slug": "afh-menuiserie-solabaie-lisle-jourdain",
+        "telephone": "06 23 82 69 46",
+        "site_web": "http://afh-menuiserie.fr/",
+        "adresse": "29 Rte de Toulouse, 32600 L'Isle-Jourdain",
+        "note": 4.5,
+        "avis": 27,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "iteuil": {
+    "artisans": [
+      {
+        "id": "1916084031263741807",
+        "nom": "Rageau SAS",
+        "slug": "rageau-sas",
+        "telephone": "05 49 55 08 09",
+        "site_web": "https://rageau-86.fr/",
+        "adresse": "28 Rue des Acacias, 86240 Iteuil",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "4223887879352177211",
+        "nom": "Creatif Alu",
+        "slug": "creatif-alu",
+        "telephone": "05 49 55 02 42",
+        "site_web": "http://www.creatifalu.com/",
+        "adresse": "37 Rue des Acacias, 86240 Iteuil",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "latille": {
+    "artisans": [
+      {
+        "id": "3525611252217449690",
+        "nom": "Gobin Constructions SARL SARL",
+        "slug": "gobin-constructions-sarl-sarl",
+        "telephone": "06 75 20 01 97",
+        "site_web": null,
+        "adresse": "4 Rue Frugerie, 86190 Latillé",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "1810922741936307108",
+        "nom": "Fermetures Alain Mariette",
+        "slug": "fermetures-alain-mariette",
+        "telephone": "05 49 51 60 58",
+        "site_web": "http://fermetures-alain-mariette-86.com/?utm_source=gmb",
+        "adresse": "38 Rue de la Croix Berthon, 86170 Neuville-de-Poitou",
+        "note": 4.4,
+        "avis": 33,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6666097486521797068",
+        "nom": "Sarl Pelletier",
+        "slug": "sarl-pelletier",
+        "telephone": "06 09 79 04 28",
+        "site_web": null,
+        "adresse": "Parc du Palais, 86170 Saint-Martin-la-Pallu",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8268810188927234739",
+        "nom": "Guichard menuiserie",
+        "slug": "guichard-menuiserie",
+        "telephone": "06 48 18 75 55",
+        "site_web": "https://www.guichard-menuiserie.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "gencay": {
+    "artisans": [
+      {
+        "id": "7689609177712211278",
+        "nom": "Serenity Wood gencay",
+        "slug": "serenity-wood-gencay",
+        "telephone": "09 71 46 31 97",
+        "site_web": "http://serenitywood.com/",
+        "adresse": "40 Rue du Cerisier Marjot, 86160 Gençay",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "7045622473035202995",
+        "nom": "Gitem",
+        "slug": "gitem",
+        "telephone": "05 49 59 31 48",
+        "site_web": "https://www.gitem.fr/nos-magasins.html#!/l/gencay/27-place-du-marche/3927133",
+        "adresse": "27 Pl. du Marché, 86160 Gençay",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "15366130417587972552",
+        "nom": "TREPPENMEISTER GENCAY",
+        "slug": "treppenmeister-gencay",
+        "telephone": "06 34 76 20 58",
+        "site_web": "https://www.treppenmeister.com/fr/escalier-soboi.-vienne-86/",
+        "adresse": "5 Chem. de Brion, 86160 Gençay",
+        "note": 0,
+        "avis": 0,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "17045406671708055208",
+        "nom": "SoBoi",
+        "slug": "soboi",
+        "telephone": "05 49 42 86 61",
+        "site_web": "https://soboi.fr/",
+        "adresse": "Z.A. Verneuil S, 5 Chem. de Brion, 86160 Gençay",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ingrandes": {
+    "artisans": [
+      {
+        "id": "18256639628610544949",
+        "nom": "Daniel Moquet signe vos allées - Ent. Neau",
+        "slug": "daniel-moquet-signe-vos-allees-ent-neau",
+        "telephone": "05 49 85 30 90",
+        "site_web": "https://www.daniel-moquet.com/",
+        "adresse": "La Palue, 86220 Ingrandes",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "8353693858983371005",
+        "nom": "Daniel Moquet signe vos clôtures - Ent. Paillon",
+        "slug": "daniel-moquet-signe-vos-clotures-ent-paillon",
+        "telephone": "0 800 50 00 45",
+        "site_web": "https://www.moquet-clotures.com/cloture-portail/",
+        "adresse": "La Palue, 86220 Ingrandes",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "11945449016436809735",
+        "nom": "CASÉO Châtellerault",
+        "slug": "caseo-chatellerault",
+        "telephone": "05 49 21 27 51",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-chatellerault-chatellerault-131",
+        "adresse": "9 Rue Costes et Bellonte, 86100 Châtellerault",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13885586338584409970",
+        "nom": "Monsieur Store Châtellerault - Fermastores",
+        "slug": "monsieur-store-chatellerault-fermastores",
+        "telephone": "05 49 85 93 88",
+        "site_web": "https://monsieurstore.com/magasin/chatellerault-86100/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "8 All. d'Argenson, 86100 Châtellerault",
+        "note": 4.6,
+        "avis": 61,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "6281236567272736592",
+        "nom": "Bourbon Bruno",
+        "slug": "bourbon-bruno",
+        "telephone": "02 47 94 55 99",
+        "site_web": "http://www.bourbon-menuiserie.fr/",
+        "adresse": "9 rue Costes et Bellonte, 86100 Châtellerault",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7049016654433080845",
+        "nom": "DVTA",
+        "slug": "dvta",
+        "telephone": "05 49 02 61 11",
+        "site_web": "https://www.groupe2llogistics.fr/",
+        "adresse": "zi St Ustre, 86220 Ingrandes",
+        "note": 3.7,
+        "avis": 111,
+        "type": "Service de transport"
+      },
+      {
+        "id": "7588257333262190602",
+        "nom": "Sarl Chiquet",
+        "slug": "sarl-chiquet",
+        "telephone": "06 63 06 76 00",
+        "site_web": null,
+        "adresse": "19 Rue des Trois Pigeons, 86100 Châtellerault",
+        "note": 4,
+        "avis": 9,
+        "type": "Grossiste"
+      },
+      {
+        "id": "17346858260891761197",
+        "nom": "Société Chantraine",
+        "slug": "societe-chantraine",
+        "telephone": "05 49 02 63 24",
+        "site_web": null,
+        "adresse": "24 Rue Pierre Marcou, 86220 Ingrandes",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "1987410768611005680",
+        "nom": "Actuelle Ferronnerie",
+        "slug": "actuelle-ferronnerie",
+        "telephone": "07 55 63 28 65",
+        "site_web": "https://www.facebook.com/Actuelleferronnerie",
+        "adresse": "22 Rue Grand Rue de Saint-Ustre, 86220 Ingrandes",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14491666932933729109",
+        "nom": "Auger et Fils",
+        "slug": "auger-et-fils",
+        "telephone": "06 15 57 36 94",
+        "site_web": "http://www.auger-peinturesetsols-chatellerault.fr/",
+        "adresse": "La Palue, 86220 Ingrandes",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "lathus-saint-remy": {
+    "artisans": [
+      {
+        "id": "201474739327313631",
+        "nom": "Les Portes d'Enfer",
+        "slug": "les-portes-denfer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "86390 Lathus-Saint-Rémy",
+        "note": 4.8,
+        "avis": 30,
+        "type": "Ravin"
+      },
+      {
+        "id": "18355480715593855803",
+        "nom": "BAILLARGEAT S.A.S",
+        "slug": "baillargeat-sas",
+        "telephone": "05 49 91 95 19",
+        "site_web": "http://baillargeat.btpvert.fr/",
+        "adresse": "ZAE Les Paturaux, Rte de Montmorillon, 86390 Lathus-Saint-Rémy",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Façadier"
+      },
+      {
+        "id": "6404470941596003964",
+        "nom": "Savignat Sarl",
+        "slug": "savignat-sarl",
+        "telephone": "05 49 91 86 34",
+        "site_web": null,
+        "adresse": "17 Rte du Dorat, 86390 Lathus-Saint-Rémy",
+        "note": 3,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "15556553849620504748",
+        "nom": "SA Moreau Lathus",
+        "slug": "sa-moreau-lathus",
+        "telephone": "05 49 57 18 94",
+        "site_web": "http://www.moreau-lathus.com/",
+        "adresse": "Zone d’Activité de la Clie, 86240 Iteuil",
+        "note": 4.2,
+        "avis": 23,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "jaunay-marigny": {
+    "artisans": [
+      {
+        "id": "10896353212950889998",
+        "nom": "GOUJON Damien",
+        "slug": "goujon-damien",
+        "telephone": "06 84 36 34 09",
+        "site_web": "https://www.goujon-menuiserie.com/",
+        "adresse": "14 Les Petites Roches, 86380 Saint-Martin-la-Pallu",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6382974813597110439",
+        "nom": "Chapelet Deschamps Menuiseries",
+        "slug": "chapelet-deschamps-menuiseries",
+        "telephone": "05 49 62 53 30",
+        "site_web": "http://web.facebook.com/chapeletmenuiseries/",
+        "adresse": "1 Rue des compagnons, 86130 Jaunay-Marigny",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10971446536527717310",
+        "nom": "Pillot Olivier Bernard Philipp",
+        "slug": "pillot-olivier-bernard-philipp",
+        "telephone": "05 49 62 83 27",
+        "site_web": null,
+        "adresse": "14 Rue de la Haute Payre, 86130 Jaunay-Marigny",
+        "note": 5,
+        "avis": 10,
+        "type": "Électricien"
+      },
+      {
+        "id": "14473013268891459097",
+        "nom": "Delage Aménagements",
+        "slug": "delage-amenagements",
+        "telephone": "05 49 55 30 00",
+        "site_web": "https://www.facebook.com/Delage-Am%C3%A9nagements-810999615963964?utm_source=gmb",
+        "adresse": "5 Rue des Perdrix, 86130 Jaunay-Marigny",
+        "note": 3,
+        "avis": 4,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "13993429702216208495",
+        "nom": "Prox'artisans",
+        "slug": "proxartisans",
+        "telephone": "05 49 11 00 54",
+        "site_web": "https://www.proxartisans.fr/",
+        "adresse": "2 Rue du Commerce, 86360 Chasseneuil-du-Poitou",
+        "note": 5,
+        "avis": 5,
+        "type": "Artisanat"
+      },
+      {
+        "id": "1023001786545879749",
+        "nom": "Entreprise VP",
+        "slug": "entreprise-vp",
+        "telephone": "06 80 94 64 04",
+        "site_web": "https://artisan-86.com/",
+        "adresse": "37 bis Rue de la Haute Payre, 86130 Jaunay-Marigny",
+        "note": 5,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "511797940995237152",
+        "nom": "Artisan Menuiserie Rénovation AMR",
+        "slug": "artisan-menuiserie-renovation-amr",
+        "telephone": "07 87 32 36 22",
+        "site_web": "http://www.artisanmenuiserierenovation86.fr/?utm_source=gmb",
+        "adresse": "Lieu dit le, 6 Bois de la Grève, 86380 Saint-Martin-la-Pallu",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "jardres": {
+    "artisans": [
+      {
+        "id": "3817612963688735526",
+        "nom": "Menuiserie Chauvinoise",
+        "slug": "menuiserie-chauvinoise",
+        "telephone": "05 49 47 34 22",
+        "site_web": "http://www.menuiseriechauvinoise.com/",
+        "adresse": "La Carte, 86800 Jardres",
+        "note": 4.5,
+        "avis": 32,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9602041964876713355",
+        "nom": "Novafermetures",
+        "slug": "novafermetures",
+        "telephone": "05 49 55 06 80",
+        "site_web": "https://nova-86.fr/?utm_source=gmb",
+        "adresse": "36 Rue du Planty, 86300 Chauvigny",
+        "note": 4.7,
+        "avis": 147,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10129318699445096789",
+        "nom": "M.V.S. 86",
+        "slug": "mvs-86",
+        "telephone": "06 78 08 28 63",
+        "site_web": "https://www.mvs86.com/",
+        "adresse": "71 Rue de Peuron, 86300 Chauvigny",
+        "note": 5,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14957909078026636813",
+        "nom": "Rigaud Didier",
+        "slug": "rigaud-didier",
+        "telephone": "05 49 45 69 20",
+        "site_web": null,
+        "adresse": "21 Rue de la Vallée, 86800 Jardres",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "boivre-la-vallee": {
+    "artisans": [
+      {
+        "id": "15867970618692327941",
+        "nom": "Girard-Vitré",
+        "slug": "girard-vitre",
+        "telephone": "05 49 57 83 81",
+        "site_web": "https://girard-vitre-paysagiste-lavausseau.com/",
+        "adresse": "Chevaufeu, 86470 Boivre-la-Vallée",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "4064929406330439509",
+        "nom": "Saboureau Texier Julien",
+        "slug": "saboureau-texier-julien",
+        "telephone": "05 49 43 24 56",
+        "site_web": "https://www.texier-chauffage.fr/",
+        "adresse": "11 bis Rte Océane, 86470 Boivre-la-Vallée",
+        "note": 4,
+        "avis": 13,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "5836429088662019820",
+        "nom": "LEONARD FERMETURES",
+        "slug": "leonard-fermetures",
+        "telephone": "05 49 39 02 10",
+        "site_web": "http://www.fermetures-leonard.fr/",
+        "adresse": "5 ZA de, La Pazioterie, 86600 Coulombiers",
+        "note": 4,
+        "avis": 25,
+        "type": "Artisanat"
+      },
+      {
+        "id": "5975944057865807935",
+        "nom": "Le Relais de la Boivre ou chez SAM",
+        "slug": "le-relais-de-la-boivre-ou-chez-sam",
+        "telephone": "05 49 01 76 62",
+        "site_web": null,
+        "adresse": "1 Pl. de l'Église, 86470 Boivre-la-Vallée",
+        "note": 4.8,
+        "avis": 94,
+        "type": "Bar-tabac"
+      },
+      {
+        "id": "16143188348276825833",
+        "nom": "Bonnin Cyrille",
+        "slug": "bonnin-cyrille",
+        "telephone": "05 49 55 11 27",
+        "site_web": null,
+        "adresse": "2 La Jourdinière, 86470 Boivre-la-Vallée",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "451427478314125491",
+        "nom": "Saboureau Sarl",
+        "slug": "saboureau-sarl",
+        "telephone": "05 49 43 24 56",
+        "site_web": null,
+        "adresse": "10 Rue des Tanneurs, 86470 Boivre-la-Vallée",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10524249529073360830",
+        "nom": "BERCAIL",
+        "slug": "bercail",
+        "telephone": "06 70 85 08 67",
+        "site_web": "https://www.instagram.com/bercail.atelier/",
+        "adresse": "3 chemin des courtaudières, 86600 Lusignan",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "loudun": {
+    "artisans": [
+      {
+        "id": "7769883485261865701",
+        "nom": "Porte du Martray",
+        "slug": "porte-du-martray",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "35 Rue du Martray, 86200 Loudun",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Site historique"
+      }
+    ]
+  },
+  "lencloitre": {
+    "artisans": [
+      {
+        "id": "7856223700443289874",
+        "nom": "Agence Alienor Immobilier",
+        "slug": "agence-alienor-immobilier",
+        "telephone": "05 16 17 77 72",
+        "site_web": "http://www.alienorimmobilier.com/",
+        "adresse": "6 rond point du 11 novembre, 86140 Lencloître",
+        "note": 4.1,
+        "avis": 34,
+        "type": "Agence immobilière"
+      },
+      {
+        "id": "1916367455070054101",
+        "nom": "Menuiserie Clouet",
+        "slug": "menuiserie-clouet",
+        "telephone": "05 49 93 87 67",
+        "site_web": "https://www.menuiserie-clouet.com/",
+        "adresse": "12 Rue des Blanchards, 86540 Thuré",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4350387053397334694",
+        "nom": "MBL86",
+        "slug": "mbl86",
+        "telephone": "06 82 45 45 73",
+        "site_web": "https://www.menuiserie-bois-lusseau.com/",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10424317127181875943",
+        "nom": "VRIET ET FILS Menuiserie",
+        "slug": "vriet-et-fils-menuiserie",
+        "telephone": "05 49 56 81 19",
+        "site_web": "http://www.vriet-menuiserie.fr/",
+        "adresse": "4 Impasse de la Vallée du Pont, 86800 Saint-Julien-l'Ars",
+        "note": 4,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "liguge": {
+    "artisans": [
+      {
+        "id": "8431494089730545637",
+        "nom": "Etablissements Pereira",
+        "slug": "etablissements-pereira",
+        "telephone": "05 49 57 11 78",
+        "site_web": "http://www.escalierdesign.fr/",
+        "adresse": "3 All. du Bois Renard, 86240 Ligugé",
+        "note": 5,
+        "avis": 143,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "8059841868575950983",
+        "nom": "Monsieur Store - Fenêtres - Volets - Portails - Poitiers - Fermastores",
+        "slug": "monsieur-store-fenetres-volets-portails-poitiers-fermastores",
+        "telephone": "05 49 62 97 02",
+        "site_web": "https://monsieurstore.com/magasin/poitiers-86280/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "131 Rte de Poitiers, 86280 Saint-Benoît",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "8503967055895252143",
+        "nom": "Morillon (membre CSI Réseau)",
+        "slug": "morillon-membre-csi-reseau",
+        "telephone": "05 49 00 28 48",
+        "site_web": "http://www.csi-reseau.com/",
+        "adresse": "All. du Bois Renard, 86240 Ligugé",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3692448604296561989",
+        "nom": "Miroiterie Mélusine",
+        "slug": "miroiterie-melusine",
+        "telephone": "05 49 62 97 03",
+        "site_web": "http://www.csi-reseau.com/",
+        "adresse": "13 All. du Bois Renard, 86240 Ligugé",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13336252537772787431",
+        "nom": "Delhoume (membre CSI RESEAU)",
+        "slug": "delhoume-membre-csi-reseau",
+        "telephone": "05 49 55 27 56",
+        "site_web": "http://csi-reseau.com/",
+        "adresse": "6 All. du Bois Renard, 86240 Ligugé",
+        "note": 4.3,
+        "avis": 10,
+        "type": "Entrepreneur en construction intérieure"
+      },
+      {
+        "id": "3034558478875847454",
+        "nom": "Aäsgard Poitiers - Poêle à bois - Poêle à granulés - Poêle de masse - Insert cheminée",
+        "slug": "aasgard-poitiers-poele-a-bois-poele-a-granules-poele-de-masse-insert-cheminee",
+        "telephone": "05 49 00 33 10",
+        "site_web": "https://www.aasgard.fr/magasins/aasgard-poitiers",
+        "adresse": "224 Av. du 8 Mai 1945, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 376,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "6794102237978166643",
+        "nom": "Etolrak",
+        "slug": "etolrak",
+        "telephone": "06 27 38 09 46",
+        "site_web": "http://www.etolrak.fr/",
+        "adresse": "4 allée du Château, La Motte, 86240 Ligugé",
+        "note": 5,
+        "avis": 37,
+        "type": "Fabricant"
+      },
+      {
+        "id": "1834263915680841785",
+        "nom": "Pro Energie",
+        "slug": "pro-energie",
+        "telephone": "06 19 22 65 51",
+        "site_web": "http://www.proenergie86.fr/",
+        "adresse": "3 Av. de la Plage, 86240 Ligugé",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "667611704726054439",
+        "nom": "Grandbains Poitiers",
+        "slug": "grandbains-poitiers",
+        "telephone": "05 16 69 01 66",
+        "site_web": "https://www.grandbains.fr/magasins/grandbains-poitiers-2",
+        "adresse": "181 Av. du 8 Mai 1945, 86000 Poitiers",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "2453519417860108800",
+        "nom": "Agences Immovienne Ligugé",
+        "slug": "agences-immovienne-liguge",
+        "telephone": "05 49 46 94 12",
+        "site_web": "http://fr-fr.facebook.com/immovienneliguge/?utm_source=gmb",
+        "adresse": "36 Grand Rue, 86240 Ligugé",
+        "note": 3.9,
+        "avis": 33,
+        "type": "Agent immobilier"
+      }
+    ]
+  },
+  "lavoux": {
+    "artisans": [
+      {
+        "id": "729362311364711019",
+        "nom": "Vienne Agencement",
+        "slug": "vienne-agencement",
+        "telephone": "05 49 62 06 02",
+        "site_web": "http://www.vienne-agencement.fr/",
+        "adresse": "14 Rte des Oriolleres, 86550 Mignaloux-Beauvoir",
+        "note": 5,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11632046558703227714",
+        "nom": "DAOUX FABIEN EIRL",
+        "slug": "daoux-fabien-eirl",
+        "telephone": "06 77 81 36 14",
+        "site_web": null,
+        "adresse": "8 Rue Neuve de la Chaumillière, 86800 Lavoux",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "12136996216258746737",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "05 49 88 90 97",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-poitiers",
+        "adresse": "225 Av. de Paris, 86000 Poitiers",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11542233012771251849",
+        "nom": "Arbor et vie",
+        "slug": "arbor-et-vie",
+        "telephone": "07 87 96 65 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 3,
+        "type": "Service d'élagage"
+      }
+    ]
+  },
+  "availles-en-chatellerault": {
+    "artisans": [
+      {
+        "id": "17831155230480951227",
+        "nom": "Stéphane Multi Services",
+        "slug": "stephane-multi-services",
+        "telephone": "06 26 26 18 56",
+        "site_web": "https://www.facebook.com/133724993153647",
+        "adresse": "21 Rue des Bouzereaux, 86530 Availles-en-Châtellerault",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "availles-limouzine": {
+    "artisans": [
+      {
+        "id": "15615951960433071068",
+        "nom": "Sarl Vergnaud Pere Et Fils",
+        "slug": "sarl-vergnaud-pere-et-fils",
+        "telephone": "05 45 30 61 57",
+        "site_web": null,
+        "adresse": "All. des Freniers, 16500 Confolens",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13015351133541575575",
+        "nom": "Dumas Menuiseries - Sur Mesure Menuiserie",
+        "slug": "dumas-menuiseries-sur-mesure-menuiserie",
+        "telephone": "05 45 29 01 77",
+        "site_web": "https://www.dumas-menuiseries.fr/",
+        "adresse": "ZI Nord, Chem. des Gordins, 16700 Ruffec",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12084329323295999474",
+        "nom": "Ébénisterie Berthommé",
+        "slug": "ebenisterie-berthomme",
+        "telephone": "05 49 48 50 79",
+        "site_web": "https://www.toilette-seche86.fr/",
+        "adresse": "86460 Availles-Limouzine",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5836907512741297411",
+        "nom": "EI Besseau Lucas",
+        "slug": "ei-besseau-lucas",
+        "telephone": "06 33 11 42 79",
+        "site_web": null,
+        "adresse": "43 Rue de la Gare, 86460 Availles-Limouzine",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "14070512813807648314",
+        "nom": "Galbois Père et Fils",
+        "slug": "galbois-pere-et-fils",
+        "telephone": "06 06 87 70 87",
+        "site_web": null,
+        "adresse": "34 Rue des Hortensias, 86460 Availles-Limouzine",
+        "note": 3,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "6664595792655744825",
+        "nom": "Atelier Boiserie Construction",
+        "slug": "atelier-boiserie-construction",
+        "telephone": "05 49 48 59 64",
+        "site_web": null,
+        "adresse": "La Ribière, 86460 Availles-Limouzine",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4929959195040057337",
+        "nom": "Faugeroux Thierry",
+        "slug": "faugeroux-thierry",
+        "telephone": "05 49 48 54 38",
+        "site_web": null,
+        "adresse": "Rue de Chez Guillot, 86460 Availles-Limouzine",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "6430278580320521513",
+        "nom": "Coop d'availles Limouzine",
+        "slug": "coop-davailles-limouzine",
+        "telephone": "06 31 16 53 45",
+        "site_web": null,
+        "adresse": "2 Bis Pl. Adrien Bernard, 86460 Availles-Limouzine",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Épicerie"
+      },
+      {
+        "id": "8893577605305463872",
+        "nom": "Wauenzell-Arnaud SARL",
+        "slug": "wauenzell-arnaud-sarl",
+        "telephone": "05 49 48 50 69",
+        "site_web": null,
+        "adresse": "49 Rue de la Gare, 86460 Availles-Limouzine",
+        "note": 2.8,
+        "avis": 4,
+        "type": null
+      },
+      {
+        "id": "17013211282072504877",
+        "nom": "Faugeroux David",
+        "slug": "faugeroux-david",
+        "telephone": "06 07 42 77 36",
+        "site_web": null,
+        "adresse": "6 Rue des Rosiers, 86460 Availles-Limouzine",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "lussac-les-chateaux": {
+    "artisans": [
+      {
+        "id": "1062554760874661051",
+        "nom": "PMC",
+        "slug": "pmc",
+        "telephone": "05 49 84 36 60",
+        "site_web": "https://www.pmc-menuiserie-cuisine.com/",
+        "adresse": "Rue Baptiste Marcet, 86320 Lussac-les-Châteaux",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8738388249775136249",
+        "nom": "2B ENERGY",
+        "slug": "2b-energy",
+        "telephone": "05 49 91 73 97",
+        "site_web": "https://www.manceau-plomberie-electricite.fr/",
+        "adresse": "23 Rte de Poitiers, 86320 Lussac-les-Châteaux",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "3413877853678555969",
+        "nom": "Broetto Sarl",
+        "slug": "broetto-sarl",
+        "telephone": "05 49 48 82 69",
+        "site_web": "http://www.sarl-broetto.fr/",
+        "adresse": "3 Rue de la Failloderie, 86320 Lussac-les-Châteaux",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Maçon"
+      },
+      {
+        "id": "3063409492186922009",
+        "nom": "Bernier Associés",
+        "slug": "bernier-associes",
+        "telephone": "05 49 48 49 98",
+        "site_web": "https://sarl-bernierassocies.fr/",
+        "adresse": "Av. de l'Europe, 86320 Lussac-les-Châteaux",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lusignan": {
+    "artisans": [
+      {
+        "id": "12145611351552499731",
+        "nom": "Pichelin Patrick",
+        "slug": "pichelin-patrick",
+        "telephone": "05 49 43 76 39",
+        "site_web": "http://www.pichelin-patrick-menuiseries-peintures.fr/?utm_source=gmb",
+        "adresse": "3 ZA, Taillis de la Georginière, 86600 Lusignan",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4153907351787031923",
+        "nom": "A Getreau",
+        "slug": "a-getreau",
+        "telephone": "07 87 07 10 62",
+        "site_web": "https://fabrication-meubles-86.fr/",
+        "adresse": "Taillis de la Georginière, 86600 Lusignan",
+        "note": 5,
+        "avis": 8,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "11998240359726931574",
+        "nom": "Menuiserie Chauvineau",
+        "slug": "menuiserie-chauvineau",
+        "telephone": "06 22 52 54 79",
+        "site_web": "http://www.menuiserie-chauvineau.fr/",
+        "adresse": "3 Rue de la Fontaine, 86600 Cloué",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6801938224554630311",
+        "nom": "Ebenisterie Creation",
+        "slug": "ebenisterie-creation",
+        "telephone": "09 51 25 87 01",
+        "site_web": "http://www.ebenisterie-creation.com/",
+        "adresse": "Zone Artisanale, La Georginière, 86600 Lusignan",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "antran": {
+    "artisans": [
+      {
+        "id": "17831372520881534797",
+        "nom": "La Grange Aux Bois",
+        "slug": "la-grange-aux-bois",
+        "telephone": "06 87 72 09 63",
+        "site_web": "http://lagrangeauxbois.com/",
+        "adresse": "23 Rue de l'Aubépine, 86530 Naintré",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3224741814842749836",
+        "nom": "Ambition Rénovation",
+        "slug": "ambition-renovation",
+        "telephone": "05 49 93 91 40",
+        "site_web": "https://www.ambition-renovation.pro/",
+        "adresse": "3 Rue Bernard Palissy, 86100 Châtellerault",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2373791877726778840",
+        "nom": "Ebénisterie Girard",
+        "slug": "ebenisterie-girard",
+        "telephone": "05 49 02 83 34",
+        "site_web": "https://ebenisteriegirard.fr/",
+        "adresse": "Les Ressinières, 5 rue des Vergnes, 86100 Antran",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2006082790731603781",
+        "nom": "TRYBA Chatellerault",
+        "slug": "tryba-chatellerault",
+        "telephone": "05 79 79 95 75",
+        "site_web": "https://www.tryba.com/espace-conseil/86/tryba-chatellerault/?utm_campaign=Tryba_Chatellerault&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "127 Bd de Blossac, 86100 Châtellerault",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11843363610299704781",
+        "nom": "Guignard Frères",
+        "slug": "guignard-freres",
+        "telephone": "09 70 35 82 05",
+        "site_web": "https://www.guignardfreres.fr/",
+        "adresse": "16 Av. de Corby, 86100 Châtellerault",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "chateau-larcher": {
+    "artisans": [
+      {
+        "id": "289870376679745552",
+        "nom": "Château-Larcher",
+        "slug": "chateau-larcher",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "86370 Château-Larcher",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "6052005198006564983",
+        "nom": "ART RENOV Vivonne",
+        "slug": "art-renov-vivonne",
+        "telephone": "05 45 38 42 85",
+        "site_web": "http://www.artrenov.fr/",
+        "adresse": "50 Bis Grande Rue, 86370 Vivonne",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "beaumont-saint-cyr": {
+    "artisans": [
+      {
+        "id": "10352658724472143113",
+        "nom": "Automatismes 86",
+        "slug": "automatismes-86",
+        "telephone": "05 49 21 12 76",
+        "site_web": "http://automatismes-86-37.fr/",
+        "adresse": "ZI, 3 avenue Naurais Bachaud, La Naurais Bachaud, 86530 Naintré",
+        "note": 4.4,
+        "avis": 26,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "avanton": {
+    "artisans": [
+      {
+        "id": "8317902187268823643",
+        "nom": "CABINET DUBOIS",
+        "slug": "cabinet-dubois",
+        "telephone": "05 49 52 80 52",
+        "site_web": "https://doizon86.com/",
+        "adresse": "ZAE, 2 Rue des Entrepreneurs, Av. du Clos de l'Ormeau, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Constructeur d'abris de jardin"
+      },
+      {
+        "id": "4554020172950892598",
+        "nom": "Menuiserie de Neuville",
+        "slug": "menuiserie-de-neuville",
+        "telephone": "05 49 54 51 18",
+        "site_web": "http://www.menuiserie-de-neuville.fr/",
+        "adresse": "4 All. Jean Monnet, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8615663648885910850",
+        "nom": "SOLISYSTEME - Pergolas Bioclimatiques",
+        "slug": "solisysteme-pergolas-bioclimatiques",
+        "telephone": "05 49 60 27 21",
+        "site_web": "https://www.solisysteme.fr/",
+        "adresse": "11 Rte de la Cr D Hénon, 86170 Avanton",
+        "note": 4,
+        "avis": 23,
+        "type": "Fabricant"
+      },
+      {
+        "id": "3601389343687238557",
+        "nom": "NIOLLET - Electricien Automatisme Interphone",
+        "slug": "niollet-electricien-automatisme-interphone",
+        "telephone": "05 49 39 28 75",
+        "site_web": "https://www.niollet.fr/",
+        "adresse": "2 Rue Louis Plaud, 86440 Migné-Auxances",
+        "note": 5,
+        "avis": 43,
+        "type": "Électricien"
+      },
+      {
+        "id": "17182477739133346408",
+        "nom": "Amco-Createch",
+        "slug": "amco-createch",
+        "telephone": "05 49 39 54 54",
+        "site_web": "https://www.amco-createch.com/",
+        "adresse": "2 Rue d'Italie, 86170 Cissé",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4492753202859347104",
+        "nom": "Elme Frères",
+        "slug": "elme-freres",
+        "telephone": "05 49 50 09 61",
+        "site_web": null,
+        "adresse": "31 Rte de la Cr D Hénon, 86170 Avanton",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "5933327148044308835",
+        "nom": "ALTER'ECO 86",
+        "slug": "altereco-86",
+        "telephone": "06 67 02 68 51",
+        "site_web": null,
+        "adresse": "16 Rue du Coteau, 86380 Saint-Martin-la-Pallu",
+        "note": 5,
+        "avis": 16,
+        "type": "Maçon"
+      },
+      {
+        "id": "5410126215629985917",
+        "nom": "RMB Agencement",
+        "slug": "rmb-agencement",
+        "telephone": null,
+        "site_web": "https://rmbagencement.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Décorateur d'intérieur"
+      },
+      {
+        "id": "3296527656507382893",
+        "nom": "Naudon et Mathé Frères",
+        "slug": "naudon-et-mathe-freres",
+        "telephone": "05 49 18 90 34",
+        "site_web": "https://www.naudon-mathe.fr/?utm_source=gmb",
+        "adresse": "52 Rue Robert Schuman, 86170 Neuville-de-Poitou",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chasseneuil-du-poitou": {
+    "artisans": [
+      {
+        "id": "17519178779288485881",
+        "nom": "Chazelles Poitiers - Cheminée, poêle à bois, poêle à granulés",
+        "slug": "chazelles-poitiers-cheminee-poele-a-bois-poele-a-granules",
+        "telephone": "05 49 30 06 53",
+        "site_web": "https://www.chazelles-poitiers.com/?utm_source=gmb",
+        "adresse": "ZAC LES PORTES DU FUTUR, 40 Bis All. du Haut Poitou, 86360 Chasseneuil-du-Poitou",
+        "note": 3.9,
+        "avis": 41,
+        "type": "Cheministe"
+      },
+      {
+        "id": "14694869562720937519",
+        "nom": "Norauto Chasseneuil Du Poitou",
+        "slug": "norauto-chasseneuil-du-poitou",
+        "telephone": "05 49 00 10 51",
+        "site_web": "https://www.norauto.fr/",
+        "adresse": "Centre Commercial Auchan Les Portes Du Futur, 86360 Chasseneuil-du-Poitou",
+        "note": 3.9,
+        "avis": 815,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "10141798804415770891",
+        "nom": "SOCOVER - Vérandas et Menuiseries à Poitiers",
+        "slug": "socover-verandas-et-menuiseries-a-poitiers",
+        "telephone": "05 49 47 78 28",
+        "site_web": "http://www.veranda-socover.fr/",
+        "adresse": "12 Rue Eugène Chevreul, 86000 Poitiers",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Vitrier"
+      },
+      {
+        "id": "5630608492458089433",
+        "nom": "ODPP Laurentin",
+        "slug": "odpp-laurentin",
+        "telephone": "05 49 52 00 47",
+        "site_web": "https://www.odpp.fr/",
+        "adresse": "12 Rue Eugène Chevreul, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Installateur de systèmes de sécurité"
+      },
+      {
+        "id": "4107913599689939873",
+        "nom": "Protect Solaire",
+        "slug": "protect-solaire",
+        "telephone": "05 49 30 15 15",
+        "site_web": "http://www.protect-solaire.com/?utm_source=gmb",
+        "adresse": "20 Rue du Gué Sourdeau, 86360 Chasseneuil-du-Poitou",
+        "note": 4.6,
+        "avis": 36,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "9085538172526808750",
+        "nom": "Brisach Chasseneuil",
+        "slug": "brisach-chasseneuil",
+        "telephone": "05 49 37 08 56",
+        "site_web": "https://www.brisach.com/store/brisach-poitiers/?utm_source=gmb",
+        "adresse": "1 Av. des Grands Philambins, 86360 Chasseneuil-du-Poitou",
+        "note": 4.5,
+        "avis": 64,
+        "type": "Cheministe"
+      },
+      {
+        "id": "13375796599709114489",
+        "nom": "Amis Confort",
+        "slug": "amis-confort",
+        "telephone": "05 49 61 23 45",
+        "site_web": "http://www.veranda-86.fr/",
+        "adresse": "Za Des Tilleuls, 2 Rue de Chandy, 86180 Buxerolles",
+        "note": 4.4,
+        "avis": 92,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7988546387423352495",
+        "nom": "Technitoit Poitiers",
+        "slug": "technitoit-poitiers",
+        "telephone": "05 33 52 29 49",
+        "site_web": "https://www.technitoit.com/agence/vienne-86-poitiers?utm_source=google&utm_medium=gmb",
+        "adresse": "10 Rte de Paris, 86360 Chasseneuil-du-Poitou",
+        "note": 4.4,
+        "avis": 200,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11940596585395816043",
+        "nom": "Leroy Merlin Chasseneuil-du-Poitou - Poitiers",
+        "slug": "leroy-merlin-chasseneuil-du-poitou-poitiers",
+        "telephone": "05 49 62 81 81",
+        "site_web": "https://www.leroymerlin.fr/magasins/chasseneuil-du-poitou-poitiers.html",
+        "adresse": "LEROY MERLIN 2, allée du Haut Poitou, RN 10, 86360 Chasseneuil-du-Poitou",
+        "note": 4,
+        "avis": 4124,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "valence-en-poitou": {
+    "artisans": [
+      {
+        "id": "16616905377390731112",
+        "nom": "M T Z-RÉNOVATION",
+        "slug": "m-t-z-renovation",
+        "telephone": "07 50 81 21 41",
+        "site_web": "https://www.mtz-renovation.fr/",
+        "adresse": "1 Rue du Vieux Courau, Ceaux En Couhe, 86700 Valence-en-Poitou",
+        "note": 5,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "ayron": {
+    "artisans": [
+      {
+        "id": "6768465870612393700",
+        "nom": "BVF Menuiserie et Agencement",
+        "slug": "bvf-menuiserie-et-agencement",
+        "telephone": "09 67 14 93 29",
+        "site_web": "https://www.bvfmenuiserie.com/",
+        "adresse": "Zone Artisanale, Les Cartes, 86190 Ayron",
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "9684736072164874503",
+        "nom": "Samap",
+        "slug": "samap",
+        "telephone": "05 49 60 27 27",
+        "site_web": "https://www.samap86.fr/?utm_source=gmb",
+        "adresse": "Zone artisanale, Les Cartes, 86190 Ayron",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9507381390831967096",
+        "nom": "Ecale Metallerie",
+        "slug": "ecale-metallerie",
+        "telephone": "05 49 60 11 63",
+        "site_web": "https://ecale.fr/",
+        "adresse": "31 Rte de Poitiers, 86190 Ayron",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Producteur de ferronnerie industrielle"
+      }
+    ]
+  },
+  "chaunay": {
+    "artisans": [
+      {
+        "id": "2391953259534600222",
+        "nom": "Bétin Et Cie Sarl",
+        "slug": "betin-et-cie-sarl",
+        "telephone": "05 49 59 25 50",
+        "site_web": "https://sarl-betin-cie.fr/",
+        "adresse": "2 Grande Rue, 86510 Chaunay",
+        "note": 3,
+        "avis": 4,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "18284581689335517353",
+        "nom": "Sved Sarl Sud Vienne Entretien Dépannage",
+        "slug": "sved-sarl-sud-vienne-entretien-depannage",
+        "telephone": "05 49 45 28 18",
+        "site_web": null,
+        "adresse": "86510 Chaunay",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chatellerault": {
+    "artisans": [
+      {
+        "id": "14333399515751862556",
+        "nom": "Ardemen",
+        "slug": "ardemen",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8 Rue des Frères Lumière, 86100 Châtellerault",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8059841868575950983",
+        "nom": "Monsieur Store - Fenêtres - Volets - Portails - Poitiers - Fermastores",
+        "slug": "monsieur-store-fenetres-volets-portails-poitiers-fermastores",
+        "telephone": "05 49 62 97 02",
+        "site_web": "https://monsieurstore.com/magasin/poitiers-86280/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "131 Rte de Poitiers, 86280 Saint-Benoît",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "18118069287805212511",
+        "nom": "Heppner Châtellerault",
+        "slug": "heppner-chatellerault",
+        "telephone": "05 49 21 00 76",
+        "site_web": "https://www.heppner-group.com/",
+        "adresse": "5 Rue Santos Dumont, 86100 Châtellerault",
+        "note": 3.5,
+        "avis": 38,
+        "type": "Société de transport routier"
+      },
+      {
+        "id": "13513516929536760279",
+        "nom": "AMA",
+        "slug": "ama",
+        "telephone": "07 82 02 76 77",
+        "site_web": "https://ama-renov.fr/",
+        "adresse": "81 Rue Pierre Tavernier, 86100 Châtellerault",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "8778758416352415464",
+        "nom": "Carré d'Avenir",
+        "slug": "carre-davenir",
+        "telephone": "05 49 19 47 04",
+        "site_web": "http://www.carredavenir-renovation.fr/?utm_source=gmb",
+        "adresse": "38 Av. du Maréchal Leclerc, 86100 Châtellerault",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12583184798849680369",
+        "nom": "sarl pingeot",
+        "slug": "sarl-pingeot",
+        "telephone": "05 49 93 16 63",
+        "site_web": "https://www.portails-86.com/",
+        "adresse": "111 Rue Maurice Fombeure, 86100 Châtellerault",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "664194165912012133",
+        "nom": "D. Enault",
+        "slug": "d-enault",
+        "telephone": "05 49 23 34 89",
+        "site_web": "https://www.enault-peinture-86.fr/",
+        "adresse": "14 Av. Paul Painlevé, 86100 Châtellerault",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9001535445897773463",
+        "nom": "Espace Aubade Moy Châtellerault",
+        "slug": "espace-aubade-moy-chatellerault",
+        "telephone": "05 49 90 30 99",
+        "site_web": "https://www.espace-aubade.fr/magasins/chatellerault-344.html",
+        "adresse": "1 Rue René de la Fouchardière, 86100 Châtellerault",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4367003293867515988",
+        "nom": "Envie de salle de bain Châtellerault",
+        "slug": "envie-de-salle-de-bain-chatellerault",
+        "telephone": "05 49 21 45 58",
+        "site_web": "https://www.cedeo.fr/salle-expo/envie-de-salle-de-bain-chatellerault-5837",
+        "adresse": "36 Rue Roland Garros, 86100 Châtellerault",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "5732790401280765826",
+        "nom": "RD Services",
+        "slug": "rd-services",
+        "telephone": "07 68 12 65 06",
+        "site_web": null,
+        "adresse": "8 Rue de la Roche, 86100 Châtellerault",
+        "note": 0,
+        "avis": 0,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "cisse": {
+    "artisans": [
+      {
+        "id": "3903158493529104349",
+        "nom": "Sarl Apisome",
+        "slug": "sarl-apisome",
+        "telephone": "06 49 01 14 01",
+        "site_web": null,
+        "adresse": "51 T Rte de Vouillé, 86170 Cissé",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12628233240234983094",
+        "nom": "LPMA Loiret Pose Maintenance Automatisme",
+        "slug": "lpma-loiret-pose-maintenance-automatisme",
+        "telephone": "06 84 42 48 78",
+        "site_web": null,
+        "adresse": "36 Chem. de Saint-Germain, 45510 Vienne-en-Val",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8408898471509649881",
+        "nom": "Menuiserie Paul Chabot",
+        "slug": "menuiserie-paul-chabot",
+        "telephone": "06 10 16 01 35",
+        "site_web": "https://www.menuiserie-paulchabot.fr/",
+        "adresse": "12 Rue de Belgique, 86170 Cissé",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15092958747161797113",
+        "nom": "Clic & Wood",
+        "slug": "clic-wood",
+        "telephone": "06 13 14 60 98",
+        "site_web": "http://www.clic-wood.fr/",
+        "adresse": "2 bis Rue de Saint-Maur, 86170 Cissé",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1989444036338323837",
+        "nom": "Boudeville SARL",
+        "slug": "boudeville-sarl",
+        "telephone": "05 49 42 44 93",
+        "site_web": "http://boudeville-artisan-vienne.fr/",
+        "adresse": "16 Rue de Belgique, 86170 Cissé",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "12672136505107843306",
+        "nom": "Fleuriaud Laurent",
+        "slug": "fleuriaud-laurent",
+        "telephone": "07 78 10 52 61",
+        "site_web": "http://www.artisan-fleuriaud.fr/",
+        "adresse": "59 Grand Rue, 86170 Cissé",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4993038217726299633",
+        "nom": "Proform 86",
+        "slug": "proform-86",
+        "telephone": "06 23 85 18 59",
+        "site_web": null,
+        "adresse": "2 Bis Rue de l'Allemagne, 86170 Cissé",
+        "note": 0,
+        "avis": 0,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "9211391664399162274",
+        "nom": "WinBout",
+        "slug": "winbout",
+        "telephone": "06 76 63 69 45",
+        "site_web": "https://www.wintbout.fr/",
+        "adresse": "11 Rue de la Naue, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3886990621629465271",
+        "nom": "Laurent FLEURIAUD",
+        "slug": "laurent-fleuriaud",
+        "telephone": "07 78 10 52 61",
+        "site_web": null,
+        "adresse": "13 All. des Noyers, 86170 Neuville-de-Poitou",
+        "note": 0,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "11036301687062111500",
+        "nom": "C.R.RENOVATION Menuiseries PVC, BOIS, ALUMINIUM",
+        "slug": "crrenovation-menuiseries-pvc-bois-aluminium",
+        "telephone": "06 50 58 54 67",
+        "site_web": "https://www.crrenovation41.fr/",
+        "adresse": "10 Imp. des Vendangeurs, 41150 Valloire-sur-Cisse",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "civray": {
+    "artisans": [
+      {
+        "id": "12823164204854132679",
+        "nom": "Brun Damien",
+        "slug": "brun-damien",
+        "telephone": "05 49 87 35 98",
+        "site_web": "https://www.eurlbrundamien.fr/",
+        "adresse": "1 Av. Maurice Bailly, 86400 Civray",
+        "note": 3.8,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5566696469908815775",
+        "nom": "MOREAU FABRIMETAL",
+        "slug": "moreau-fabrimetal",
+        "telephone": "05 49 87 07 21",
+        "site_web": "http://www.moreau-fabrimetal.fr/",
+        "adresse": "29 Rte de Loing, 86400 Savigné",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3743727425103168647",
+        "nom": "Ébénisterie Augereau",
+        "slug": "ebenisterie-augereau",
+        "telephone": "05 49 87 49 64",
+        "site_web": "https://www.augereau-cuisine86.com/",
+        "adresse": "16 Rte de Niort, 86400 Savigné",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12610111053001895480",
+        "nom": "GIRAUD Serge et Fils",
+        "slug": "giraud-serge-et-fils",
+        "telephone": "05 49 87 17 50",
+        "site_web": "https://giraudetfils.fr/",
+        "adresse": "10 Rte de Niort, 86400 Savigné",
+        "note": 4.6,
+        "avis": 67,
+        "type": "Magasin"
+      },
+      {
+        "id": "8928090885768768132",
+        "nom": "Société Charraud",
+        "slug": "societe-charraud",
+        "telephone": "06 07 25 74 90",
+        "site_web": "https://www.charraud-bois.fr/",
+        "adresse": "1 Rue Grands Chênes, 86250 La Chapelle-Bâton",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8239060959646083282",
+        "nom": "Marquis Et Robert SARL",
+        "slug": "marquis-et-robert-sarl",
+        "telephone": "05 49 87 84 73",
+        "site_web": "http://www.charpente-couverture-marquisrobert.fr/",
+        "adresse": "La Garde, 86400 Savigné",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5514327191075347179",
+        "nom": "SARL Bourloton JP",
+        "slug": "sarl-bourloton-jp",
+        "telephone": "05 49 87 10 95",
+        "site_web": "https://www.constructionmetallique-bourloton.fr/",
+        "adresse": "6 Rue des Pâtis de Fayolles, Zone Artisanale, 86400 Savigné",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "colombiers": {
+    "artisans": [
+      {
+        "id": "17273752562085811031",
+        "nom": "Colombier Nicolas",
+        "slug": "colombier-nicolas",
+        "telephone": "05 49 85 88 19",
+        "site_web": null,
+        "adresse": "16 Av. Alfred Nobel, 86100 Châtellerault",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1653796260571062310",
+        "nom": "Guerin Thierry SARL - Artisan Plombier Chauffagiste",
+        "slug": "guerin-thierry-sarl-artisan-plombier-chauffagiste",
+        "telephone": "05 49 90 19 78",
+        "site_web": "https://www.facebook.com/SARLGUERINTHIERRY/?utm_source=gmb",
+        "adresse": "4 Av. Victor Hugo, 86530 Naintré",
+        "note": 4.5,
+        "avis": 41,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17279768608861916897",
+        "nom": "Lassale",
+        "slug": "lassale",
+        "telephone": "05 49 90 75 27",
+        "site_web": "http://www.sarllassale.fr/",
+        "adresse": "9 Rue du Grand Peuple, 86140 Saint-Genest-d'Ambière",
+        "note": 4.1,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "14771806768319242456",
+        "nom": "Menuiserie Chêne et Noyer",
+        "slug": "menuiserie-chene-et-noyer",
+        "telephone": "07 81 02 69 86",
+        "site_web": "https://www.cheneetnoyer.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13100096014881239220",
+        "adresse": "Grand Rue, 86140 Saint-Genest-d'Ambière",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16010372671905366351",
+        "nom": "POITEVIN Menuiserie Platrerie Isolation",
+        "slug": "poitevin-menuiserie-platrerie-isolation",
+        "telephone": "06 45 03 05 55",
+        "site_web": "https://www.poitevin-menuiserie.fr/",
+        "adresse": "Sables de Beauregard, 36700 Châtillon-sur-Indre",
+        "note": 5,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2059717430697768004",
+        "nom": "Kevin Petreau Paysage",
+        "slug": "kevin-petreau-paysage",
+        "telephone": "06 85 05 36 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "civaux": {
+    "artisans": [
+      {
+        "id": "9082074705551053365",
+        "nom": "Damien Brunet Electricité",
+        "slug": "damien-brunet-electricite",
+        "telephone": "06 95 41 26 80",
+        "site_web": null,
+        "adresse": "12 Rue des Noyers, 86320 Civaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "15255442000901113146",
+        "nom": "M.E.S - Usinage, Chaudronnerie-Serrurerie, Mécanique",
+        "slug": "mes-usinage-chaudronnerie-serrurerie-mecanique",
+        "telephone": "05 49 48 30 57",
+        "site_web": "http://www.mescivaux.fr/",
+        "adresse": "ZA PITAGE, 86410 Lhommaizé",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de métallurgie"
+      },
+      {
+        "id": "15291987128451780424",
+        "nom": "SARL Blanchon-Aubugeau BHAG",
+        "slug": "sarl-blanchon-aubugeau-bhag",
+        "telephone": "06 65 77 55 52",
+        "site_web": "http://www.facebook.com/sarl.blanchon.aubugeau/?utm_source=gmb",
+        "adresse": "13 Rte de la Gare, 86320 Civaux",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "13988730155739518820",
+        "nom": "Épi service CIVAUX",
+        "slug": "epi-service-civaux",
+        "telephone": "05 49 48 24 93",
+        "site_web": null,
+        "adresse": "11 Rue du 19 Mars 1962, 86320 Civaux",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Épicerie"
+      },
+      {
+        "id": "15222873970779058937",
+        "nom": "Lorenov",
+        "slug": "lorenov",
+        "telephone": "06 50 86 41 24",
+        "site_web": null,
+        "adresse": "4 Rte de Mon Plaisir, 86320 Civaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "bignoux": {
+    "artisans": [
+      {
+        "id": "778855300608540351",
+        "nom": "Menuiserie BENETAUX Sarl",
+        "slug": "menuiserie-benetaux-sarl",
+        "telephone": "06 78 85 30 89",
+        "site_web": "https://www.guide-de-l-habitat.fr/artisan/benetaux-thomas-480924",
+        "adresse": "9 Rte de la Banlegre, 86800 Saint-Julien-l'Ars",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16795502542654753711",
+        "nom": "Tricot Marc",
+        "slug": "tricot-marc",
+        "telephone": "05 49 46 85 40",
+        "site_web": "https://ei-tricot.fr/",
+        "adresse": "41 Rue de la Forêt, 86800 Bignoux",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "1500785165014350397",
+        "nom": "Dtoits 86",
+        "slug": "dtoits-86",
+        "telephone": "06 85 03 53 37",
+        "site_web": "https://www.dtoits86.fr/",
+        "adresse": "Za Auchan Sud, 13 Rue du Pont Maria Pia, 86000 Poitiers",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12496701041020143842",
+        "nom": "DéliDéco",
+        "slug": "delideco",
+        "telephone": "06 76 40 85 03",
+        "site_web": "https://delideco.fr/",
+        "adresse": "3 Rue des Châtaigniers, 86800 Bignoux",
+        "note": 5,
+        "avis": 17,
+        "type": "Designer d'intérieur"
+      },
+      {
+        "id": "10972480814344395278",
+        "nom": "Bigot Sarl",
+        "slug": "bigot-sarl",
+        "telephone": "05 40 80 43 02",
+        "site_web": "https://www.couverture-bigot.fr/",
+        "adresse": "4 Rue Jules Verne, 86800 Sèvres-Anxaumont",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "biard": {
+    "artisans": [
+      {
+        "id": "12344094675161991450",
+        "nom": "Dépann Serrurerie - Point Fort Fichet à Poitiers",
+        "slug": "depann-serrurerie-point-fort-fichet-a-poitiers",
+        "telephone": "05 49 11 18 48",
+        "site_web": "https://www.depann-serrurerie.com/",
+        "adresse": "55 Bd Pont Achard, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 57,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7315470531186709608",
+        "nom": "Durand Menuiserie",
+        "slug": "durand-menuiserie",
+        "telephone": "05 49 58 30 17",
+        "site_web": "https://www.durand-menuiserie-vienne.fr/",
+        "adresse": "9 Rue Nungesser, 86580 Biard",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4593892101681105893",
+        "nom": "Veranda Rideau",
+        "slug": "veranda-rideau",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "57 Av. du Plt des Glières, 86000 Poitiers",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "cenon-sur-vienne": {
+    "artisans": [
+      {
+        "id": "13660237589695033065",
+        "nom": "Mini-port de bateaux électriques",
+        "slug": "mini-port-de-bateaux-electriques",
+        "telephone": "06 71 33 21 84",
+        "site_web": "http://www.tourisme-chatellerault.fr/",
+        "adresse": "Rue de Champagne, 86530 Cenon-sur-Vienne",
+        "note": 4.3,
+        "avis": 255,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "10888012865380474373",
+        "nom": "Dj menuiserie",
+        "slug": "dj-menuiserie",
+        "telephone": "06 63 64 22 94",
+        "site_web": "http://djmenuiserie.site-solocal.com/",
+        "adresse": "2 Rue de Normandie, 86530 Cenon-sur-Vienne",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15013603060832623702",
+        "nom": "GUIGNARD FRÈRES",
+        "slug": "guignard-freres",
+        "telephone": "09 70 35 82 05",
+        "site_web": "https://www.guide-de-l-habitat.fr/artisan/guignard-freres-18901",
+        "adresse": "57 Rue d'Alsace, 86530 Cenon-sur-Vienne",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Maçon"
+      },
+      {
+        "id": "5600542503137979143",
+        "nom": "Fenwick-Linde Opérations",
+        "slug": "fenwick-linde-operations",
+        "telephone": "05 49 02 96 12",
+        "site_web": "https://www.fenwick-linde.com/",
+        "adresse": "Rue de Touraine, 86530 Cenon-sur-Vienne",
+        "note": 4.2,
+        "avis": 50,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "bonneuil-matours": {
+    "artisans": [
+      {
+        "id": "13279243013968995449",
+        "nom": "Menuiserie Crochu Thierry",
+        "slug": "menuiserie-crochu-thierry",
+        "telephone": "06 75 03 91 87",
+        "site_web": null,
+        "adresse": "7 Les Touches, 86210 Bonneuil-Matours",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13133815960694230273",
+        "nom": "Payet Gérard",
+        "slug": "payet-gerard",
+        "telephone": "05 49 21 70 18",
+        "site_web": null,
+        "adresse": "20 Rue de la Font du Gain, 86210 Bonneuil-Matours",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "celle-levescault": {
+    "artisans": [
+      {
+        "id": "9430045709740498630",
+        "nom": "Menuiserie Galland",
+        "slug": "menuiserie-galland",
+        "telephone": "06 63 98 10 08",
+        "site_web": "https://www.menuiserie-galland.com/",
+        "adresse": "20 Rue des Érables, 86600 Celle-Lévescault",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bonnes": {
+    "artisans": [
+      {
+        "id": "4133048346357993023",
+        "nom": "Duvault François EURL",
+        "slug": "duvault-francois-eurl",
+        "telephone": "06 79 58 15 87",
+        "site_web": "http://www.francoisduvault-couverture.fr/?utm_source=gmb",
+        "adresse": "Le Fourneau, 86300 Bonnes",
+        "note": 4.8,
+        "avis": 93,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8440517801227394661",
+        "nom": "Menuiserie Guibert",
+        "slug": "menuiserie-guibert",
+        "telephone": "05 40 00 06 32",
+        "site_web": "https://www.menuiserie-guibert-86.fr/",
+        "adresse": "14 Rue de la Biguetterie, 86300 Bonnes",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8439456801687918752",
+        "nom": "J.h Maconnerie",
+        "slug": "jh-maconnerie",
+        "telephone": "06 07 06 74 74",
+        "site_web": null,
+        "adresse": "11 Rte de la Puye, 86300 Bonnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "7795225245995967782",
+        "nom": "Pre Franck",
+        "slug": "pre-franck",
+        "telephone": "05 49 51 24 57",
+        "site_web": "http://www.sarlpre-plaquiste-86.fr/",
+        "adresse": "5 Rte de la Pointe, 86300 Bonnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "157902490861308263",
+        "nom": "Eurorepar Garage Lbm",
+        "slug": "eurorepar-garage-lbm",
+        "telephone": "05 49 44 21 44",
+        "site_web": "http://www.eurorepar.fr/dhtml/page-trouvez-votre-eurorepar-10029.php",
+        "adresse": "10 Av. de la République, 86300 Bonnes",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "109686572445353614",
+        "nom": "Les Rapides Chauvinois",
+        "slug": "les-rapides-chauvinois",
+        "telephone": "05 49 56 40 50",
+        "site_web": null,
+        "adresse": "14 Rte de Touffou, 86300 Bonnes",
+        "note": 5,
+        "avis": 3,
+        "type": "Société de transport routier"
+      },
+      {
+        "id": "9990889390987237531",
+        "nom": "Duvault Sarl Nicolas Et Alexandre",
+        "slug": "duvault-sarl-nicolas-et-alexandre",
+        "telephone": "06 20 31 01 08",
+        "site_web": "http://fr-fr.facebook.com/pages/category/Home-Improvement/SARL-Duvault-145868786174126/?utm_source=gmb",
+        "adresse": "26 Rte de Châtellerault, 86300 Bonnes",
+        "note": 3,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "charroux": {
+    "artisans": [
+      {
+        "id": "6239964345942523796",
+        "nom": "Première Fenêtre SAS",
+        "slug": "premiere-fenetre-sas",
+        "telephone": "06 45 10 05 33",
+        "site_web": null,
+        "adresse": "5 Rue du Pré de l'Hospice, 86250 Charroux",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13163419969652008037",
+        "nom": "SMFM Varlet",
+        "slug": "smfm-varlet",
+        "telephone": "06 48 74 82 01",
+        "site_web": "https://www.facebook.com/people/SMFM-Varlet/61559728633242/?utm_source=gmb",
+        "adresse": "7 Rte de Civray, 86250 Charroux",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "buxerolles": {
+    "artisans": [
+      {
+        "id": "13375796599709114489",
+        "nom": "Amis Confort",
+        "slug": "amis-confort",
+        "telephone": "05 49 61 23 45",
+        "site_web": "http://www.veranda-86.fr/",
+        "adresse": "Za Des Tilleuls, 2 Rue de Chandy, 86180 Buxerolles",
+        "note": 4.4,
+        "avis": 92,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "chabournay": {
+    "artisans": [
+      {
+        "id": "11920855916306037356",
+        "nom": "WOOD&CO",
+        "slug": "woodco",
+        "telephone": "06 50 08 69 04",
+        "site_web": "https://www.facebook.com/profile.php?id=100093367372991",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8052327087468239806",
+        "nom": "RG Soudure TIG Alu Acier Inox",
+        "slug": "rg-soudure-tig-alu-acier-inox",
+        "telephone": "06 32 33 59 28",
+        "site_web": "https://www.rg-soudure.fr/",
+        "adresse": "20 Rue de la Vallée, 86380 Chabournay",
+        "note": 5,
+        "avis": 34,
+        "type": "Soudeur"
+      }
+    ]
+  },
+  "champigny-en-rochereau": {
+    "artisans": [
+      {
+        "id": "11619355546482982338",
+        "nom": "Alquinet Stéphane",
+        "slug": "alquinet-stephane",
+        "telephone": "05 49 53 23 50",
+        "site_web": null,
+        "adresse": "6 Place René Cassin, 86170 Champigny en Rochereau",
+        "note": 4.8,
+        "avis": 70,
+        "type": "Boucherie-charcuterie"
+      },
+      {
+        "id": "12978863108378825090",
+        "nom": "Jérome Rabier Eurl",
+        "slug": "jerome-rabier-eurl",
+        "telephone": "05 49 54 66 42",
+        "site_web": null,
+        "adresse": "2 Les Rochelles, 86170 Champigny en Rochereau",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "15955248071881614400",
+        "nom": "Reiner Yvan",
+        "slug": "reiner-yvan",
+        "telephone": "05 49 56 73 28",
+        "site_web": null,
+        "adresse": "2 Rue de Gabiau, 86170 Champigny en Rochereau",
+        "note": 4,
+        "avis": 1,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "14073643241540992965",
+        "nom": "Quinqueneau Didier",
+        "slug": "quinqueneau-didier",
+        "telephone": "05 49 54 64 38",
+        "site_web": null,
+        "adresse": "22 Rue du Puits Gilbert, 86170 Champigny en Rochereau",
+        "note": 3,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14283619185711255630",
+        "nom": "Gyrax",
+        "slug": "gyrax",
+        "telephone": "05 49 54 60 44",
+        "site_web": "http://gyrax.fr/",
+        "adresse": "Z.I, 33 Rte de Lencloitre, 86170 Champigny en Rochereau",
+        "note": 4.2,
+        "avis": 39,
+        "type": "Fabricant de machines agricoles"
+      },
+      {
+        "id": "528789133863204961",
+        "nom": "Bati Carreau",
+        "slug": "bati-carreau",
+        "telephone": "05 87 88 11 36",
+        "site_web": "https://www.bati-carreau.fr/",
+        "adresse": "26 Rue des Obiers, 86170 Champigny en Rochereau",
+        "note": 4,
+        "avis": 1,
+        "type": "Carreleur"
+      },
+      {
+        "id": "17112639435052011456",
+        "nom": "JALLAIS - RMJ",
+        "slug": "jallais-rmj",
+        "telephone": "07 85 56 48 53",
+        "site_web": "https://www.rmj-jallais.fr/",
+        "adresse": "25 Champs Dores, 86170 Champigny en Rochereau",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10079885149603305339",
+        "nom": "THÉRAUD PATRICK",
+        "slug": "theraud-patrick",
+        "telephone": "05 49 54 63 03",
+        "site_web": "https://www.chauffage-neuville-de-poitou.com/",
+        "adresse": "1 Les Rochelles, 86170 Champigny en Rochereau",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17937986004411297684",
+        "nom": "DécapSoft - Décapage sablage aérogommage",
+        "slug": "decapsoft-decapage-sablage-aerogommage",
+        "telephone": "05 49 43 75 14",
+        "site_web": "https://www.decapsoft.com/",
+        "adresse": "21 bis Rue des Champs Dorés, 86170 Champigny en Rochereau",
+        "note": 4.3,
+        "avis": 22,
+        "type": "Service de sablage"
+      },
+      {
+        "id": "18027353901638349945",
+        "nom": "AMH Construction",
+        "slug": "amh-construction",
+        "telephone": "06 11 81 38 62",
+        "site_web": "http://www.facebook.com/AMH-Construction-410956503019659/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "archigny": {
+    "artisans": [
+      {
+        "id": "10175228343313184591",
+        "nom": "Lp Renovation",
+        "slug": "lp-renovation",
+        "telephone": "06 59 33 74 11",
+        "site_web": "https://www.lprenov86.fr/",
+        "adresse": "La Fredinière, 86210 Archigny",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Maçon"
+      },
+      {
+        "id": "1767618009331721247",
+        "nom": "S.A.S Menuiseries-Meubles GADIN",
+        "slug": "sas-menuiseries-meubles-gadin",
+        "telephone": "05 49 86 26 78",
+        "site_web": "https://www.meubles-gadin-lesigny.fr/",
+        "adresse": "26 Rue de Bibiche, 86270 Lésigny",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7807551075157474586",
+        "nom": "Romain Duvault",
+        "slug": "romain-duvault",
+        "telephone": "06 99 46 03 40",
+        "site_web": null,
+        "adresse": "86210 Archigny",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "12475168178493093445",
+        "nom": "Ripoteau Frères",
+        "slug": "ripoteau-freres",
+        "telephone": "07 86 38 80 06",
+        "site_web": "http://www.ripoteaufreres.fr/",
+        "adresse": "54 bis Rue Roger Furgé, 86210 Archigny",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montmorillon": {
+    "artisans": [
+      {
+        "id": "17771870892370029972",
+        "nom": "Toit Mon Toit - Pergolas, Fenêtres, Portes, Volets, Portails, Toiture",
+        "slug": "toit-mon-toit-pergolas-fenetres-portes-volets-portails-toiture",
+        "telephone": "05 49 83 09 09",
+        "site_web": "https://toitmontoit.fr/",
+        "adresse": "6 Av. de l'Europe, 86500 Montmorillon",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10668749356566201257",
+        "nom": "Eric F&M",
+        "slug": "eric-fm",
+        "telephone": "05 49 01 65 14",
+        "site_web": "http://www.eric-fermeture-menuiserie.fr/",
+        "adresse": "Zone Industrielle Est, 1 Rue de la Sabotière, 86500 Montmorillon",
+        "note": 4.7,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "mignaloux-beauvoir": {
+    "artisans": [
+      {
+        "id": "10141798804415770891",
+        "nom": "SOCOVER - Vérandas et Menuiseries à Poitiers",
+        "slug": "socover-verandas-et-menuiseries-a-poitiers",
+        "telephone": "05 49 47 78 28",
+        "site_web": "http://www.veranda-socover.fr/",
+        "adresse": "12 Rue Eugène Chevreul, 86000 Poitiers",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Vitrier"
+      },
+      {
+        "id": "729362311364711019",
+        "nom": "Vienne Agencement",
+        "slug": "vienne-agencement",
+        "telephone": "05 49 62 06 02",
+        "site_web": "http://www.vienne-agencement.fr/",
+        "adresse": "14 Rte des Oriolleres, 86550 Mignaloux-Beauvoir",
+        "note": 5,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6832093823151374975",
+        "nom": "Poitou Travaux Sarl",
+        "slug": "poitou-travaux-sarl",
+        "telephone": "05 16 83 10 29",
+        "site_web": "http://www.poitou-travaux.fr/",
+        "adresse": "ZA du, Bois de la Grève 19 Bis, 86380 Saint-Martin-la-Pallu",
+        "note": 4.8,
+        "avis": 66,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17950805524072876398",
+        "nom": "Côté pose fenêtres PVC, Aluminium, bois, volets, portes d'entrée, portail, pergola à Poitiers 86",
+        "slug": "cote-pose-fenetres-pvc-aluminium-bois-volets-portes-dentree-portail-pergola-a-poitiers-86",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "60 Bd du Grand Cerf, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7297072036148265565",
+        "nom": "Clair de Baie Poitiers – Menuiseries PVC - Alu - bois, Fenêtres, Portes, Volets...",
+        "slug": "clair-de-baie-poitiers-menuiseries-pvc-alu-bois-fenetres-portes-volets",
+        "telephone": "05 49 51 55 00",
+        "site_web": "https://www.clairdebaie.fr/",
+        "adresse": "121 Rte de Poitiers, 86280 Saint-Benoît",
+        "note": 4.7,
+        "avis": 53,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5066040977494474068",
+        "nom": "Menuiserie Tavares",
+        "slug": "menuiserie-tavares",
+        "telephone": "06 36 99 17 79",
+        "site_web": "https://www.artisansartipole.fr/artisans/samuel-tavares-86210-menuisier-charpentier-ebeniste-plaquiste-platrier-isolation-int",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "77187768349406395",
+        "nom": "Bouhet Didier",
+        "slug": "bouhet-didier",
+        "telephone": "06 80 13 61 95",
+        "site_web": "http://www.bouhet-didier-mignaloux-beauvoir.fr/",
+        "adresse": "288 Rte de Nouaillé, 86550 Mignaloux-Beauvoir",
+        "note": 3,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13375796599709114489",
+        "nom": "Amis Confort",
+        "slug": "amis-confort",
+        "telephone": "05 49 61 23 45",
+        "site_web": "http://www.veranda-86.fr/",
+        "adresse": "Za Des Tilleuls, 2 Rue de Chandy, 86180 Buxerolles",
+        "note": 4.4,
+        "avis": 92,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "11978247657176356088",
+        "nom": "TRYBA Aixe-sur-Vienne",
+        "slug": "tryba-aixe-sur-vienne",
+        "telephone": "05 18 23 12 35",
+        "site_web": "https://www.tryba.com/espace-conseil/87/tryba-aixe-sur-vienne/?utm_campaign=Tryba_Aixe-sur-Vienne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "16 Av. Pasteur, 87700 Aixe-sur-Vienne",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16893778246480730492",
+        "nom": "SARL 2PI",
+        "slug": "sarl-2pi",
+        "telephone": "05 49 47 41 72",
+        "site_web": "https://sites.google.com/view/sarl2pi?usp=sharing",
+        "adresse": "196 Rue des Entrepreneurs, 86550 Mignaloux-Beauvoir",
+        "note": 5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "mirebeau": {
+    "artisans": [
+      {
+        "id": "8301378995062520505",
+        "nom": "M&J Dépannage 86",
+        "slug": "mj-depannage-86",
+        "telephone": "06 44 82 23 77",
+        "site_web": "https://mjdepannage86.fr/",
+        "adresse": "4 Imp. Trajan, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "1810922741936307108",
+        "nom": "Fermetures Alain Mariette",
+        "slug": "fermetures-alain-mariette",
+        "telephone": "05 49 51 60 58",
+        "site_web": "http://fermetures-alain-mariette-86.com/?utm_source=gmb",
+        "adresse": "38 Rue de la Croix Berthon, 86170 Neuville-de-Poitou",
+        "note": 4.4,
+        "avis": 33,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3591706355317808480",
+        "nom": "Alu'Tech",
+        "slug": "alutech",
+        "telephone": "06 75 46 97 75",
+        "site_web": "https://alutech-86.fr/",
+        "adresse": "1 Rue de la Gaurie, 86110 Mirebeau",
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2717352121315245332",
+        "nom": "Plombier à Mirebeau - Gabin Deparis",
+        "slug": "plombier-a-mirebeau-gabin-deparis",
+        "telephone": "06 31 89 32 42",
+        "site_web": "https://deparis-gabin.fr/",
+        "adresse": "1 All. de la Grollière, 86110 Mirebeau",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "4295497712277439437",
+        "nom": "C Praud 86",
+        "slug": "c-praud-86",
+        "telephone": "07 72 11 50 92",
+        "site_web": "https://www.c-praud86.fr/",
+        "adresse": "1 Rue des Faluns, 86110 Amberre",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2842351545551863098",
+        "nom": "Mqg Montage Qualité Girouard",
+        "slug": "mqg-montage-qualite-girouard",
+        "telephone": "05 49 53 05 47",
+        "site_web": "http://www.mqg-girouard-86.com/",
+        "adresse": "4 Rue de l'Industrie, 86110 Mirebeau",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3186938236214765837",
+        "nom": "CC Bat",
+        "slug": "cc-bat",
+        "telephone": "05 49 54 48 20",
+        "site_web": "https://www.ccbat-christophecaniot.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Entrepreneur de cloisons sèches"
+      },
+      {
+        "id": "11507556285726021643",
+        "nom": "METAL 2000 Poitiers - Châtellerault - Dépannage et entretien rideaux métalliques et portes sectionnelles industrielles (86)",
+        "slug": "metal-2000-poitiers-chatellerault-depannage-et-entretien-rideaux-metalliques-et-portes-sectionnelles-industrielles-86",
+        "telephone": "05 86 16 08 30",
+        "site_web": "https://www.metal2000.fr/nos-agences/metal-2000-chasseneuil-du-poitou/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 13,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "15065696565876269865",
+        "nom": "Boissinot Menuiserie Ebenisterie - Sur Mesure Menuiserie",
+        "slug": "boissinot-menuiserie-ebenisterie-sur-mesure-menuiserie",
+        "telephone": "05 49 22 91 90",
+        "site_web": "https://loudun.surmesure-menuiserie.fr/",
+        "adresse": "3 Rue des Forges, 86200 Loudun",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6812315010024273492",
+        "nom": "La menuiserie d'Augustin",
+        "slug": "la-menuiserie-daugustin",
+        "telephone": "06 50 51 37 55",
+        "site_web": "http://www.lamenuiseriedaugustin.fr/",
+        "adresse": "18 Rue de la Croix Berthon, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 21,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vouneuil-sur-vienne": {
+    "artisans": [
+      {
+        "id": "1715024383095615610",
+        "nom": "Société Pain Métallerie Serrurerie",
+        "slug": "societe-pain-metallerie-serrurerie",
+        "telephone": "05 49 58 35 36",
+        "site_web": null,
+        "adresse": "11 Allée Gutenberg, 86580 Vouneuil-sous-Biard, 86580 Vouneuil-sous-Biard",
+        "note": 4.3,
+        "avis": 10,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16062391816269295295",
+        "nom": "RDV Artisans",
+        "slug": "rdv-artisans",
+        "telephone": "06 19 30 53 69",
+        "site_web": "https://rdvartisans.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 71,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "naintre": {
+    "artisans": [
+      {
+        "id": "18113043051409592991",
+        "nom": "TECHER POROT",
+        "slug": "techer-porot",
+        "telephone": "06 51 18 38 27",
+        "site_web": null,
+        "adresse": "37 Rue Romain Rolland, 86530 Naintré",
+        "note": 5,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "3776485095209053874",
+        "nom": "HENRIQUE Stevens - Artisan Couvreur à Naintre 86 Vienne",
+        "slug": "henrique-stevens-artisan-couvreur-a-naintre-86-vienne",
+        "telephone": "07 87 20 06 20",
+        "site_web": "https://www.couvreur-charpentier-86.fr/",
+        "adresse": "13 rue François de Maurillac, 86530 Naintré",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montamise": {
+    "artisans": [
+      {
+        "id": "2239426887714135699",
+        "nom": "MVP Decostory Menuiseries Et Verandas Du Poitou",
+        "slug": "mvp-decostory-menuiseries-et-verandas-du-poitou",
+        "telephone": "05 49 52 90 54",
+        "site_web": "https://www.decostory.fr/mvp-menuiseries-et-verandas/",
+        "adresse": "90 Rte de Paris, 86360 Chasseneuil-du-Poitou",
+        "note": 4.9,
+        "avis": 153,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1269542045636905035",
+        "nom": "MNP- Mon Nouveau Plombier",
+        "slug": "mnp-mon-nouveau-plombier",
+        "telephone": "06 81 67 15 79",
+        "site_web": "https://mnp86.fr/",
+        "adresse": "1 All. du Coteau, 86360 Montamisé",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "18341934571705054506",
+        "nom": "APIC Aménagement",
+        "slug": "apic-amenagement",
+        "telephone": "05 49 53 08 20",
+        "site_web": "https://www.apic-amenagement.fr/",
+        "adresse": "4 Rue du Champ Berland, 86360 Montamisé",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "3957880069691336436",
+        "nom": "Chaudronnerie Colinet",
+        "slug": "chaudronnerie-colinet",
+        "telephone": "05 49 45 25 56",
+        "site_web": "http://www.chaudronnerie-colinet.fr/",
+        "adresse": "37 Rte de Poitiers, 86360 Montamisé",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "15210319495687584424",
+        "nom": "Saint Eloi Fougère Sarl",
+        "slug": "saint-eloi-fougere-sarl",
+        "telephone": "05 49 44 86 86",
+        "site_web": "http://www.sainteloifougere.com/",
+        "adresse": "15 Rue du Petit Nieul, 86360 Montamisé",
+        "note": 3.5,
+        "avis": 18,
+        "type": "Électricien"
+      },
+      {
+        "id": "13993429702216208495",
+        "nom": "Prox'artisans",
+        "slug": "proxartisans",
+        "telephone": "05 49 11 00 54",
+        "site_web": "https://www.proxartisans.fr/",
+        "adresse": "2 Rue du Commerce, 86360 Chasseneuil-du-Poitou",
+        "note": 5,
+        "avis": 5,
+        "type": "Artisanat"
+      },
+      {
+        "id": "9333156389685317235",
+        "nom": "BTP Recyclage (Spie Batignolles)",
+        "slug": "btp-recyclage-spie-batignolles",
+        "telephone": "06 31 84 36 58",
+        "site_web": null,
+        "adresse": "Rue du Petit Nieul, 86360 Montamisé",
+        "note": 4.3,
+        "avis": 16,
+        "type": "Centre de recyclage"
+      },
+      {
+        "id": "6714675763216006475",
+        "nom": "Arnault Christophe",
+        "slug": "arnault-christophe",
+        "telephone": "05 49 45 59 12",
+        "site_web": null,
+        "adresse": "4 All. des Vignes, 86360 Montamisé",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16162050868473633655",
+        "nom": "DP Menuiserie",
+        "slug": "dp-menuiserie",
+        "telephone": "06 17 93 48 73",
+        "site_web": "https://dpmenuiserie-pro.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "migne-auxances": {
+    "artisans": [
+      {
+        "id": "8800764334735740233",
+        "nom": "Menuiserie Services 86",
+        "slug": "menuiserie-services-86",
+        "telephone": "06 74 29 03 62",
+        "site_web": "https://menuiserie-services-86.fr/",
+        "adresse": "16 All. Chp Dinard, 86440 Migné-Auxances",
+        "note": 5,
+        "avis": 2,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "9512712982909264021",
+        "nom": "Entreprise S. Brouard",
+        "slug": "entreprise-s-brouard",
+        "telephone": "06 63 02 93 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6320154648698135807",
+        "nom": "OBJECTIF SERVICES BÂTIMENT",
+        "slug": "objectif-services-batiment",
+        "telephone": "05 49 03 36 62",
+        "site_web": "https://www.osb-france.fr/",
+        "adresse": "2 -30 All. Chp Dinard, 86440 Migné-Auxances",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3601389343687238557",
+        "nom": "NIOLLET - Electricien Automatisme Interphone",
+        "slug": "niollet-electricien-automatisme-interphone",
+        "telephone": "05 49 39 28 75",
+        "site_web": "https://www.niollet.fr/",
+        "adresse": "2 Rue Louis Plaud, 86440 Migné-Auxances",
+        "note": 5,
+        "avis": 43,
+        "type": "Électricien"
+      },
+      {
+        "id": "16821516354407857024",
+        "nom": "Poitou Menuiseries",
+        "slug": "poitou-menuiseries",
+        "telephone": "05 49 00 47 47",
+        "site_web": "https://www.poitou-menuiseries.fr/",
+        "adresse": "1 Rue de la Folie, 86440 Migné-Auxances",
+        "note": 3.3,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10705206589276256918",
+        "nom": "Ouest Isol & Ventil - Poitiers",
+        "slug": "ouest-isol-ventil-poitiers",
+        "telephone": "05 49 00 28 88",
+        "site_web": "https://www.ouestisolventil.fr/agences/agence-poitiers?utm_source=gmb",
+        "adresse": "67 Rue des Entreprises, 86440 Migné-Auxances",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Grossiste en matériaux de construction"
+      },
+      {
+        "id": "5920135254335461746",
+        "nom": "Emerit Patrick",
+        "slug": "emerit-patrick",
+        "telephone": "06 21 25 33 62",
+        "site_web": "http://www.entreprise-emerit-electricite.com/",
+        "adresse": "20 Rue Marcellin Maury, 86440 Migné-Auxances",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6855875367095191430",
+        "nom": "selfstock.com Poitiers/Migné-Auxances",
+        "slug": "selfstockcom-poitiersmigne-auxances",
+        "telephone": "05 79 79 95 45",
+        "site_web": "https://selfstock.com/centres-de-selfstockage/france/nouvelle-aquitaine/vienne/86-poitiers-migne-auxances/?utm_source=gmb",
+        "adresse": "23 Rte de Saint-Nicolas, 86440 Migné-Auxances",
+        "note": 4.7,
+        "avis": 17,
+        "type": "Garde-meubles en libre-service"
+      },
+      {
+        "id": "13921378915081688962",
+        "nom": "Menuiserie Menin Maxime",
+        "slug": "menuiserie-menin-maxime",
+        "telephone": "06 45 56 50 48",
+        "site_web": "https://www.facebook.com/p/Menuiserie-Menin-Maxime-100090720780988/",
+        "adresse": "Rue de Limbre, 86440 Migné-Auxances",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11782830563888701465",
+        "nom": "POINT.P",
+        "slug": "pointp",
+        "telephone": "05 49 51 73 95",
+        "site_web": "https://www.pointp.fr/infos-agence/migne-point-p-3685",
+        "adresse": "43 Rue de Poitiers, 86440 Migné-Auxances",
+        "note": 4.1,
+        "avis": 96,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-gervais-les-trois-clochers": {
+    "artisans": [
+      {
+        "id": "5217569257691061437",
+        "nom": "Monteil Bruno",
+        "slug": "monteil-bruno",
+        "telephone": "05 49 23 18 56",
+        "site_web": "http://menuiseriemonteil.site-solocal.com/",
+        "adresse": "14 Rue Philadelphe Aubert, 86230 Saint-Gervais-les-Trois-Clochers",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-ormes": {
+    "artisans": [
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "neuville-de-poitou": {
+    "artisans": [
+      {
+        "id": "4554020172950892598",
+        "nom": "Menuiserie de Neuville",
+        "slug": "menuiserie-de-neuville",
+        "telephone": "05 49 54 51 18",
+        "site_web": "http://www.menuiserie-de-neuville.fr/",
+        "adresse": "4 All. Jean Monnet, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3296527656507382893",
+        "nom": "Naudon et Mathé Frères",
+        "slug": "naudon-et-mathe-freres",
+        "telephone": "05 49 18 90 34",
+        "site_web": "https://www.naudon-mathe.fr/?utm_source=gmb",
+        "adresse": "52 Rue Robert Schuman, 86170 Neuville-de-Poitou",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7811923855972228312",
+        "nom": "Maison Vanel",
+        "slug": "maison-vanel",
+        "telephone": "06 07 37 13 41",
+        "site_web": null,
+        "adresse": "24 Bd Gambetta, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 23,
+        "type": "Service de retouche de vêtements"
+      },
+      {
+        "id": "3886990621629465271",
+        "nom": "Laurent FLEURIAUD",
+        "slug": "laurent-fleuriaud",
+        "telephone": "07 78 10 52 61",
+        "site_web": null,
+        "adresse": "13 All. des Noyers, 86170 Neuville-de-Poitou",
+        "note": 0,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "5658349343692213976",
+        "nom": "Art & Fenêtres",
+        "slug": "art-fenetres",
+        "telephone": "05 49 51 60 58",
+        "site_web": null,
+        "adresse": "86170 Neuville-de-Poitou",
+        "note": 4,
+        "avis": 4,
+        "type": null
+      },
+      {
+        "id": "9211391664399162274",
+        "nom": "WinBout",
+        "slug": "winbout",
+        "telephone": "06 76 63 69 45",
+        "site_web": "https://www.wintbout.fr/",
+        "adresse": "11 Rue de la Naue, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7690061237345358091",
+        "nom": "Thomas",
+        "slug": "thomas",
+        "telephone": "06 07 89 72 35",
+        "site_web": "http://facebook.com/sarlthomasmenuiseriedomotique?utm_source=gmb",
+        "adresse": "7 Chem. de la Gerge, 86170 Neuville-de-Poitou",
+        "note": 5,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pleumartin": {
+    "artisans": [
+      {
+        "id": "17123317516423183069",
+        "nom": "Jugla (Ets)",
+        "slug": "jugla-ets",
+        "telephone": "05 49 86 52 41",
+        "site_web": null,
+        "adresse": "30 Rue du Chêne, 86450 Pleumartin",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "nouaille-maupertuis": {
+    "artisans": [
+      {
+        "id": "14571897018124216647",
+        "nom": "Jolly et Associés",
+        "slug": "jolly-et-associes",
+        "telephone": "05 49 55 08 81",
+        "site_web": null,
+        "adresse": "2 All. des Justices, 86340 Nouaillé-Maupertuis",
+        "note": 3,
+        "avis": 2,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1916084031263741807",
+        "nom": "Rageau SAS",
+        "slug": "rageau-sas",
+        "telephone": "05 49 55 08 09",
+        "site_web": "https://rageau-86.fr/",
+        "adresse": "28 Rue des Acacias, 86240 Iteuil",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "4396263989707351499",
+        "nom": "Faure Anthony",
+        "slug": "faure-anthony",
+        "telephone": "05 49 46 17 28",
+        "site_web": "http://www.faure-charpente-couverture.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3322426391849443913",
+        "nom": "Le Bois Dans la Maison - Etablissements Jean-Marie JADAULT",
+        "slug": "le-bois-dans-la-maison-etablissements-jean-marie-jadault",
+        "telephone": "05 49 46 78 20",
+        "site_web": "http://www.le-bois-dans-la-maison.fr/",
+        "adresse": "2 All. des Métiers, 86340 Nouaillé-Maupertuis",
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "quincay": {
+    "artisans": [
+      {
+        "id": "4506403873595721085",
+        "nom": "Atelier De L'Observatoire",
+        "slug": "atelier-de-lobservatoire",
+        "telephone": "06 10 19 64 26",
+        "site_web": "http://www.adelobs.fr/",
+        "adresse": "11 Chem. de l'Observatoire, 86190 Quinçay",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3755996366698833259",
+        "nom": "I Déco 86",
+        "slug": "i-deco-86",
+        "telephone": "06 75 31 37 64",
+        "site_web": null,
+        "adresse": "8 Impasse de l'Observatoire, 86190 Quinçay",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "242399232203831713",
+        "nom": "RIBARDIERE MENUISERIE",
+        "slug": "ribardiere-menuiserie",
+        "telephone": "05 49 56 51 92",
+        "site_web": "https://ribardieremenuiserie.fr/",
+        "adresse": "ZA des Cartes, 7 Rue Jules Verne, 86800 Sèvres-Anxaumont",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2359580869834357265",
+        "nom": "Poitevin Frédéric",
+        "slug": "poitevin-frederic",
+        "telephone": "05 49 62 36 43",
+        "site_web": "http://www.menuiserie-fenetre-vienne.fr/",
+        "adresse": "16 Rte de Poitiers, 86380 Saint-Martin-la-Pallu",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8268810188927234739",
+        "nom": "Guichard menuiserie",
+        "slug": "guichard-menuiserie",
+        "telephone": "06 48 18 75 55",
+        "site_web": "https://www.guichard-menuiserie.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nieuil-l-espoir": {
+    "artisans": [
+      {
+        "id": "9420650582754962351",
+        "nom": "IMF Industrie",
+        "slug": "imf-industrie",
+        "telephone": null,
+        "site_web": "https://imf-industrie.fr/",
+        "adresse": "2 Rte du Pinier, 86340 Nieuil-l'Espoir",
+        "note": 4,
+        "avis": 47,
+        "type": "Fabricant"
+      },
+      {
+        "id": "3202003459476817425",
+        "nom": "EURL Cédric Thomas",
+        "slug": "eurl-cedric-thomas",
+        "telephone": "05 49 42 90 64",
+        "site_web": null,
+        "adresse": "4 Rue des Vignes, 86340 Nieuil-l'Espoir",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16038486379870730421",
+        "nom": "Boulangerie l'espoir",
+        "slug": "boulangerie-lespoir",
+        "telephone": "05 49 42 61 41",
+        "site_web": null,
+        "adresse": "4 Pl. de l'Église, 86340 Nieuil-l'Espoir",
+        "note": 3.6,
+        "avis": 72,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "2600782603882249840",
+        "nom": "Breuil Batiment",
+        "slug": "breuil-batiment",
+        "telephone": "05 49 51 70 65",
+        "site_web": "https://breuilbatiment.com/",
+        "adresse": "67 Rue du Ctre, 86440 Migné-Auxances",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9211973121482069828",
+        "nom": "SARL Abreu J",
+        "slug": "sarl-abreu-j",
+        "telephone": "05 49 48 35 57",
+        "site_web": "http://www.abreu-j.fr/",
+        "adresse": "00016 Bis, 00016 Bis Rte de Poitiers, 86320 Lussac-les-Châteaux",
+        "note": 4.4,
+        "avis": 20,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11902962898825433803",
+        "nom": "RENAULT / DACIA - Garage Maillet",
+        "slug": "renault-dacia-garage-maillet",
+        "telephone": "05 49 42 64 02",
+        "site_web": null,
+        "adresse": "14 Rue de la Chanterie, 86340 Nieuil-l'Espoir",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Atelier de réparation automobile"
+      }
+    ]
+  },
+  "poitiers": {
+    "artisans": [
+      {
+        "id": "8059841868575950983",
+        "nom": "Monsieur Store - Fenêtres - Volets - Portails - Poitiers - Fermastores",
+        "slug": "monsieur-store-fenetres-volets-portails-poitiers-fermastores",
+        "telephone": "05 49 62 97 02",
+        "site_web": "https://monsieurstore.com/magasin/poitiers-86280/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "131 Rte de Poitiers, 86280 Saint-Benoît",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "1414362866673696819",
+        "nom": "Vienne Miroiterie",
+        "slug": "vienne-miroiterie",
+        "telephone": "05 49 53 00 10",
+        "site_web": "https://www.gvitrage.fr/",
+        "adresse": "246 Av. du 8 Mai 1945, 86000 Poitiers",
+        "note": 3,
+        "avis": 22,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9206541256005028400",
+        "nom": "Pasquet menuiseries Poitiers",
+        "slug": "pasquet-menuiseries-poitiers",
+        "telephone": "05 49 62 16 41",
+        "site_web": "https://www.pasquet.fr/menuiserie/poitiers-86/",
+        "adresse": "12 Rte de Parthenay, 86000 Poitiers",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10424317127181875943",
+        "nom": "VRIET ET FILS Menuiserie",
+        "slug": "vriet-et-fils-menuiserie",
+        "telephone": "05 49 56 81 19",
+        "site_web": "http://www.vriet-menuiserie.fr/",
+        "adresse": "4 Impasse de la Vallée du Pont, 86800 Saint-Julien-l'Ars",
+        "note": 4,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12344094675161991450",
+        "nom": "Dépann Serrurerie - Point Fort Fichet à Poitiers",
+        "slug": "depann-serrurerie-point-fort-fichet-a-poitiers",
+        "telephone": "05 49 11 18 48",
+        "site_web": "https://www.depann-serrurerie.com/",
+        "adresse": "55 Bd Pont Achard, 86000 Poitiers",
+        "note": 4.9,
+        "avis": 57,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7315470531186709608",
+        "nom": "Durand Menuiserie",
+        "slug": "durand-menuiserie",
+        "telephone": "05 49 58 30 17",
+        "site_web": "https://www.durand-menuiserie-vienne.fr/",
+        "adresse": "9 Rue Nungesser, 86580 Biard",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17842323049773177967",
+        "nom": "‍ Kidepann Huguet Thibault - Réparation de volet roulant & store à Poitiers",
+        "slug": "kidepann-huguet-thibault-reparation-de-volet-roulant-store-a-poitiers",
+        "telephone": "05 33 06 15 31",
+        "site_web": "https://www.kidepann.fr/reparateur-depanneur/huguet-thibault-poitiers?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "14 Rue de la République, 86000 Poitiers",
+        "note": 2.8,
+        "avis": 5,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "la-roche-posay": {
+    "artisans": [
+      {
+        "id": "9738122051044451582",
+        "nom": "CASÉO Yzeures-sur-Creuse",
+        "slug": "caseo-yzeures-sur-creuse",
+        "telephone": "02 47 94 55 99",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-yzeures-sur-creuse-yzeures-sur-creuse-133",
+        "adresse": "58 Rue Pasteur, 37290 Yzeures-sur-Creuse",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2551666377862143070",
+        "nom": "GM Menuiserie - Multi-Services",
+        "slug": "gm-menuiserie-multi-services",
+        "telephone": "06 47 04 59 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "roches-premarie-andille": {
+    "artisans": [
+      {
+        "id": "9458553635455539248",
+        "nom": "LBG Habitat",
+        "slug": "lbg-habitat",
+        "telephone": "07 60 58 22 92",
+        "site_web": "https://www.lbg-habitat.fr/",
+        "adresse": "14 Rue Du Four A Chaux, 86340 Roches-Prémarie-Andillé",
+        "note": 0,
+        "avis": 0,
+        "type": "Constructeur de terrasses"
+      },
+      {
+        "id": "7205801905583260720",
+        "nom": "JVELEC",
+        "slug": "jvelec",
+        "telephone": "07 84 23 16 44",
+        "site_web": null,
+        "adresse": "12 Rue des Vignauds, 86340 Roches-Prémarie-Andillé",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "1525068627096149358",
+        "nom": "LE BARON",
+        "slug": "le-baron",
+        "telephone": "05 49 42 53 53",
+        "site_web": "http://www.sarl-lebaron.fr/",
+        "adresse": "7 7 Rte des Tourbières, 86340 Roches-Prémarie-Andillé",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "17383095816826092704",
+        "nom": "casAqui",
+        "slug": "casaqui",
+        "telephone": "06 50 40 89 48",
+        "site_web": "https://www.facebook.com/profile.php?id=61551319989904",
+        "adresse": "86340 Roches-Prémarie-Andillé",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17097717925364715743",
+        "nom": "SAS SILLAS & FILS",
+        "slug": "sas-sillas-fils",
+        "telephone": "05 49 42 51 74",
+        "site_web": "https://www.sas-sillas.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 16,
+        "type": "Maçon"
+      },
+      {
+        "id": "2999094091672201059",
+        "nom": "Plomberie Chauffage Frédéric Forestier",
+        "slug": "plomberie-chauffage-frederic-forestier",
+        "telephone": "06 95 33 84 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "13512149789318741048",
+        "nom": "Cédric Lehnasch",
+        "slug": "cedric-lehnasch",
+        "telephone": "06 98 99 91 77",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 11,
+        "type": "Électricien"
+      },
+      {
+        "id": "6913914019901465851",
+        "nom": "Roches-Prémarie-Andillé",
+        "slug": "roches-premarie-andille",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "86340 Roches-Prémarie-Andillé",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "16299152427920538215",
+        "nom": "AM Esquisse",
+        "slug": "am-esquisse",
+        "telephone": "06 82 48 97 87",
+        "site_web": "http://www.am-esquisse.fr/",
+        "adresse": "17 Rue des Fontaines, 86340 Roches-Prémarie-Andillé",
+        "note": 5,
+        "avis": 21,
+        "type": "Cabinet d'architecte d'intérieur"
+      }
+    ]
+  },
+  "rouille": {
+    "artisans": [
+      {
+        "id": "10524249529073360830",
+        "nom": "BERCAIL",
+        "slug": "bercail",
+        "telephone": "06 70 85 08 67",
+        "site_web": "https://www.instagram.com/bercail.atelier/",
+        "adresse": "3 chemin des courtaudières, 86600 Lusignan",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6816128263558250504",
+        "nom": "Pro-Climat",
+        "slug": "pro-climat",
+        "telephone": "05 49 43 53 82",
+        "site_web": null,
+        "adresse": "23 Bis Rue Romaine, 86480 Rouillé",
+        "note": 1.5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "12795898369144458299",
+        "nom": "Ascenseur Automatisme Poitou Poitiers",
+        "slug": "ascenseur-automatisme-poitou-poitiers",
+        "telephone": "07 70 30 65 59",
+        "site_web": "http://ascenseur-automatisme-poitou.com/",
+        "adresse": "13 Rue Impériale, 86480 Rouillé",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de maintenance d'ascenseurs"
+      },
+      {
+        "id": "50391673434944634",
+        "nom": "BTPhoto",
+        "slug": "btphoto",
+        "telephone": "07 43 10 96 68",
+        "site_web": "https://btphoto.fr/global/",
+        "adresse": "35 Rue de la Demi Lune, 86000 Poitiers",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "14440868670356517600",
+        "nom": "SARL THEVENET PERE ET FILS",
+        "slug": "sarl-thevenet-pere-et-fils",
+        "telephone": "05 49 43 97 51",
+        "site_web": "http://www.thevenet-ferronnerie.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "12623090315726003620",
+        "nom": "automatisme repare",
+        "slug": "automatisme-repare",
+        "telephone": "06 26 98 22 65",
+        "site_web": "https://automatismerepare.fr/",
+        "adresse": "35 Rte de Jardres, 86800 Pouillé",
+        "note": 5,
+        "avis": 9,
+        "type": "Entreprise d'automatisation"
+      }
+    ]
+  },
+  "saint-benoit": {
+    "artisans": [
+      {
+        "id": "8059841868575950983",
+        "nom": "Monsieur Store - Fenêtres - Volets - Portails - Poitiers - Fermastores",
+        "slug": "monsieur-store-fenetres-volets-portails-poitiers-fermastores",
+        "telephone": "05 49 62 97 02",
+        "site_web": "https://monsieurstore.com/magasin/poitiers-86280/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "131 Rte de Poitiers, 86280 Saint-Benoît",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "sevres-anxaumont": {
+    "artisans": [
+      {
+        "id": "7073445118806232353",
+        "nom": "Duvigneaux Plombier",
+        "slug": "duvigneaux-plombier",
+        "telephone": "05 49 47 93 12",
+        "site_web": "https://duvigneaux-plombier86.fr/",
+        "adresse": "5 Chem. des Arsis, 86800 Sèvres-Anxaumont",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "17744685689533976258",
+        "nom": "Vincent Breton Traiteur",
+        "slug": "vincent-breton-traiteur",
+        "telephone": "05 49 56 52 05",
+        "site_web": "http://vincentbretontraiteur.fr/",
+        "adresse": "Pl. Sadebria, 86800 Sèvres-Anxaumont",
+        "note": 4.8,
+        "avis": 14,
+        "type": "Traiteur"
+      },
+      {
+        "id": "12136996216258746737",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "05 49 88 90 97",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-poitiers",
+        "adresse": "225 Av. de Paris, 86000 Poitiers",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11484790953970004586",
+        "nom": "Pierre Millaud SARL",
+        "slug": "pierre-millaud-sarl",
+        "telephone": "05 49 01 90 69",
+        "site_web": "https://www.pierremillaud-86.fr/",
+        "adresse": "22 Rte de Chantelle, 86800 Sèvres-Anxaumont",
+        "note": 4,
+        "avis": 10,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16329831602554321732",
+        "nom": "Les Buis- Bien-être et ressourcement",
+        "slug": "les-buis-bien-etre-et-ressourcement",
+        "telephone": "06 26 39 33 27",
+        "site_web": "https://www.ledomainelesbuis.fr/",
+        "adresse": "7 Rte de Bignoux, 86800 Sèvres-Anxaumont",
+        "note": 5,
+        "avis": 47,
+        "type": "Centre de bien-être"
+      },
+      {
+        "id": "16681006725026987320",
+        "nom": "Entreprise MF",
+        "slug": "entreprise-mf",
+        "telephone": "06 50 12 99 56",
+        "site_web": "http://www.artisan-mf.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16795502542654753711",
+        "nom": "Tricot Marc",
+        "slug": "tricot-marc",
+        "telephone": "05 49 46 85 40",
+        "site_web": "https://ei-tricot.fr/",
+        "adresse": "41 Rue de la Forêt, 86800 Bignoux",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "16435165039699914334",
+        "nom": "DOMOOWE Point Fort Fichet",
+        "slug": "domoowe-point-fort-fichet",
+        "telephone": "01 46 26 60 30",
+        "site_web": "https://www.domoowe.fr/",
+        "adresse": "90 Grande Rue, 92310 Sèvres",
+        "note": 4.8,
+        "avis": 143,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12406501979833916097",
+        "nom": "Ebénisterie Ameublement Barritault SARL",
+        "slug": "ebenisterie-ameublement-barritault-sarl",
+        "telephone": "05 49 44 04 82",
+        "site_web": "https://ameublement-barritault.fr/",
+        "adresse": "Za, 2 Rue Jules Verne, 86800 Sèvres-Anxaumont",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "13537416276607908762",
+        "nom": "Loc4event",
+        "slug": "loc4event",
+        "telephone": "06 67 83 78 97",
+        "site_web": "https://www.loc4event.net/",
+        "adresse": "5 Rue Jules Verne, 86800 Sèvres-Anxaumont",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Agence de location de matériel"
+      }
+    ]
+  },
+  "saint-genest-d-ambiere": {
+    "artisans": [
+      {
+        "id": "14771806768319242456",
+        "nom": "Menuiserie Chêne et Noyer",
+        "slug": "menuiserie-chene-et-noyer",
+        "telephone": "07 81 02 69 86",
+        "site_web": "https://www.cheneetnoyer.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13100096014881239220",
+        "adresse": "Grand Rue, 86140 Saint-Genest-d'Ambière",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-jean-de-sauves": {
+    "artisans": [
+      {
+        "id": "15409662378306559613",
+        "nom": "Art & Fenêtres - FUTURODIFF",
+        "slug": "art-fenetres-futurodiff",
+        "telephone": "05 49 02 60 41",
+        "site_web": "https://futurodiff.artetfenetres.com/adresses-magasins/naintre-86530.php",
+        "adresse": "Nerpuy, 86530 Naintré",
+        "note": 4.6,
+        "avis": 96,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-georges-les-baillargeaux": {
+    "artisans": [
+      {
+        "id": "9659028363872741843",
+        "nom": "Artisbois",
+        "slug": "artisbois",
+        "telephone": "06 45 40 15 15",
+        "site_web": null,
+        "adresse": "5 Av. du Clos de l'Ormeau, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6382974813597110439",
+        "nom": "Chapelet Deschamps Menuiseries",
+        "slug": "chapelet-deschamps-menuiseries",
+        "telephone": "05 49 62 53 30",
+        "site_web": "http://web.facebook.com/chapeletmenuiseries/",
+        "adresse": "1 Rue des compagnons, 86130 Jaunay-Marigny",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16556236178689676295",
+        "nom": "Vienne Services Matériel",
+        "slug": "vienne-services-materiel",
+        "telephone": "05 49 62 57 17",
+        "site_web": "https://www.vienne-services-materiel.fr/",
+        "adresse": "18 Rue de l'Artisanat, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 3.3,
+        "avis": 10,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "3787101653193472879",
+        "nom": "Office Du Confort Et Isolation Habitat",
+        "slug": "office-du-confort-et-isolation-habitat",
+        "telephone": "05 49 62 58 62",
+        "site_web": "https://ocih.fr/",
+        "adresse": "Av. du Clos de l'Ormeau, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 4,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "8317902187268823643",
+        "nom": "CABINET DUBOIS",
+        "slug": "cabinet-dubois",
+        "telephone": "05 49 52 80 52",
+        "site_web": "https://doizon86.com/",
+        "adresse": "ZAE, 2 Rue des Entrepreneurs, Av. du Clos de l'Ormeau, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Constructeur d'abris de jardin"
+      },
+      {
+        "id": "7883196489427717624",
+        "nom": "JH AMÉNAGEMENT",
+        "slug": "jh-amenagement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24 Rue de l'Artisanat, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 1,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16163604981908670735",
+        "nom": "Sarl BRAULT E.V-T.P",
+        "slug": "sarl-brault-ev-tp",
+        "telephone": "05 49 52 80 42",
+        "site_web": "https://www.brault-paysagiste.fr/",
+        "adresse": "6 Rue du Commerce, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 4,
+        "avis": 4,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "14842091299899727875",
+        "nom": "Pirodeau Gérald",
+        "slug": "pirodeau-gerald",
+        "telephone": "06 62 13 74 95",
+        "site_web": "https://menuiserie-pirodeau.fr/",
+        "adresse": "Z.A.E., 4 Av. du Clos de l'Ormeau, 86130 Saint-Georges-lès-Baillargeaux",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-julien-l-ars": {
+    "artisans": [
+      {
+        "id": "10424317127181875943",
+        "nom": "VRIET ET FILS Menuiserie",
+        "slug": "vriet-et-fils-menuiserie",
+        "telephone": "05 49 56 81 19",
+        "site_web": "http://www.vriet-menuiserie.fr/",
+        "adresse": "4 Impasse de la Vallée du Pont, 86800 Saint-Julien-l'Ars",
+        "note": 4,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "valdivienne": {
+    "artisans": [
+      {
+        "id": "10129318699445096789",
+        "nom": "M.V.S. 86",
+        "slug": "mvs-86",
+        "telephone": "06 78 08 28 63",
+        "site_web": "https://www.mvs86.com/",
+        "adresse": "71 Rue de Peuron, 86300 Chauvigny",
+        "note": 5,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "931145512788267387",
+        "nom": "Woodstone Construction",
+        "slug": "woodstone-construction",
+        "telephone": "07 87 93 90 14",
+        "site_web": null,
+        "adresse": "58 Rte de Lussac, 86300 Valdivienne",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "15379690446876892911",
+        "nom": "VALDI TOITURE",
+        "slug": "valdi-toiture",
+        "telephone": "06 77 04 20 52",
+        "site_web": null,
+        "adresse": "9 la brocardiere, 86800 Tercé",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4045619342207711443",
+        "nom": "Lhuillier Père et Fils",
+        "slug": "lhuillier-pere-et-fils",
+        "telephone": "05 49 01 83 16",
+        "site_web": null,
+        "adresse": "34 Rue des Anciens Métiers, 86300 Valdivienne",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Maçon"
+      },
+      {
+        "id": "16830488706446388036",
+        "nom": "CS Menuiserie",
+        "slug": "cs-menuiserie",
+        "telephone": "06 66 08 57 83",
+        "site_web": "http://cs-menuiserie86.com/",
+        "adresse": "Rue de l'Épine, 86340 Fleuré",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17457880280630632324",
+        "nom": "Eco Desembouage Chauffage",
+        "slug": "eco-desembouage-chauffage",
+        "telephone": "05 49 89 05 40",
+        "site_web": "https://www.ecodesembouagechauffage.fr/",
+        "adresse": "95 Rte de Lussac, 86300 Valdivienne",
+        "note": 4.2,
+        "avis": 52,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9347840820318464882",
+        "nom": "Demazeau et Fils SARL",
+        "slug": "demazeau-et-fils-sarl",
+        "telephone": "05 49 56 31 99",
+        "site_web": null,
+        "adresse": "Pl. de Toulon, 86300 Valdivienne",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "8923671374043812752",
+        "nom": "CHRISTIAN BAUD",
+        "slug": "christian-baud",
+        "telephone": "06 98 85 57 14",
+        "site_web": null,
+        "adresse": "24 Rue de la Vichoune, 86300 Chauvigny",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "15901878207982940998",
+        "nom": "Eurl PAGE",
+        "slug": "eurl-page",
+        "telephone": "05 49 89 02 27",
+        "site_web": null,
+        "adresse": "2 Rue de la Chapelle Viviers, 86300 Valdivienne",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6918656996440703172",
+        "nom": "Boutillet SAS",
+        "slug": "boutillet-sas",
+        "telephone": "05 49 46 37 16",
+        "site_web": "https://www.boutillet.fr//",
+        "adresse": "82 Rue de Montmorillon, 86300 Chauvigny",
+        "note": 4,
+        "avis": 19,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-sauvant": {
+    "artisans": [
+      {
+        "id": "13288506286391194796",
+        "nom": "Menuiserie SARL Esteve Riquet",
+        "slug": "menuiserie-sarl-esteve-riquet",
+        "telephone": "06 09 57 65 50",
+        "site_web": null,
+        "adresse": "5 Zone Artisanale Le Pré Vert, 86600 Saint-Sauvant",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "savigny-levescault": {
+    "artisans": [
+      {
+        "id": "16197130732206745386",
+        "nom": "Sécurit'home",
+        "slug": "securithome",
+        "telephone": "06 14 77 30 76",
+        "site_web": "https://securit-home.fr/",
+        "adresse": "Rue de la Mairie, 86800 Savigny-Lévescault",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de domotique"
+      }
+    ]
+  },
+  "saint-maurice-la-clouere": {
+    "artisans": [
+      {
+        "id": "6477136535338320252",
+        "nom": "Souille Ets",
+        "slug": "souille-ets",
+        "telephone": "05 49 59 44 24",
+        "site_web": null,
+        "adresse": "Rte de Poitiers, 86160 Saint-Maurice-la-Clouère",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "5111092756666285872",
+        "nom": "Sarl Souille",
+        "slug": "sarl-souille",
+        "telephone": "05 32 18 21 55",
+        "site_web": "http://www.souille-technal.fr/",
+        "adresse": "Champs de Galmoisin, 86160 Saint-Maurice-la-Clouère",
+        "note": 5,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "8271269256609896335",
+        "nom": "Ferronnerie Gatineau Vincent",
+        "slug": "ferronnerie-gatineau-vincent",
+        "telephone": "06 42 19 57 59",
+        "site_web": "http://www.ferronnierdart.fr/",
+        "adresse": "ZA, Galmoisin, 86160 Saint-Maurice-la-Clouère",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13884209094386207203",
+        "nom": "Raveau Villeger Construction",
+        "slug": "raveau-villeger-construction",
+        "telephone": "05 49 53 19 05",
+        "site_web": "http://www.villeger-reno.fr/",
+        "adresse": "3 Rte de Poitiers, 86160 Saint-Maurice-la-Clouère",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Constructeur immobilier"
+      }
+    ]
+  },
+  "savigne": {
+    "artisans": [
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 705,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "scorbe-clairvaux": {
+    "artisans": [
+      {
+        "id": "5593338982718920166",
+        "nom": "Jfl Habitation EURL : Plomberie Chauffage Ramonage Electricité Dépannage",
+        "slug": "jfl-habitation-eurl-plomberie-chauffage-ramonage-electricite-depannage",
+        "telephone": "06 81 14 01 85",
+        "site_web": null,
+        "adresse": "7 Rue des Puits, 86140 Scorbé-Clairvaux",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "14771806768319242456",
+        "nom": "Menuiserie Chêne et Noyer",
+        "slug": "menuiserie-chene-et-noyer",
+        "telephone": "07 81 02 69 86",
+        "site_web": "https://www.cheneetnoyer.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=13100096014881239220",
+        "adresse": "Grand Rue, 86140 Saint-Genest-d'Ambière",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5310552936779688315",
+        "nom": "DNM Menuiseries",
+        "slug": "dnm-menuiseries",
+        "telephone": "06 32 05 56 00",
+        "site_web": null,
+        "adresse": "4 Les Aîtres, 86140 Scorbé-Clairvaux",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9207369177510152904",
+        "nom": "SARL GIRAUD",
+        "slug": "sarl-giraud",
+        "telephone": "06 50 79 24 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12459449127049238767",
+        "nom": "AC Fenêtres, menuiseries, portes, portails",
+        "slug": "ac-fenetres-menuiseries-portes-portails",
+        "telephone": "06 76 09 76 90",
+        "site_web": "https://www.pagesjaunes.fr/pros/52108356",
+        "adresse": "23 Rue de Thurageau, 86380 Ouzilly",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1858220446071343605",
+        "nom": "Beiliard Fabrice",
+        "slug": "beiliard-fabrice",
+        "telephone": "05 49 93 10 67",
+        "site_web": null,
+        "adresse": "17 Route d'Ouzilly, 86140 Scorbé-Clairvaux",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "terce": {
+    "artisans": [
+      {
+        "id": "8498304288401453914",
+        "nom": "Garage Pourin & Frères",
+        "slug": "garage-pourin-freres",
+        "telephone": "05 49 56 13 13",
+        "site_web": null,
+        "adresse": "6 Rte de Chauvigny, 86800 Tercé",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Atelier de mécanique automobile"
+      },
+      {
+        "id": "1500785165014350397",
+        "nom": "Dtoits 86",
+        "slug": "dtoits-86",
+        "telephone": "06 85 03 53 37",
+        "site_web": "https://www.dtoits86.fr/",
+        "adresse": "Za Auchan Sud, 13 Rue du Pont Maria Pia, 86000 Poitiers",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9648393142227855490",
+        "nom": "Le Mythic",
+        "slug": "le-mythic",
+        "telephone": "09 67 06 45 82",
+        "site_web": "https://www.lemythic.com/",
+        "adresse": "4 Pl. de l'Église, 86800 Tercé",
+        "note": 4.7,
+        "avis": 394,
+        "type": "Restaurant"
+      },
+      {
+        "id": "6852512956388974995",
+        "nom": "Sarl Donini-pichereau",
+        "slug": "sarl-donini-pichereau",
+        "telephone": "05 64 08 00 27",
+        "site_web": "https://www.guide-de-l-habitat.fr/artisan/donini-amp-pichereau-n3114",
+        "adresse": "12 La Bretinière, 86800 Tercé",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "senille-saint-sauveur": {
+    "artisans": [
+      {
+        "id": "17516698133910678494",
+        "nom": "Martin Philippe",
+        "slug": "martin-philippe",
+        "telephone": "09 79 64 65 16",
+        "site_web": null,
+        "adresse": "Marcay, 86100 Senillé-Saint-Sauveur",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Agriculteur"
+      },
+      {
+        "id": "13927017580055162707",
+        "nom": "Bath Fournitures",
+        "slug": "bath-fournitures",
+        "telephone": "05 49 19 19 97",
+        "site_web": "https://www.allibert.fr/",
+        "adresse": "18 rue de La Nozillière, 86100 Senillé-Saint-Sauveur",
+        "note": 4.4,
+        "avis": 12,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "la-villedieu-du-clain": {
+    "artisans": [
+      {
+        "id": "11973021246572892021",
+        "nom": "Augereau",
+        "slug": "augereau",
+        "telephone": "05 49 59 50 68",
+        "site_web": "https://sarl-augereau-86.fr/",
+        "adresse": "10 K, Rue de Pouzac, 86340 La Villedieu-du-Clain",
+        "note": 3.4,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "smarves": {
+    "artisans": [
+      {
+        "id": "14886048706819789294",
+        "nom": "Monsieur Habitat - Rénoval - Maison du Menuisier",
+        "slug": "monsieur-habitat-renoval-maison-du-menuisier",
+        "telephone": "05 49 59 02 95",
+        "site_web": "https://smarves.maisondumenuisier.fr/",
+        "adresse": "17 Rue de la Croix de la Cadoue, 86240 Smarves",
+        "note": 4.1,
+        "avis": 35,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vouneuil-sous-biard": {
+    "artisans": [
+      {
+        "id": "15328072904038983183",
+        "nom": "LP Menuisier",
+        "slug": "lp-menuisier",
+        "telephone": "06 99 45 23 97",
+        "site_web": "https://www.facebook.com/profile.php?id=100078274658611",
+        "adresse": "10 Rue des Tamaris, 86580 Vouneuil-sous-Biard",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12005841766224893005",
+        "nom": "Société Pain Menuiserie Aluminium",
+        "slug": "societe-pain-menuiserie-aluminium",
+        "telephone": "05 49 53 59 40",
+        "site_web": null,
+        "adresse": "9 All. Gutenberg, 86580 Vouneuil-sous-Biard",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1341762395816681145",
+        "nom": "JL Agencement Menuiserie",
+        "slug": "jl-agencement-menuiserie",
+        "telephone": "06 81 95 37 56",
+        "site_web": "https://www.facebook.com/people/JL-Agencement/100087756503015/?sk=about_details",
+        "adresse": "53 Rue du Bois d'Amour, 86280 Saint-Benoît",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "689197775522366029",
+        "nom": "Snbm",
+        "slug": "snbm",
+        "telephone": "05 49 37 50 00",
+        "site_web": "https://www.vm-materiaux.fr/vm-vouneuil-sous-biard-gros-oeuvre-86",
+        "adresse": "18 Rte de la Forêt, 86580 Vouneuil-sous-Biard",
+        "note": 3.8,
+        "avis": 15,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5836429088662019820",
+        "nom": "LEONARD FERMETURES",
+        "slug": "leonard-fermetures",
+        "telephone": "05 49 39 02 10",
+        "site_web": "http://www.fermetures-leonard.fr/",
+        "adresse": "5 ZA de, La Pazioterie, 86600 Coulombiers",
+        "note": 4,
+        "avis": 25,
+        "type": "Artisanat"
+      },
+      {
+        "id": "4775732375996648010",
+        "nom": "VM Matériaux",
+        "slug": "vm-materiaux",
+        "telephone": "05 49 37 50 00",
+        "site_web": "https://magasin.vm-materiaux.fr/60-vm-materiaux-vouneuil-sous-biard?utm_source=gmb",
+        "adresse": "Chanteloup, 86580 Vouneuil-sous-Biard",
+        "note": 4.1,
+        "avis": 192,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "thure": {
+    "artisans": [
+      {
+        "id": "13885586338584409970",
+        "nom": "Monsieur Store Châtellerault - Fermastores",
+        "slug": "monsieur-store-chatellerault-fermastores",
+        "telephone": "05 49 85 93 88",
+        "site_web": "https://monsieurstore.com/magasin/chatellerault-86100/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "8 All. d'Argenson, 86100 Châtellerault",
+        "note": 4.6,
+        "avis": 61,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "1916367455070054101",
+        "nom": "Menuiserie Clouet",
+        "slug": "menuiserie-clouet",
+        "telephone": "05 49 93 87 67",
+        "site_web": "https://www.menuiserie-clouet.com/",
+        "adresse": "12 Rue des Blanchards, 86540 Thuré",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6281236567272736592",
+        "nom": "Bourbon Bruno",
+        "slug": "bourbon-bruno",
+        "telephone": "02 47 94 55 99",
+        "site_web": "http://www.bourbon-menuiserie.fr/",
+        "adresse": "9 rue Costes et Bellonte, 86100 Châtellerault",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9764006855246175501",
+        "nom": "CG2C SAS",
+        "slug": "cg2c-sas",
+        "telephone": "06 02 36 12 63",
+        "site_web": "http://www.facebook.com/SARL-CG2C-883170118512805/",
+        "adresse": "1 Saint-Cyr, 86540 Thuré",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11945449016436809735",
+        "nom": "CASÉO Châtellerault",
+        "slug": "caseo-chatellerault",
+        "telephone": "05 49 21 27 51",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-chatellerault-chatellerault-131",
+        "adresse": "9 Rue Costes et Bellonte, 86100 Châtellerault",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "vivonne": {
+    "artisans": [
+      {
+        "id": "8175847332000754651",
+        "nom": "L' Atelier",
+        "slug": "l-atelier",
+        "telephone": "06 17 69 09 11",
+        "site_web": "https://www.facebook.com/l.atelier.francois.thomazeau/?utm_source=gmb",
+        "adresse": "6 Rue des Sablons, 86370 Vivonne",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6052005198006564983",
+        "nom": "ART RENOV Vivonne",
+        "slug": "art-renov-vivonne",
+        "telephone": "05 45 38 42 85",
+        "site_web": "http://www.artrenov.fr/",
+        "adresse": "50 Bis Grande Rue, 86370 Vivonne",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12455680292614632567",
+        "nom": "Proust Franck",
+        "slug": "proust-franck",
+        "telephone": "06 17 69 09 11",
+        "site_web": "https://guide-de-l-habitat.fr/artisan/menuisier/menuiserie-proust-franck/",
+        "adresse": "6 Rue des Sablons, 86370 Vivonne",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2563337403046273283",
+        "nom": "Brunet Pascal",
+        "slug": "brunet-pascal",
+        "telephone": "06 78 81 81 97",
+        "site_web": null,
+        "adresse": "7 Rue des Jardins de Puygrenioux, 86340 Aslonnes",
+        "note": 5,
+        "avis": 3,
+        "type": "Vitrier"
+      },
+      {
+        "id": "18250612877405283622",
+        "nom": "Briconautes Vivonne",
+        "slug": "briconautes-vivonne",
+        "telephone": "05 49 43 42 37",
+        "site_web": "https://magasin.leclub-bricolage.fr/70-briconautes-vivonne?utm_source=gmb",
+        "adresse": "12 Av. Henri Petonnet, 86370 Vivonne",
+        "note": 3.9,
+        "avis": 26,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "14663959086888296163",
+        "nom": "Fermeture Docking Service",
+        "slug": "fermeture-docking-service",
+        "telephone": "05 86 98 07 60",
+        "site_web": "http://www.fds-fermetures.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "11686784127154985253",
+        "nom": "Automatismes & Fermetures",
+        "slug": "automatismes-fermetures",
+        "telephone": "06 30 50 08 16",
+        "site_web": null,
+        "adresse": "35 Rte de la Gare, 86240 Iteuil",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "saint-martin-la-pallu": {
+    "artisans": [
+      {
+        "id": "7032857152067415576",
+        "nom": "F.D AGENCEMENT Plaquiste Jointoyeur isolation",
+        "slug": "fd-agencement-plaquiste-jointoyeur-isolation",
+        "telephone": "07 77 88 55 79",
+        "site_web": "https://www.facebook.com/profile.php?id=100085292724197",
+        "adresse": "22 ter, Rte d'Ouzilly, 86380 Saint-Martin-la-Pallu",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "6390771578873235515",
+        "nom": "Ets Pion / Fenêtres - Portes - Volets",
+        "slug": "ets-pion-fenetres-portes-volets",
+        "telephone": "04 74 31 60 50",
+        "site_web": "http://www.ets-pion.fr/",
+        "adresse": "129 Chem. de la Ravat, 38200 Vienne",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "8615663648885910850",
+        "nom": "SOLISYSTEME - Pergolas Bioclimatiques",
+        "slug": "solisysteme-pergolas-bioclimatiques",
+        "telephone": "05 49 60 27 21",
+        "site_web": "https://www.solisysteme.fr/",
+        "adresse": "11 Rte de la Cr D Hénon, 86170 Avanton",
+        "note": 4,
+        "avis": 23,
+        "type": "Fabricant"
+      },
+      {
+        "id": "7228269905347303628",
+        "nom": "Repar'Stores",
+        "slug": "reparstores",
+        "telephone": "06 81 74 25 40",
+        "site_web": "http://www.reparstores.com/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 127,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6666097486521797068",
+        "nom": "Sarl Pelletier",
+        "slug": "sarl-pelletier",
+        "telephone": "06 09 79 04 28",
+        "site_web": null,
+        "adresse": "Parc du Palais, 86170 Saint-Martin-la-Pallu",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5933327148044308835",
+        "nom": "ALTER'ECO 86",
+        "slug": "altereco-86",
+        "telephone": "06 67 02 68 51",
+        "site_web": null,
+        "adresse": "16 Rue du Coteau, 86380 Saint-Martin-la-Pallu",
+        "note": 5,
+        "avis": 16,
+        "type": "Maçon"
+      },
+      {
+        "id": "16010372671905366351",
+        "nom": "POITEVIN Menuiserie Platrerie Isolation",
+        "slug": "poitevin-menuiserie-platrerie-isolation",
+        "telephone": "06 45 03 05 55",
+        "site_web": "https://www.poitevin-menuiserie.fr/",
+        "adresse": "Sables de Beauregard, 36700 Châtillon-sur-Indre",
+        "note": 5,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vouille": {
+    "artisans": [
+      {
+        "id": "1398906002829276431",
+        "nom": "CHAUVET SAS",
+        "slug": "chauvet-sas",
+        "telephone": "05 49 51 80 39",
+        "site_web": "http://chauvetsas.com/",
+        "adresse": "11 Rue des Entrepreneurs, 86190 Vouillé",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Entreprise de construction métallique"
+      },
+      {
+        "id": "18079431459511559987",
+        "nom": "Ridoret Menuiserie - Poitiers",
+        "slug": "ridoret-menuiserie-poitiers",
+        "telephone": "05 49 61 35 22",
+        "site_web": "https://ridoret-menuiserie.fr/",
+        "adresse": "4 Rue de Chandy, 86180 Buxerolles",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "usson-du-poitou": {
+    "artisans": [
+      {
+        "id": "1565462646267750729",
+        "nom": "EI Benjamin Maillocheau",
+        "slug": "ei-benjamin-maillocheau",
+        "telephone": "06 08 57 79 24",
+        "site_web": null,
+        "adresse": "Lieu dit, 86350 Usson-du-Poitou",
+        "note": 0,
+        "avis": 0,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "les-trois-moutiers": {
+    "artisans": [
+      {
+        "id": "10130388175436770038",
+        "nom": "Delafond Nicolas",
+        "slug": "delafond-nicolas",
+        "telephone": "05 49 22 33 46",
+        "site_web": null,
+        "adresse": "17 Rue de la Barouze, 86120 Les Trois-Moutiers",
+        "note": 5,
+        "avis": 2,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  }
+}

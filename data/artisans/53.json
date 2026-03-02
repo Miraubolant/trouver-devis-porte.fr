@@ -1,0 +1,2449 @@
+{
+  "ahuille": {
+    "artisans": [
+      {
+        "id": "6028394978813678354",
+        "nom": "ÉSUS CRÉATION Menuiserie générale, artisan menuisier, ébéniste, porte garage, agencement, escalier, façade magasin, mobilier",
+        "slug": "esus-creation-menuiserie-generale-artisan-menuisier-ebeniste-porte-garage-agencement-escalier-facade-magasin-mobilier",
+        "telephone": "02 43 00 94 77",
+        "site_web": "http://www.esuscreation.fr/",
+        "adresse": "Rochefeuille, 53100 Mayenne",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18155319902123235305",
+        "nom": "Launay Fenêtres",
+        "slug": "launay-fenetres",
+        "telephone": "02 43 02 76 14",
+        "site_web": "https://launayfenetres.fr/",
+        "adresse": "parc de l'Habitat, Rue du Petit Montron, 53000 Laval",
+        "note": 4.4,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1138556526477081039",
+        "nom": "SARL BRAULT & NOVALU - RENOVAL",
+        "slug": "sarl-brault-novalu-renoval",
+        "telephone": "02 43 00 40 37",
+        "site_web": "https://www.brault-novalu.fr/",
+        "adresse": "527 Bd François Mitterand, 53100 Mayenne",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17215655754501214934",
+        "nom": "Proclair Menuiseries Mayenne",
+        "slug": "proclair-menuiseries-mayenne",
+        "telephone": "02 43 00 28 00",
+        "site_web": "https://www.proclair-menuiseries.fr/agences/agence-mayenne/",
+        "adresse": "52 Rue Saint-Martin, 53100 Mayenne",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10686881506333024146",
+        "nom": "L'Atelier de Pierre-Alexandre",
+        "slug": "latelier-de-pierre-alexandre",
+        "telephone": "06 30 82 47 79",
+        "site_web": "http://latelierdepa.tumblr.com/",
+        "adresse": "La petite Barbottière, 53940 Ahuillé",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17800797567554592375",
+        "nom": "Emaplast",
+        "slug": "emaplast",
+        "telephone": "02 43 91 43 43",
+        "site_web": "https://www.emaplast.fr/",
+        "adresse": "8 Rue Roullois, 53100 Mayenne",
+        "note": 4.8,
+        "avis": 82,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6378601400312807745",
+        "nom": "POUPIN LOIRON",
+        "slug": "poupin-loiron",
+        "telephone": "02 43 02 12 79",
+        "site_web": "https://www.poupin.fr/",
+        "adresse": "22 Rue Principale, 53320 Loiron-Ruillé",
+        "note": 4.5,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18199467337651516780",
+        "nom": "GODARD Nicolas",
+        "slug": "godard-nicolas",
+        "telephone": "06 31 69 95 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4143956831582975890",
+        "nom": "Giteau Sarl",
+        "slug": "giteau-sarl",
+        "telephone": "02 43 98 74 12",
+        "site_web": "http://www.giteau.fr/?utm_source=gmb",
+        "adresse": "19 Voie de la Guiterniere, ZI du Fresne, 53170 Meslay-du-Maine",
+        "note": 4.3,
+        "avis": 60,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12713533746812632649",
+        "nom": "SMD Serrurerie Metallerie Depannage",
+        "slug": "smd-serrurerie-metallerie-depannage",
+        "telephone": "06 08 07 82 99",
+        "site_web": "http://metallerie-derouet.com/",
+        "adresse": "309 Rue Joseph Cugnot, 53100 Mayenne",
+        "note": 4,
+        "avis": 16,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "oisseau": {
+    "artisans": [
+      {
+        "id": "11894874486173377024",
+        "nom": "Mistral Pro Reno",
+        "slug": "mistral-pro-reno",
+        "telephone": "07 55 18 89 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 10,
+        "type": "Entrepreneur en construction intérieure"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 212,
+        "type": "Vitrier"
+      },
+      {
+        "id": "15270381795729827498",
+        "nom": "La Boutique du Menuisier La Fayette - Fenêtres & Menuiseries de Paris",
+        "slug": "la-boutique-du-menuisier-la-fayette-fenetres-menuiseries-de-paris",
+        "telephone": "06 65 91 10 02",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/la-boutique-du-menuisier-la-fayette",
+        "adresse": "91 Rue La Fayette, 75009 Paris",
+        "note": 4.9,
+        "avis": 102,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13015015832205761182",
+        "nom": "MEOVIA Habitat - WC Lavants japonais, Portes et fenêtres en bois & Rénovation électrique/domotique",
+        "slug": "meovia-habitat-wc-lavants-japonais-portes-et-fenetres-en-bois-renovation-electriquedomotique",
+        "telephone": "09 75 57 22 52",
+        "site_web": "https://meoviahabitat.fr/",
+        "adresse": "31 Rue de l'Yser, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 94,
+        "type": "Menuisier"
+      },
+      {
+        "id": "130151323513999627",
+        "nom": "NEXKEE FRANCE",
+        "slug": "nexkee-france",
+        "telephone": "01 80 92 93 27",
+        "site_web": "http://www.nexkee.fr/?utm_source=gmb",
+        "adresse": "47 Rue Vivienne, 75002 Paris",
+        "note": 5,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de sécurité"
+      },
+      {
+        "id": "2852666824898921493",
+        "nom": "ETS Bouquillon",
+        "slug": "ets-bouquillon",
+        "telephone": "01 45 22 62 59",
+        "site_web": "http://www.ets-bouquillon.com/?utm_source=gmb",
+        "adresse": "22 Rue de Lisbonne, 75008 Paris",
+        "note": 4.5,
+        "avis": 78,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "14474636618985439851",
+        "nom": "SECURYPRO 75",
+        "slug": "securypro-75",
+        "telephone": "06 98 44 55 52",
+        "site_web": "http://www.securypro75.com/",
+        "adresse": "61 Rue Notre Dame de Nazareth, 75003 Paris",
+        "note": 5,
+        "avis": 108,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13945185318376010191",
+        "nom": "Diruy",
+        "slug": "diruy",
+        "telephone": "01 45 45 46 46",
+        "site_web": "http://diruy.fr/",
+        "adresse": "168 Rue Raymond Losserand, 75014 Paris",
+        "note": 4.8,
+        "avis": 116,
+        "type": "Magasin"
+      },
+      {
+        "id": "5529609246960791068",
+        "nom": "Atelier de Menuiserie - MCO",
+        "slug": "atelier-de-menuiserie-mco",
+        "telephone": "02 43 04 91 89",
+        "site_web": "https://www.atelier-mco.fr/",
+        "adresse": "ZA Chevray, 53300 La Haie-Traversaine",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1861187608654931388",
+        "nom": "Clarico Déco",
+        "slug": "clarico-deco",
+        "telephone": "01 42 46 83 34",
+        "site_web": "http://www.claricodeco.com/",
+        "adresse": "98 Rue La Fayette, 75010 Paris",
+        "note": 5,
+        "avis": 10,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "andouille": {
+    "artisans": [
+      {
+        "id": "12910587652451550708",
+        "nom": "C2M53 | Menuiserie Metallerie Escaliers Portails Pergolas Laval Mayenne 53",
+        "slug": "c2m53-menuiserie-metallerie-escaliers-portails-pergolas-laval-mayenne-53",
+        "telephone": "02 43 01 14 38",
+        "site_web": "http://www.c2m53.fr/",
+        "adresse": "ZA Archer, 53240 Andouillé",
+        "note": 3.6,
+        "avis": 18,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15180259501805816213",
+        "nom": "AMD Agencement Menuiserie Delahaye",
+        "slug": "amd-agencement-menuiserie-delahaye",
+        "telephone": "02 43 37 68 96",
+        "site_web": null,
+        "adresse": "ZA du Pont de Pierre, 53240 Andouillé",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "aron": {
+    "artisans": [
+      {
+        "id": "7061864954309670591",
+        "nom": "Cosse Fenetres",
+        "slug": "cosse-fenetres",
+        "telephone": "02 43 58 82 16",
+        "site_web": "https://www.cosse-fenetres.fr/",
+        "adresse": "6 HLM Route de Neau, 53600 Évron",
+        "note": 3,
+        "avis": 2,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "9475260561002364094",
+        "nom": "Menuiserie Corvée",
+        "slug": "menuiserie-corvee",
+        "telephone": "02 43 08 00 43",
+        "site_web": "https://www.menuiserie-corvee.com/",
+        "adresse": "Zone Activités Des, Les Besnardières, 53120 Gorron",
+        "note": 4.5,
+        "avis": 57,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8515848681526113715",
+        "nom": "Baron SAS",
+        "slug": "baron-sas",
+        "telephone": "02 43 53 90 72",
+        "site_web": "http://www.baron-menuiserie.fr/?utm_source=gmb",
+        "adresse": "3 Rue des Rouliers, 53810 Changé",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "153079833374087090",
+        "nom": "Monsieur Store Laval - BCF Habitat",
+        "slug": "monsieur-store-laval-bcf-habitat",
+        "telephone": "02 43 01 36 71",
+        "site_web": "https://monsieurstore.com/magasin/laval-53000/",
+        "adresse": "43 All. de la Chartrie, 53000 Laval",
+        "note": 4.6,
+        "avis": 153,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16671394112327536777",
+        "nom": "Store et Fermeture LOYER",
+        "slug": "store-et-fermeture-loyer",
+        "telephone": "02 33 26 04 74",
+        "site_web": "http://www.store-fermeture-loyer.fr/",
+        "adresse": "31 Rue de la Charité, 61250 Condé-sur-Sarthe",
+        "note": 3.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1594135420054491272",
+        "nom": "Monnier Gaetan",
+        "slug": "monnier-gaetan",
+        "telephone": "06 11 86 98 74",
+        "site_web": "http://www.menuiserie-monnier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13868104673023731896",
+        "nom": "TRYBA Laval (Saint-Berthevin)",
+        "slug": "tryba-laval-saint-berthevin",
+        "telephone": "02 43 10 51 18",
+        "site_web": "https://www.tryba.com/espace-conseil/53/tryba-saint-berthevin/?utm_campaign=Tryba_saint-berthevin&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Rue de la Croix des Landes, 53940 Saint-Berthevin",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14095670399916792569",
+        "nom": "Isol 1",
+        "slug": "isol-1",
+        "telephone": "02 43 00 04 28",
+        "site_web": "https://www.isol1.fr/",
+        "adresse": "49 Rue François Arago, 53100 Mayenne",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4781017718262314687",
+        "nom": "MPO Fenêtres - Alençon",
+        "slug": "mpo-fenetres-alencon",
+        "telephone": "02 33 82 11 11",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "1 Rue du Moulin À Vent, 61250 Condé-sur-Sarthe",
+        "note": 3.6,
+        "avis": 75,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "argentre": {
+    "artisans": [
+      {
+        "id": "17575520673609169218",
+        "nom": "Pasquet menuiseries",
+        "slug": "pasquet-menuiseries",
+        "telephone": "02 99 96 60 47",
+        "site_web": "http://www.pasquet.fr/",
+        "adresse": "31 Bd des Saulniers, 35370 Argentré-du-Plessis",
+        "note": 2.8,
+        "avis": 9,
+        "type": "Fabricant"
+      },
+      {
+        "id": "10327411100392083853",
+        "nom": "Menuiserie SARL P2m Pasquet Mathieu Menuisier",
+        "slug": "menuiserie-sarl-p2m-pasquet-mathieu-menuisier",
+        "telephone": "06 68 29 22 94",
+        "site_web": null,
+        "adresse": "La Mazure, 35370 Argentré-du-Plessis",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18250512841542646472",
+        "nom": "Pasquet menuiseries Vitré",
+        "slug": "pasquet-menuiseries-vitre",
+        "telephone": "02 23 55 35 10",
+        "site_web": "https://www.pasquet.fr/menuiserie/vitre-35/",
+        "adresse": "Parc d'Activités de la Baratière, 3 Rue Gutenberg, 35500 Vitré",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fougerolles-du-plessis": {
+    "artisans": [
+      {
+        "id": "291950376679971008",
+        "nom": "Fougerolles-du-Plessis",
+        "slug": "fougerolles-du-plessis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53190 Fougerolles-du-Plessis",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "ambrieres-les-vallees": {
+    "artisans": [
+      {
+        "id": "6392749002320840248",
+        "nom": "Ateliers M.g.b.",
+        "slug": "ateliers-mgb",
+        "telephone": "02 43 04 93 20",
+        "site_web": "http://www.ateliers-mgb.fr/",
+        "adresse": "1 Imp. des Vallées, 53300 Ambrières-les-Vallées",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12435327442163190323",
+        "nom": "Franck Menuiserie",
+        "slug": "franck-menuiserie",
+        "telephone": "06 33 86 76 67",
+        "site_web": "https://www.franck-menuiserie53.fr/",
+        "adresse": "19 Rue Notre Dame, 53300 Ambrières-les-Vallées",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16954171512814721102",
+        "nom": "SAS BAHIER",
+        "slug": "sas-bahier",
+        "telephone": "02 43 08 92 43",
+        "site_web": "http://bahier-menuiserie.fr/",
+        "adresse": "3 Imp. des Vallées, 53300 Ambrières-les-Vallées",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-baconniere": {
+    "artisans": [
+      {
+        "id": "14712129141841373797",
+        "nom": "Menuiserie Derouet-Gandon - Menuisier LAVAL",
+        "slug": "menuiserie-derouet-gandon-menuisier-laval",
+        "telephone": "02 43 02 06 73",
+        "site_web": "https://www.derouet-menuiserie.fr/",
+        "adresse": "Zone de la Meslerie, Route de Laval, 53410 Saint-Ouën-des-Toits",
+        "note": 5,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "762632344958172315",
+        "nom": "ADS 53 - Automatisme Desmot Service SARL",
+        "slug": "ads-53-automatisme-desmot-service-sarl",
+        "telephone": "02 43 01 46 94",
+        "site_web": "http://www.ads53.com/",
+        "adresse": "Za La Popardière Ens, 76 Rue de Laval, 53240 La Baconnière",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "9726962864497622765",
+        "nom": "AG RENOV",
+        "slug": "ag-renov",
+        "telephone": "02 43 26 71 09",
+        "site_web": "http://agrenov-martignesurmayenne.fr/",
+        "adresse": "ZA LE BERRY, 53470 Martigné-sur-Mayenne",
+        "note": 4.9,
+        "avis": 84,
+        "type": "Couvreur"
+      },
+      {
+        "id": "51271487768581954",
+        "nom": "Renovappart",
+        "slug": "renovappart",
+        "telephone": "06 95 01 75 26",
+        "site_web": "https://www.renovappart53.fr/",
+        "adresse": "18 ter Rue des Chênes, 53240 La Baconnière",
+        "note": 4.8,
+        "avis": 70,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "bierne-les-villages": {
+    "artisans": [
+      {
+        "id": "8760941002043134523",
+        "nom": "Bâti-Système",
+        "slug": "bati-systeme",
+        "telephone": "06 08 89 30 70",
+        "site_web": "https://bati-systeme.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 34,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "ballots": {
+    "artisans": [
+      {
+        "id": "18074547284437068116",
+        "nom": "Ballots",
+        "slug": "ballots",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53350 Ballots",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "bonchamp-les-laval": {
+    "artisans": [
+      {
+        "id": "12403189380390500004",
+        "nom": "Transports Coué",
+        "slug": "transports-coue",
+        "telephone": "02 43 56 63 30",
+        "site_web": "https://www.transports-coue.fr/",
+        "adresse": "Rte d'Argentré, 53960 Bonchamp-lès-Laval",
+        "note": 4.3,
+        "avis": 70,
+        "type": "Société de transport routier"
+      },
+      {
+        "id": "9101563266656390243",
+        "nom": "Cegelec Laval (Portes de Bretagne)",
+        "slug": "cegelec-laval-portes-de-bretagne",
+        "telephone": "02 43 59 06 66",
+        "site_web": null,
+        "adresse": "9 Rue Pierre Lemonnier, 53960 Bonchamp-lès-Laval",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "13415429404145343903",
+        "nom": "LVR",
+        "slug": "lvr",
+        "telephone": "02 43 49 91 91",
+        "site_web": "https://www.lvr-laval.fr/",
+        "adresse": "accès par, 184 avenue Mayenne, 27 Rue Marcellin Berthelot, 53000 Laval",
+        "note": 3,
+        "avis": 5,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11092646541911233077",
+        "nom": "Adim",
+        "slug": "adim",
+        "telephone": "02 43 41 35 34",
+        "site_web": "http://www.adimpro.fr/contact",
+        "adresse": "59 Grande Rue, 53000 Laval",
+        "note": 3.5,
+        "avis": 4,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1546106657777841615",
+        "nom": "VIJILAM SERRURIER LAVAL ESPACE SECURITE - Point Fort Fichet",
+        "slug": "vijilam-serrurier-laval-espace-securite-point-fort-fichet",
+        "telephone": "02 43 59 04 59",
+        "site_web": "https://www.espacesecurite.fr/",
+        "adresse": "29 Pl. de la Tremoille, 53000 Laval",
+        "note": 5,
+        "avis": 50,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13490542695488922193",
+        "nom": "ATV : Electroménager | Antennes | Alarmes",
+        "slug": "atv-electromenager-antennes-alarmes",
+        "telephone": "02 43 53 98 74",
+        "site_web": "https://www.atv53.com/",
+        "adresse": "Rue de Berlin, 53000 Laval",
+        "note": 4,
+        "avis": 67,
+        "type": "Service de réparation d'appareils électroménagers"
+      }
+    ]
+  },
+  "bais": {
+    "artisans": [
+      {
+        "id": "18101551157654443731",
+        "nom": "SAS MPS",
+        "slug": "sas-mps",
+        "telephone": "02 43 37 97 03",
+        "site_web": "https://www.mps-bais-evron.fr/",
+        "adresse": "34 Rue de Normandie, 53160 Bais",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8887518891776052148",
+        "nom": "BARBIER SARL",
+        "slug": "barbier-sarl",
+        "telephone": "02 43 37 95 00",
+        "site_web": "http://www.barbier-charpente.fr/",
+        "adresse": "L'ancrage, 53160 Bais",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "le-bourgneuf-la-foret": {
+    "artisans": [
+      {
+        "id": "1843204115820830206",
+        "nom": "LBSP - Plaquiste Extension Rénovation Laval 53",
+        "slug": "lbsp-plaquiste-extension-renovation-laval-53",
+        "telephone": "02 43 58 48 84",
+        "site_web": "https://www.lbsp-sarl.fr/",
+        "adresse": "41 Rue de Fougères, 53410 Le Bourgneuf-la-Forêt",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "bazougers": {
+    "artisans": [
+      {
+        "id": "2502058891780329817",
+        "nom": "EMAPLAST Menuiseries PVC - ALU",
+        "slug": "emaplast-menuiseries-pvc-alu",
+        "telephone": "02 43 91 43 43",
+        "site_web": "https://www.emaplast.fr/",
+        "adresse": "L'Epronnière, 53260 Parné-sur-Roc",
+        "note": 4.7,
+        "avis": 125,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "change": {
+    "artisans": [
+      {
+        "id": "10044369567272649359",
+        "nom": "Menuiserie Chauvin",
+        "slug": "menuiserie-chauvin",
+        "telephone": "06 69 96 03 08",
+        "site_web": "http://www.menuiseriechauvin.fr/",
+        "adresse": "la Lamerie, 53810 Changé",
+        "note": 5,
+        "avis": 29,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7138787212922394317",
+        "nom": "Menuiserie Bordeau",
+        "slug": "menuiserie-bordeau",
+        "telephone": "02 43 49 30 55",
+        "site_web": "https://menuiseriebordeau.com/",
+        "adresse": "Za Des Bordagers, 3 Rue des Bordagers, 53810 Changé",
+        "note": 4.2,
+        "avis": 21,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16792879500779551999",
+        "nom": "Miroiterie Menuiserie Schultz",
+        "slug": "miroiterie-menuiserie-schultz",
+        "telephone": "02 43 69 29 01",
+        "site_web": "http://www.miroiterieschultz.fr/",
+        "adresse": "78 Bd Louis Armand, 53940 Saint-Berthevin",
+        "note": 4.3,
+        "avis": 41,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1913626605025123977",
+        "nom": "Automatic'System",
+        "slug": "automaticsystem",
+        "telephone": "02 43 49 32 80",
+        "site_web": "https://www.automatic-system.fr/",
+        "adresse": "32 Bd des Manouvriers, 53810 Changé",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "18248869812470133245",
+        "nom": "2PM",
+        "slug": "2pm",
+        "telephone": "02 43 01 19 05",
+        "site_web": "https://2pm-53.fr/",
+        "adresse": "32 Rue des Boisseliers, 53810 Changé",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bouere": {
+    "artisans": [
+      {
+        "id": "14778972694239051782",
+        "nom": "MENUISERIE CERANNAISE",
+        "slug": "menuiserie-cerannaise",
+        "telephone": "06 27 07 42 32",
+        "site_web": "https://menuiserie-cerannaise.fr/",
+        "adresse": "8 Rue de l'Alinière, 72330 Cérans-Foulletourte",
+        "note": 5,
+        "avis": 54,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14087449918662325681",
+        "nom": "Les Ateliers Goudier",
+        "slug": "les-ateliers-goudier",
+        "telephone": "02 43 51 26 94",
+        "site_web": "https://www.lesateliersgoudier.fr/",
+        "adresse": "3 Rue des Noisetiers, 72190 Sargé-lès-le-Mans",
+        "note": 4.9,
+        "avis": 158,
+        "type": "Vitrier"
+      },
+      {
+        "id": "6054964956979666188",
+        "nom": "TRYBA Guécélard",
+        "slug": "tryba-guecelard",
+        "telephone": "02 43 87 38 73",
+        "site_web": "https://www.tryba.com/espace-conseil/72/tryba-guecelard/?utm_source=GMB&utm_medium=CTA-WEB&utm_campaign=Tryba_Gu%C3%A9c%C3%A9lard",
+        "adresse": "79 Rte nationale, 72230 Guécélard",
+        "note": 4.7,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6331843483459449824",
+        "nom": "METAL 2000 Le Mans - Installation, dépannage et entretien rideaux métalliques et portes sectionnelles industrielles (72)",
+        "slug": "metal-2000-le-mans-installation-depannage-et-entretien-rideaux-metalliques-et-portes-sectionnelles-industrielles-72",
+        "telephone": "02 52 36 07 17",
+        "site_web": "https://www.metal2000.fr/nos-agences/agence-le-mans/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "chailland": {
+    "artisans": [
+      {
+        "id": "15626359835399688622",
+        "nom": "Menuiserie Fougerais",
+        "slug": "menuiserie-fougerais",
+        "telephone": "06 07 87 35 24",
+        "site_web": "https://menuiserie-fougerais-53.fr/",
+        "adresse": "1 Av. Général de Gaulle, 53500 Ernée",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14803948830754155937",
+        "nom": "Legros Thomas",
+        "slug": "legros-thomas",
+        "telephone": "06 85 42 67 94",
+        "site_web": "https://www.facebook.com/profile.php?id=61574902146107&utm_source=gmb",
+        "adresse": "3 La Frogerie, 53380 Saint-Hilaire-du-Maine",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3035237981450122937",
+        "nom": "AF Menuiserie",
+        "slug": "af-menuiserie",
+        "telephone": "06 65 14 11 14",
+        "site_web": "https://af-menuiserie.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "68291223236196965",
+        "nom": "adi-automatisme",
+        "slug": "adi-automatisme",
+        "telephone": "06 26 78 20 04",
+        "site_web": "http://adi-automatisme-53.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Service d'installation électrique"
+      }
+    ]
+  },
+  "chemaze": {
+    "artisans": [
+      {
+        "id": "9642514767597852723",
+        "nom": "Rénov'AZ",
+        "slug": "renovaz",
+        "telephone": "06 74 40 79 21",
+        "site_web": null,
+        "adresse": "44 Rue de Château-Gontier, 53200 Château-Gontier-sur-Mayenne",
+        "note": 5,
+        "avis": 2,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1720567933513212395",
+        "nom": "Rénov'AZ",
+        "slug": "renovaz",
+        "telephone": "06 74 40 79 21",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16445996110752289008",
+        "nom": "M.Matic",
+        "slug": "mmatic",
+        "telephone": null,
+        "site_web": "http://www.mmatic.fr/",
+        "adresse": "2 bis Rue de Touraine, 53200 Château-Gontier-sur-Mayenne",
+        "note": 4,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3265964604063951761",
+        "nom": "Rousseau Répar' Chateau Gontier (53)",
+        "slug": "rousseau-repar-chateau-gontier-53",
+        "telephone": "02 41 69 41 57",
+        "site_web": "https://www.rousseaurepar.fr/",
+        "adresse": "43 Chem. de la Guesnardière, 53200 Château-Gontier-sur-Mayenne",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chateau-gontier-sur-mayenne": {
+    "artisans": [
+      {
+        "id": "3265964604063951761",
+        "nom": "Rousseau Répar' Chateau Gontier (53)",
+        "slug": "rousseau-repar-chateau-gontier-53",
+        "telephone": "02 41 69 41 57",
+        "site_web": "https://www.rousseaurepar.fr/",
+        "adresse": "43 Chem. de la Guesnardière, 53200 Château-Gontier-sur-Mayenne",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "commer": {
+    "artisans": [
+      {
+        "id": "17215655754501214934",
+        "nom": "Proclair Menuiseries Mayenne",
+        "slug": "proclair-menuiseries-mayenne",
+        "telephone": "02 43 00 28 00",
+        "site_web": "https://www.proclair-menuiseries.fr/agences/agence-mayenne/",
+        "adresse": "52 Rue Saint-Martin, 53100 Mayenne",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cosse-le-vivien": {
+    "artisans": [
+      {
+        "id": "14964685027268905549",
+        "nom": "Cossé Fenêtres",
+        "slug": "cosse-fenetres",
+        "telephone": "02 43 01 05 50",
+        "site_web": "https://www.cosse-fenetres.fr/",
+        "adresse": "Rue de Nantes, 53230 Cossé-le-Vivien",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "craon": {
+    "artisans": [
+      {
+        "id": "2959213077424532690",
+        "nom": "Pelluau (Sarl) - Solabaie Craon",
+        "slug": "pelluau-sarl-solabaie-craon",
+        "telephone": "02 43 06 34 46",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/mayenne/craon/pelluau-menuiserie-104/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "Rue de l'Europe, 53400 Craon",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "entrammes": {
+    "artisans": [
+      {
+        "id": "15867355590140122930",
+        "nom": "DM Métallerie",
+        "slug": "dm-metallerie",
+        "telephone": "02 43 37 13 18",
+        "site_web": "https://www.facebook.com/profile.php?id=100095080751798",
+        "adresse": "ZA du Riblay, 53260 Entrammes",
+        "note": 5,
+        "avis": 9,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "5462187595888862168",
+        "nom": "AL2M",
+        "slug": "al2m",
+        "telephone": "06 74 71 73 69",
+        "site_web": null,
+        "adresse": "2 B, Montauciel, 53260 Entrammes",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3308895357363770722",
+        "nom": "RK peinture - peintre décorateur",
+        "slug": "rk-peinture-peintre-decorateur",
+        "telephone": "06 49 68 62 67",
+        "site_web": "https://www.rkpeinture.fr/",
+        "adresse": "349 Rte de Maisoncelles, 53260 Entrammes",
+        "note": 5,
+        "avis": 33,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "ernee": {
+    "artisans": [
+      {
+        "id": "13486716696520629245",
+        "nom": "Entreprise Barbet Maçonnerie",
+        "slug": "entreprise-barbet-maconnerie",
+        "telephone": "02 43 05 11 85",
+        "site_web": "http://barbetmaconnerie.fr/",
+        "adresse": "6 Rue des Artisans, 53500 Montenay",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Maçon"
+      },
+      {
+        "id": "13594783843713293251",
+        "nom": "Ateliers Du Terras",
+        "slug": "ateliers-du-terras",
+        "telephone": "02 43 04 27 31",
+        "site_web": "https://www.ateliers-du-terras.fr/",
+        "adresse": "283 Rue du Terras, 53100 Mayenne",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1753766546455614382",
+        "nom": "EURL GARNIER",
+        "slug": "eurl-garnier",
+        "telephone": "09 70 35 61 83",
+        "site_web": null,
+        "adresse": "217 Imp. de la Fossé, 53100 Mayenne",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de transformation des métaux"
+      }
+    ]
+  },
+  "evron": {
+    "artisans": [
+      {
+        "id": "4915060946523631591",
+        "nom": "Proclair Menuiseries Évron",
+        "slug": "proclair-menuiseries-evron",
+        "telephone": "02 43 01 74 12",
+        "site_web": "https://www.proclair-menuiseries.fr/agences/agence-evron/",
+        "adresse": "ZI du bray, Route de, 13 Rue du Gué de Selle, 53600 Évron",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "61096873514154464",
+        "nom": "Suret Peinture - agence d'Évron",
+        "slug": "suret-peinture-agence-devron",
+        "telephone": "02 43 01 30 42",
+        "site_web": "http://www.suret-peinture.com/",
+        "adresse": "16 Bd du Maréchal Leclerc, 53600 Évron",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "meral": {
+    "artisans": [
+      {
+        "id": "291950376679970208",
+        "nom": "Méral",
+        "slug": "meral",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Méral",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "force": {
+    "artisans": [
+      {
+        "id": "291950376679971024",
+        "nom": "Forcé",
+        "slug": "force",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53260 Forcé",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "loiron-ruille": {
+    "artisans": [
+      {
+        "id": "6378601400312807745",
+        "nom": "POUPIN LOIRON",
+        "slug": "poupin-loiron",
+        "telephone": "02 43 02 12 79",
+        "site_web": "https://www.poupin.fr/",
+        "adresse": "22 Rue Principale, 53320 Loiron-Ruillé",
+        "note": 4.5,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "louverne": {
+    "artisans": [
+      {
+        "id": "15109060320030472881",
+        "nom": "Plafitech",
+        "slug": "plafitech",
+        "telephone": "02 43 58 08 00",
+        "site_web": "https://www.plafitech.fr/",
+        "adresse": "Bd de la Communication Za Autoroutière, 53950 Louverné",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "martigne-sur-mayenne": {
+    "artisans": [
+      {
+        "id": "9726962864497622765",
+        "nom": "AG RENOV",
+        "slug": "ag-renov",
+        "telephone": "02 43 26 71 09",
+        "site_web": "http://agrenov-martignesurmayenne.fr/",
+        "adresse": "ZA LE BERRY, 53470 Martigné-sur-Mayenne",
+        "note": 4.9,
+        "avis": 84,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "louvigne": {
+    "artisans": [
+      {
+        "id": "12911770293122583546",
+        "nom": "Louvigné Automobiles - Bosch Car Service",
+        "slug": "louvigne-automobiles-bosch-car-service",
+        "telephone": "02 43 90 46 74",
+        "site_web": "https://direct-automobiles.com/",
+        "adresse": "3 Bouge, 53210 Louvigné",
+        "note": 4.2,
+        "avis": 125,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "mayenne": {
+    "artisans": [
+      {
+        "id": "18445702457114105199",
+        "nom": "POINT.P MAYENNE",
+        "slug": "pointp-mayenne",
+        "telephone": "02 43 30 46 30",
+        "site_web": "https://www.pointp.fr/infos-agence/mayenne-point-p-3580",
+        "adresse": "Zi Terras, 65 Rue Aristide Berges, 53100 Mayenne",
+        "note": 4.2,
+        "avis": 37,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16062520551735743153",
+        "nom": "Envia Cuisines Mayenne - Cuisiniste",
+        "slug": "envia-cuisines-mayenne-cuisiniste",
+        "telephone": "02 43 32 38 85",
+        "site_web": "https://envia-cuisines.fr/magasins/mayenne/",
+        "adresse": "340 Bd Jean Monnet, 53100 Mayenne",
+        "note": 4.9,
+        "avis": 107,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "16785519845443947457",
+        "nom": "Mayenne Menuiserie - Artisans menuiseries intérieures et extérieures en bois Mayenne",
+        "slug": "mayenne-menuiserie-artisans-menuiseries-interieures-et-exterieures-en-bois-mayenne",
+        "telephone": "06 80 04 83 04",
+        "site_web": "https://www.mayennemenuiserie.fr/",
+        "adresse": "344 Rue du Terras, 53100 Mayenne",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7312287030963514292",
+        "nom": "BCF Habitat - Art & Fenêtres - Mayenne",
+        "slug": "bcf-habitat-art-fenetres-mayenne",
+        "telephone": "02 43 01 36 71",
+        "site_web": "https://mayenne.artetfenetres.com/adresses-magasins/mayenne-53100.php",
+        "adresse": "279 Rue Charles de Gaulle, 53100 Mayenne",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17370355759923116404",
+        "nom": "SCHMIDT Mayenne",
+        "slug": "schmidt-mayenne",
+        "telephone": "02 43 32 07 92",
+        "site_web": "https://www.home-design.schmidt/fr-fr/magasins/mayenne/mayenne",
+        "adresse": "515 Rue de la Peyennière, 53100 Mayenne",
+        "note": 5,
+        "avis": 66,
+        "type": "Prestataire de réaménagement de cuisine"
+      }
+    ]
+  },
+  "montigne-le-brillant": {
+    "artisans": [
+      {
+        "id": "10304994100437932510",
+        "nom": "LM-BN",
+        "slug": "lm-bn",
+        "telephone": "06 84 40 74 08",
+        "site_web": "https://lm-bn.fr/",
+        "adresse": "ZA, 53970 Montigné-le-Brillant",
+        "note": 5,
+        "avis": 5,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "meslay-du-maine": {
+    "artisans": [
+      {
+        "id": "13175644231499888101",
+        "nom": "SARL Maline",
+        "slug": "sarl-maline",
+        "telephone": "02 43 98 65 70",
+        "site_web": "http://sarlmaline.fr/",
+        "adresse": "1 rue La Chalopinière, 53170 Meslay-du-Maine",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14668952400678333879",
+        "nom": "MV Menuiserie",
+        "slug": "mv-menuiserie",
+        "telephone": "02 43 69 47 17",
+        "site_web": "https://www.mvmenuiserie.fr/",
+        "adresse": "17 Voie de La Guiternière, 53170 Meslay-du-Maine",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montenay": {
+    "artisans": [
+      {
+        "id": "5422641060438820573",
+        "nom": "ADI Automatisme",
+        "slug": "adi-automatisme",
+        "telephone": "06 26 78 20 04",
+        "site_web": "http://adi-automatisme-53.fr/",
+        "adresse": "La Daumerie, 53500 Vautorte",
+        "note": 5,
+        "avis": 1,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "montjean": {
+    "artisans": [
+      {
+        "id": "6378601400312807745",
+        "nom": "POUPIN LOIRON",
+        "slug": "poupin-loiron",
+        "telephone": "02 43 02 12 79",
+        "site_web": "https://www.poupin.fr/",
+        "adresse": "22 Rue Principale, 53320 Loiron-Ruillé",
+        "note": 4.5,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montsurs": {
+    "artisans": [
+      {
+        "id": "12807694208231131809",
+        "nom": "Menuiserie et Agencement Legendre",
+        "slug": "menuiserie-et-agencement-legendre",
+        "telephone": "02 52 22 73 17",
+        "site_web": "http://www.j-legendre.com/",
+        "adresse": "ZA de l'Antinière, 53150 Montsûrs",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10537812394381459026",
+        "nom": "Métallerie de La Mayenne",
+        "slug": "metallerie-de-la-mayenne",
+        "telephone": "02 43 02 20 55",
+        "site_web": "http://www.metalleriedelamayenne.fr/",
+        "adresse": "1 Rue de Bel air, 53150 Montsûrs",
+        "note": 3.8,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      }
+    ]
+  },
+  "le-genest-saint-isle": {
+    "artisans": [
+      {
+        "id": "3851948738096679103",
+        "nom": "SARL LAUNAY FENETRES",
+        "slug": "sarl-launay-fenetres",
+        "telephone": "02 43 26 24 70",
+        "site_web": "http://www.launayfenetres.fr/",
+        "adresse": "ZA La, Imp. de la Vall. Verte, 53940 Le Genest-Saint-Isle",
+        "note": 4,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "nuille-sur-vicoin": {
+    "artisans": [
+      {
+        "id": "8070663974665516864",
+        "nom": "Ets BLIN",
+        "slug": "ets-blin",
+        "telephone": "02 43 98 32 04",
+        "site_web": "https://ablin5353.wixsite.com/site-agri",
+        "adresse": "ZA, 53970 Nuillé-sur-Vicoin",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "juvigne": {
+    "artisans": [
+      {
+        "id": "8050734146376927133",
+        "nom": "Tual Pousset SARL",
+        "slug": "tual-pousset-sarl",
+        "telephone": "06 09 34 87 80",
+        "site_web": "http://www.sarltualpousset.fr/",
+        "adresse": "13 ZA Rte d'Ernée, 53380 Juvigné",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15934014933157874492",
+        "nom": "Coupé Franck Eurl",
+        "slug": "coupe-franck-eurl",
+        "telephone": "02 43 68 52 41",
+        "site_web": null,
+        "adresse": "5 Rue des Sorbiers, 53380 Juvigné",
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "17972529827471144699",
+        "nom": "INOV35 rénovation de fenêtres bois",
+        "slug": "inov35-renovation-de-fenetres-bois",
+        "telephone": "06 29 85 07 31",
+        "site_web": "https://www.inov35.com/",
+        "adresse": "14 Zone Artisanale des Lavandières, 35500 Cornillé",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "gennes-longuefuye": {
+    "artisans": [
+      {
+        "id": "4121563962460846876",
+        "nom": "Gennes-Longuefuye",
+        "slug": "gennes-longuefuye",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53200 Gennes-Longuefuye",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "pree-d-anjou": {
+    "artisans": [
+      {
+        "id": "15118709973435177603",
+        "nom": "Fabien Cauchois",
+        "slug": "fabien-cauchois",
+        "telephone": "06 37 89 29 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "l-huisserie": {
+    "artisans": [
+      {
+        "id": "15848506466893356038",
+        "nom": "HC-MO",
+        "slug": "hc-mo",
+        "telephone": "02 43 69 62 74",
+        "site_web": "https://hc-mo.fr/",
+        "adresse": "L, 4 Zone Artisanale du, Imp. du Grand Chemin, 53970 L'Huisserie",
+        "note": 5,
+        "avis": 9,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "14811119926683092264",
+        "nom": "Eurl Georgeault Couverture Charpente",
+        "slug": "eurl-georgeault-couverture-charpente",
+        "telephone": "02 43 68 77 21",
+        "site_web": null,
+        "adresse": "13 ZA de l'Aubépin, 53970 L'Huisserie",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gorron": {
+    "artisans": [
+      {
+        "id": "13536807944349010233",
+        "nom": "Fouilleul Laurent",
+        "slug": "fouilleul-laurent",
+        "telephone": "02 43 08 67 06",
+        "site_web": "http://www.menuiserie-fouilleul.fr/",
+        "adresse": "7 Rue des Frères Lumière, 53120 Gorron",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1639975630905107409",
+        "nom": "Menuiserie Ledezert Philippe",
+        "slug": "menuiserie-ledezert-philippe",
+        "telephone": "02 43 08 63 42",
+        "site_web": "https://menuisier-laval.fr/",
+        "adresse": "Zone d'activité LA HAIE, Rte Brécé, 53120 Gorron",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17602637874214721623",
+        "nom": "CALUX",
+        "slug": "calux",
+        "telephone": "02 43 08 00 43",
+        "site_web": "https://www.calux.fr/",
+        "adresse": "Zone d'activités des, Les Besnardières, 53120 Gorron",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "javron-les-chapelles": {
+    "artisans": [
+      {
+        "id": "7304869077482663432",
+        "nom": "AKIL'HOME",
+        "slug": "akilhome",
+        "telephone": "06 50 54 97 13",
+        "site_web": "https://www.akilhome.fr/",
+        "adresse": "le Pré Gras, 53250 Madré",
+        "note": 5,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "larchamp": {
+    "artisans": [
+      {
+        "id": "18436458768874005871",
+        "nom": "Menuisier Stéphane Lambert",
+        "slug": "menuisier-stephane-lambert",
+        "telephone": "06 51 63 73 14",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-roche-neuville": {
+    "artisans": [
+      {
+        "id": "6555479250332788475",
+        "nom": "Alexandre Habitat",
+        "slug": "alexandre-habitat",
+        "telephone": "06 10 27 68 37",
+        "site_web": "https://www.facebook.com/ALEXANDRE.habitat/?utm_source=gmb",
+        "adresse": "1 La Bulotterie, 53360 La Roche-Neuville",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11952829993388712582",
+        "nom": "Maine Menuiseries - Terres de Fenêtre",
+        "slug": "maine-menuiseries-terres-de-fenetre",
+        "telephone": "02 43 70 67 61",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/maine-menuiseries",
+        "adresse": "14 Rte de Laval, 53200 Château-Gontier-sur-Mayenne",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6783497918396468963",
+        "nom": "CRUARD MENUISERIE",
+        "slug": "cruard-menuiserie",
+        "telephone": "02 55 48 98 98",
+        "site_web": "https://cruard-menuiserie.com/",
+        "adresse": "4 allée Galilée, 53200 Château-Gontier-sur-Mayenne",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3058850322632174490",
+        "nom": "sarl M2R",
+        "slug": "sarl-m2r",
+        "telephone": "06 71 45 21 76",
+        "site_web": null,
+        "adresse": "4 Le Tourniquet, 53200 Fromentières",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6549810510385585535",
+        "nom": "Arrenaux",
+        "slug": "arrenaux",
+        "telephone": "06 59 26 05 88",
+        "site_web": "https://www.arrenaux.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "landivy": {
+    "artisans": [
+      {
+        "id": "17333541110139398785",
+        "nom": "Mickaël Henry - Menuiserie isolation portes fenêtres dressing",
+        "slug": "mickael-henry-menuiserie-isolation-portes-fenetres-dressing",
+        "telephone": "02 43 05 49 94",
+        "site_web": "https://www.mickael-henry-menuiserie.fr/",
+        "adresse": "La Damasse, 53190 Landivy",
+        "note": 5,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "lassay-les-chateaux": {
+    "artisans": [
+      {
+        "id": "16954171512814721102",
+        "nom": "SAS BAHIER",
+        "slug": "sas-bahier",
+        "telephone": "02 43 08 92 43",
+        "site_web": "http://bahier-menuiserie.fr/",
+        "adresse": "3 Imp. des Vallées, 53300 Ambrières-les-Vallées",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "laval": {
+    "artisans": [
+      {
+        "id": "6948774770300759191",
+        "nom": "Espace Aubade Maillard Laval",
+        "slug": "espace-aubade-maillard-laval",
+        "telephone": "02 43 01 08 08",
+        "site_web": "https://www.espace-aubade.fr/magasins/laval-163.html",
+        "adresse": "2 Rue Simone Veil, 53000 Laval",
+        "note": 4.4,
+        "avis": 79,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "3941210435055234827",
+        "nom": "Dokteur Store et Volet - Réparation Laval",
+        "slug": "dokteur-store-et-volet-reparation-laval",
+        "telephone": "02 55 48 53 53",
+        "site_web": "http://www.dokteur.store/mayenne/",
+        "adresse": "3 Rue Robert Schuman, 53000 Laval",
+        "note": 4.9,
+        "avis": 98,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "9531974221938574582",
+        "nom": "Paillard et Fils",
+        "slug": "paillard-et-fils",
+        "telephone": "02 43 66 91 50",
+        "site_web": "http://www.paillard-decoration.fr/",
+        "adresse": "60 Rue des Alignés, 53000 Laval",
+        "note": 5,
+        "avis": 33,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "saint-georges-buttavent": {
+    "artisans": [
+      {
+        "id": "13945185318376010191",
+        "nom": "Diruy",
+        "slug": "diruy",
+        "telephone": "01 45 45 46 46",
+        "site_web": "http://diruy.fr/",
+        "adresse": "168 Rue Raymond Losserand, 75014 Paris",
+        "note": 4.8,
+        "avis": 116,
+        "type": "Magasin"
+      },
+      {
+        "id": "7312287030963514292",
+        "nom": "BCF Habitat - Art & Fenêtres - Mayenne",
+        "slug": "bcf-habitat-art-fenetres-mayenne",
+        "telephone": "02 43 01 36 71",
+        "site_web": "https://mayenne.artetfenetres.com/adresses-magasins/mayenne-53100.php",
+        "adresse": "279 Rue Charles de Gaulle, 53100 Mayenne",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13015015832205761182",
+        "nom": "MEOVIA Habitat - WC Lavants japonais, Portes et fenêtres en bois & Rénovation électrique/domotique",
+        "slug": "meovia-habitat-wc-lavants-japonais-portes-et-fenetres-en-bois-renovation-electriquedomotique",
+        "telephone": "09 75 57 22 52",
+        "site_web": "https://meoviahabitat.fr/",
+        "adresse": "31 Rue de l'Yser, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 94,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 212,
+        "type": "Vitrier"
+      },
+      {
+        "id": "2852666824898921493",
+        "nom": "ETS Bouquillon",
+        "slug": "ets-bouquillon",
+        "telephone": "01 45 22 62 59",
+        "site_web": "http://www.ets-bouquillon.com/?utm_source=gmb",
+        "adresse": "22 Rue de Lisbonne, 75008 Paris",
+        "note": 4.5,
+        "avis": 78,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "saint-jean-sur-mayenne": {
+    "artisans": [
+      {
+        "id": "14964685027268905549",
+        "nom": "Cossé Fenêtres",
+        "slug": "cosse-fenetres",
+        "telephone": "02 43 01 05 50",
+        "site_web": "https://www.cosse-fenetres.fr/",
+        "adresse": "Rue de Nantes, 53230 Cossé-le-Vivien",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17215655754501214934",
+        "nom": "Proclair Menuiseries Mayenne",
+        "slug": "proclair-menuiseries-mayenne",
+        "telephone": "02 43 00 28 00",
+        "site_web": "https://www.proclair-menuiseries.fr/agences/agence-mayenne/",
+        "adresse": "52 Rue Saint-Martin, 53100 Mayenne",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4216580477340245910",
+        "nom": "Menuiserie Services 53",
+        "slug": "menuiserie-services-53",
+        "telephone": "07 57 76 65 51",
+        "site_web": "https://www.menuiserieservices53.fr/",
+        "adresse": "337 La Calabre, 53240 Saint-Jean-sur-Mayenne",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12713533746812632649",
+        "nom": "SMD Serrurerie Metallerie Depannage",
+        "slug": "smd-serrurerie-metallerie-depannage",
+        "telephone": "06 08 07 82 99",
+        "site_web": "http://metallerie-derouet.com/",
+        "adresse": "309 Rue Joseph Cugnot, 53100 Mayenne",
+        "note": 4,
+        "avis": 16,
+        "type": "Serrurier"
+      },
+      {
+        "id": "17800797567554592375",
+        "nom": "Emaplast",
+        "slug": "emaplast",
+        "telephone": "02 43 91 43 43",
+        "site_web": "https://www.emaplast.fr/",
+        "adresse": "8 Rue Roullois, 53100 Mayenne",
+        "note": 4.8,
+        "avis": 82,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18155319902123235305",
+        "nom": "Launay Fenêtres",
+        "slug": "launay-fenetres",
+        "telephone": "02 43 02 76 14",
+        "site_web": "https://launayfenetres.fr/",
+        "adresse": "parc de l'Habitat, Rue du Petit Montron, 53000 Laval",
+        "note": 4.4,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6028394978813678354",
+        "nom": "ÉSUS CRÉATION Menuiserie générale, artisan menuisier, ébéniste, porte garage, agencement, escalier, façade magasin, mobilier",
+        "slug": "esus-creation-menuiserie-generale-artisan-menuisier-ebeniste-porte-garage-agencement-escalier-facade-magasin-mobilier",
+        "telephone": "02 43 00 94 77",
+        "site_web": "http://www.esuscreation.fr/",
+        "adresse": "Rochefeuille, 53100 Mayenne",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18199467337651516780",
+        "nom": "GODARD Nicolas",
+        "slug": "godard-nicolas",
+        "telephone": "06 31 69 95 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1138556526477081039",
+        "nom": "SARL BRAULT & NOVALU - RENOVAL",
+        "slug": "sarl-brault-novalu-renoval",
+        "telephone": "02 43 00 40 37",
+        "site_web": "https://www.brault-novalu.fr/",
+        "adresse": "527 Bd François Mitterand, 53100 Mayenne",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9426327545243389516",
+        "nom": "MENUISERIE GRANGER",
+        "slug": "menuiserie-granger",
+        "telephone": "02 43 98 51 99",
+        "site_web": "https://menuiseriegranger.wixsite.com/website-1",
+        "adresse": "42 Rue d'Anjou, 53360 Quelaines-Saint-Gault",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-pierre-des-nids": {
+    "artisans": [
+      {
+        "id": "4781017718262314687",
+        "nom": "MPO Fenêtres - Alençon",
+        "slug": "mpo-fenetres-alencon",
+        "telephone": "02 33 82 11 11",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "1 Rue du Moulin À Vent, 61250 Condé-sur-Sarthe",
+        "note": 3.6,
+        "avis": 75,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5646295425896537572",
+        "nom": "Les Fermetures de la Maison - Agence Fenêtres & Menuiseries",
+        "slug": "les-fermetures-de-la-maison-agence-fenetres-menuiseries",
+        "telephone": "01 45 74 60 06",
+        "site_web": "https://www.fenetreetmenuiserie.com/",
+        "adresse": "1 Pl. Rabelais, 92190 Meudon",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7132541692439599044",
+        "nom": "MENUISERIE LALANDE : Menuisier En Mayenne 53",
+        "slug": "menuiserie-lalande-menuisier-en-mayenne-53",
+        "telephone": "02 43 03 05 19",
+        "site_web": "https://www.menuiserie-lalande.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15448296108318818710",
+        "nom": "Kit de Fenetres SARL",
+        "slug": "kit-de-fenetres-sarl",
+        "telephone": "01 70 37 62 87",
+        "site_web": "https://www.kitdefenetre.fr/",
+        "adresse": "51 Bd Chanzy, 93100 Montreuil",
+        "note": 4.8,
+        "avis": 280,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17331997501644760306",
+        "nom": "GOFENETRES",
+        "slug": "gofenetres",
+        "telephone": "03 88 60 78 94",
+        "site_web": "http://go-fenetres.net/",
+        "adresse": "1 Rue des Acacias, 53700 Villaines-la-Juhel",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11894874486173377024",
+        "nom": "Mistral Pro Reno",
+        "slug": "mistral-pro-reno",
+        "telephone": "07 55 18 89 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 10,
+        "type": "Entrepreneur en construction intérieure"
+      },
+      {
+        "id": "14683700836557811597",
+        "nom": "M4S - maFenetre.com",
+        "slug": "m4s-mafenetrecom",
+        "telephone": "01 44 08 66 73",
+        "site_web": null,
+        "adresse": "79 Av. Aristide Briand, 94110 Arcueil",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "14474636618985439851",
+        "nom": "SECURYPRO 75",
+        "slug": "securypro-75",
+        "telephone": "06 98 44 55 52",
+        "site_web": "http://www.securypro75.com/",
+        "adresse": "61 Rue Notre Dame de Nazareth, 75003 Paris",
+        "note": 5,
+        "avis": 108,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5684486130627230067",
+        "nom": "Aurouze",
+        "slug": "aurouze",
+        "telephone": "01 40 41 16 20",
+        "site_web": "https://www.maison-aurouze.fr/",
+        "adresse": "8 Rue des Halles, 75001 Paris",
+        "note": 4.5,
+        "avis": 361,
+        "type": "Service d'extermination des nuisibles"
+      },
+      {
+        "id": "11126285908699227418",
+        "nom": "ID Fenêtres et Fermetures",
+        "slug": "id-fenetres-et-fermetures",
+        "telephone": "07 44 86 13 39",
+        "site_web": "https://www.id-fenetres-fermetures.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1711758198786733695",
+        "adresse": "41 B Rue Diderot, 93200 Saint-Denis",
+        "note": 5,
+        "avis": 11,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-denis-de-gastines": {
+    "artisans": [
+      {
+        "id": "6013447177165882762",
+        "nom": "Mon Raccordement Électricité",
+        "slug": "mon-raccordement-electricite",
+        "telephone": "01 88 61 50 00",
+        "site_web": "https://mon-raccordement-electricite.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'électricité"
+      },
+      {
+        "id": "17851455880960458142",
+        "nom": "Toiles de Mayenne",
+        "slug": "toiles-de-mayenne",
+        "telephone": "01 83 35 31 50",
+        "site_web": "https://www.toiles-de-mayenne.com/",
+        "adresse": "5 Pl. des Victoires, 75001 Paris",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "14437268702476913709",
+        "nom": "Porte Saint-Denis",
+        "slug": "porte-saint-denis",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Boulevard St Denis, 75010 Paris",
+        "note": 4.5,
+        "avis": 304,
+        "type": "Site historique"
+      },
+      {
+        "id": "4058763312868871854",
+        "nom": "Isole Rénove",
+        "slug": "isole-renove",
+        "telephone": "01 40 91 48 26",
+        "site_web": "https://www.isolerenove.com/",
+        "adresse": "7 Rue Chateaubriand, 75008 Paris",
+        "note": 4.3,
+        "avis": 413,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9340654410646172692",
+        "nom": "Ben&bat",
+        "slug": "benbat",
+        "telephone": "06 58 59 41 47",
+        "site_web": null,
+        "adresse": "60 Rue François 1er, 75008 Paris",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "11067514275090403853",
+        "nom": "Monsieur Peinture",
+        "slug": "monsieur-peinture",
+        "telephone": "07 57 90 29 27",
+        "site_web": "https://www.monsieurpeinture.com/",
+        "adresse": "137 Rue d'Aboukir, 75002 Paris",
+        "note": 4.6,
+        "avis": 270,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "10713636225974657011",
+        "nom": "EI Maxime Trohel menuiserie et coutellerie",
+        "slug": "ei-maxime-trohel-menuiserie-et-coutellerie",
+        "telephone": "06 45 47 62 86",
+        "site_web": null,
+        "adresse": "3 Imp. du Puits, 53500 Saint-Denis-de-Gastines",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-germain-le-fouilloux": {
+    "artisans": [
+      {
+        "id": "16413069350332664000",
+        "nom": "ProPose menusierie",
+        "slug": "propose-menusierie",
+        "telephone": "06 73 34 72 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villiers-charlemagne": {
+    "artisans": [
+      {
+        "id": "3058850322632174490",
+        "nom": "sarl M2R",
+        "slug": "sarl-m2r",
+        "telephone": "06 71 45 21 76",
+        "site_web": null,
+        "adresse": "4 Le Tourniquet, 53200 Fromentières",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-ouen-des-toits": {
+    "artisans": [
+      {
+        "id": "14712129141841373797",
+        "nom": "Menuiserie Derouet-Gandon - Menuisier LAVAL",
+        "slug": "menuiserie-derouet-gandon-menuisier-laval",
+        "telephone": "02 43 02 06 73",
+        "site_web": "https://www.derouet-menuiserie.fr/",
+        "adresse": "Zone de la Meslerie, Route de Laval, 53410 Saint-Ouën-des-Toits",
+        "note": 5,
+        "avis": 16,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-pierre-la-cour": {
+    "artisans": [
+      {
+        "id": "2352481244755586297",
+        "nom": "SARL Ouest fermetures",
+        "slug": "sarl-ouest-fermetures",
+        "telephone": "06 75 02 26 77",
+        "site_web": "http://www.ouestfermetures.fr/",
+        "adresse": "33 chemin du buisson vert, 53410 Saint-Pierre-la-Cour",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "sainte-suzanne-et-chammes": {
+    "artisans": [
+      {
+        "id": "3872523782450846422",
+        "nom": "Sainte-Suzanne-et-Chammes",
+        "slug": "sainte-suzanne-et-chammes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53270 Sainte-Suzanne-et-Chammes",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "vaiges": {
+    "artisans": [
+      {
+        "id": "6331843483459449824",
+        "nom": "METAL 2000 Le Mans - Installation, dépannage et entretien rideaux métalliques et portes sectionnelles industrielles (72)",
+        "slug": "metal-2000-le-mans-installation-depannage-et-entretien-rideaux-metalliques-et-portes-sectionnelles-industrielles-72",
+        "telephone": "02 52 36 07 17",
+        "site_web": "https://www.metal2000.fr/nos-agences/agence-le-mans/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2047845354755388727",
+        "nom": "Fenêtres du Maine",
+        "slug": "fenetres-du-maine",
+        "telephone": "02 43 85 57 47",
+        "site_web": "http://www.fenetres-maine.com/",
+        "adresse": "685 Bd des Hunaudières, 72230 Ruaudin",
+        "note": 4.5,
+        "avis": 135,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10282065665145832349",
+        "nom": "METAL 2000 Alençon - Installation et réparation rideaux métalliques et portes garage sectionnelles et industrielles (61)",
+        "slug": "metal-2000-alencon-installation-et-reparation-rideaux-metalliques-et-portes-garage-sectionnelles-et-industrielles-61",
+        "telephone": "02 61 72 07 60",
+        "site_web": "https://www.metal2000.fr/nos-agences/metal-2000-alencon/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "6054964956979666188",
+        "nom": "TRYBA Guécélard",
+        "slug": "tryba-guecelard",
+        "telephone": "02 43 87 38 73",
+        "site_web": "https://www.tryba.com/espace-conseil/72/tryba-guecelard/?utm_source=GMB&utm_medium=CTA-WEB&utm_campaign=Tryba_Gu%C3%A9c%C3%A9lard",
+        "adresse": "79 Rte nationale, 72230 Guécélard",
+        "note": 4.7,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15987650434244371148",
+        "nom": "Komilfo",
+        "slug": "komilfo",
+        "telephone": "02 43 21 61 18",
+        "site_web": "https://www.komilfo.fr/magasins/a-poser-mans-72?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "10 rue pégase, L'Étoile z.a. de, 72650 Trangé",
+        "note": 4.9,
+        "avis": 185,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16671394112327536777",
+        "nom": "Store et Fermeture LOYER",
+        "slug": "store-et-fermeture-loyer",
+        "telephone": "02 33 26 04 74",
+        "site_web": "http://www.store-fermeture-loyer.fr/",
+        "adresse": "31 Rue de la Charité, 61250 Condé-sur-Sarthe",
+        "note": 3.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3552660097477478057",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 43 85 42 42",
+        "site_web": "https://aurore-menuiseries.artetfenetres.com/",
+        "adresse": "41 Rue du Moulin aux Moines, 72650 La Chapelle-Saint-Aubin",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15034028229813032096",
+        "nom": "Vignault Multiservices",
+        "slug": "vignault-multiservices",
+        "telephone": "07 66 91 15 29",
+        "site_web": null,
+        "adresse": "56 B rue d'yvré l'évèque, 72560 Changé",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "15500116463006891063",
+        "nom": "ADS Fermeture",
+        "slug": "ads-fermeture",
+        "telephone": "06 47 58 16 17",
+        "site_web": "http://www.adsfermeture.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 100,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "vimartin-sur-orthe": {
+    "artisans": [
+      {
+        "id": "10284312656926963200",
+        "nom": "Proclair Menuiseries Courcité : atelier de fabrication",
+        "slug": "proclair-menuiseries-courcite-atelier-de-fabrication",
+        "telephone": "02 43 03 33 23",
+        "site_web": "http://www.proclair-menuiseries.fr/",
+        "adresse": "La Couture, 53700 Courcité",
+        "note": 4.5,
+        "avis": 30,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "soulge-sur-ouette": {
+    "artisans": [
+      {
+        "id": "12204140829988252398",
+        "nom": "Lechat Loïc",
+        "slug": "lechat-loic",
+        "telephone": "02 43 37 37 30",
+        "site_web": "http://www.lechat-ebeniste.fr/",
+        "adresse": "Rue de Laval, 53210 Soulgé-sur-Ouette",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "4143956831582975890",
+        "nom": "Giteau Sarl",
+        "slug": "giteau-sarl",
+        "telephone": "02 43 98 74 12",
+        "site_web": "http://www.giteau.fr/?utm_source=gmb",
+        "adresse": "19 Voie de la Guiterniere, ZI du Fresne, 53170 Meslay-du-Maine",
+        "note": 4.3,
+        "avis": 60,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13175644231499888101",
+        "nom": "SARL Maline",
+        "slug": "sarl-maline",
+        "telephone": "02 43 98 65 70",
+        "site_web": "http://sarlmaline.fr/",
+        "adresse": "1 rue La Chalopinière, 53170 Meslay-du-Maine",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villaines-la-juhel": {
+    "artisans": [
+      {
+        "id": "17331997501644760306",
+        "nom": "GOFENETRES",
+        "slug": "gofenetres",
+        "telephone": "03 88 60 78 94",
+        "site_web": "http://go-fenetres.net/",
+        "adresse": "1 Rue des Acacias, 53700 Villaines-la-Juhel",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "parne-sur-roc": {
+    "artisans": [
+      {
+        "id": "13776857528062264352",
+        "nom": "Guillaume Corbelin, Plâtrier - Plaquiste - Jointoyeur",
+        "slug": "guillaume-corbelin-platrier-plaquiste-jointoyeur",
+        "telephone": "06 63 01 10 16",
+        "site_web": "https://www.guillaume-corbelin.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 23,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "3308895357363770722",
+        "nom": "RK peinture - peintre décorateur",
+        "slug": "rk-peinture-peintre-decorateur",
+        "telephone": "06 49 68 62 67",
+        "site_web": "https://www.rkpeinture.fr/",
+        "adresse": "349 Rte de Maisoncelles, 53260 Entrammes",
+        "note": 5,
+        "avis": 33,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "quelaines-saint-gault": {
+    "artisans": [
+      {
+        "id": "5738127282770246053",
+        "nom": "M B CONCEPT",
+        "slug": "m-b-concept",
+        "telephone": "06 98 16 58 20",
+        "site_web": "https://mbconcept53.fr/",
+        "adresse": "27 Rue d'Anjou, 53200 Bellevue",
+        "note": 5,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15118709973435177603",
+        "nom": "Fabien Cauchois",
+        "slug": "fabien-cauchois",
+        "telephone": "06 37 89 29 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "6549810510385585535",
+        "nom": "Arrenaux",
+        "slug": "arrenaux",
+        "telephone": "06 59 26 05 88",
+        "site_web": "https://www.arrenaux.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "pre-en-pail-saint-samson": {
+    "artisans": [
+      {
+        "id": "16714879065911795751",
+        "nom": "S.o.m.a.m. Sarl",
+        "slug": "somam-sarl",
+        "telephone": "02 43 03 03 94",
+        "site_web": null,
+        "adresse": "Rte d'Alençon, 53140 Pré-en-Pail-Saint-Samson",
+        "note": 4,
+        "avis": 4,
+        "type": "Fabricant"
+      },
+      {
+        "id": "8768819991382272692",
+        "nom": "PMAE",
+        "slug": "pmae",
+        "telephone": "02 43 03 08 17",
+        "site_web": "http://www.pmae-menuiserie.com/",
+        "adresse": "la Métairie, Rte de Gesvres, 53140",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3112285499860680199",
+        "nom": "Lalande Frédéric",
+        "slug": "lalande-frederic",
+        "telephone": "02 43 03 38 21",
+        "site_web": "https://www.menuiserie-lalande.fr/",
+        "adresse": "ZA des Avaloirs, 53140 Pré-en-Pail-Saint-Samson",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "renaze": {
+    "artisans": [
+      {
+        "id": "291950376679969680",
+        "nom": "Renazé",
+        "slug": "renaze",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53800 Renazé",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-berthevin": {
+    "artisans": [
+      {
+        "id": "10159416521881312718",
+        "nom": "HOMKiA",
+        "slug": "homkia",
+        "telephone": "02 43 69 29 01",
+        "site_web": "https://www.homkia.fr/nos-points-conseils/laval-saint-berthevin-53/",
+        "adresse": "78 Bd Louis Armand, 53940 Saint-Berthevin",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "port-brillet": {
+    "artisans": [
+      {
+        "id": "9994006661537680727",
+        "nom": "Maill Tub Ets",
+        "slug": "maill-tub-ets",
+        "telephone": "02 43 68 83 86",
+        "site_web": "https://www.mailltub.com/",
+        "adresse": "Zone Artisanale Madeleine, 10 Rue des Tricoteurs, 53410 Port-Brillet",
+        "note": 0,
+        "avis": 0,
+        "type": "Grossiste en produits chirurgicaux"
+      },
+      {
+        "id": "14247661683682619099",
+        "nom": "Etablissements Bignon Jacques SAS",
+        "slug": "etablissements-bignon-jacques-sas",
+        "telephone": "02 43 68 80 52",
+        "site_web": "https://www.fenetres-bignon.fr/",
+        "adresse": "ZA de la Croix des Aulnays, 53410 Port-Brillet",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2782431240842939962",
+        "nom": "JGaudre Menuiserie",
+        "slug": "jgaudre-menuiserie",
+        "telephone": "06 31 80 76 02",
+        "site_web": null,
+        "adresse": "Le, Libaret, 53410 Port-Brillet",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3086172928124791315",
+        "nom": "S.M.I.T",
+        "slug": "smit",
+        "telephone": "02 43 68 88 36",
+        "site_web": "http://www.smit53.fr/",
+        "adresse": "19ter, rue du, 8 Rue du Huit Mai 1945, 53410 Port-Brillet",
+        "note": 3,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "291950376679969760",
+        "nom": "Port-Brillet",
+        "slug": "port-brillet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "53410 Port-Brillet",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-denis-d-anjou": {
+    "artisans": [
+      {
+        "id": "14827988403206265632",
+        "nom": "Fenêtres d'Anjou - Menuisier à Angers : Fenêtres, portes, volets et autres menuiseries",
+        "slug": "fenetres-danjou-menuisier-a-angers-fenetres-portes-volets-et-autres-menuiseries",
+        "telephone": "02 41 31 16 64",
+        "site_web": "https://www.fenetres-anjou-49.fr/",
+        "adresse": "Le Jaunet, Bon Puits ZI du, 49480 Verrières-en-Anjou",
+        "note": 4.6,
+        "avis": 81,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11655344844377206014",
+        "nom": "Etablissements Chehere",
+        "slug": "etablissements-chehere",
+        "telephone": "02 43 70 63 57",
+        "site_web": null,
+        "adresse": "Rue des Jardins, 53290 Saint-Denis-d'Anjou",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8760941002043134523",
+        "nom": "Bâti-Système",
+        "slug": "bati-systeme",
+        "telephone": "06 08 89 30 70",
+        "site_web": "https://bati-systeme.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 34,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7819171572360322088",
+        "nom": "FENETRIER de l'ANJOU - Décostory Angers",
+        "slug": "fenetrier-de-lanjou-decostory-angers",
+        "telephone": "02 41 25 15 34",
+        "site_web": "https://www.fenetrier-de-lanjou.com/",
+        "adresse": "vers Métro & Restaurant La Boucherie, 3 Rue du Paon, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  }
+}

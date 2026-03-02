@@ -1,0 +1,3974 @@
+{
+  "rivieres": {
+    "artisans": [
+      {
+        "id": "4096634476447513254",
+        "nom": "AD2E ART ET FENETRES COGNAC",
+        "slug": "ad2e-art-et-fenetres-cognac",
+        "telephone": "05 79 20 01 56",
+        "site_web": "https://www.ad2e.com/",
+        "adresse": "143 Rue de Montplaisir, 16100 Cognac",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10131801668564651323",
+        "nom": "Art Fermetures SARL",
+        "slug": "art-fermetures-sarl",
+        "telephone": "05 45 95 48 32",
+        "site_web": "http://artfermetures16.fr/",
+        "adresse": "739 Route de Mansle, 16110 Rivières",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4988793610166687445",
+        "nom": "Linard Serrurerie Dépannage et installateur d'alarme LSD",
+        "slug": "linard-serrurerie-depannage-et-installateur-dalarme-lsd",
+        "telephone": "07 64 40 80 80",
+        "site_web": "https://www.linard-serrurerie-depannage.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 121,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3030289559996702246",
+        "nom": "JL Réno'bat",
+        "slug": "jl-renobat",
+        "telephone": "06 25 04 69 50",
+        "site_web": "http://jl-renobat.webnode.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9132979456219136534",
+        "nom": "MENUISERIES DE LA ROCHE",
+        "slug": "menuiseries-de-la-roche",
+        "telephone": "05 45 23 60 84",
+        "site_web": "https://www.menuiseries-la-rochefoucauld.fr/",
+        "adresse": "11bis Av. Gambetta, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 4.7,
+        "avis": 104,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18292813282410451674",
+        "nom": "BEL'PORTES",
+        "slug": "belportes",
+        "telephone": "05 45 90 82 48",
+        "site_web": "https://www.bel-portes.com/nous-contacter.php?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "9 Rue de l'Épargne, 16340 L'Isle-d'Espagnac",
+        "note": 4.2,
+        "avis": 41,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1840542043243154564",
+        "nom": "Dagnias-Laloi",
+        "slug": "dagnias-laloi",
+        "telephone": "05 45 63 93 82",
+        "site_web": null,
+        "adresse": "23Rue du Mainebeau, 16110 Rivières",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "1833251977106979996",
+        "nom": "Charente Menuiseries Miroiterie",
+        "slug": "charente-menuiseries-miroiterie",
+        "telephone": "06 19 86 17 27",
+        "site_web": "https://www.cmm16.fr/",
+        "adresse": "La, ZE BANDIAT TARDOIRE, Rue de la Ligonne, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14749669013725945620",
+        "nom": "SARL AUTHENTIQUE FENETRE",
+        "slug": "sarl-authentique-fenetre",
+        "telephone": "05 45 69 21 51",
+        "site_web": "https://www.authentique-fenetre.fr/?utm_source=gbp&utm_medium=Organic&utm_id=Fiche_angouleme",
+        "adresse": "33 Rue du Maréchal Fayolle, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15754243039032815707",
+        "nom": "MK Menuiserie - Menuiserie sur Mesure",
+        "slug": "mk-menuiserie-menuiserie-sur-mesure",
+        "telephone": "06 35 92 68 50",
+        "site_web": "http://mk-joinery.works/home-fr",
+        "adresse": "1 Lieu Dit, Bourdelais, 16460 Saint-Front",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chassors": {
+    "artisans": [
+      {
+        "id": "16062391816269295295",
+        "nom": "RDV Artisans",
+        "slug": "rdv-artisans",
+        "telephone": "06 19 30 53 69",
+        "site_web": "https://rdvartisans.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 71,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "chateauneuf-sur-charente": {
+    "artisans": [
+      {
+        "id": "16444227368152286951",
+        "nom": "Delage Patrick",
+        "slug": "delage-patrick",
+        "telephone": "06 13 04 04 68",
+        "site_web": "http://www.menuiserie-delage.fr/",
+        "adresse": "11 rue du four à pain, Le Petit Bourglioux, 16120 Châteauneuf-sur-Charente",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1595624455575674949",
+        "nom": "Habita Reneuf Habitat Reneuf",
+        "slug": "habita-reneuf-habitat-reneuf",
+        "telephone": "06 12 97 44 04",
+        "site_web": "http://habitareneuf.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 15,
+        "type": "Maçon"
+      },
+      {
+        "id": "5707199747828481418",
+        "nom": "Novolet",
+        "slug": "novolet",
+        "telephone": "05 54 07 03 31",
+        "site_web": "http://www.novolet.fr/",
+        "adresse": "60 Chem. de la Grande Prairie, 16120 Châteauneuf-sur-Charente",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Fabricant"
+      },
+      {
+        "id": "8378485258297482962",
+        "nom": "Moreau Grégory Rénovation",
+        "slug": "moreau-gregory-renovation",
+        "telephone": "05 86 50 83 53",
+        "site_web": "http://www.mg-renovation.net/",
+        "adresse": "1 Rue Aristide Briand, 16120 Châteauneuf-sur-Charente",
+        "note": 5,
+        "avis": 29,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "val-de-cognac": {
+    "artisans": [
+      {
+        "id": "7884698320391378182",
+        "nom": "TRYBA Cognac",
+        "slug": "tryba-cognac",
+        "telephone": "05 18 23 12 52",
+        "site_web": "https://www.tryba.com/espace-conseil/16/tryba-cognac/?utm_campaign=Tryba_cognac&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "97 Bd Denfert Rochereau, 16100 Cognac",
+        "note": 5,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11712485958107475581",
+        "nom": "Eurobaie Cognac",
+        "slug": "eurobaie-cognac",
+        "telephone": "05 45 82 74 56",
+        "site_web": "https://www.eurobaie.net/",
+        "adresse": "53 Av. D Angoulême, 16100 Châteaubernard",
+        "note": 4.8,
+        "avis": 41,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18226001233928424629",
+        "nom": "D . I . Export - Menuisier à Cognac",
+        "slug": "d-i-export-menuisier-a-cognac",
+        "telephone": "06 73 33 05 33",
+        "site_web": "https://www.cabaneboischarente.fr/",
+        "adresse": "205 Rte des Egauds, 16200 Nercillac",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3032623226651132339",
+        "nom": "Martin Menuiserie",
+        "slug": "martin-menuiserie",
+        "telephone": "06 48 47 50 21",
+        "site_web": "https://www.martin-menuiserie16.fr/",
+        "adresse": "29 Rue Principale, 16100 Saint-Laurent-de-Cognac",
+        "note": 4.8,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8418155833039948511",
+        "nom": "CASÉO Cognac",
+        "slug": "caseo-cognac",
+        "telephone": "05 45 82 17 30",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-cognac-chateaubernard-35",
+        "adresse": "ZA du Fief du Roy, Rue Pierre Latecoere, 16100 Châteaubernard",
+        "note": 4.4,
+        "avis": 53,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16776184365247060212",
+        "nom": "SAS JOACKIM TURPAIN",
+        "slug": "sas-joackim-turpain",
+        "telephone": "05 45 83 32 26",
+        "site_web": "https://www.jturpain-menuiserie.fr/",
+        "adresse": "59 Rue Jean Jaurès, 16100 Cognac",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1432445116750647197",
+        "nom": "HOMNIA Menuisiers Cognac",
+        "slug": "homnia-menuisiers-cognac",
+        "telephone": "05 45 32 37 59",
+        "site_web": "https://homnia-menuisiers.fr/",
+        "adresse": "Rue François Mitterrand, 16100 Châteaubernard",
+        "note": 4.8,
+        "avis": 107,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9707522329060264813",
+        "nom": "Eco Génération",
+        "slug": "eco-generation",
+        "telephone": "06 14 62 48 13",
+        "site_web": "http://www.eco-generation.fr/",
+        "adresse": "1 Rue de la République, 16100 Cognac",
+        "note": 4.6,
+        "avis": 80,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13519387205018076061",
+        "nom": "DEPAN'AUTOMATISME",
+        "slug": "depanautomatisme",
+        "telephone": "06 23 24 19 53",
+        "site_web": null,
+        "adresse": "LD Orlut, 19bis Rue Grande, 16370 Val-de-Cognac",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11462151893530372314",
+        "nom": "MIROITERIE DE COGNAC",
+        "slug": "miroiterie-de-cognac",
+        "telephone": "05 45 82 75 19",
+        "site_web": "http://www.miroiteriedecognac.com/",
+        "adresse": "12 Rue de la Haute Sarrazine ZA 12, 16100 Cognac",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chazelles": {
+    "artisans": [
+      {
+        "id": "13023746071199903105",
+        "nom": "Jérôme Dépannage Serrurier-Vitrier la couronne et les alentours",
+        "slug": "jerome-depannage-serrurier-vitrier-la-couronne-et-les-alentours",
+        "telephone": "07 86 71 46 38",
+        "site_web": "https://actif-services-16.e-monsite.com/",
+        "adresse": "4 Imp. César, 16380 Chazelles",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7758371147068941199",
+        "nom": "Chazelles Angoulême Cheminée, poêle à bois, poêle à granulés",
+        "slug": "chazelles-angouleme-cheminee-poele-a-bois-poele-a-granules",
+        "telephone": "05 45 23 66 66",
+        "site_web": "https://www.chazelles.com/store-locator/magasin/magasin-en-charente-cheminee-poele-insert-chazelles/",
+        "adresse": "40 Rue Saint-Antoine, 16160 Gond-Pontouvre",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "13439300490134320970",
+        "nom": "Travaux Bâtiment Services",
+        "slug": "travaux-batiment-services",
+        "telephone": "06 12 49 08 05",
+        "site_web": "https://www.tbs16.fr/",
+        "adresse": "27 Rte de Bouëx, 16380 Chazelles",
+        "note": 3.4,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12823506320678771879",
+        "nom": "Dam'elec",
+        "slug": "damelec",
+        "telephone": "06 75 20 32 77",
+        "site_web": null,
+        "adresse": "1 impasse des sables, chez Bâtisse, 16380 Chazelles",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "663955611387930426",
+        "nom": "KparK Angoulême",
+        "slug": "kpark-angouleme",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/130-kpark-angouleme?utm_source=gmb",
+        "adresse": "465 Rue de Bordeaux, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 94,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2081225133770608589",
+        "nom": "Chinvest",
+        "slug": "chinvest",
+        "telephone": "09 70 80 83 35",
+        "site_web": null,
+        "adresse": "Rte de Marthon, 16380 Chazelles",
+        "note": 3.4,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10445864348438793553",
+        "nom": "FONSECA PHILIPPE",
+        "slug": "fonseca-philippe",
+        "telephone": "06 33 70 20 43",
+        "site_web": null,
+        "adresse": "7 Rue de Chez Bâtisses, 16380 Chazelles",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "chasseneuil-sur-bonnieure": {
+    "artisans": [
+      {
+        "id": "8628870699161928098",
+        "nom": "SARL GENET",
+        "slug": "sarl-genet",
+        "telephone": "05 45 94 02 39",
+        "site_web": "https://www.genet-facade.fr/",
+        "adresse": "1 Zone de l'emploi, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.5,
+        "avis": 21,
+        "type": "Façadier"
+      },
+      {
+        "id": "13015351133541575575",
+        "nom": "Dumas Menuiseries - Sur Mesure Menuiserie",
+        "slug": "dumas-menuiseries-sur-mesure-menuiserie",
+        "telephone": "05 45 29 01 77",
+        "site_web": "https://www.dumas-menuiseries.fr/",
+        "adresse": "ZI Nord, Chem. des Gordins, 16700 Ruffec",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13699482405794169264",
+        "nom": "TOUBOIS",
+        "slug": "toubois",
+        "telephone": "05 45 39 57 66",
+        "site_web": "http://www.toubois.com/",
+        "adresse": "Le Château, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 57,
+        "type": "Fournisseur de contreplaqué"
+      },
+      {
+        "id": "1974064376887018002",
+        "nom": "ETS DUREPAIRE",
+        "slug": "ets-durepaire",
+        "telephone": "05 45 39 62 60",
+        "site_web": null,
+        "adresse": "Zone d'Emploi Les Pièces de l'Àge, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "3503686797799591626",
+        "nom": "S.A.R.L. Reno Pvc",
+        "slug": "sarl-reno-pvc",
+        "telephone": "05 45 22 29 70",
+        "site_web": "https://www.reno-pvc.com/",
+        "adresse": "1 Av. de la République, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3177219292398246080",
+        "nom": "BIGUET & FILS | Plaquiste-Peintre-Isolation",
+        "slug": "biguet-fils-plaquiste-peintre-isolation",
+        "telephone": "05 45 93 23 41",
+        "site_web": "https://www.biguetetfils.fr/",
+        "adresse": "23 Ze les pièces de l'âge, 16260, 16260, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 21,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "4006987292977756459",
+        "nom": "Echafaudage Charentais",
+        "slug": "echafaudage-charentais",
+        "telephone": "05 45 63 03 82",
+        "site_web": null,
+        "adresse": "Zone d'Emploi Les Pièces de l'Àge, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de location d'échafaudages"
+      },
+      {
+        "id": "9084731500143950801",
+        "nom": "Maisons Charentaises SARL",
+        "slug": "maisons-charentaises-sarl",
+        "telephone": "05 45 38 11 84",
+        "site_web": "http://www.maisons-charentaises.fr/",
+        "adresse": "Zone d'Emploi Les Pièces de l'Àge, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "13964484993125126828",
+        "nom": "Desvaux",
+        "slug": "desvaux",
+        "telephone": "05 45 39 54 33",
+        "site_web": "http://www.desvaux.fr/",
+        "adresse": "17 bis Av. de la République, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3.9,
+        "avis": 123,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "11012156528452769162",
+        "nom": "Précigout Jean-Pierre",
+        "slug": "precigout-jean-pierre",
+        "telephone": "05 45 39 67 16",
+        "site_web": null,
+        "adresse": "6 Bd Morinet, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3,
+        "avis": 2,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "chateaubernard": {
+    "artisans": [
+      {
+        "id": "3313757803625463218",
+        "nom": "Atelier Jeanmaire",
+        "slug": "atelier-jeanmaire",
+        "telephone": "05 45 36 08 82",
+        "site_web": "http://www.atelier-xavierjeanmaire.fr/",
+        "adresse": "28 Rue du Dominant, 16100 Châteaubernard",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1265869861676558047",
+        "nom": "EURL Mathieu Baudry (Menuiserie)",
+        "slug": "eurl-mathieu-baudry-menuiserie",
+        "telephone": "06 65 29 35 37",
+        "site_web": "https://www.menuiserie-baudry.fr/",
+        "adresse": "5 Av. D Angoulême, 16100 Châteaubernard",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1578024342849103267",
+        "nom": "KparK Saintes",
+        "slug": "kpark-saintes",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/16-kpark-saintes?utm_source=gmb",
+        "adresse": "115 Av. Gambetta, 17100 Saintes",
+        "note": 4.5,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "claix": {
+    "artisans": [
+      {
+        "id": "2805896404563104875",
+        "nom": "Les éternels rénovation 16 - Electricité, Plomberie, Plâtrerie, isolation, peinture, revêtement",
+        "slug": "les-eternels-renovation-16-electricite-plomberie-platrerie-isolation-peinture-revetement",
+        "telephone": "07 86 03 38 38",
+        "site_web": "https://www.leseternellesrenovation-16.fr/",
+        "adresse": "1 Rte de Chez Seau, 16440 Claix",
+        "note": 5,
+        "avis": 60,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "la-couronne": {
+    "artisans": [
+      {
+        "id": "4750539460927825489",
+        "nom": "Berton Aluminium",
+        "slug": "berton-aluminium",
+        "telephone": "05 45 92 53 37",
+        "site_web": "https://www.menuiserie-aluminium-berton.com/?utm_source=gmb",
+        "adresse": "28 Av. de Pasleck, 16400 La Couronne",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9710813814223457009",
+        "nom": "Menuiserie Tallon",
+        "slug": "menuiserie-tallon",
+        "telephone": "06 30 44 42 20",
+        "site_web": null,
+        "adresse": "Chem. des Barrets, 16400 La Couronne",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17069499789737139369",
+        "nom": "Avenir Rénovations Angoulême",
+        "slug": "avenir-renovations-angouleme",
+        "telephone": "05 18 23 04 97",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-16-angouleme/",
+        "adresse": "7 Bd du 8 Mai 1945, 16000 Angoulême",
+        "note": 5,
+        "avis": 4,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3276273804152759426",
+        "nom": "BATIMAN Poignée Centrée Menuiserie La Couronne",
+        "slug": "batiman-poignee-centree-menuiserie-la-couronne",
+        "telephone": "05 45 66 61 36",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-poignee-centree",
+        "adresse": "2 Rte de Saint-Michel, 16400 La Couronne",
+        "note": 3.7,
+        "avis": 66,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10680162356270402693",
+        "nom": "EKO POSE",
+        "slug": "eko-pose",
+        "telephone": "06 75 62 46 39",
+        "site_web": null,
+        "adresse": "33 Rue des Compagnons d'Emmaüs, 16440 La Couronne",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "confolens": {
+    "artisans": [
+      {
+        "id": "6925807402984644580",
+        "nom": "Lafont Franck",
+        "slug": "lafont-franck",
+        "telephone": "06 22 12 21 76",
+        "site_web": "https://www.lafont-renovation-immobiliere-confolens.fr/",
+        "adresse": "5 Rue du Puits d'Olivet, 16500 Confolens",
+        "note": 5,
+        "avis": 3,
+        "type": "Maçon"
+      },
+      {
+        "id": "15615951960433071068",
+        "nom": "Sarl Vergnaud Pere Et Fils",
+        "slug": "sarl-vergnaud-pere-et-fils",
+        "telephone": "05 45 30 61 57",
+        "site_web": null,
+        "adresse": "All. des Freniers, 16500 Confolens",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "219074977194216042",
+        "nom": "Menuiserie Sébastien Chapelle",
+        "slug": "menuiserie-sebastien-chapelle",
+        "telephone": "06 18 49 43 96",
+        "site_web": null,
+        "adresse": "Les vignes du château, 16500 Confolens",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13999426626294402338",
+        "nom": "J.W Joinery",
+        "slug": "jw-joinery",
+        "telephone": "06 30 99 64 62",
+        "site_web": "http://www.jw-joinery.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14662509123399320407",
+        "nom": "Carrières Du Confolentais",
+        "slug": "carrieres-du-confolentais",
+        "telephone": "05 45 84 20 61",
+        "site_web": null,
+        "adresse": "le Grand Negrat, 16500 Confolens",
+        "note": 5,
+        "avis": 1,
+        "type": "Carrière"
+      },
+      {
+        "id": "6894549417196997622",
+        "nom": "Aire de Terre-Neuve",
+        "slug": "aire-de-terre-neuve",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Allée de Barbazant, 16500 Confolens",
+        "note": 3.9,
+        "avis": 427,
+        "type": "Aire de repos"
+      }
+    ]
+  },
+  "cognac": {
+    "artisans": [
+      {
+        "id": "13233508491651392083",
+        "nom": "Fenêtres & Vérandas LUZ (anciennement Fenêtres PARTHENAY) - Concept Alu - JONZAC",
+        "slug": "fenetres-verandas-luz-anciennement-fenetres-parthenay-concept-alu-jonzac",
+        "telephone": "05 46 70 48 38",
+        "site_web": "https://www.fenetresluz.com/",
+        "adresse": "14 Bis Rte de Saint-Genis, 17500 Saint-Germain-de-Lusignan",
+        "note": 4.8,
+        "avis": 125,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2831165902580809838",
+        "nom": "Serrurerie Locatelli",
+        "slug": "serrurerie-locatelli",
+        "telephone": "06 86 82 28 61",
+        "site_web": null,
+        "adresse": "85 Rue Claude Boucher, 16100 Cognac",
+        "note": 5,
+        "avis": 3,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16507388931878543498",
+        "nom": "Porte Saint-Jacques",
+        "slug": "porte-saint-jacques",
+        "telephone": "05 45 36 03 65",
+        "site_web": "https://les-distillateurs-culturels.fr/",
+        "adresse": "1-3 Quai Maurice Hennessy, 16100 Cognac",
+        "note": 4.2,
+        "avis": 121,
+        "type": "Site historique"
+      },
+      {
+        "id": "9082075861955719535",
+        "nom": "La Maison Des Travaux Cognac - Rénovation & Extension maison",
+        "slug": "la-maison-des-travaux-cognac-renovation-extension-maison",
+        "telephone": "06 25 44 17 09",
+        "site_web": "https://cognac.lamaisondestravaux.com/",
+        "adresse": "5 Av. Victor Hugo, 16100 Cognac",
+        "note": 5,
+        "avis": 4,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "13215748745771566751",
+        "nom": "CREA CONCEPTION - Maître d'œuvre - Construction - Rénovation - Extension - Agencement - Audit & Bilan énergétique",
+        "slug": "crea-conception-maitre-duvre-construction-renovation-extension-agencement-audit-bilan-energetique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "128 Av. Victor Hugo, 16100 Cognac",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Concepteur en architecture"
+      }
+    ]
+  },
+  "dignac": {
+    "artisans": [
+      {
+        "id": "4179735830240527086",
+        "nom": "AD2E ART ET FENETRES",
+        "slug": "ad2e-art-et-fenetres",
+        "telephone": "05 45 69 78 93",
+        "site_web": "https://www.ad2e.com/",
+        "adresse": "31 Av. du Maréchal Juin, 16000 Angoulême",
+        "note": 4.6,
+        "avis": 100,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14341520742670860339",
+        "nom": "Etablissements Thomas",
+        "slug": "etablissements-thomas",
+        "telephone": "05 45 24 57 34",
+        "site_web": "http://ets-thomas.com/",
+        "adresse": "6 Chem. des Taillis, 16410 Dignac",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10450144826420074905",
+        "nom": "Gaszynski Et Fils",
+        "slug": "gaszynski-et-fils",
+        "telephone": "05 45 24 55 75",
+        "site_web": null,
+        "adresse": "42 Rte de Lascour, 16410 Dignac",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "487075138205582220",
+        "nom": "Menuiserie 16",
+        "slug": "menuiserie-16",
+        "telephone": "05 45 37 47 54",
+        "site_web": "https://menuiserie16.fr/",
+        "adresse": "71 Chem. des Cesses des Bois Lieu dit, 16410 Sers",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5074550041696178825",
+        "nom": "Menuisier ei jonathan palet",
+        "slug": "menuisier-ei-jonathan-palet",
+        "telephone": "06 13 16 54 74",
+        "site_web": "https://www.facebook.com/acejop",
+        "adresse": "18 rue des rocs berchet, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7476620929042249783",
+        "nom": "Menuiserie Perrigault et fils",
+        "slug": "menuiserie-perrigault-et-fils",
+        "telephone": "07 81 38 91 98",
+        "site_web": null,
+        "adresse": "724 La Grande Courrière route de, 16410 Torsac",
+        "note": 1,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "301941224139651240",
+        "nom": "Techniques Bois",
+        "slug": "techniques-bois",
+        "telephone": "06 22 82 62 59",
+        "site_web": "https://www.techniquesbois.fr/",
+        "adresse": "1 Imp. des Châtaigniers, 16410 Dignac",
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17757293911315280751",
+        "nom": "Fauconnet (Sarl)",
+        "slug": "fauconnet-sarl",
+        "telephone": "05 45 60 37 92",
+        "site_web": null,
+        "adresse": "10 Rue des Terres de la Fontaine, 16410 Dignac",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15947296482306200889",
+        "nom": "Astic Verandas",
+        "slug": "astic-verandas",
+        "telephone": "05 45 69 91 29",
+        "site_web": "https://astic-verandas16.fr/",
+        "adresse": "69 Rue de Royan, 16710 Saint-Yrieix-sur-Charente",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9947722456204626828",
+        "nom": "SARL JP CONTAMINES - Menuisier",
+        "slug": "sarl-jp-contamines-menuisier",
+        "telephone": "09 74 56 15 27",
+        "site_web": "http://www.jpcontamine.com/",
+        "adresse": "267 Rue de Royan, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "mansle-les-fontaines": {
+    "artisans": [
+      {
+        "id": "5478003796628969997",
+        "nom": "S-G Bâtiment",
+        "slug": "s-g-batiment",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Av. des Combattants d' Afrique du N, 16230 Mansle-les-Fontaines",
+        "note": 2,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15957864147973573889",
+        "nom": "Logeo Confort",
+        "slug": "logeo-confort",
+        "telephone": "05 45 20 68 79",
+        "site_web": "https://www.logeoconfort.fr/",
+        "adresse": "Rue Combes des Martins, 2 Rue Principale, 16230 Maine-de-Boixe",
+        "note": 3.8,
+        "avis": 145,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15568794525790433913",
+        "nom": "Sarl Branchu",
+        "slug": "sarl-branchu",
+        "telephone": "05 45 22 21 73",
+        "site_web": null,
+        "adresse": "9 Rue Alfred Renolleau, 16230 Mansle-les-Fontaines",
+        "note": 3.6,
+        "avis": 15,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9781585135992363180",
+        "nom": "LVV-CONSTRUCTION",
+        "slug": "lvv-construction",
+        "telephone": "06 44 76 03 57",
+        "site_web": "https://www.lvv-construction-charente.fr/",
+        "adresse": "8 Rue Grande, 16230 Mansle-les-Fontaines",
+        "note": 5,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8260626901426922243",
+        "nom": "DEP 16 Fermetures",
+        "slug": "dep-16-fermetures",
+        "telephone": "06 22 43 83 35",
+        "site_web": "http://www.dep-16-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7223387133810143959",
+        "nom": "COGEA CONSTRUCTION GENERALE DE L'ATLANTIQUE",
+        "slug": "cogea-construction-generale-de-latlantique",
+        "telephone": "05 45 20 75 66",
+        "site_web": "https://www.cogea16.fr/",
+        "adresse": "La Sangle, 16230 Mansle-les-Fontaines",
+        "note": 4.3,
+        "avis": 16,
+        "type": "Maçon"
+      },
+      {
+        "id": "10053125787331845424",
+        "nom": "EGM ENTREPRISE GÉNÉRALE DE MENUISERIE",
+        "slug": "egm-entreprise-generale-de-menuiserie",
+        "telephone": "06 66 83 12 10",
+        "site_web": "https://www.egm-16.fr/",
+        "adresse": "13 Rue Bellevue, 16330 Saint-Amant-de-Boixe",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6018812506704282813",
+        "nom": "LV BATIMENT",
+        "slug": "lv-batiment",
+        "telephone": "05 45 92 13 69",
+        "site_web": "http://www.lvbatiment.com/",
+        "adresse": "19 Les Pastourets, 16230 Puyréaux",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "dirac": {
+    "artisans": [
+      {
+        "id": "13500407351131657300",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-angouleme/",
+        "adresse": "11 Rue de Rabion, Lieu dit les Cordeliers - Proche Aldi, 150 Bd de Bigorre, 16000 Angoulême",
+        "note": 3,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12153279776612816249",
+        "nom": "Automatic Center",
+        "slug": "automatic-center",
+        "telephone": "05 45 21 84 39",
+        "site_web": "http://www.automatic-center.fr/",
+        "adresse": "31 Av. du Maréchal Juin, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8426314831809293611",
+        "nom": "WOODSTRUCT- Terrasse bois",
+        "slug": "woodstruct-terrasse-bois",
+        "telephone": "05 17 17 69 06",
+        "site_web": "http://www.woodstruct.fr/",
+        "adresse": "198 Rue Alfred de Vigny, 16000 Angoulême",
+        "note": 5,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14218764561594634177",
+        "nom": "CASÉO Angoulême",
+        "slug": "caseo-angouleme",
+        "telephone": "05 45 37 31 55",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-angouleme-l-isle-d-espagnac-53",
+        "adresse": "3 Av. du Maréchal Juin, 16340 L'Isle-d'Espagnac",
+        "note": 4.4,
+        "avis": 105,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8367844445164781242",
+        "nom": "Sarl Projet entretien renovation PER",
+        "slug": "sarl-projet-entretien-renovation-per",
+        "telephone": "06 61 52 68 23",
+        "site_web": "http://www.pertravaux.fr/",
+        "adresse": "289 Rue Fontchaudière, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6936582455771503776",
+        "nom": "Sarl Dimeux",
+        "slug": "sarl-dimeux",
+        "telephone": "05 45 23 68 12",
+        "site_web": "https://www.dimeux.fr/",
+        "adresse": "4 Rte de Libourne, 16400 Puymoyen",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18113246254983975398",
+        "nom": "RG renov couvreur zingueur nettoyage toiture",
+        "slug": "rg-renov-couvreur-zingueur-nettoyage-toiture",
+        "telephone": "06 64 94 19 36",
+        "site_web": "https://www.rg-renov-couvreur.fr/",
+        "adresse": "55 Rue de la Tranchade, 16410 Dirac",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5408046714064925501",
+        "nom": "Pereira Domingos",
+        "slug": "pereira-domingos",
+        "telephone": "05 45 25 03 77",
+        "site_web": null,
+        "adresse": "Grand Fond, 16410 Dirac",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "15246652050014584963",
+        "nom": "Monsieur Store Angoulême",
+        "slug": "monsieur-store-angouleme",
+        "telephone": "05 17 20 84 02",
+        "site_web": "https://monsieurstore.com/magasin/angouleme-16000/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "138 Bd de Bretagne, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 154,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": "05 45 39 44 98",
+        "site_web": "https://imex16.fr/",
+        "adresse": "27 Rue de Tivoli, 16400 Vœuil-et-Giget",
+        "note": 4.8,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "exideuil-sur-vienne": {
+    "artisans": [
+      {
+        "id": "11145802018138172891",
+        "nom": "Dupairaud Maintenance",
+        "slug": "dupairaud-maintenance",
+        "telephone": "05 45 84 19 08",
+        "site_web": null,
+        "adresse": "Chantalouette, 16150 Exideuil-sur-Vienne",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "3687851349739691295",
+        "nom": "PRESTAVAISSELLE",
+        "slug": "prestavaisselle",
+        "telephone": "06 28 93 69 30",
+        "site_web": null,
+        "adresse": "8 Terme des Goujons, 16150 Exideuil-sur-Vienne",
+        "note": 0,
+        "avis": 0,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "459444796783019632",
+        "nom": "Chez Cuss",
+        "slug": "chez-cuss",
+        "telephone": "06 25 55 38 05",
+        "site_web": null,
+        "adresse": "32 Rue de Binin, 16150 Exideuil-sur-Vienne",
+        "note": 4.8,
+        "avis": 172,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "bellevigne": {
+    "artisans": [
+      {
+        "id": "7910927469821386923",
+        "nom": "Sarl darquey",
+        "slug": "sarl-darquey",
+        "telephone": "06 26 63 59 10",
+        "site_web": null,
+        "adresse": "Route de touzac, 16120 Bellevigne",
+        "note": 4,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "15254570359104327846",
+        "nom": "EDS",
+        "slug": "eds",
+        "telephone": "06 08 09 83 04",
+        "site_web": "https://www.eds-electricien-charente.fr/",
+        "adresse": "81 Route de la Combe Verdon, 16120 Bellevigne",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "montbron": {
+    "artisans": [
+      {
+        "id": "370008992673700788",
+        "nom": "SAP STOCKAGE",
+        "slug": "sap-stockage",
+        "telephone": "07 78 25 33 64",
+        "site_web": "https://www.instagram.com/box.stockage?igsh=dGZ4enVjMHFrczdo",
+        "adresse": "Imp. de l'Usine, 16220 Montbron",
+        "note": 5,
+        "avis": 15,
+        "type": "Installation de stockage"
+      },
+      {
+        "id": "8659621744485337762",
+        "nom": "Horte et Tardoire Bâtiment",
+        "slug": "horte-et-tardoire-batiment",
+        "telephone": "05 45 21 69 12",
+        "site_web": "https://www.htb-montbron.fr/?utm_source=gmb",
+        "adresse": "Lieu-dit Hormeau, 3 Rte d'Orgedeuil, 16220 Montbron",
+        "note": 4.3,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14206292388963000827",
+        "nom": "Bousseton Jean-François",
+        "slug": "bousseton-jean-francois",
+        "telephone": "05 45 23 93 87",
+        "site_web": null,
+        "adresse": "Le Moulin Neuf, 16220 Montbron",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "merpins": {
+    "artisans": [
+      {
+        "id": "6904979177078040962",
+        "nom": "Home Elec Confort",
+        "slug": "home-elec-confort",
+        "telephone": "07 82 35 24 48",
+        "site_web": "https://www.home-elec-confort.fr/",
+        "adresse": "95 Rue du Puits, 16100 Merpins",
+        "note": 5,
+        "avis": 35,
+        "type": "Électricien"
+      },
+      {
+        "id": "14198869324910268783",
+        "nom": "Anna Menuiserie",
+        "slug": "anna-menuiserie",
+        "telephone": "07 78 69 14 50",
+        "site_web": "https://www.facebook.com/Anna.menuiserie/?fref=tag",
+        "adresse": "21 bis Rue Gaillard, 16100 Cognac",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "647320511874423197",
+        "nom": "PECNER",
+        "slug": "pecner",
+        "telephone": "05 45 82 03 74",
+        "site_web": null,
+        "adresse": "Av. des Torulas, 16100 Merpins",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "88601419459153792",
+        "nom": "Cognac Laser",
+        "slug": "cognac-laser",
+        "telephone": "05 45 82 82 85",
+        "site_web": "https://cognac-laser.fr/",
+        "adresse": "Rue du Bois Merrains, 16100 Merpins",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de découpe au laser"
+      },
+      {
+        "id": "998068800154614967",
+        "nom": "Jw couverture rénovation",
+        "slug": "jw-couverture-renovation",
+        "telephone": "07 45 92 43 73",
+        "site_web": "https://www.facebook.com/profile.php?id=61576950370655",
+        "adresse": "Chem. de Fontdouce, 16100 Châteaubernard",
+        "note": 5,
+        "avis": 67,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "18323038047749114345",
+        "nom": "SOS Couverture 16 Merpins: Artisan couvreur Cognac Merpins St-Brice ... Réparation Nettoyage Rénovation Bâchage Toiture",
+        "slug": "sos-couverture-16-merpins-artisan-couvreur-cognac-merpins-st-brice-reparation-nettoyage-renovation-bachage-toiture",
+        "telephone": "07 84 93 09 63",
+        "site_web": null,
+        "adresse": "637 Av. de Montignac, 16100 Merpins",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mornac": {
+    "artisans": [
+      {
+        "id": "7303415494094810848",
+        "nom": "Societe d'exploitation G Broussard",
+        "slug": "societe-dexploitation-g-broussard",
+        "telephone": "05 45 70 38 27",
+        "site_web": null,
+        "adresse": "La Braconne, 16600 Mornac",
+        "note": 3,
+        "avis": 11,
+        "type": "Fabricant"
+      },
+      {
+        "id": "14571469472428717178",
+        "nom": "A2M SOLUTEC",
+        "slug": "a2m-solutec",
+        "telephone": "07 48 14 50 21",
+        "site_web": "https://www.a2m-solutec.fr/",
+        "adresse": "245 Av. Jean Jaurès, 16600 Ruelle-sur-Touvre",
+        "note": 5,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17976189514092100702",
+        "nom": "C2sp",
+        "slug": "c2sp",
+        "telephone": "05 45 61 70 47",
+        "site_web": "http://www.facebook.com/1234c2spsoudure",
+        "adresse": "Route du Château D'Eau, 114 La Braconne, 16600 Mornac",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "10024626683979100954",
+        "nom": "CALITOM, syndicat valorisation déchets ménagers de la Charente",
+        "slug": "calitom-syndicat-valorisation-dechets-menagers-de-la-charente",
+        "telephone": "05 45 65 82 50",
+        "site_web": "http://www.calitom.com/",
+        "adresse": "ZE, 19 Route du Lac des Saules, La Braconne, 16600 Mornac",
+        "note": 3.2,
+        "avis": 69,
+        "type": "Service de collecte d'ordures ménagères"
+      }
+    ]
+  },
+  "mouthiers-sur-boeme": {
+    "artisans": [
+      {
+        "id": "3969825219754568032",
+        "nom": "Boëme Dépannage Informatique",
+        "slug": "boeme-depannage-informatique",
+        "telephone": "06 29 69 75 56",
+        "site_web": "http://clapaudchristophe.site-solocal.com/",
+        "adresse": "18 bis Av. du 24 Août 1944, 16440 Mouthiers-sur-Boëme",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Magasin d'informatique"
+      },
+      {
+        "id": "11690486165762817458",
+        "nom": "Concept-Home 16",
+        "slug": "concept-home-16",
+        "telephone": "06 63 73 61 06",
+        "site_web": "https://concept-home16.fr/",
+        "adresse": "3 Le Grand Guillon, 16440 Mouthiers-sur-Boëme",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "5986981178348608716",
+        "nom": "ELAN Clôture",
+        "slug": "elan-cloture",
+        "telephone": "09 81 85 15 03",
+        "site_web": "https://elancloture.fr/",
+        "adresse": "face déchetterie, ZE, Les Rentes, 16440 Mouthiers-sur-Boëme",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "18329569913784073606",
+        "nom": "Atelier Peinture Père & Fils",
+        "slug": "atelier-peinture-pere-fils",
+        "telephone": "06 26 38 30 81",
+        "site_web": null,
+        "adresse": "25 ter rue du, 16440 Mouthiers-sur-Boëme",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "8372245068139594068",
+        "nom": "Croisé Bâtiment",
+        "slug": "croise-batiment",
+        "telephone": "06 73 30 31 53",
+        "site_web": "https://www.croisebatiment.com/",
+        "adresse": "2 zone des Rentes, 16440 Mouthiers-sur-Boëme",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14948755784868851373",
+        "nom": "LIPPI - Fabricant français de portails, clôtures et aménagements extérieurs",
+        "slug": "lippi-fabricant-francais-de-portails-clotures-et-amenagements-exterieurs",
+        "telephone": "05 45 67 96 83",
+        "site_web": "https://www.lippi.fr/",
+        "adresse": "34 route de La Couronne, 16440 Mouthiers-sur-Boëme",
+        "note": 4.1,
+        "avis": 40,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2805896404563104875",
+        "nom": "Les éternels rénovation 16 - Electricité, Plomberie, Plâtrerie, isolation, peinture, revêtement",
+        "slug": "les-eternels-renovation-16-electricite-plomberie-platrerie-isolation-peinture-revetement",
+        "telephone": "07 86 03 38 38",
+        "site_web": "https://www.leseternellesrenovation-16.fr/",
+        "adresse": "1 Rte de Chez Seau, 16440 Claix",
+        "note": 5,
+        "avis": 60,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3209786724804821032",
+        "nom": "Aurore VP16",
+        "slug": "aurore-vp16",
+        "telephone": "05 45 66 23 04",
+        "site_web": "https://www.aurore-vp16.com/?utm_source=google_business&utm_medium=organic&utm_campaign=profil_local",
+        "adresse": "3 Rue Gutenberg, 16440 Roullet-Saint-Estèphe",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Fabricant"
+      },
+      {
+        "id": "9662632909587818783",
+        "nom": "Sarl Gendron Dominique",
+        "slug": "sarl-gendron-dominique",
+        "telephone": "05 45 67 88 03",
+        "site_web": "https://gendrondominiqueetfils.fr/",
+        "adresse": "2 route de brisset, 16440 Mouthiers-sur-Boëme",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "15979331345843407595",
+        "nom": "David Roy Concept Bois",
+        "slug": "david-roy-concept-bois",
+        "telephone": "09 50 06 81 07",
+        "site_web": "https://www.davidroyconceptbois.fr/",
+        "adresse": "1 Route du Brisset, 16440 Mouthiers-sur-Boëme",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "montmoreau": {
+    "artisans": [
+      {
+        "id": "3121611988203680509",
+        "nom": "SAS GENDRON",
+        "slug": "sas-gendron",
+        "telephone": "05 45 24 07 24",
+        "site_web": "http://www.gendrondavid.fr/",
+        "adresse": "1 ZONE DU MAINE BRUN, 16190 Montmoreau",
+        "note": 3.4,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "3324073756683693816",
+        "nom": "Monsallut Michel",
+        "slug": "monsallut-michel",
+        "telephone": "06 28 32 70 19",
+        "site_web": null,
+        "adresse": "5 La Station, 16190 Montmoreau",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "10186668951317267896",
+        "nom": "Ets Marcel Bruno Et Fils",
+        "slug": "ets-marcel-bruno-et-fils",
+        "telephone": "05 45 60 20 59",
+        "site_web": null,
+        "adresse": "Le Bourg, 16190 Montmoreau",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13121858963511556593",
+        "nom": "Komilfo JBA à Angoulême : Pergolas, Stores, Fenêtres",
+        "slug": "komilfo-jba-a-angouleme-pergolas-stores-fenetres",
+        "telephone": "05 45 69 00 09",
+        "site_web": "http://www.komilfo.fr/magasins/jba-angouleme-16?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "253 Rte de Paris, 16160 Gond-Pontouvre",
+        "note": 4.6,
+        "avis": 112,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12717592626590084520",
+        "nom": "Tapissier Décorateur Bauchaud Franck",
+        "slug": "tapissier-decorateur-bauchaud-franck",
+        "telephone": "05 45 60 34 41",
+        "site_web": null,
+        "adresse": "42 Rue de la Gare, 16190 Montmoreau",
+        "note": 5,
+        "avis": 5,
+        "type": "Tapissier décorateur"
+      },
+      {
+        "id": "11307675721753917423",
+        "nom": "CHATAURET CLÔTURE- Fabricant de Portail Alu-Porte de garage-Automatisme-La Roche Chalais-Coutras-Montendre-Montlieu la garde",
+        "slug": "chatauret-cloture-fabricant-de-portail-alu-porte-de-garage-automatisme-la-roche-chalais-coutras-montendre-montlieu-la-garde",
+        "telephone": "06 71 63 03 44",
+        "site_web": "https://chatauret.com/",
+        "adresse": "14 route de Rioux Martin, 16210 Chalais",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "nanteuil-en-vallee": {
+    "artisans": [
+      {
+        "id": "6888487129266103161",
+        "nom": "Baluteau Scierie-SARL",
+        "slug": "baluteau-scierie-sarl",
+        "telephone": "05 45 31 47 89",
+        "site_web": "http://www.baluteau-scierie.com/",
+        "adresse": "2 Rue du Moulin de la Tâche, 16700 Nanteuil-en-Vallée",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Entreprise"
+      },
+      {
+        "id": "11960132641683478495",
+        "nom": "PH Menuiserie 16",
+        "slug": "ph-menuiserie-16",
+        "telephone": "07 77 98 65 04",
+        "site_web": "https://www.facebook.com/PHmenuiserie16",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nersac": {
+    "artisans": [
+      {
+        "id": "269928829973496605",
+        "nom": "DOMUS RENOVATION 16",
+        "slug": "domus-renovation-16",
+        "telephone": "07 86 03 38 38",
+        "site_web": "https://www.leseternellesrenovation-16.fr/",
+        "adresse": "29 Rte de la Couronne, 16440 Nersac",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "10194805288953593703",
+        "nom": "Emereau - Couverture - Charpente - Zinguerie : Couvreur 16 - Réparation Fuites Nettoyage Toiture Charente Nersac Angoulême",
+        "slug": "emereau-couverture-charpente-zinguerie-couvreur-16-reparation-fuites-nettoyage-toiture-charente-nersac-angouleme",
+        "telephone": "05 45 68 33 71",
+        "site_web": "https://www.emereau-batiment.fr/",
+        "adresse": "35 Rue Ampère, 16440 Nersac",
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14276496207099977110",
+        "nom": "Migne Eric",
+        "slug": "migne-eric",
+        "telephone": "06 16 54 43 49",
+        "site_web": null,
+        "adresse": "9 Pl. de Pombreton, 16440 Nersac",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8573885173856938997",
+        "nom": "JMB Concept",
+        "slug": "jmb-concept",
+        "telephone": "05 45 92 57 02",
+        "site_web": null,
+        "adresse": "14 Rue du Pontreau, 16440 Nersac",
+        "note": 4.2,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "7353002807910101455",
+        "nom": "Atelier La Goupillère",
+        "slug": "atelier-la-goupillere",
+        "telephone": "06 69 20 40 28",
+        "site_web": null,
+        "adresse": "10 Imp. de la Fuie, 16440 Nersac",
+        "note": 5,
+        "avis": 3,
+        "type": "Tapissier décorateur"
+      },
+      {
+        "id": "4138988352464609079",
+        "nom": "Vallade Jean-Christophe",
+        "slug": "vallade-jean-christophe",
+        "telephone": "05 45 90 94 48",
+        "site_web": null,
+        "adresse": "43 Rue Ampère, 16440 Nersac",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "7651983875545694037",
+        "nom": "L'atelier à Fenêtres",
+        "slug": "latelier-a-fenetres",
+        "telephone": "05 45 91 19 00",
+        "site_web": "https://www.latelierafenetres.fr/",
+        "adresse": "10 Rue de l'Europe, 16730 Fléac",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18103104576942377718",
+        "nom": "Chaudronnerie Service SARL",
+        "slug": "chaudronnerie-service-sarl",
+        "telephone": "05 45 90 99 75",
+        "site_web": null,
+        "adresse": "45 Rue Ampère, 16440 Nersac",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "844381078672290762",
+        "nom": "Menuiseries Richard",
+        "slug": "menuiseries-richard",
+        "telephone": "06 75 51 34 37",
+        "site_web": null,
+        "adresse": "19 Rue de Chantemerle, 16440 Nersac",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9778983926196833053",
+        "nom": "GB Bâtiment",
+        "slug": "gb-batiment",
+        "telephone": "05 45 37 44 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "nercillac": {
+    "artisans": [
+      {
+        "id": "15556937107012216219",
+        "nom": "Établissements Louis Jallet",
+        "slug": "etablissements-louis-jallet",
+        "telephone": "05 45 80 92 14",
+        "site_web": "http://www.menuiserie-louisjallet.fr/",
+        "adresse": "217 Rue de Jarnac, 16200 Nercillac",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10279671530157849955",
+        "nom": "Biron Alu",
+        "slug": "biron-alu",
+        "telephone": "05 45 36 85 50",
+        "site_web": "http://biron-alu.fr/",
+        "adresse": "52 route des Grands Champs, 16130 Gensac-la-Pallue",
+        "note": 3.6,
+        "avis": 17,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "puymoyen": {
+    "artisans": [
+      {
+        "id": "2000335613991962983",
+        "nom": "Thermo Plus Confort",
+        "slug": "thermo-plus-confort",
+        "telephone": "05 16 16 10 13",
+        "site_web": "https://menuiserie-angouleme.com/",
+        "adresse": "490 bis Rue de Bordeaux, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15822255334452143527",
+        "nom": "ARLC MOUSNIER GOUTTIERE ALUMINIUM",
+        "slug": "arlc-mousnier-gouttiere-aluminium",
+        "telephone": "06 10 32 06 98",
+        "site_web": "https://www.gouttieres-16.fr/",
+        "adresse": "6 Zone des brandeaux, 16400 Puymoyen",
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14285875886666430177",
+        "nom": "Angoulême Rénov",
+        "slug": "angouleme-renov",
+        "telephone": "05 45 60 26 02",
+        "site_web": "https://www.angouleme-renov.fr/",
+        "adresse": "96 Rue de Périgueux, 16000 Angoulême",
+        "note": 4.7,
+        "avis": 71,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4895207432731893417",
+        "nom": "TOMS",
+        "slug": "toms",
+        "telephone": "06 12 67 07 24",
+        "site_web": "http://www.facebook.com/Zouhair-Hamet-1966527740299142/",
+        "adresse": null,
+        "note": 1,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "hiersac": {
+    "artisans": [
+      {
+        "id": "12479100203260964379",
+        "nom": "Jacques Amblard",
+        "slug": "jacques-amblard",
+        "telephone": "05 45 91 62 28",
+        "site_web": "http://www.jacques-amblard.fr/?utm_source=gmb",
+        "adresse": "29 Rue de l'Europe, 16730 Fléac",
+        "note": 4.5,
+        "avis": 53,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8110260164012910117",
+        "nom": "BigMat Charente Matériaux",
+        "slug": "bigmat-charente-materiaux",
+        "telephone": "05 45 39 74 33",
+        "site_web": "https://www.bigmat.fr/charente-materiaux",
+        "adresse": "22 Rue du Stade, 16290 Hiersac",
+        "note": 4.2,
+        "avis": 42,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1613827179406002799",
+        "nom": "EURL Thomas Jarnac",
+        "slug": "eurl-thomas-jarnac",
+        "telephone": "06 82 41 22 54",
+        "site_web": null,
+        "adresse": "16 Rte de vars, 16570 Saint-Genis-d'Hiersac",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "garat": {
+    "artisans": [
+      {
+        "id": "17554251329879611973",
+        "nom": "GTC 16",
+        "slug": "gtc-16",
+        "telephone": "07 70 22 90 59",
+        "site_web": null,
+        "adresse": "3 Le Bois des Chaumes, 16410 Garat",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Siège social"
+      },
+      {
+        "id": "12752544176776590849",
+        "nom": "plaquiste, carreleur, plafiste, Bat Tendance Angoulême",
+        "slug": "plaquiste-carreleur-plafiste-bat-tendance-angouleme",
+        "telephone": "06 61 75 56 46",
+        "site_web": "https://www.bat-tendance16.fr/",
+        "adresse": "Au Chai, 16410 Garat",
+        "note": 4,
+        "avis": 4,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "fleac": {
+    "artisans": [
+      {
+        "id": "18387870166807983914",
+        "nom": "ART RENOV Angoulême",
+        "slug": "art-renov-angouleme",
+        "telephone": "05 45 92 42 77",
+        "site_web": "http://artrenov.fr/",
+        "adresse": "215 Bis Rue de Saintes, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8002049604675763116",
+        "nom": "Lameira Antonio",
+        "slug": "lameira-antonio",
+        "telephone": "05 45 91 72 19",
+        "site_web": "https://www.lameira-ravalementfacades.fr/",
+        "adresse": "2 Bis Z.E, Zone Emploi Gâte Grenier, 16730 Fléac",
+        "note": 4,
+        "avis": 16,
+        "type": "Façadier"
+      },
+      {
+        "id": "1853736503693134727",
+        "nom": "Bricomarché Jarnac",
+        "slug": "bricomarche-jarnac",
+        "telephone": "05 45 83 15 82",
+        "site_web": "https://www.bricomarche.com/magasin/jarnac/04910?store=04910&utm_source=gmb",
+        "adresse": "73 Av. de l'Europe, 16200 Jarnac",
+        "note": 4.1,
+        "avis": 512,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "18313694820330069296",
+        "nom": "CHAUMET JC. PEINTURE & Électricité (Angoulême et toute la Charente)",
+        "slug": "chaumet-jc-peinture-electricite-angouleme-et-toute-la-charente",
+        "telephone": "06 03 63 85 61",
+        "site_web": "https://www.facebook.com/profile.php?id=100088253137427",
+        "adresse": "Local au 10 rue Porteau Barraud 16730 FLEAC Siege au 62 rue Jean et Constant Priollaud Saint-Yrieix-sur-Charente, 10 Rue Porteau Barraud, 16730 Fléac",
+        "note": 5,
+        "avis": 41,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "4314361477784882281",
+        "nom": "MC Rénovation 16 - Rénovation générale du bâtiment",
+        "slug": "mc-renovation-16-renovation-generale-du-batiment",
+        "telephone": "06 44 24 96 76",
+        "site_web": "https://www.mcrenovation16.fr/",
+        "adresse": "124 Rue de Royan, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2506733783443584175",
+        "nom": "RENOV'ART",
+        "slug": "renovart",
+        "telephone": "06 49 37 27 60",
+        "site_web": "https://www.renovart16.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les revêtements de sol"
+      },
+      {
+        "id": "411714380255241900",
+        "nom": "PARTEDIS Bois Matériaux | Expo Parquets, Portes & Fenêtres - Angoulême",
+        "slug": "partedis-bois-materiaux-expo-parquets-portes-fenetres-angouleme",
+        "telephone": "05 45 68 65 22",
+        "site_web": "http://www.partedis.com/agence/angouleme-bois-materiaux/",
+        "adresse": "78 Rue de Bellevue, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "mainxe-gondeville": {
+    "artisans": [
+      {
+        "id": "4096634476447513254",
+        "nom": "AD2E ART ET FENETRES COGNAC",
+        "slug": "ad2e-art-et-fenetres-cognac",
+        "telephone": "05 79 20 01 56",
+        "site_web": "https://www.ad2e.com/",
+        "adresse": "143 Rue de Montplaisir, 16100 Cognac",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "gensac-la-pallue": {
+    "artisans": [
+      {
+        "id": "1751961139792395082",
+        "nom": "Entreprise Thibaud",
+        "slug": "entreprise-thibaud",
+        "telephone": "05 45 35 91 52",
+        "site_web": "https://www.entreprise-thibaud.fr/",
+        "adresse": "18 Imp. de Chardon, 16130 Gensac-la-Pallue",
+        "note": 0,
+        "avis": 0,
+        "type": "Carreleur"
+      },
+      {
+        "id": "8446464796662564220",
+        "nom": "Point.P - Gensac",
+        "slug": "pointp-gensac",
+        "telephone": "05 45 82 01 37",
+        "site_web": "https://www.pointp.fr/infos-agence/gensac-point-p-3654",
+        "adresse": "63 rte des Grands Champs, 16130 Gensac-la-Pallue",
+        "note": 4.3,
+        "avis": 45,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17422416413816353655",
+        "nom": "Maçonnerie Couverture BOURGEOIS Claude et Fils SARL & Les Pavillons du Sud-Ouest",
+        "slug": "maconnerie-couverture-bourgeois-claude-et-fils-sarl-les-pavillons-du-sud-ouest",
+        "telephone": "05 45 35 92 03",
+        "site_web": "http://maconnerie-bourgeois-16.fr/",
+        "adresse": "La petite Perdasse - 15 route de la pallue - 16130, 16130 Gensac-la-Pallue",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "barret": {
+    "artisans": [
+      {
+        "id": "8343578939004325479",
+        "nom": "CASÉO Barbezieux",
+        "slug": "caseo-barbezieux",
+        "telephone": "05 45 98 10 24",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-barbezieux-barbezieux-24",
+        "adresse": "25C Av. Vergne, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "gond-pontouvre": {
+    "artisans": [
+      {
+        "id": "13121858963511556593",
+        "nom": "Komilfo JBA à Angoulême : Pergolas, Stores, Fenêtres",
+        "slug": "komilfo-jba-a-angouleme-pergolas-stores-fenetres",
+        "telephone": "05 45 69 00 09",
+        "site_web": "http://www.komilfo.fr/magasins/jba-angouleme-16?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "253 Rte de Paris, 16160 Gond-Pontouvre",
+        "note": 4.6,
+        "avis": 112,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14224709244785183212",
+        "nom": "Fenétrier® VEKA by Fenêtrier",
+        "slug": "fenetrier-veka-by-fenetrier",
+        "telephone": "05 45 68 60 60",
+        "site_web": "https://www.polypose-menuiseries.fr/",
+        "adresse": "ZA, Les Avenauds, 16160 Gond-Pontouvre",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1590039254164662736",
+        "nom": "Menuiserie 2000",
+        "slug": "menuiserie-2000",
+        "telephone": "05 45 39 62 48",
+        "site_web": "https://www.menuiserie2000-angouleme.fr/",
+        "adresse": "1371 Rte des Platanes, 16430 Champniers",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13632585602301337776",
+        "nom": "Aline Menuiseries - Angoulême",
+        "slug": "aline-menuiseries-angouleme",
+        "telephone": "06 25 75 63 71",
+        "site_web": "https://www.getmenuiseries.com/",
+        "adresse": "19 Av. de la République, 16340 L'Ile D'Espagnac",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14894413163614879183",
+        "nom": "Verrespace",
+        "slug": "verrespace",
+        "telephone": "05 45 95 88 83",
+        "site_web": "http://www.verrespace.com/",
+        "adresse": "760 Rue de la Génoise, 16430 Champniers",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1911766336327637982",
+        "nom": "VERRE SOLUTIONS ANGOULEME",
+        "slug": "verre-solutions-angouleme",
+        "telephone": "05 45 69 27 27",
+        "site_web": "https://agence.verre-solutions.com/27-verre-solutions-angouleme?utm_source=gmb",
+        "adresse": "142 Bd Salvador Allende, 16340 L'Isle-d'Espagnac",
+        "note": 4.4,
+        "avis": 28,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1109986128547197871",
+        "nom": "AIRE BOX",
+        "slug": "aire-box",
+        "telephone": "05 45 94 29 49",
+        "site_web": "https://www.airebox.fr/",
+        "adresse": "L'Isle d'Espagnac, 42 Rte de l'Isle d'Espagnac, 16160 Gond-Pontouvre",
+        "note": 4.6,
+        "avis": 54,
+        "type": "Garde-meubles en libre-service"
+      }
+    ]
+  },
+  "asnieres-sur-nouere": {
+    "artisans": [
+      {
+        "id": "4946634667900834555",
+        "nom": "Menuiserie Fort-Pressac",
+        "slug": "menuiserie-fort-pressac",
+        "telephone": "06 84 93 33 85",
+        "site_web": "http://www.menuiseriecf.com/",
+        "adresse": "3 ZA du Bois de Chaduteau, 16290 Asnières-sur-Nouère",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15431973922520320937",
+        "nom": "pose et rénovation du sud ouest",
+        "slug": "pose-et-renovation-du-sud-ouest",
+        "telephone": "06 62 26 11 86",
+        "site_web": null,
+        "adresse": "Bois du Chadutaud, 16290 Asnières-sur-Nouère",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "9560596497526112637",
+        "nom": "Etablissement Narcès",
+        "slug": "etablissement-narces",
+        "telephone": "05 45 65 08 09",
+        "site_web": "http://www.facebook.com/NARCES-Nicolas-170769016308101/",
+        "adresse": "lotissement les petits bois 16290, Asnières-sur-Nouère",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "boutiers-saint-trojan": {
+    "artisans": [
+      {
+        "id": "15886081209485381213",
+        "nom": "Renov.Bat Couvreur-Zingueur",
+        "slug": "renovbat-couvreur-zingueur",
+        "telephone": "06 68 31 92 49",
+        "site_web": "https://www.renovbat-couverture.fr/",
+        "adresse": "4 Pl. de l'Église, 16100 Boutiers-Saint-Trojan",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14197134018090800370",
+        "nom": "LIMC menuiserie",
+        "slug": "limc-menuiserie",
+        "telephone": "06 18 58 13 03",
+        "site_web": null,
+        "adresse": "265 Chem. du Belvédère, 16100 Boutiers-Saint-Trojan",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12651857707710084067",
+        "nom": "Cam Mathieu maçonnerie neuf et rénovation poncage polissage béton",
+        "slug": "cam-mathieu-maconnerie-neuf-et-renovation-poncage-polissage-beton",
+        "telephone": "06 73 94 29 04",
+        "site_web": null,
+        "adresse": "2 Rue des Coquillages, 16100 Boutiers-Saint-Trojan",
+        "note": 5,
+        "avis": 3,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "aigre": {
+    "artisans": [
+      {
+        "id": "17489500325531161178",
+        "nom": "ETABLISSEMENTS SYLVESTRE",
+        "slug": "etablissements-sylvestre",
+        "telephone": "05 45 21 03 69",
+        "site_web": "https://www.sylvestre-energies.fr/",
+        "adresse": "Za De Villejésus, 16140 Aigre",
+        "note": 3.9,
+        "avis": 20,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "15430126086986076800",
+        "nom": "BEUSNARD MICKAEL",
+        "slug": "beusnard-mickael",
+        "telephone": "06 30 85 35 58",
+        "site_web": "https://beusnard-couvreur-zingueur-charente.fr/",
+        "adresse": "1 La Broussette, 16140 Aigre",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17325357935252131084",
+        "nom": "Boulangerie Pâtisserie \"Lavenue Sebastien\"",
+        "slug": "boulangerie-patisserie-lavenue-sebastien",
+        "telephone": "05 45 21 11 66",
+        "site_web": null,
+        "adresse": "9 Grande Rue, 16140 Aigre",
+        "note": 4.3,
+        "avis": 68,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "10741287605470247033",
+        "nom": "Pompes Funèbres et Marbrerie DIDIER DUPUY - PFG AIGRE",
+        "slug": "pompes-funebres-et-marbrerie-didier-dupuy-pfg-aigre",
+        "telephone": "05 45 21 23 51",
+        "site_web": "https://www.pfg.fr/nos-agences/charente/aigre/agence-pompes-funebres-pfg-aigre?CID=CB-1321&utm_campaign=GBP_R10_Agence&utm_medium=CTA&utm_source=GBP&utm_term=FicheAgence",
+        "adresse": "7 La Chaussée, 16140 Aigre",
+        "note": 4.2,
+        "avis": 19,
+        "type": "Entreprise de pompes funèbres"
+      },
+      {
+        "id": "6118641120335667911",
+        "nom": "Maison et Services Aigre",
+        "slug": "maison-et-services-aigre",
+        "telephone": "05 16 29 09 99",
+        "site_web": "https://www.maison-et-services.com/trouver-mon-prestataire/france/nouvelle-aquitaine/charente/maison-services-aigre",
+        "adresse": "7 Grande Rue, 16140 Aigre",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de ménage"
+      },
+      {
+        "id": "13095136998587349461",
+        "nom": "Noble by Great Workers",
+        "slug": "noble-by-great-workers",
+        "telephone": "05 45 21 09 21",
+        "site_web": "https://www.noblebygreatworkers.com/",
+        "adresse": "21 route de tusson, 16140 Aigre",
+        "note": 5,
+        "avis": 26,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "baignes-sainte-radegonde": {
+    "artisans": [
+      {
+        "id": "2119147597111384649",
+        "nom": "Le Portail",
+        "slug": "le-portail",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16360 Baignes-Sainte-Radegonde",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "3624452413736446913",
+        "nom": "Vulfin Energies Confort",
+        "slug": "vulfin-energies-confort",
+        "telephone": "06 73 94 75 56",
+        "site_web": "https://www.facebook.com/vulfinenergiesconfort.vulfin/?utm_source=gmb",
+        "adresse": "9 Rue J.C.H Entier Duroc, 16360 Baignes-Sainte-Radegonde",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "angouleme": {
+    "artisans": [
+      {
+        "id": "11030931084526298553",
+        "nom": "France Menuisiers Angoulême",
+        "slug": "france-menuisiers-angouleme",
+        "telephone": "05 45 25 97 59",
+        "site_web": "https://agence.france-menuisiers.fr/10-france-menuisiers-angouleme?utm_source=gmb",
+        "adresse": "Lieu Dit Les Cordeliers, 11 Rue de Rabion, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "663955611387930426",
+        "nom": "KparK Angoulême",
+        "slug": "kpark-angouleme",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/130-kpark-angouleme?utm_source=gmb",
+        "adresse": "465 Rue de Bordeaux, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 94,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "balzac": {
+    "artisans": [
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 703,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "barbezieux-saint-hilaire": {
+    "artisans": [
+      {
+        "id": "8750330960498822489",
+        "nom": "Charente Dépannage Domestique",
+        "slug": "charente-depannage-domestique",
+        "telephone": "07 45 11 55 15",
+        "site_web": "https://www.facebook.com/profile.php?id=61556596808838",
+        "adresse": "5 Chem. des Douves, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "brigueuil": {
+    "artisans": [
+      {
+        "id": "11687892968512598503",
+        "nom": "Ets Roy",
+        "slug": "ets-roy",
+        "telephone": "05 45 71 02 83",
+        "site_web": null,
+        "adresse": "Rte de Lesterps, 16420 Brigueuil",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "8148614801962304137",
+        "nom": "A.C.E.",
+        "slug": "ace",
+        "telephone": "09 66 92 42 25",
+        "site_web": null,
+        "adresse": "27 Av. Gén de Gaulle, 16420 Brigueuil",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8861123993028574108",
+        "nom": "Delplanque Menuiseries",
+        "slug": "delplanque-menuiseries",
+        "telephone": "09 83 95 09 30",
+        "site_web": "http://www.delplanque-menuiseries.fr/",
+        "adresse": "10 Av. Gén de Gaulle, 16420 Brigueuil",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "brie": {
+    "artisans": [
+      {
+        "id": "14649578583659663077",
+        "nom": "Fermetures de la Brie - Lagny-sur-Marne - Saint-Thibault-Des-Vignes",
+        "slug": "fermetures-de-la-brie-lagny-sur-marne-saint-thibault-des-vignes",
+        "telephone": "01 60 07 58 11",
+        "site_web": "https://www.fermeturesdelabrie.com/",
+        "adresse": "ZAC DE LA Courtilliere, Rue de la noue Guimante Saint Thibault des vignes, 77400 Lagny-sur-Marne",
+        "note": 4.8,
+        "avis": 463,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6456296598018015575",
+        "nom": "METAL 2000 Val-de-Marne - Réparation portes garages, portes sectionnelles et maintenance fermetures industrielles (94)",
+        "slug": "metal-2000-val-de-marne-reparation-portes-garages-portes-sectionnelles-et-maintenance-fermetures-industrielles-94",
+        "telephone": "01 83 64 89 61",
+        "site_web": "https://www.metal2000.fr/nos-agences/vitry-sur-seine/",
+        "adresse": "34 Rue Charles Heller, 94400 Vitry-sur-Seine",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "1599473159216216454",
+        "nom": "CAP Menuiseries : Pose de Portails, Fenêtres, Volets, Portes, Portes de Garage",
+        "slug": "cap-menuiseries-pose-de-portails-fenetres-volets-portes-portes-de-garage",
+        "telephone": "07 85 01 52 06",
+        "site_web": "https://cap-menuiseries.fr/",
+        "adresse": "17 bis rue Grande, Hameau de Villemeneux, 77170 Brie-Comte-Robert",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6336051230343556323",
+        "nom": "La Boutique du Menuisier par AM FERMETURES",
+        "slug": "la-boutique-du-menuisier-par-am-fermetures",
+        "telephone": "01 49 82 60 60",
+        "site_web": "http://www.amfermetures.com/?utm_source=gmb",
+        "adresse": "9 Rue de Champigny, 94370 Sucy-en-Brie",
+        "note": 3.9,
+        "avis": 27,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "16056980113279649602",
+        "nom": "ASSISTANCE DEPANNAGE ADRENO",
+        "slug": "assistance-depannage-adreno",
+        "telephone": "01 64 05 43 09",
+        "site_web": "https://www.ad-reno.fr/",
+        "adresse": "155 All. des Ormeteaux, 77170 Brie-Comte-Robert",
+        "note": 5,
+        "avis": 3,
+        "type": "Vitrier"
+      },
+      {
+        "id": "366300834957255954",
+        "nom": "Style et Concept",
+        "slug": "style-et-concept",
+        "telephone": "01 60 34 12 72",
+        "site_web": "https://www.styleetconcept.fr/",
+        "adresse": "7 Rue Léonard de Vinci, 77170 Brie-Comte-Robert",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14687480285132048243",
+        "nom": "ABC A",
+        "slug": "abc-a",
+        "telephone": "01 42 71 55 00",
+        "site_web": "https://www.serrureparis.fr/",
+        "adresse": "3 Bd Bourdon, 75004 Paris",
+        "note": 4.2,
+        "avis": 36,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "chabanais": {
+    "artisans": [
+      {
+        "id": "18151565943516541167",
+        "nom": "Debessac (SAS)",
+        "slug": "debessac-sas",
+        "telephone": "05 45 89 23 01",
+        "site_web": "https://debessac.fr/",
+        "adresse": "11 route des Lacs, 16150 Pressignac",
+        "note": 4.8,
+        "avis": 40,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17386811565334754465",
+        "nom": "DéclicBois",
+        "slug": "declicbois",
+        "telephone": "05 45 89 02 15",
+        "site_web": "https://www.declicb.fr/",
+        "adresse": "2 Route de Chabanais, 16150 Étagnac",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "chalais": {
+    "artisans": [
+      {
+        "id": "9571520149290644668",
+        "nom": "BONY COUVERTURE artisan Couvreur",
+        "slug": "bony-couverture-artisan-couvreur",
+        "telephone": "07 88 53 00 99",
+        "site_web": "https://rwcweb.wixsite.com/bony-couverture-16",
+        "adresse": "66 Rte de Bordeaux, 16210 Chalais",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11790673883491769755",
+        "nom": "Climabitat",
+        "slug": "climabitat",
+        "telephone": "07 57 57 91 54",
+        "site_web": "https://www.instagram.com/climabitat16/?utm_source=gmb",
+        "adresse": "67 Rte de Bordeaux, 16210 Chalais",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15705438347913456417",
+        "nom": "MDS bricolage",
+        "slug": "mds-bricolage",
+        "telephone": "06 38 39 87 49",
+        "site_web": "https://www.facebook.com/mds.bricolage/",
+        "adresse": "le clos fleuri, 13 Sainte-Marie, 16210 Chalais",
+        "note": 5,
+        "avis": 7,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1706833783542584611",
+        "nom": "Artisant Guette Nicolas plaquiste peintre",
+        "slug": "artisant-guette-nicolas-plaquiste-peintre",
+        "telephone": "06 26 89 32 79",
+        "site_web": null,
+        "adresse": "1 Godinaud, 16210 Chalais",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "val-des-vignes": {
+    "artisans": [
+      {
+        "id": "9354443059776879460",
+        "nom": "Truck 16",
+        "slug": "truck-16",
+        "telephone": "05 86 58 01 16",
+        "site_web": "https://www.groupphelippeau.fr/truck16",
+        "adresse": "2 Impasse des Noyers, 16250 Val des Vignes",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Atelier de réparation pour poids lourds"
+      },
+      {
+        "id": "7668563508751173527",
+        "nom": "RAYNAUD CHARPENTE - COUVERTURE | Raynaud Gaël",
+        "slug": "raynaud-charpente-couverture-raynaud-gael",
+        "telephone": "06 23 79 87 66",
+        "site_web": "https://www.raynaud-toiture.fr/",
+        "adresse": "10 la Vozelle, 16250 Val des Vignes",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16081352274925364435",
+        "nom": "Établissements AUGIER",
+        "slug": "etablissements-augier",
+        "telephone": "05 45 66 37 33",
+        "site_web": "http://www.augier-construction.fr/",
+        "adresse": "2 le Pouzat, 16250 Val des Vignes",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Maçon"
+      },
+      {
+        "id": "14358205366809685896",
+        "nom": "Bati'or",
+        "slug": "batior",
+        "telephone": "06 88 12 18 13",
+        "site_web": null,
+        "adresse": "4 Le petit moulin mainfonds, 16250 Val des Vignes",
+        "note": 5,
+        "avis": 7,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5197379321709247198",
+        "nom": "Atelier du bois Sarl",
+        "slug": "atelier-du-bois-sarl",
+        "telephone": "05 45 78 05 79",
+        "site_web": "http://adb16.fr/?utm_source=gmb",
+        "adresse": "Av. de l'Europe, 16300 Barbezieux-Saint-Hilaire",
+        "note": 2.7,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "489800006360759820",
+        "nom": "La Noblesse d'un matériau SAS",
+        "slug": "la-noblesse-dun-materiau-sas",
+        "telephone": "05 45 21 76 17",
+        "site_web": "https://www.lanoblessedunmateriau.com/?utm_source=gmb",
+        "adresse": "4 route des ronds-points, 16250 Val des Vignes",
+        "note": 5,
+        "avis": 11,
+        "type": "Entrepreneur spécialisé dans le marbre"
+      },
+      {
+        "id": "12791325649218413395",
+        "nom": "ENT Cousseau",
+        "slug": "ent-cousseau",
+        "telephone": "06 09 65 29 99",
+        "site_web": "https://eurlcousseau.fr/",
+        "adresse": "1 Rue du Parc, 16250 Val des Vignes",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15274819303410585458",
+        "nom": "BR16 BATIMENT",
+        "slug": "br16-batiment",
+        "telephone": "06 67 11 67 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "l-isle-d-espagnac": {
+    "artisans": [
+      {
+        "id": "8200632247807114237",
+        "nom": "RPI MENUISERIE",
+        "slug": "rpi-menuiserie",
+        "telephone": "05 45 22 85 90",
+        "site_web": "https://rpimenuiserie.com/",
+        "adresse": "116 Rue de la Quintinie, 16340 L'Isle-d'Espagnac",
+        "note": 4.6,
+        "avis": 26,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "586151125334801427",
+        "nom": "BARILLET Angoulême",
+        "slug": "barillet-angouleme",
+        "telephone": "05 45 68 48 11",
+        "site_web": "https://www.barillet-distribution.fr/agence/angouleme?utm_source=gmb",
+        "adresse": "ZI n°3, Av. Maryse Bastié, 16340 L'Isle-d'Espagnac",
+        "note": 4.3,
+        "avis": 31,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "1356623908534711313",
+        "nom": "Batirenovation par Franck Visse",
+        "slug": "batirenovation-par-franck-visse",
+        "telephone": "07 85 16 09 40",
+        "site_web": "https://franckvisse.com/",
+        "adresse": "227 Rue de Brebonzat, 16600 Ruelle-sur-Touvre",
+        "note": 5,
+        "avis": 40,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "5411069911426504567",
+        "nom": "Grandbains Angoulême (L'Isle d'Espagnac)",
+        "slug": "grandbains-angouleme-lisle-despagnac",
+        "telephone": "05 45 38 61 15",
+        "site_web": "https://www.grandbains.fr/magasins/grandbains-angouleme-lisle-despagnac",
+        "adresse": "17 Av. du Maréchal Juin, 16340 L'Isle-d'Espagnac",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "jarnac": {
+    "artisans": [
+      {
+        "id": "14802925109055158012",
+        "nom": "sas. André Crouzilles",
+        "slug": "sas-andre-crouzilles",
+        "telephone": "05 45 81 11 17",
+        "site_web": "http://www.crouzilles.fr/",
+        "adresse": "Les, All. des Bouvents, 16200 Jarnac",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "terres-de-haute-charente": {
+    "artisans": [
+      {
+        "id": "13437920943990313336",
+        "nom": "Terreal",
+        "slug": "terreal",
+        "telephone": "05 45 71 80 00",
+        "site_web": "https://terreal.com/",
+        "adresse": "Rue nationale, 16270 Terres-de-Haute-Charente",
+        "note": 3.9,
+        "avis": 159,
+        "type": "Fabricant"
+      },
+      {
+        "id": "183675934526874821",
+        "nom": "Bozier Michel",
+        "slug": "bozier-michel",
+        "telephone": "05 45 71 18 09",
+        "site_web": null,
+        "adresse": "13 Rue des Sablons, 16270 Terres-de-Haute-Charente",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "10290146191604140539",
+        "nom": "Atelier Bois",
+        "slug": "atelier-bois",
+        "telephone": "06 67 32 76 61",
+        "site_web": "https://www.facebook.com/atelierboisjs",
+        "adresse": "2 quater zone du bois de la marque, 16270 Terres-de-Haute-Charente",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "magnac-sur-touvre": {
+    "artisans": [
+      {
+        "id": "11660881255375491399",
+        "nom": "Monsieur Rey - Électricien",
+        "slug": "monsieur-rey-electricien",
+        "telephone": "07 69 90 45 68",
+        "site_web": "https://monsieur-rey.fr/",
+        "adresse": "11 Rue Jean Mermoz, 16600 Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 48,
+        "type": "Électricien"
+      },
+      {
+        "id": "4752067659346748466",
+        "nom": "Mf kv rénovation habitat: Ramoneur Couvreur",
+        "slug": "mf-kv-renovation-habitat-ramoneur-couvreur",
+        "telephone": "07 88 98 60 95",
+        "site_web": "https://maillefranckrenovation.fr/",
+        "adresse": "13 Rue Jean Mermoz Angoulême, 13 Rue Jean Mermoz, 16600 Magnac-sur-Touvre",
+        "note": 4.4,
+        "avis": 21,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "7065795516182126181",
+        "nom": "TP Services",
+        "slug": "tp-services",
+        "telephone": "05 45 69 05 33",
+        "site_web": "http://www.tp-services-charente.fr/",
+        "adresse": "13 Rue de Mativo, 16600 Magnac-sur-Touvre",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "7289431778712004524",
+        "nom": "Etablissements Michel Guignard",
+        "slug": "etablissements-michel-guignard",
+        "telephone": "05 45 62 17 05",
+        "site_web": null,
+        "adresse": "8 Rue la Fontaine, 16600 Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "3396626730752723725",
+        "nom": "Peinture Bati16 Pic james",
+        "slug": "peinture-bati16-pic-james",
+        "telephone": "06 22 20 78 75",
+        "site_web": null,
+        "adresse": "19 Rue des Sablières, 16600 Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 8,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "13559644054994486341",
+        "nom": "Domus Ars",
+        "slug": "domus-ars",
+        "telephone": "05 45 68 73 61",
+        "site_web": "http://www.domusars.fr/",
+        "adresse": "100 Rue Jean Jaurès, 16600 Magnac-sur-Touvre",
+        "note": 4,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16115466315578099121",
+        "nom": "Rapidelec",
+        "slug": "rapidelec",
+        "telephone": "06 26 20 48 55",
+        "site_web": null,
+        "adresse": "11 Rue de la Grange, 16600 Magnac-sur-Touvre",
+        "note": 4,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "12411533551819089991",
+        "nom": "BIZET PELISSIER SARL",
+        "slug": "bizet-pelissier-sarl",
+        "telephone": "05 45 69 15 67",
+        "site_web": null,
+        "adresse": "5 Rue des 4 Vents, 16600 Magnac-sur-Touvre",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "10185579802315557160",
+        "nom": "Stéphane Pierré Maçonnerie",
+        "slug": "stephane-pierre-maconnerie",
+        "telephone": "06 95 20 05 06",
+        "site_web": "https://www.stephanepierre-maconnerie.fr/",
+        "adresse": "6 Imp. des Jardins, 16600 Touvre",
+        "note": 5,
+        "avis": 10,
+        "type": "Maçon"
+      },
+      {
+        "id": "5157172550066204316",
+        "nom": "LP16",
+        "slug": "lp16",
+        "telephone": "07 83 27 03 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "linars": {
+    "artisans": [
+      {
+        "id": "14801426301795632575",
+        "nom": "Blatteau-Doyen",
+        "slug": "blatteau-doyen",
+        "telephone": "05 45 91 05 82",
+        "site_web": "https://www.instagram.com/blatteaudoyen/?utm_source=gmb",
+        "adresse": "46 Av. de la Nouère, 16730 Linars",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11702178456094995328",
+        "nom": "construction dumas jean jacques",
+        "slug": "construction-dumas-jean-jacques",
+        "telephone": "05 45 91 18 43",
+        "site_web": null,
+        "adresse": "7 Rue du Petit Rouillac, 16730 Linars",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "champniers": {
+    "artisans": [
+      {
+        "id": "12762186937172746988",
+        "nom": "Menuiserie Vergnaud SARL",
+        "slug": "menuiserie-vergnaud-sarl",
+        "telephone": "05 45 68 04 67",
+        "site_web": "https://www.menuiserie-vergnaud-champniers.com/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "voeuil-et-giget": {
+    "artisans": [
+      {
+        "id": "14749669013725945620",
+        "nom": "SARL AUTHENTIQUE FENETRE",
+        "slug": "sarl-authentique-fenetre",
+        "telephone": "05 45 69 21 51",
+        "site_web": "https://www.authentique-fenetre.fr/?utm_source=gbp&utm_medium=Organic&utm_id=Fiche_angouleme",
+        "adresse": "33 Rue du Maréchal Fayolle, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": "05 45 39 44 98",
+        "site_web": "https://imex16.fr/",
+        "adresse": "27 Rue de Tivoli, 16400 Vœuil-et-Giget",
+        "note": 4.8,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "2689053418269066491",
+        "nom": "Sud Ouest Maintenance",
+        "slug": "sud-ouest-maintenance",
+        "telephone": "05 45 60 23 03",
+        "site_web": "http://www.sud-ouest-maintenance.fr/",
+        "adresse": "Rue Principale, 16400 Vœuil-et-Giget",
+        "note": 3.3,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "16062391816269295295",
+        "nom": "RDV Artisans",
+        "slug": "rdv-artisans",
+        "telephone": "06 19 30 53 69",
+        "site_web": "https://rdvartisans.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 71,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "4988793610166687445",
+        "nom": "Linard Serrurerie Dépannage et installateur d'alarme LSD",
+        "slug": "linard-serrurerie-depannage-et-installateur-dalarme-lsd",
+        "telephone": "07 64 40 80 80",
+        "site_web": "https://www.linard-serrurerie-depannage.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3760363038554303627",
+        "nom": "Geiger Samuel SARL",
+        "slug": "geiger-samuel-sarl",
+        "telephone": "05 45 25 96 31",
+        "site_web": "http://www.antenne-geiger-samuel.fr/?utm_source=gmb",
+        "adresse": "36 Clos de Blanche Pierre, 16400 Vœuil-et-Giget",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Entretien d'antennes"
+      },
+      {
+        "id": "14294991309125060332",
+        "nom": "Idéal Portail",
+        "slug": "ideal-portail",
+        "telephone": "05 45 21 88 17",
+        "site_web": "http://www.idealportailetpergola.fr/",
+        "adresse": "38 Rue du Bourg, 16800 Soyaux",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "15754243039032815707",
+        "nom": "MK Menuiserie - Menuiserie sur Mesure",
+        "slug": "mk-menuiserie-menuiserie-sur-mesure",
+        "telephone": "06 35 92 68 50",
+        "site_web": "http://mk-joinery.works/home-fr",
+        "adresse": "1 Lieu Dit, Bourdelais, 16460 Saint-Front",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18292813282410451674",
+        "nom": "BEL'PORTES",
+        "slug": "belportes",
+        "telephone": "05 45 90 82 48",
+        "site_web": "https://www.bel-portes.com/nous-contacter.php?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "9 Rue de l'Épargne, 16340 L'Isle-d'Espagnac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7462277006499792829",
+        "nom": "Eurobaie Angoulême",
+        "slug": "eurobaie-angouleme",
+        "telephone": "05 45 68 31 91",
+        "site_web": "http://www.eurobaie.net/",
+        "adresse": "3 Imp. du Mas Prolongée, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.5,
+        "avis": 79,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-michel": {
+    "artisans": [
+      {
+        "id": "663955611387930426",
+        "nom": "KparK Angoulême",
+        "slug": "kpark-angouleme",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/130-kpark-angouleme?utm_source=gmb",
+        "adresse": "465 Rue de Bordeaux, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5074550041696178825",
+        "nom": "Menuisier ei jonathan palet",
+        "slug": "menuisier-ei-jonathan-palet",
+        "telephone": "06 13 16 54 74",
+        "site_web": "https://www.facebook.com/acejop",
+        "adresse": "18 rue des rocs berchet, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13500407351131657300",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-angouleme/",
+        "adresse": "11 Rue de Rabion, Lieu dit les Cordeliers - Proche Aldi, 150 Bd de Bigorre, 16000 Angoulême",
+        "note": 3,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1833251977106979996",
+        "nom": "Charente Menuiseries Miroiterie",
+        "slug": "charente-menuiseries-miroiterie",
+        "telephone": "06 19 86 17 27",
+        "site_web": "https://www.cmm16.fr/",
+        "adresse": "La, ZE BANDIAT TARDOIRE, Rue de la Ligonne, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13918455552743605594",
+        "nom": "Art et Fenêtres La Rochelle TD Menuiseries",
+        "slug": "art-et-fenetres-la-rochelle-td-menuiseries",
+        "telephone": "05 46 69 10 15",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/la-rochelle-17000.php",
+        "adresse": "93 Bd André Sautel, 17000 La Rochelle",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11525113451551105230",
+        "nom": "TLH MIROITERIE - menuisier La Rochelle",
+        "slug": "tlh-miroiterie-menuisier-la-rochelle",
+        "telephone": "06 99 87 46 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3276273804152759426",
+        "nom": "BATIMAN Poignée Centrée Menuiserie La Couronne",
+        "slug": "batiman-poignee-centree-menuiserie-la-couronne",
+        "telephone": "05 45 66 61 36",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-poignee-centree",
+        "adresse": "2 Rte de Saint-Michel, 16400 La Couronne",
+        "note": 3.7,
+        "avis": 66,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6403558797363979810",
+        "nom": "Art et Fenêtres Royan TD Menuiseries",
+        "slug": "art-et-fenetres-royan-td-menuiseries",
+        "telephone": "05 46 38 58 00",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/royan-17200.php",
+        "adresse": "8 Pl. du Dr Gantier, 17200 Royan",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9947722456204626828",
+        "nom": "SARL JP CONTAMINES - Menuisier",
+        "slug": "sarl-jp-contamines-menuisier",
+        "telephone": "09 74 56 15 27",
+        "site_web": "http://www.jpcontamine.com/",
+        "adresse": "267 Rue de Royan, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "11064799165536125566",
+        "nom": "OPEN THE DOOR - Menuisier Couvreur Noël LOIZEAU",
+        "slug": "open-the-door-menuisier-couvreur-noel-loizeau",
+        "telephone": "06 19 23 40 11",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-claud": {
+    "artisans": [
+      {
+        "id": "10033307283949967427",
+        "nom": "Fenetrier POLYPOSE menuiseries",
+        "slug": "fenetrier-polypose-menuiseries",
+        "telephone": "05 45 68 60 60",
+        "site_web": "https://www.polypose-menuiseries.fr/realisation?utm_source=gmb",
+        "adresse": "95 Rue du Dr Jean, 17100 Saintes",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9132979456219136534",
+        "nom": "MENUISERIES DE LA ROCHE",
+        "slug": "menuiseries-de-la-roche",
+        "telephone": "05 45 23 60 84",
+        "site_web": "https://www.menuiseries-la-rochefoucauld.fr/",
+        "adresse": "11bis Av. Gambetta, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15824059223428965406",
+        "nom": "Menuiserie Rebeyrol Stéphane",
+        "slug": "menuiserie-rebeyrol-stephane",
+        "telephone": "06 08 63 66 02",
+        "site_web": null,
+        "adresse": "La Cotonnière, 16170 Genac-Bignac",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13015351133541575575",
+        "nom": "Dumas Menuiseries - Sur Mesure Menuiserie",
+        "slug": "dumas-menuiseries-sur-mesure-menuiserie",
+        "telephone": "05 45 29 01 77",
+        "site_web": "https://www.dumas-menuiseries.fr/",
+        "adresse": "ZI Nord, Chem. des Gordins, 16700 Ruffec",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8773375438383534691",
+        "nom": "MENUISERIES DE LA ROCHE Ruelle",
+        "slug": "menuiseries-de-la-roche-ruelle",
+        "telephone": "05 45 65 41 75",
+        "site_web": "https://www.menuiseries-la-rochefoucauld.fr/",
+        "adresse": "200 Av. du Président Wilson, 16600 Ruelle-sur-Touvre",
+        "note": 5,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13391320110802780657",
+        "nom": "MENUISERIES DE LA ROCHE Chabanais",
+        "slug": "menuiseries-de-la-roche-chabanais",
+        "telephone": "05 45 30 36 25",
+        "site_web": "https://www.menuiseries-la-rochefoucauld.fr/",
+        "adresse": "8 Pl. Colbert, 16150 Chabanais",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "2784389506528458472",
+        "nom": "SARL ANGOULEME MENUISERIES 16",
+        "slug": "sarl-angouleme-menuiseries-16",
+        "telephone": "05 45 92 26 87",
+        "site_web": "http://www.angouleme-menuiseries-16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "33 Rue de Bellevue, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5663395598923575867",
+        "nom": "SARL CEZAM FERMETURE",
+        "slug": "sarl-cezam-fermeture",
+        "telephone": "06 72 86 91 19",
+        "site_web": "http://www.cezamfermeture.com/",
+        "adresse": "14 All. des Genévriers, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2540570016559440585",
+        "nom": "CASÉO Ruffec",
+        "slug": "caseo-ruffec",
+        "telephone": "05 45 31 45 69",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-ruffec-ruffec-141",
+        "adresse": "13 Rte d'Aigre, 16700 Ruffec",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15144939199367382901",
+        "nom": "Menuiserie Seb Isolation",
+        "slug": "menuiserie-seb-isolation",
+        "telephone": "09 83 80 76 97",
+        "site_web": "http://www.facebook.com/sebastiensarant",
+        "adresse": "7 ROUTE DE SURIS, 16310 Le Lindois",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-yrieix-sur-charente": {
+    "artisans": [
+      {
+        "id": "6112431676200487017",
+        "nom": "Alu Glass",
+        "slug": "alu-glass",
+        "telephone": "05 55 08 20 28",
+        "site_web": "http://www.alu-glass.fr/?utm_source=gmb",
+        "adresse": "6 Rte de Périgueux, 87500 Saint-Yrieix-la-Perche",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13108631409566138925",
+        "nom": "Atouts Services 16",
+        "slug": "atouts-services-16",
+        "telephone": "05 45 92 26 87",
+        "site_web": "https://www.as-16-menuisier-angouleme.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "33 Rue de Bellevue, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Charpentier"
+      },
+      {
+        "id": "18343595209558855231",
+        "nom": "CASÉO Saint Yrieix",
+        "slug": "caseo-saint-yrieix",
+        "telephone": "05 55 09 70 87",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saint-yrieix-la-perche-saint-yrieix-la-perche-78",
+        "adresse": "Allée du Roussillon, Arfeuille, 87500 Saint-Yrieix-la-Perche",
+        "note": 4.7,
+        "avis": 59,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "411714380255241900",
+        "nom": "PARTEDIS Bois Matériaux | Expo Parquets, Portes & Fenêtres - Angoulême",
+        "slug": "partedis-bois-materiaux-expo-parquets-portes-fenetres-angouleme",
+        "telephone": "05 45 68 65 22",
+        "site_web": "http://www.partedis.com/agence/angouleme-bois-materiaux/",
+        "adresse": "78 Rue de Bellevue, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2193360818653940710",
+        "nom": "Fenetrio",
+        "slug": "fenetrio",
+        "telephone": "01 39 91 05 44",
+        "site_web": "http://www.fenetrio.fr/",
+        "adresse": "14 Bd Pasteur, 95210 Saint-Gratien",
+        "note": 4.7,
+        "avis": 175,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18387870166807983914",
+        "nom": "ART RENOV Angoulême",
+        "slug": "art-renov-angouleme",
+        "telephone": "05 45 92 42 77",
+        "site_web": "http://artrenov.fr/",
+        "adresse": "215 Bis Rue de Saintes, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8426314831809293611",
+        "nom": "WOODSTRUCT- Terrasse bois",
+        "slug": "woodstruct-terrasse-bois",
+        "telephone": "05 17 17 69 06",
+        "site_web": "http://www.woodstruct.fr/",
+        "adresse": "198 Rue Alfred de Vigny, 16000 Angoulême",
+        "note": 5,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15947296482306200889",
+        "nom": "Astic Verandas",
+        "slug": "astic-verandas",
+        "telephone": "05 45 69 91 29",
+        "site_web": "https://astic-verandas16.fr/",
+        "adresse": "69 Rue de Royan, 16710 Saint-Yrieix-sur-Charente",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "val-de-bonnieure": {
+    "artisans": [
+      {
+        "id": "4006987292977756459",
+        "nom": "Echafaudage Charentais",
+        "slug": "echafaudage-charentais",
+        "telephone": "05 45 63 03 82",
+        "site_web": null,
+        "adresse": "Zone d'Emploi Les Pièces de l'Àge, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de location d'échafaudages"
+      },
+      {
+        "id": "3503686797799591626",
+        "nom": "S.A.R.L. Reno Pvc",
+        "slug": "sarl-reno-pvc",
+        "telephone": "05 45 22 29 70",
+        "site_web": "https://www.reno-pvc.com/",
+        "adresse": "1 Av. de la République, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8628870699161928098",
+        "nom": "SARL GENET",
+        "slug": "sarl-genet",
+        "telephone": "05 45 94 02 39",
+        "site_web": "https://www.genet-facade.fr/",
+        "adresse": "1 Zone de l'emploi, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Façadier"
+      },
+      {
+        "id": "3177219292398246080",
+        "nom": "BIGUET & FILS | Plaquiste-Peintre-Isolation",
+        "slug": "biguet-fils-plaquiste-peintre-isolation",
+        "telephone": "05 45 93 23 41",
+        "site_web": "https://www.biguetetfils.fr/",
+        "adresse": "23 Ze les pièces de l'âge, 16260, 16260, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 21,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "14081998867695279414",
+        "nom": "Suc Elec",
+        "slug": "suc-elec",
+        "telephone": "05 45 37 48 12",
+        "site_web": null,
+        "adresse": "16230 Val-de-Bonnieure",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Électricien"
+      },
+      {
+        "id": "9084731500143950801",
+        "nom": "Maisons Charentaises SARL",
+        "slug": "maisons-charentaises-sarl",
+        "telephone": "05 45 38 11 84",
+        "site_web": "http://www.maisons-charentaises.fr/",
+        "adresse": "Zone d'Emploi Les Pièces de l'Àge, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "11012156528452769162",
+        "nom": "Précigout Jean-Pierre",
+        "slug": "precigout-jean-pierre",
+        "telephone": "05 45 39 67 16",
+        "site_web": null,
+        "adresse": "6 Bd Morinet, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "13699482405794169264",
+        "nom": "TOUBOIS",
+        "slug": "toubois",
+        "telephone": "05 45 39 57 66",
+        "site_web": "http://www.toubois.com/",
+        "adresse": "Le Château, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de contreplaqué"
+      },
+      {
+        "id": "15577162083065181588",
+        "nom": "Sarl FAUDRY-RAFFIN",
+        "slug": "sarl-faudry-raffin",
+        "telephone": "05 45 39 51 49",
+        "site_web": null,
+        "adresse": "ZE Les pièces de l'Age, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Service de transport"
+      },
+      {
+        "id": "13487832578982910233",
+        "nom": "Taxi Fraudeau Val de Bonnieure",
+        "slug": "taxi-fraudeau-val-de-bonnieure",
+        "telephone": "07 55 64 39 99",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Service de taxi"
+      }
+    ]
+  },
+  "salles-d-angles": {
+    "artisans": [
+      {
+        "id": "17233778737537498606",
+        "nom": "Chantier GA Entreprise",
+        "slug": "chantier-ga-entreprise",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16130 Salles-d'Angles",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13233508491651392083",
+        "nom": "Fenêtres & Vérandas LUZ (anciennement Fenêtres PARTHENAY) - Concept Alu - JONZAC",
+        "slug": "fenetres-verandas-luz-anciennement-fenetres-parthenay-concept-alu-jonzac",
+        "telephone": "05 46 70 48 38",
+        "site_web": "https://www.fenetresluz.com/",
+        "adresse": "14 Bis Rte de Saint-Genis, 17500 Saint-Germain-de-Lusignan",
+        "note": 4.8,
+        "avis": 125,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": "06 48 14 77 53",
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3367795877990366607",
+        "nom": "France Menuisiers Saintes",
+        "slug": "france-menuisiers-saintes",
+        "telephone": "05 46 97 77 76",
+        "site_web": "https://www.france-menuisiers.fr/agence/menuisier-saintes/?utm_source=gmb",
+        "adresse": "Rue des Plaines, 17810 Saint-Georges-des-Coteaux",
+        "note": 4.7,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10019967777728487679",
+        "nom": "Conte Olivier EI",
+        "slug": "conte-olivier-ei",
+        "telephone": "06 59 18 43 35",
+        "site_web": "http://www.conte-olivier-terrassement.fr/",
+        "adresse": "7 bis Rue des Égaux, 16130 Salles-d'Angles",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "saint-meme-les-carrieres": {
+    "artisans": [
+      {
+        "id": "7884698320391378182",
+        "nom": "TRYBA Cognac",
+        "slug": "tryba-cognac",
+        "telephone": "05 18 23 12 52",
+        "site_web": "https://www.tryba.com/espace-conseil/16/tryba-cognac/?utm_campaign=Tryba_cognac&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "97 Bd Denfert Rochereau, 16100 Cognac",
+        "note": 5,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14224709244785183212",
+        "nom": "Fenétrier® VEKA by Fenêtrier",
+        "slug": "fenetrier-veka-by-fenetrier",
+        "telephone": "05 45 68 60 60",
+        "site_web": "https://www.polypose-menuiseries.fr/",
+        "adresse": "ZA, Les Avenauds, 16160 Gond-Pontouvre",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1853736503693134727",
+        "nom": "Bricomarché Jarnac",
+        "slug": "bricomarche-jarnac",
+        "telephone": "05 45 83 15 82",
+        "site_web": "https://www.bricomarche.com/magasin/jarnac/04910?store=04910&utm_source=gmb",
+        "adresse": "73 Av. de l'Europe, 16200 Jarnac",
+        "note": 4.1,
+        "avis": 512,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "segonzac": {
+    "artisans": [
+      {
+        "id": "15731396905545156917",
+        "nom": "Robert'Styl",
+        "slug": "robertstyl",
+        "telephone": "06 80 65 55 57",
+        "site_web": "https://www.menuiserie-robertstyl16.fr/",
+        "adresse": "6 Les Marcioux, 16130 Segonzac",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10279671530157849955",
+        "nom": "Biron Alu",
+        "slug": "biron-alu",
+        "telephone": "05 45 36 85 50",
+        "site_web": "http://biron-alu.fr/",
+        "adresse": "52 route des Grands Champs, 16130 Gensac-la-Pallue",
+        "note": 3.6,
+        "avis": 17,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "sireuil": {
+    "artisans": [
+      {
+        "id": "8241068609597994760",
+        "nom": "RAYNAUD VATION",
+        "slug": "raynaud-vation",
+        "telephone": "06 48 75 66 74",
+        "site_web": "https://www.raynaud-vation.fr/",
+        "adresse": "5 Rue du Vieux Chêne, 16440 Sireuil",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10680162356270402693",
+        "nom": "EKO POSE",
+        "slug": "eko-pose",
+        "telephone": "06 75 62 46 39",
+        "site_web": null,
+        "adresse": "33 Rue des Compagnons d'Emmaüs, 16440 La Couronne",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "taponnat-fleurignac": {
+    "artisans": [
+      {
+        "id": "7037993753569444777",
+        "nom": "LABREGERE MENUISERIE",
+        "slug": "labregere-menuiserie",
+        "telephone": "06 08 49 88 78",
+        "site_web": null,
+        "adresse": "10 ZA La Petite Rivière, 16110 Agris",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "813638761665770707",
+        "nom": "B2Tech SARL",
+        "slug": "b2tech-sarl",
+        "telephone": "06 71 33 57 36",
+        "site_web": "https://www.facebook.com/b2techsarl",
+        "adresse": "Rte des Epinasses, 16110 Taponnat-Fleurignac",
+        "note": 5,
+        "avis": 5,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "2781723108927389432",
+        "nom": "K-STORES & PERGOLAS Angoulême",
+        "slug": "k-stores-pergolas-angouleme",
+        "telephone": "05 45 62 07 89",
+        "site_web": "https://www.k-stores.fr/angouleme/",
+        "adresse": "3 Rue Adolphe Maillard, 16110 La",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": "07 69 47 09 40",
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "touvre": {
+    "artisans": [
+      {
+        "id": "10185579802315557160",
+        "nom": "Stéphane Pierré Maçonnerie",
+        "slug": "stephane-pierre-maconnerie",
+        "telephone": "06 95 20 05 06",
+        "site_web": "https://www.stephanepierre-maconnerie.fr/",
+        "adresse": "6 Imp. des Jardins, 16600 Touvre",
+        "note": 5,
+        "avis": 10,
+        "type": "Maçon"
+      },
+      {
+        "id": "586151125334801427",
+        "nom": "BARILLET Angoulême",
+        "slug": "barillet-angouleme",
+        "telephone": "05 45 68 48 11",
+        "site_web": "https://www.barillet-distribution.fr/agence/angouleme?utm_source=gmb",
+        "adresse": "ZI n°3, Av. Maryse Bastié, 16340 L'Isle-d'Espagnac",
+        "note": 4.3,
+        "avis": 31,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "3396626730752723725",
+        "nom": "Peinture Bati16 Pic james",
+        "slug": "peinture-bati16-pic-james",
+        "telephone": "06 22 20 78 75",
+        "site_web": null,
+        "adresse": "19 Rue des Sablières, 16600 Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "soyaux": {
+    "artisans": [
+      {
+        "id": "14218764561594634177",
+        "nom": "CASÉO Angoulême",
+        "slug": "caseo-angouleme",
+        "telephone": "05 45 37 31 55",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-angouleme-l-isle-d-espagnac-53",
+        "adresse": "3 Av. du Maréchal Juin, 16340 L'Isle-d'Espagnac",
+        "note": 4.4,
+        "avis": 105,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8367844445164781242",
+        "nom": "Sarl Projet entretien renovation PER",
+        "slug": "sarl-projet-entretien-renovation-per",
+        "telephone": "06 61 52 68 23",
+        "site_web": "http://www.pertravaux.fr/",
+        "adresse": "289 Rue Fontchaudière, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15246652050014584963",
+        "nom": "Monsieur Store Angoulême",
+        "slug": "monsieur-store-angouleme",
+        "telephone": "05 17 20 84 02",
+        "site_web": "https://monsieurstore.com/magasin/angouleme-16000/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "138 Bd de Bretagne, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "12153279776612816249",
+        "nom": "Automatic Center",
+        "slug": "automatic-center",
+        "telephone": "05 45 21 84 39",
+        "site_web": "http://www.automatic-center.fr/",
+        "adresse": "31 Av. du Maréchal Juin, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11713995949057094438",
+        "nom": "Forteix",
+        "slug": "forteix",
+        "telephone": "06 20 74 44 87",
+        "site_web": "http://www.forteix.fr/",
+        "adresse": "Chemin du Bressour, 16800 Soyaux",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8237818269079021029",
+        "nom": "Cjl Services",
+        "slug": "cjl-services",
+        "telephone": "06 74 18 75 20",
+        "site_web": "https://www.cjl-electricite.fr/?utm_source=gmb",
+        "adresse": "3 Pl. Jacques Cartier, 16800 Soyaux",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "1911766336327637982",
+        "nom": "VERRE SOLUTIONS ANGOULEME",
+        "slug": "verre-solutions-angouleme",
+        "telephone": "05 45 69 27 27",
+        "site_web": "https://agence.verre-solutions.com/27-verre-solutions-angouleme?utm_source=gmb",
+        "adresse": "142 Bd Salvador Allende, 16340 L'Isle-d'Espagnac",
+        "note": 4.4,
+        "avis": 28,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13632585602301337776",
+        "nom": "Aline Menuiseries - Angoulême",
+        "slug": "aline-menuiseries-angouleme",
+        "telephone": "06 25 75 63 71",
+        "site_web": "https://www.getmenuiseries.com/",
+        "adresse": "19 Av. de la République, 16340 L'Ile D'Espagnac",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14571469472428717178",
+        "nom": "A2M SOLUTEC",
+        "slug": "a2m-solutec",
+        "telephone": "07 48 14 50 21",
+        "site_web": "https://www.a2m-solutec.fr/",
+        "adresse": "245 Av. Jean Jaurès, 16600 Ruelle-sur-Touvre",
+        "note": 5,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1590039254164662736",
+        "nom": "Menuiserie 2000",
+        "slug": "menuiserie-2000",
+        "telephone": "05 45 39 62 48",
+        "site_web": "https://www.menuiserie2000-angouleme.fr/",
+        "adresse": "1371 Rte des Platanes, 16430 Champniers",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "vars": {
+    "artisans": [
+      {
+        "id": "7800842965960669559",
+        "nom": "Sobea",
+        "slug": "sobea",
+        "telephone": "06 12 51 80 39",
+        "site_web": "https://www.sobea-charente.fr/",
+        "adresse": "27 Rue du Port de la Matte, 16330 La Boixe",
+        "note": 3.6,
+        "avis": 14,
+        "type": "Carreleur"
+      },
+      {
+        "id": "13015351133541575575",
+        "nom": "Dumas Menuiseries - Sur Mesure Menuiserie",
+        "slug": "dumas-menuiseries-sur-mesure-menuiserie",
+        "telephone": "05 45 29 01 77",
+        "site_web": "https://www.dumas-menuiseries.fr/",
+        "adresse": "ZI Nord, Chem. des Gordins, 16700 Ruffec",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6216074127679596243",
+        "nom": "A.E.M. | Isolation Thermique par l'Extérieur RPE - Ravalement Façade - Bardage | Devis Fenêtre Angoulême | Artisan RGE",
+        "slug": "aem-isolation-thermique-par-lexterieur-rpe-ravalement-facade-bardage-devis-fenetre-angouleme-artisan-rge",
+        "telephone": "07 56 83 11 33",
+        "site_web": "http://fenetre-pvc-angouleme.com/",
+        "adresse": "6 Rue de la Petite Ouche, 16330 La Boixe",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "vindelle": {
+    "artisans": [
+      {
+        "id": "18203709265024492371",
+        "nom": "Chauvet romain MVPS",
+        "slug": "chauvet-romain-mvps",
+        "telephone": "06 65 94 47 31",
+        "site_web": "http://www.mvps-depannage.fr/?utm_source=gmb",
+        "adresse": "15 Rue du Château d'Eau, 16730 Fléac",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12479100203260964379",
+        "nom": "Jacques Amblard",
+        "slug": "jacques-amblard",
+        "telephone": "05 45 91 62 28",
+        "site_web": "http://www.jacques-amblard.fr/?utm_source=gmb",
+        "adresse": "29 Rue de l'Europe, 16730 Fléac",
+        "note": 4.5,
+        "avis": 53,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7651983875545694037",
+        "nom": "L'atelier à Fenêtres",
+        "slug": "latelier-a-fenetres",
+        "telephone": "05 45 91 19 00",
+        "site_web": "https://www.latelierafenetres.fr/",
+        "adresse": "10 Rue de l'Europe, 16730 Fléac",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "rouillac": {
+    "artisans": [
+      {
+        "id": "18138243664508358865",
+        "nom": "La Métairie Ambérac",
+        "slug": "la-metairie-amberac",
+        "telephone": "06 81 24 58 41",
+        "site_web": "https://www.lametairieamberac.com/",
+        "adresse": "3 Anc. Chem. d'Aigre, 16140 Ambérac",
+        "note": 0,
+        "avis": 0,
+        "type": "Maison de vacances"
+      },
+      {
+        "id": "11923337947943111078",
+        "nom": "A2F Home System SARL",
+        "slug": "a2f-home-system-sarl",
+        "telephone": "05 45 94 89 51",
+        "site_web": "https://www.facebook.com/profile.php?id=100066928030604",
+        "adresse": "373 Rue Gén de Gaulle, 16170 Rouillac",
+        "note": 5,
+        "avis": 28,
+        "type": "Magasin d'informatique"
+      },
+      {
+        "id": "13358929122841163859",
+        "nom": "eurl benoit allaire",
+        "slug": "eurl-benoit-allaire",
+        "telephone": "05 45 96 87 45",
+        "site_web": "https://www.menuiserie-allaire-rouillac.fr/",
+        "adresse": "Ze le lantillon, 87 Imp. de l'Ouest, 16170 Rouillac",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5075261882412468070",
+        "nom": "LA MÉTALLERAIE",
+        "slug": "la-metalleraie",
+        "telephone": "05 45 21 77 52",
+        "site_web": "https://www.lametalleraie.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1037 Av. du Petit Mairat, 16170 Rouillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Forgeron"
+      },
+      {
+        "id": "17671223116202299881",
+        "nom": "Maltese Sarl",
+        "slug": "maltese-sarl",
+        "telephone": "05 45 96 55 49",
+        "site_web": null,
+        "adresse": "7 Rue des Fins Bois, 16170 Rouillac",
+        "note": 4,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les revêtements de sol"
+      },
+      {
+        "id": "8930070115621468645",
+        "nom": "Tual Menuiserie",
+        "slug": "tual-menuiserie",
+        "telephone": "06 85 60 71 17",
+        "site_web": "https://www.tualmenuiserie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rue des Prairies, 16170 Bordeville",
+        "note": 5,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10963643445008298179",
+        "nom": "SARL ISEOPRO",
+        "slug": "sarl-iseopro",
+        "telephone": "05 45 61 29 58",
+        "site_web": "http://www.iseopro.fr/",
+        "adresse": "258 Av. Jean Monnet, 16170 Rouillac",
+        "note": 4,
+        "avis": 14,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-amant-de-boixe": {
+    "artisans": [
+      {
+        "id": "15957864147973573889",
+        "nom": "Logeo Confort",
+        "slug": "logeo-confort",
+        "telephone": "05 45 20 68 79",
+        "site_web": "https://www.logeoconfort.fr/",
+        "adresse": "Rue Combes des Martins, 2 Rue Principale, 16230 Maine-de-Boixe",
+        "note": 3.8,
+        "avis": 145,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10053125787331845424",
+        "nom": "EGM ENTREPRISE GÉNÉRALE DE MENUISERIE",
+        "slug": "egm-entreprise-generale-de-menuiserie",
+        "telephone": "06 66 83 12 10",
+        "site_web": "https://www.egm-16.fr/",
+        "adresse": "13 Rue Bellevue, 16330 Saint-Amant-de-Boixe",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8260626901426922243",
+        "nom": "DEP 16 Fermetures",
+        "slug": "dep-16-fermetures",
+        "telephone": "06 22 43 83 35",
+        "site_web": "http://www.dep-16-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 3,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ruelle-sur-touvre": {
+    "artisans": [
+      {
+        "id": "16018102000342465245",
+        "nom": "CGB 16",
+        "slug": "cgb-16",
+        "telephone": "06 25 27 86 32",
+        "site_web": "http://www.cgb16.fr/",
+        "adresse": "101 Rue Charles Moraud, 16600 Ruelle-sur-Touvre",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "17069499789737139369",
+        "nom": "Avenir Rénovations Angoulême",
+        "slug": "avenir-renovations-angouleme",
+        "telephone": "05 18 23 04 97",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-16-angouleme/",
+        "adresse": "7 Bd du 8 Mai 1945, 16000 Angoulême",
+        "note": 5,
+        "avis": 4,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1356623908534711313",
+        "nom": "Batirenovation par Franck Visse",
+        "slug": "batirenovation-par-franck-visse",
+        "telephone": "07 85 16 09 40",
+        "site_web": "https://franckvisse.com/",
+        "adresse": "227 Rue de Brebonzat, 16600 Ruelle-sur-Touvre",
+        "note": 5,
+        "avis": 40,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "roullet-saint-estephe": {
+    "artisans": [
+      {
+        "id": "16825536098339337592",
+        "nom": "Charetier Bruno",
+        "slug": "charetier-bruno",
+        "telephone": "05 45 67 47 87",
+        "site_web": null,
+        "adresse": "12 Rte de Pondeville, 16440 Roullet-Saint-Estèphe",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "8149307318628845123",
+        "nom": "VM Matériaux",
+        "slug": "vm-materiaux",
+        "telephone": "05 45 66 42 20",
+        "site_web": "https://magasin.vm-materiaux.fr/4-vm-materiaux-roullet?utm_source=gmb",
+        "adresse": "Z.I. Les Fontaines - Sortie 64 N10, Rue du Negoce, 16440 Roullet-Saint-Estèphe",
+        "note": 3.9,
+        "avis": 96,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6830311178408015994",
+        "nom": "Fermeture16",
+        "slug": "fermeture16",
+        "telephone": "06 71 91 84 74",
+        "site_web": null,
+        "adresse": "3 Les Chaumes, 16440 Roullet-Saint-Estèphe",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4343525092174940115",
+        "nom": "Rochard Menuiseries Charpentes",
+        "slug": "rochard-menuiseries-charpentes",
+        "telephone": "05 45 66 43 98",
+        "site_web": "https://rochard-escaliers.com/fr/",
+        "adresse": "3 Rue de, La Charlotrie, 16440 Roullet-Saint-Estèphe",
+        "note": 5,
+        "avis": 8,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "260250353402610132",
+        "nom": "Chape 16",
+        "slug": "chape-16",
+        "telephone": "05 45 62 36 76",
+        "site_web": null,
+        "adresse": "Les Chaumes, 16440 Roullet-Saint-Estèphe",
+        "note": 5,
+        "avis": 5,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "10194536788647049260",
+        "nom": "MsBois Renov",
+        "slug": "msbois-renov",
+        "telephone": "06 31 44 74 55",
+        "site_web": "https://www.facebook.com/msboisrenov/",
+        "adresse": "70 ter, Rte de Bordeaux, 16400 La Couronne",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4750539460927825489",
+        "nom": "Berton Aluminium",
+        "slug": "berton-aluminium",
+        "telephone": "05 45 92 53 37",
+        "site_web": "https://www.menuiserie-aluminium-berton.com/?utm_source=gmb",
+        "adresse": "28 Av. de Pasleck, 16400 La Couronne",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5532302177069367373",
+        "nom": "Chevalier Nicolas",
+        "slug": "chevalier-nicolas",
+        "telephone": "06 68 54 43 67",
+        "site_web": "http://www.entreprise-chevalier.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "la-rochefoucauld-en-angoumois": {
+    "artisans": [
+      {
+        "id": "9778129077558978961",
+        "nom": "Vsf",
+        "slug": "vsf",
+        "telephone": "05 86 86 97 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9351707101255801754",
+        "nom": "Navaud Et Chauvet SARL",
+        "slug": "navaud-et-chauvet-sarl",
+        "telephone": "05 45 62 20 20",
+        "site_web": "http://www.sarlnavaudchauvet.fr/?utm_source=gmb",
+        "adresse": "ZI d'Olerat, 16110 La",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13804506999523857389",
+        "nom": "BARBE MENUISERIES",
+        "slug": "barbe-menuiseries",
+        "telephone": "09 75 74 33 63",
+        "site_web": "https://barbe-menuiseries-charente.fr/",
+        "adresse": "1 Av. de Verdun, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

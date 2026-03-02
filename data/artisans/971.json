@@ -1,0 +1,1002 @@
+{
+  "vieux-habitants": {
+    "artisans": [
+      {
+        "id": "10149390407031915373",
+        "nom": "INNOV'BAIE | Atelier de menuiseries Aluminium et PVC en Guadeloupe",
+        "slug": "innovbaie-atelier-de-menuiseries-aluminium-et-pvc-en-guadeloupe",
+        "telephone": "+590 690 35 32 03",
+        "site_web": null,
+        "adresse": "ZI DE JARRY, VOIE VERTE IMMEUBLE FUTURA, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "basse-terre": {
+    "artisans": [
+      {
+        "id": "2572243015308498209",
+        "nom": "MULTI PRESTATIONS BTP",
+        "slug": "multi-prestations-btp",
+        "telephone": "+590 690 59 33 46",
+        "site_web": "https://multi-prestation-btp.com/ouverture-de-porte-a-basse-terre/",
+        "adresse": "282 Voie Diligenti, Basse-Terre 97100, Guadeloupe",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "les-abymes": {
+    "artisans": [
+      {
+        "id": "2256899049932662279",
+        "nom": "Sosyete Gwadloupeyen de Construction",
+        "slug": "sosyete-gwadloupeyen-de-construction",
+        "telephone": "+590 590 83 83 05",
+        "site_web": "http://www.sogwac.fr/",
+        "adresse": "56 Seuils Raizet Abymes (Les, 97139, Guadeloupe",
+        "note": 5,
+        "avis": 3,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "2646752366149097979",
+        "nom": "ABD Fermetures",
+        "slug": "abd-fermetures",
+        "telephone": "+590 590 95 98 36",
+        "site_web": "https://guadeloupe.abd-fermetures.com/",
+        "adresse": "Immeuble Magic 1 Zone Houelbourg lll - Jarry Voie Verte Baie Mahault, 97122, Guadeloupe",
+        "note": 3.7,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12178653919222902588",
+        "nom": "NAVIS LUCIEN",
+        "slug": "navis-lucien",
+        "telephone": "+590 590 83 05 29",
+        "site_web": "http://serrurerie-depannage-971.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1403 Residence les Filaos Lacroix, Les Abymes 97139, Guadeloupe",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16989016462338267421",
+        "nom": "Bati-stores",
+        "slug": "bati-stores",
+        "telephone": "+590 590 90 31 13",
+        "site_web": "http://www.bati-stores.fr/",
+        "adresse": "12 ZA de Petit Pérou, Les Abymes 97139, Guadeloupe",
+        "note": 3.6,
+        "avis": 17,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15023360379309413786",
+        "nom": "Storémeraude",
+        "slug": "storemeraude",
+        "telephone": "+590 590 38 60 10",
+        "site_web": "http://www.storemeraude.com/?utm_source=gmb",
+        "adresse": "Lot Agat Zac Houelbourg Sud 2, Baie-Mahault 97122, Guadeloupe",
+        "note": 3.9,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7273434022958712934",
+        "nom": "NOABAST",
+        "slug": "noabast",
+        "telephone": "05 90 89 87 20",
+        "site_web": "http://www.noabast.net/",
+        "adresse": "Sec Boisvin, Imp. Sinaï Caniquitte, Les Abymes 97139, Guadeloupe",
+        "note": 3,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "6125275841983718143",
+        "nom": "DOM AUTOMATISMES",
+        "slug": "dom-automatismes",
+        "telephone": "+590 590 60 87 33",
+        "site_web": "https://www.domautomatismes.fr/",
+        "adresse": "ZAC de Moudong Sud, Immeuble California, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Magasin"
+      },
+      {
+        "id": "10149390407031915373",
+        "nom": "INNOV'BAIE | Atelier de menuiseries Aluminium et PVC en Guadeloupe",
+        "slug": "innovbaie-atelier-de-menuiseries-aluminium-et-pvc-en-guadeloupe",
+        "telephone": "+590 690 35 32 03",
+        "site_web": null,
+        "adresse": "ZI DE JARRY, VOIE VERTE IMMEUBLE FUTURA, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2572243015308498209",
+        "nom": "MULTI PRESTATIONS BTP",
+        "slug": "multi-prestations-btp",
+        "telephone": "+590 690 59 33 46",
+        "site_web": "https://multi-prestation-btp.com/ouverture-de-porte-a-basse-terre/",
+        "adresse": "282 Voie Diligenti, Basse-Terre 97100, Guadeloupe",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2646752366149097979",
+        "nom": "ABD Fermetures",
+        "slug": "abd-fermetures",
+        "telephone": "+590 590 95 98 36",
+        "site_web": "https://guadeloupe.abd-fermetures.com/",
+        "adresse": "Immeuble Magic 1 Zone Houelbourg lll - Jarry Voie Verte Baie Mahault, 97122, Guadeloupe",
+        "note": 3.7,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "baie-mahault": {
+    "artisans": [
+      {
+        "id": "16577415356401060274",
+        "nom": "Batica Menuiseries",
+        "slug": "batica-menuiseries",
+        "telephone": "+590 590 26 60 22",
+        "site_web": "http://www.batica.gp/",
+        "adresse": "Rue Henri Becquerel, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.1,
+        "avis": 55,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7202825211026258948",
+        "nom": "Alu Antilles",
+        "slug": "alu-antilles",
+        "telephone": "05 90 38 38 38",
+        "site_web": null,
+        "adresse": "1 Impasse Emile Dessout, Baie-Mahault 97122, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12954505471581443807",
+        "nom": "ALUMINIUM SYSTEME POSE",
+        "slug": "aluminium-systeme-pose",
+        "telephone": "05 90 86 01 75",
+        "site_web": "https://www.aluminiumsystemepose.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Zac De Beausoleil, 97122 BAIE MAHAULT GP",
+        "note": 5,
+        "avis": 4,
+        "type": "Fabricant"
+      },
+      {
+        "id": "3837239983477802014",
+        "nom": "Fer Alu Pose",
+        "slug": "fer-alu-pose",
+        "telephone": "+590 690 40 35 41",
+        "site_web": "https://feralupose.fr/",
+        "adresse": "34 Rue Ferdinand Forest, Baie-Mahault 97122, Guadeloupe",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6803096131737027619",
+        "nom": "Alubat Guadeloupe",
+        "slug": "alubat-guadeloupe",
+        "telephone": "+590 590 26 64 40",
+        "site_web": "https://alubat971.com/",
+        "adresse": "ZAC Moudong Nord - Imm ABA 2000, Baie-Mahault 97122, Guadeloupe",
+        "note": 2.3,
+        "avis": 17,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "15531616737675179270",
+        "nom": "LES MENUISERIES DU SOLEIL",
+        "slug": "les-menuiseries-du-soleil",
+        "telephone": "+590 590 55 60 74",
+        "site_web": null,
+        "adresse": "288 Imp. des Palétuviers, Baie-Mahault 97122, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "5096543511666202879",
+        "nom": "Metalu",
+        "slug": "metalu",
+        "telephone": null,
+        "site_web": "https://www.metalu-sarl.fr/",
+        "adresse": "29, Metalu, ZI de Jarry, 97122 Rue de l'Industrie, Baie-Mahault 97122, Guadeloupe",
+        "note": 1,
+        "avis": 1,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4614735913333815",
+        "nom": "DIRECTMENUISERIES",
+        "slug": "directmenuiseries",
+        "telephone": "+590 590 95 61 15",
+        "site_web": "https://direct-menuiseries.fr/",
+        "adresse": "ZI Jarry, 530 Rue Alfred Lumière, Baie-Mahault 97122, Guadeloupe",
+        "note": 3,
+        "avis": 23,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "8203974255565530358",
+        "nom": "ANTILLES FERMETURES GUADELOUPE (bâtiment Dirickx)",
+        "slug": "antilles-fermetures-guadeloupe-batiment-dirickx",
+        "telephone": "+590 590 25 12 80",
+        "site_web": "http://www.antilles-fermetures.com/",
+        "adresse": "ZAC MOUDONG SUD BAIE-MAHAULT, 97122, Guadeloupe",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Magasin de matériel pour clôtures"
+      }
+    ]
+  },
+  "bouillante": {
+    "artisans": [
+      {
+        "id": "15196034150372377117",
+        "nom": "QUALIBLUE",
+        "slug": "qualiblue",
+        "telephone": "07 44 03 53 47",
+        "site_web": "https://www.qualiblue.com/",
+        "adresse": "12 Rue du Morne Tricolore, Sainte-Anne 97180, Guadeloupe",
+        "note": 3.4,
+        "avis": 15,
+        "type": "Services aux entreprises"
+      }
+    ]
+  },
+  "lamentin": {
+    "artisans": [
+      {
+        "id": "17985286546689503576",
+        "nom": "ALU TECHNOLOGIE",
+        "slug": "alu-technologie",
+        "telephone": "+590 590 25 77 98",
+        "site_web": null,
+        "adresse": "34 ZAE Colin Nord Ouest, Petit-Bourg 97170, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7007456104312702522",
+        "nom": "Alu Couleur",
+        "slug": "alu-couleur",
+        "telephone": "+590 590 28 29 59",
+        "site_web": "http://www.alucouleur.com/",
+        "adresse": "36 zone industrielle Jaula, Lamentin 97129, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11345210204326895726",
+        "nom": "Regis Fermetures",
+        "slug": "regis-fermetures",
+        "telephone": "+590 690 15 52 00",
+        "site_web": "http://www.rgs-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "18067553924378623241",
+        "nom": "T-ALU",
+        "slug": "t-alu",
+        "telephone": "+590 590 98 28 06",
+        "site_web": null,
+        "adresse": "Route de Vincent, Chem. Caféière, Lamentin 97129, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14930583325438490182",
+        "nom": "RGS FERMETURES",
+        "slug": "rgs-fermetures",
+        "telephone": "+590 690 15 52 00",
+        "site_web": null,
+        "adresse": "32 ZAC de Beausoleil, Baie-Mahault 97122, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10828000906473702133",
+        "nom": "AJM",
+        "slug": "ajm",
+        "telephone": "+590 690 36 10 13",
+        "site_web": "https://ajm-network.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "anse-bertrand": {
+    "artisans": [
+      {
+        "id": "5663637501715972376",
+        "nom": "Menuisiers du Nord",
+        "slug": "menuisiers-du-nord",
+        "telephone": "+590 590 22 30 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "baillif": {
+    "artisans": [
+      {
+        "id": "6551624582091441062",
+        "nom": "Alu Factory Store",
+        "slug": "alu-factory-store",
+        "telephone": "+590 590 25 41 82",
+        "site_web": null,
+        "adresse": "60 Chem. de Coton, Baillif 97123, Guadeloupe",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Fournisseur de cadres en aluminium"
+      },
+      {
+        "id": "14683217172897099902",
+        "nom": "Corvo BTP",
+        "slug": "corvo-btp",
+        "telephone": "+590 590 81 49 05",
+        "site_web": "http://www.corvobtp.fr/",
+        "adresse": "Rte de Blanchette, Baillif 97123, Guadeloupe",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "capesterre-belle-eau": {
+    "artisans": [
+      {
+        "id": "9904923056643707859",
+        "nom": "Smtp - transport de marchandise guadeloupe",
+        "slug": "smtp-transport-de-marchandise-guadeloupe",
+        "telephone": "+590 690 63 16 48",
+        "site_web": "https://sites.google.com/view/smtpco/contact",
+        "adresse": "Chem. des Mahoganys, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 5,
+        "avis": 9,
+        "type": "Service de transport"
+      },
+      {
+        "id": "12013567472935665795",
+        "nom": "PLOMBERIE EXPRESS",
+        "slug": "plomberie-express",
+        "telephone": "+590 690 15 27 72",
+        "site_web": null,
+        "adresse": "Rue des Raisiniers, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 5,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "2075679782146465085",
+        "nom": "Manu Services Plus",
+        "slug": "manu-services-plus",
+        "telephone": "+590 690 59 20 14",
+        "site_web": "https://web.facebook.com/people/Manu-Services-Plus/100089678263572/",
+        "adresse": "Rue de Doyon, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Installation et entretien de gouttières"
+      },
+      {
+        "id": "11495626990069862833",
+        "nom": "Clé + Services",
+        "slug": "cle-services",
+        "telephone": "+590 590 60 89 34",
+        "site_web": null,
+        "adresse": "17 Av. Paul Lacave, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de reproduction de clés"
+      },
+      {
+        "id": "5831878625233327063",
+        "nom": "Manu Services Plus",
+        "slug": "manu-services-plus",
+        "telephone": "+590 690 59 20 14",
+        "site_web": "https://www.manuservicesplus.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Service d'entretien des gouttières"
+      }
+    ]
+  },
+  "la-desirade": {
+    "artisans": [
+      {
+        "id": "15023360379309413786",
+        "nom": "Storémeraude",
+        "slug": "storemeraude",
+        "telephone": "+590 590 38 60 10",
+        "site_web": "http://www.storemeraude.com/?utm_source=gmb",
+        "adresse": "Lot Agat Zac Houelbourg Sud 2, Baie-Mahault 97122, Guadeloupe",
+        "note": 3.9,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "capesterre-de-marie-galante": {
+    "artisans": [
+      {
+        "id": "15023360379309413786",
+        "nom": "Storémeraude",
+        "slug": "storemeraude",
+        "telephone": "+590 590 38 60 10",
+        "site_web": "http://www.storemeraude.com/?utm_source=gmb",
+        "adresse": "Lot Agat Zac Houelbourg Sud 2, Baie-Mahault 97122, Guadeloupe",
+        "note": 3.9,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "gourbeyre": {
+    "artisans": [
+      {
+        "id": "14490340997132330869",
+        "nom": "MAED AGENCEMENT",
+        "slug": "maed-agencement",
+        "telephone": "+590 690 35 20 74",
+        "site_web": "https://www.maedagencement.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Dole, Chem. de Gros Morne, Gourbeyre 97113, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "grand-bourg": {
+    "artisans": [
+      {
+        "id": "14449652028585095443",
+        "nom": "Cabinet DIVIALLE Georges",
+        "slug": "cabinet-divialle-georges",
+        "telephone": "+590 590 97 72 98",
+        "site_web": null,
+        "adresse": "VMMP+J93 Cabinet DIVIALLE Georges, Rue Charles Portecop, Grand-Bourg 97112, Guadeloupe",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Géomètre"
+      },
+      {
+        "id": "3826988312157773157",
+        "nom": "Renov'elec",
+        "slug": "renovelec",
+        "telephone": "+590 690 35 41 40",
+        "site_web": "http://www.renovelec-guadeloupe.fr/",
+        "adresse": "6689 Chemin de Bône Sainte Rose, 97115, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "13803368986486079204",
+        "nom": "BAGG CASH",
+        "slug": "bagg-cash",
+        "telephone": "+590 590 97 81 92",
+        "site_web": "https://www.instagram.com/bagg_cash_mg/",
+        "adresse": "Rue Beaurenon Prolongée, Grand-Bourg 97112, Guadeloupe",
+        "note": 3.8,
+        "avis": 74,
+        "type": "Épicerie"
+      },
+      {
+        "id": "2598435185478418837",
+        "nom": "Antilles Constructions Bois",
+        "slug": "antilles-constructions-bois",
+        "telephone": "+590 590 91 64 73",
+        "site_web": "http://www.antillesconstructionsbois.com/",
+        "adresse": "Résidence de la plage les basses, Grand-Bourg 97112, Guadeloupe",
+        "note": 5,
+        "avis": 18,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "deshaies": {
+    "artisans": [
+      {
+        "id": "5343253634939833946",
+        "nom": "Serrurier Guadeloupe",
+        "slug": "serrurier-guadeloupe",
+        "telephone": "+590 690 91 08 57",
+        "site_web": "http://www.serrurierguadeloupe.fr/",
+        "adresse": null,
+        "note": 2.3,
+        "avis": 3,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  },
+  "goyave": {
+    "artisans": [
+      {
+        "id": "4744230444284516877",
+        "nom": "CCG Goyave",
+        "slug": "ccg-goyave",
+        "telephone": "+590 690 63 80 35",
+        "site_web": "https://www.facebook.com/Charpente-Construction-Goyave-1548574698696135/",
+        "adresse": "ZAC de l'Aiguille, 97128, Goyave, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "le-gosier": {
+    "artisans": [
+      {
+        "id": "10162346839878446194",
+        "nom": "Menuiserie Guadeloupe - Melmenuiserie - Covering sur meubles - Menuiserie Bois - Cuisine pas cher -",
+        "slug": "menuiserie-guadeloupe-melmenuiserie-covering-sur-meubles-menuiserie-bois-cuisine-pas-cher",
+        "telephone": "+590 690 50 03 81",
+        "site_web": null,
+        "adresse": "Jacotiere, Le Gosier 97190, Guadeloupe",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "morne-a-l-eau": {
+    "artisans": [
+      {
+        "id": "7089375877303303525",
+        "nom": "Entreprise d'aménagement intérieur & rénovation à Morne à l'eau",
+        "slug": "entreprise-damenagement-interieur-renovation-a-morne-a-leau",
+        "telephone": "+590 590 82 34 69",
+        "site_web": "http://www.glemamenagement.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "8670641020546131717",
+        "nom": "SAS DOM USINAGE",
+        "slug": "sas-dom-usinage",
+        "telephone": "+590 590 23 08 66",
+        "site_web": "https://www.facebook.com/p/DOM-Usinage-100057601592670/?utm_source=gmb",
+        "adresse": "50 rue George Tarer, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé en mécanique"
+      }
+    ]
+  },
+  "petit-canal": {
+    "artisans": [
+      {
+        "id": "6658798320600704944",
+        "nom": "Alumettal",
+        "slug": "alumettal",
+        "telephone": "+590 690 50 26 39",
+        "site_web": "http://menuiserie-guadeloupe.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "impasse Toha, Petit-Canal 97131, Guadeloupe",
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-moule": {
+    "artisans": [
+      {
+        "id": "13998770115869260806",
+        "nom": "VITR'AL - Expert en rénovation de rétroviseurs",
+        "slug": "vitral-expert-en-renovation-de-retroviseurs",
+        "telephone": "+590 690 85 33 17",
+        "site_web": null,
+        "adresse": "49, Rue Daubé Cité Sergent LE MOULE, 97160, Guadeloupe",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "saint-claude": {
+    "artisans": [
+      {
+        "id": "10300978589947099179",
+        "nom": "CHRIS ALU",
+        "slug": "chris-alu",
+        "telephone": "+590 590 68 18 29",
+        "site_web": "http://www.chrisalu-depannage.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Bois De Bragelogne SAINT FRANÇOIS GP, 97118, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pointe-noire": {
+    "artisans": [
+      {
+        "id": "10713434512133994598",
+        "nom": "Pointe-Noire",
+        "slug": "pointe-noire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Pointe-Noire 97116, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "port-louis": {
+    "artisans": [
+      {
+        "id": "13723727754037732031",
+        "nom": "Port de Port-Louis",
+        "slug": "port-de-port-louis",
+        "telephone": null,
+        "site_web": "https://guadeloupe.francetourisme.info/port-de-port-louis-971",
+        "adresse": "CF69+F5P Port de Port-Louis, Port-Louis, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Attraction touristique"
+      }
+    ]
+  },
+  "petit-bourg": {
+    "artisans": [
+      {
+        "id": "17985286546689503576",
+        "nom": "ALU TECHNOLOGIE",
+        "slug": "alu-technologie",
+        "telephone": "+590 590 25 77 98",
+        "site_web": null,
+        "adresse": "34 ZAE Colin Nord Ouest, Petit-Bourg 97170, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "pointe-a-pitre": {
+    "artisans": [
+      {
+        "id": "9489025237552930931",
+        "nom": "Alu Action",
+        "slug": "alu-action",
+        "telephone": "06 90 53 55 27",
+        "site_web": "https://www.menuiserie-aluaction.fr/",
+        "adresse": "Faubourg Rue Alexandre Isaac, Pointe-à-Pitre 97110, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "14341971066023203918",
+        "nom": "BATIMENT HORS SITE (EX BIMINI)",
+        "slug": "batiment-hors-site-ex-bimini",
+        "telephone": "+590 590 28 27 50",
+        "site_web": "http://www.bimini.fr/",
+        "adresse": "22 ZAC DE NOLIVIER SAINTE ROSE, 97115, Guadeloupe",
+        "note": 4,
+        "avis": 1,
+        "type": "Siège social"
+      },
+      {
+        "id": "10593125726571028040",
+        "nom": "SERVICE URBANISME",
+        "slug": "service-urbanisme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "88M2+CH7 SERVICE URBANISME, Rue du Dr Naudillon, Sainte-Rose 97115, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Administration"
+      },
+      {
+        "id": "18414167225157405571",
+        "nom": "Capitonnage Sellerie Plus CHIPAN - CSP CHIPAN",
+        "slug": "capitonnage-sellerie-plus-chipan-csp-chipan",
+        "telephone": "+590 590 28 20 92",
+        "site_web": null,
+        "adresse": "Zac Nolivier Sainte-Rose, 97115, Guadeloupe",
+        "note": 5,
+        "avis": 3,
+        "type": "Tapissier décorateur"
+      },
+      {
+        "id": "12478584660006216510",
+        "nom": "Orpi AGIM - Immobilier Sainte Rose",
+        "slug": "orpi-agim-immobilier-sainte-rose",
+        "telephone": "+590 590 22 15 15",
+        "site_web": "https://www.orpi.com/agim-sainterose/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb_sainte-rose&utm_content=agim-sainterose",
+        "adresse": "immeuble les citadines, 4 route de la rocade, Sainte-Rose 97115, Guadeloupe",
+        "note": 3.5,
+        "avis": 23,
+        "type": "Agence immobilière"
+      },
+      {
+        "id": "58556127049953537",
+        "nom": "Menuiserie Goldscheider",
+        "slug": "menuiserie-goldscheider",
+        "telephone": "+590 590 28 97 15",
+        "site_web": null,
+        "adresse": "Séverin, Sainte-Rose 97115, Guadeloupe",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9727190248563708637",
+        "nom": "Port de Sainte Rose",
+        "slug": "port-de-sainte-rose",
+        "telephone": null,
+        "site_web": "https://www.francetourisme.info/les-ports-de-france/port-de-sainte-rose-971",
+        "adresse": "88P3+525 Port de Sainte Rose, Sainte-Rose, Guadeloupe",
+        "note": 4.5,
+        "avis": 33,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "1362450792828890665",
+        "nom": "PCGE - GEOMETRES-EXPERTS",
+        "slug": "pcge-geometres-experts",
+        "telephone": "+590 590 90 88 55",
+        "site_web": "http://www.pcge.fr/",
+        "adresse": "ANTILLOPOLE 2, 10 ZAC DE NOLIVIER, Sainte-Rose 97115, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Géomètre"
+      },
+      {
+        "id": "13817735732827064045",
+        "nom": "Reseau",
+        "slug": "reseau",
+        "telephone": "+590 690 94 31 80",
+        "site_web": "https://www.reseau-multiservice.com/",
+        "adresse": "lieu-dit Espérance Route du CSDU Sainte Rose, 97115, Guadeloupe",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "6797137097143719194",
+        "nom": "Quelle",
+        "slug": "quelle",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "77RF+V3H Quelle, Sainte-Rose 97115, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Circuit de randonnée"
+      },
+      {
+        "id": "9140030703950643556",
+        "nom": "Noliviers Sainte-Rose",
+        "slug": "noliviers-sainte-rose",
+        "telephone": "+590 590 68 64 08",
+        "site_web": null,
+        "adresse": "ZAC Nolivier, Sainte-Rose 97115, Guadeloupe",
+        "note": 4,
+        "avis": 1,
+        "type": "Épicerie"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "11188362963100775687",
+        "nom": "SAGIP",
+        "slug": "sagip",
+        "telephone": "+590 590 26 64 22",
+        "site_web": "http://www.lateliersagip.com/",
+        "adresse": "Rue de l'Europe, JARRY cedex 97198, Guadeloupe",
+        "note": 3.8,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6510562301120810576",
+        "nom": "La Vitrerie",
+        "slug": "la-vitrerie",
+        "telephone": "+590 590 38 78 20",
+        "site_web": "https://fr-fr.facebook.com/lavitreriegp/",
+        "adresse": "MOUDONG SUD Baie Mahault GP 97122, Baie-Mahault, Guadeloupe",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "saint-francois": {
+    "artisans": [
+      {
+        "id": "16444280890620813217",
+        "nom": "Guadeloupe Menuiserie",
+        "slug": "guadeloupe-menuiserie",
+        "telephone": "+590 690 14 43 83",
+        "site_web": null,
+        "adresse": "ZAC DE, Route de Cocoyer, Saint-François 97118, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1293140417552516914",
+        "nom": "serrurier guadeloupe rapido services",
+        "slug": "serrurier-guadeloupe-rapido-services",
+        "telephone": "+590 690 60 14 17",
+        "site_web": "https://serrurierguadeloupe.eu/",
+        "adresse": "residence le village, Av l'Europe, N22, Saint-François 97118, Guadeloupe",
+        "note": 4.9,
+        "avis": 138,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14310057884939648007",
+        "nom": "STORE ALU ANTILLES RENOV",
+        "slug": "store-alu-antilles-renov",
+        "telephone": "+590 590 21 67 12",
+        "site_web": null,
+        "adresse": "15 Lotissement Carriacou 97118, Saint-François, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "15784391046424995098",
+        "nom": "Dep Volets",
+        "slug": "dep-volets",
+        "telephone": "+590 690 39 95 93",
+        "site_web": "https://guadeloupe.net/batiment/dep-volets-saint-francois",
+        "adresse": "116 residance Crystal Beach Saint-François, 97118, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de fauteuils roulants"
+      },
+      {
+        "id": "10134298642377484418",
+        "nom": "Gaulandeau Florent",
+        "slug": "gaulandeau-florent",
+        "telephone": "+590 690 24 17 95",
+        "site_web": null,
+        "adresse": "chemin la coulée, Saint-François 97118, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'aluminium"
+      }
+    ]
+  },
+  "terre-de-haut": {
+    "artisans": [
+      {
+        "id": "7673118014943639420",
+        "nom": "Technobois",
+        "slug": "technobois",
+        "telephone": "+590 590 32 19 98",
+        "site_web": "http://www.technobois-guadeloupe.com/",
+        "adresse": "ZAC de Moudong, 4 Lotissement Caraïbes, Baie-Mahault 97122, Guadeloupe",
+        "note": 4,
+        "avis": 7,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "sainte-anne": {
+    "artisans": [
+      {
+        "id": "2414742933662128545",
+        "nom": "Église Catholique Sainte-Anne à Sainte Anne",
+        "slug": "eglise-catholique-sainte-anne-a-sainte-anne",
+        "telephone": "+590 590 88 20 01",
+        "site_web": "https://sainte-anne.catholique-guadeloupe.org/",
+        "adresse": "Presbytère église Catholique, Sainte-Anne 97180, Guadeloupe",
+        "note": 4.4,
+        "avis": 86,
+        "type": "Église catholique"
+      },
+      {
+        "id": "49544720361556490",
+        "nom": "Guadeloupe",
+        "slug": "guadeloupe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7MG8+85V Guadeloupe, Rte de Richeplaine Voie 4, Sainte-Anne 97180, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Complexe résidentiel"
+      },
+      {
+        "id": "16325794509226019703",
+        "nom": "S.D.P",
+        "slug": "sdp",
+        "telephone": "+590 590 26 81 93",
+        "site_web": null,
+        "adresse": "Morne Vergain, 20 lot de l’Habitation, Rue Rolière Arnoux, Les Abymes 97139, Guadeloupe",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3729362257706439473",
+        "nom": "Richer",
+        "slug": "richer",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "7JQ9+42 Richer, Sainte-Anne 97180, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Jardin"
+      }
+    ]
+  },
+  "trois-rivieres": {
+    "artisans": [
+      {
+        "id": "13468568807750087300",
+        "nom": "MrjFermeture",
+        "slug": "mrjfermeture",
+        "telephone": "+590 690 27 72 57",
+        "site_web": null,
+        "adresse": "1863, Chem. de Carrere, Petit-Bourg 97170, Guadeloupe",
+        "note": 5,
+        "avis": 16,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "9547431901174165154",
+        "nom": "Proclé",
+        "slug": "procle",
+        "telephone": "+590 590 61 61 03",
+        "site_web": "https://www.pro-cle.com/?utm_source=gmb",
+        "adresse": "Centre Commercial Desmarais, Basse-Terre 97100, Guadeloupe",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Service de reproduction de clés"
+      },
+      {
+        "id": "3195961183704058823",
+        "nom": "Sam'Dépannage",
+        "slug": "samdepannage",
+        "telephone": "+590 690 32 21 09",
+        "site_web": null,
+        "adresse": "morne jolivière, quartier de la, Rue de la Voie Ferree, Les Abymes 97139, Guadeloupe",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  }
+}

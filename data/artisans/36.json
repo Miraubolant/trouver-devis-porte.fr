@@ -1,0 +1,1463 @@
+{
+  "neuvy-saint-sepulchre": {
+    "artisans": [
+      {
+        "id": "13837218450765567853",
+        "nom": "EB RB Menuiserie",
+        "slug": "eb-rb-menuiserie",
+        "telephone": "06 79 45 41 94",
+        "site_web": null,
+        "adresse": "Lieu dit, La Guiotte, 36230 Neuvy-Saint-Sépulchre",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15123142045377507356",
+        "nom": "CLOSY",
+        "slug": "closy",
+        "telephone": "0 820 22 31 02",
+        "site_web": "http://closy.fr/",
+        "adresse": "ZI les Fadeaux, 11 Rue du Rondeau 9, 36000 Châteauroux",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15304661137193860712",
+        "nom": "RT Entreprise",
+        "slug": "rt-entreprise",
+        "telephone": "06 60 94 67 66",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Carreleur"
+      },
+      {
+        "id": "4657106990624960163",
+        "nom": "Multi-Services-Pro",
+        "slug": "multi-services-pro",
+        "telephone": "02 54 49 48 33",
+        "site_web": null,
+        "adresse": "Le Bornet, N 151, 36100 Neuvy-Pailloux",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "17530640156884248188",
+        "nom": "TRYBA Villedieu-sur-Indre",
+        "slug": "tryba-villedieu-sur-indre",
+        "telephone": "02 21 83 12 93",
+        "site_web": "https://www.tryba.com/espace-conseil/36/tryba-villedieu-sur-indre/?utm_campaign=Tryba_Villedieu-sur-Indre&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1 rue Monier, 36320 Villedieu-sur-Indre",
+        "note": 4.8,
+        "avis": 121,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vineuil": {
+    "artisans": [
+      {
+        "id": "10647798467345854208",
+        "nom": "M.E.T. 41",
+        "slug": "met-41",
+        "telephone": "02 54 42 55 19",
+        "site_web": "http://www.met41.fr/?utm_source=gmb",
+        "adresse": "340 Rue Laënnec, 41350 Vineuil",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "6468832935531051347",
+        "nom": "Habitec | Menuiseries Blois | Porte de garage Blois | Pergola Blois | Domotique Blois",
+        "slug": "habitec-menuiseries-blois-porte-de-garage-blois-pergola-blois-domotique-blois",
+        "telephone": "02 54 45 28 27",
+        "site_web": "https://habitec-automatisme.fr/",
+        "adresse": "169 Rue Marcelin Berthelot, 41350 Vineuil",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6879095059896909121",
+        "nom": "Menuiserie Jérôme Defait",
+        "slug": "menuiserie-jerome-defait",
+        "telephone": "06 72 21 77 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10199689958340116425",
+        "nom": "fenetres-pas-cher",
+        "slug": "fenetres-pas-cher",
+        "telephone": "02 45 35 00 30",
+        "site_web": "http://fenetres-pas-cher.com/",
+        "adresse": "150 Rue Le Verrier, 41350 Vineuil",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17695974565761554391",
+        "nom": "ABP Solution Habitat - Blois",
+        "slug": "abp-solution-habitat-blois",
+        "telephone": "02 54 90 20 00",
+        "site_web": "https://www.abpsolutionhabitat.fr/",
+        "adresse": "133 Rte Nationale, 41350 Saint-Gervais-la-Forêt",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "160489731986651717",
+        "nom": "Isolation Service - Expert Rénovateur K.LINE",
+        "slug": "isolation-service-expert-renovateur-kline",
+        "telephone": "02 54 37 32 35",
+        "site_web": "http://www.isolationservice.com/",
+        "adresse": "5 Rue Abbé Pierre, 36300 Le Blanc",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1867657739426838762",
+        "nom": "Lefever Clotures",
+        "slug": "lefever-clotures",
+        "telephone": "02 54 42 21 50",
+        "site_web": "http://www.lefever-clotures.com/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5906366809964338484",
+        "nom": "CB2M Comptoir Blésois de Menuiserie et Miroiterie",
+        "slug": "cb2m-comptoir-blesois-de-menuiserie-et-miroiterie",
+        "telephone": "02 54 44 06 59",
+        "site_web": "https://www.cb2m-menuiseries.com/?utm_source=gmb",
+        "adresse": "derrière gifi, 150 Rue Le Verrier, 41350 Vineuil",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4042330081690595808",
+        "nom": "Les Compagnons du Loir et Cher ( plombier )",
+        "slug": "les-compagnons-du-loir-et-cher-plombier",
+        "telephone": "09 88 77 57 90",
+        "site_web": "https://www.lescompagnonsduloiret.com/depannage-installation-serrurerie-plomberie-blois.html",
+        "adresse": null,
+        "note": 4,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "8221288868965998199",
+        "nom": "L’Expert Fenêtre 2B Fermetures",
+        "slug": "lexpert-fenetre-2b-fermetures",
+        "telephone": "06 19 53 43 35",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/pose-fenetres-chateauroux/",
+        "adresse": "69 Av. de la Forêt, 36330 Le Poinçonnet",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-magny": {
+    "artisans": [
+      {
+        "id": "12216361323341571170",
+        "nom": "Bâti Menuiserie",
+        "slug": "bati-menuiserie",
+        "telephone": "09 67 20 05 81",
+        "site_web": "https://www.batimenuiserie.com/",
+        "adresse": "Rue Maurice Rollinat 6, 36400 La Châtre",
+        "note": 4.7,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9935848793256656358",
+        "nom": "ABP Centre Menuiserie SARL",
+        "slug": "abp-centre-menuiserie-sarl",
+        "telephone": "02 54 21 78 20",
+        "site_web": "https://www.abpcentremenuiserie.com/",
+        "adresse": "Village Entreprise, 2 Rue Robert marèchal n°2, 36100 Issoudun",
+        "note": 4.7,
+        "avis": 21,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3026809835508609378",
+        "nom": "Expert Fermeture",
+        "slug": "expert-fermeture",
+        "telephone": "06 46 26 22 79",
+        "site_web": "https://expert-fermeture.fr/",
+        "adresse": "7 Rue de Crosne, 95420 Magny-en-Vexin",
+        "note": 5,
+        "avis": 26,
+        "type": "Entreprise d'automatisation"
+      },
+      {
+        "id": "14750485777062171013",
+        "nom": "TRYBA Issoudun",
+        "slug": "tryba-issoudun",
+        "telephone": "02 21 83 12 94",
+        "site_web": "https://www.tryba.com/espace-conseil/36/tryba-issoudun/?utm_campaign=Tryba_Issoudun&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "27 Bd Marx Dormoy, 36100 Issoudun",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7883448842521616018",
+        "nom": "Menuiserie Alain Marteau",
+        "slug": "menuiserie-alain-marteau",
+        "telephone": "02 54 22 85 93",
+        "site_web": "http://www.menuiserie-alainmarteau.com/",
+        "adresse": "Grangeroux, 36130 Déols",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5160852539489422498",
+        "nom": "Menuiserie Issoudun : Vente & Installation Fenêtres, Pergola bioclimatique, Portes d’entrée sur-mesure",
+        "slug": "menuiserie-issoudun-vente-installation-fenetres-pergola-bioclimatique-portes-dentree-sur-mesure",
+        "telephone": "09 72 19 00 34",
+        "site_web": "https://menuiserie-issoudun.top/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18325166010972151218",
+        "nom": "Menuiserie Lainez",
+        "slug": "menuiserie-lainez",
+        "telephone": "02 54 29 80 82",
+        "site_web": "https://menuiserie-lainez.fr/",
+        "adresse": "46 Av. de Verdun, 36120 Ardentes",
+        "note": 5,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3747081254229088292",
+        "nom": "Lacaud Menuiserie SARL",
+        "slug": "lacaud-menuiserie-sarl",
+        "telephone": "02 54 26 99 01",
+        "site_web": "http://www.lacaudmenuiseriesarl.fr/",
+        "adresse": "78 Rte de la Châtre, 36120 Ardentes",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16040836721402882563",
+        "nom": "Birtegue Pornet",
+        "slug": "birtegue-pornet",
+        "telephone": "06 32 76 05 05",
+        "site_web": "http://www.facebook.com/Eurl-Pornet-Birt%C3%A8gue-406299449735119/?utm_source=gmb",
+        "adresse": "28 Av. Charles de Gaulle, 36100 Issoudun",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17928235741560790140",
+        "nom": "RB Rénov’",
+        "slug": "rb-renov",
+        "telephone": "07 66 80 53 49",
+        "site_web": "https://www.rbrenov36400.com/",
+        "adresse": "4 Rte des Ilons, 36400 Le Magny",
+        "note": 5,
+        "avis": 5,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "montierchaume": {
+    "artisans": [
+      {
+        "id": "552476577968905167",
+        "nom": "MIROITERIE / MENUISERIE SMVB",
+        "slug": "miroiterie-menuiserie-smvb",
+        "telephone": "02 54 34 47 76",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/smvb-maisonnier-2",
+        "adresse": "3 Av. Pierre de Coubertin, 36000 Châteauroux",
+        "note": 4.7,
+        "avis": 56,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6903264067502872154",
+        "nom": "MAINTENANCE INDUSTRIELLE",
+        "slug": "maintenance-industrielle",
+        "telephone": "02 54 22 11 44",
+        "site_web": "https://www.maintenance-industrielle.com/",
+        "adresse": "Zone industrielle La Malterie, Av. Louis Armand, 36130 Montierchaume",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Entretien de machines"
+      },
+      {
+        "id": "16417320134165627524",
+        "nom": "Menuiserie Adam SAS - Saint Maur ( Châteauroux ) - Conception Fabrication et pose de menuiseries Bois - Alu - PVC",
+        "slug": "menuiserie-adam-sas-saint-maur-chateauroux-conception-fabrication-et-pose-de-menuiseries-bois-alu-pvc",
+        "telephone": "02 54 25 89 32",
+        "site_web": "https://menuiseries-adam.fr/",
+        "adresse": "Bd du Franc, 36250 Saint-Maur",
+        "note": 4.4,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "552476577968905167",
+        "nom": "MIROITERIE / MENUISERIE SMVB",
+        "slug": "miroiterie-menuiserie-smvb",
+        "telephone": "02 54 34 47 76",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/smvb-maisonnier-2",
+        "adresse": "3 Av. Pierre de Coubertin, 36000 Châteauroux",
+        "note": 4.7,
+        "avis": 56,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8081076397068883878",
+        "nom": "NHN Menuiserie",
+        "slug": "nhn-menuiserie",
+        "telephone": "06 07 58 25 53",
+        "site_web": "https://www.facebook.com/profile.php?id=100080879096563&utm_source=gmb",
+        "adresse": "20 Bd de Cluis, 36000 Châteauroux",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6659208382719653676",
+        "nom": "G.Mauve SA",
+        "slug": "gmauve-sa",
+        "telephone": "02 54 34 89 18",
+        "site_web": "https://www.facebook.com/profile.php?id=100063500472735&utm_source=gmb",
+        "adresse": "ZA CAP SUD, All. du Commerce, 36250 Saint-Maur",
+        "note": 4,
+        "avis": 26,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "14546733161589724694",
+        "nom": "GROSFILLEX",
+        "slug": "grosfillex",
+        "telephone": "02 54 22 04 24",
+        "site_web": "https://www.grosfillex.com/stores/menuiserie-de-la-forge-le-poinconnet?utm_source=gmb",
+        "adresse": "26 Rte de Montluçon, 36330 Le Poinçonnet",
+        "note": 4.9,
+        "avis": 26,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "lucay-le-male": {
+    "artisans": [
+      {
+        "id": "14319576403201100864",
+        "nom": "AS2G Menuiseries extérieures ALUMINIUM PVC BOIS- Fenêtres- portes- volets",
+        "slug": "as2g-menuiseries-exterieures-aluminium-pvc-bois-fenetres-portes-volets",
+        "telephone": "02 54 20 71 43",
+        "site_web": "https://www.as2g-41.com/",
+        "adresse": "31 Rue de la Rozelle, 41120 Cellettes",
+        "note": 5,
+        "avis": 96,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4146462328546847126",
+        "nom": "Tradimen",
+        "slug": "tradimen",
+        "telephone": "02 54 20 54 55",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/tradimen",
+        "adresse": "86 Av. de Châteaudun, 41000 Blois",
+        "note": 5,
+        "avis": 60,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3249982033549127808",
+        "nom": "KparK Blois",
+        "slug": "kpark-blois",
+        "telephone": "02 49 79 00 08",
+        "site_web": "https://magasins.kpark.fr/123-kpark-blois?utm_source=gmb",
+        "adresse": "13 Rue Claude Bernard, 41000 Blois",
+        "note": 4.1,
+        "avis": 147,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3970360771631833127",
+        "nom": "Gilmar Fenetres Et Fermetures SARL",
+        "slug": "gilmar-fenetres-et-fermetures-sarl",
+        "telephone": "02 54 56 06 89",
+        "site_web": "https://www.gilmar-fenetres-41.fr/",
+        "adresse": "Za, 5 rue Sablons, Rue de l'Artouillat, 41120 Chailles",
+        "note": 4.8,
+        "avis": 137,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "7075657282616463443",
+        "nom": "Daunay Menuiseries",
+        "slug": "daunay-menuiseries",
+        "telephone": "06 48 38 23 98",
+        "site_web": null,
+        "adresse": "9 La Goutechalière Route de, 41150 Chaumont-sur-Loire",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montgivray": {
+    "artisans": [
+      {
+        "id": "2636329046483716987",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "02 54 31 11 61",
+        "site_web": "https://laboutiquedumenuisier.fr/",
+        "adresse": "Av. du Lion d'Argent, 36400 La Châtre",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "niherne": {
+    "artisans": [
+      {
+        "id": "15440755595598670635",
+        "nom": "Jouvin Industrie Berry Maintenance SARL",
+        "slug": "jouvin-industrie-berry-maintenance-sarl",
+        "telephone": "02 54 29 80 73",
+        "site_web": null,
+        "adresse": "Les Vergnes, 36250 Niherne",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "le-pechereau": {
+    "artisans": [
+      {
+        "id": "3938255804214848155",
+        "nom": "Mpc Menuiserie Pontcabanoise - Sur Mesure Menuiserie",
+        "slug": "mpc-menuiserie-pontcabanoise-sur-mesure-menuiserie",
+        "telephone": "09 64 29 03 27",
+        "site_web": "https://menuiserie-pontcabanoise.fr/",
+        "adresse": "95 Rue nationale, 36800 Le Pont-Chrétien-Chabenet",
+        "note": 4.7,
+        "avis": 33,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "neuvy-pailloux": {
+    "artisans": [
+      {
+        "id": "4657106990624960163",
+        "nom": "Multi-Services-Pro",
+        "slug": "multi-services-pro",
+        "telephone": "02 54 49 48 33",
+        "site_web": null,
+        "adresse": "Le Bornet, N 151, 36100 Neuvy-Pailloux",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "valencay": {
+    "artisans": [
+      {
+        "id": "4376576470368626929",
+        "nom": "Lebert et Beau",
+        "slug": "lebert-et-beau",
+        "telephone": "02 54 40 15 83",
+        "site_web": "http://menuiserie-valencay.fr/",
+        "adresse": "Za les Plantes, 7 Rte de Faverolles, 36600 Valençay",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1211254624202960932",
+        "nom": "Les Portes",
+        "slug": "les-portes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36600 Valençay",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "sainte-lizaigne": {
+    "artisans": [
+      {
+        "id": "8196129244673729760",
+        "nom": "Sainte-Lizaigne SAS - groupe Claire",
+        "slug": "sainte-lizaigne-sas-groupe-claire",
+        "telephone": "02 54 04 04 04",
+        "site_web": "http://www.sainte-lizaigne.com/",
+        "adresse": "47 Rue de l'Usine, 36260 Sainte-Lizaigne",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Industrie d'équipements de livraison"
+      },
+      {
+        "id": "13795013160819139898",
+        "nom": "Sébastien Franc Menuisier Fabricant",
+        "slug": "sebastien-franc-menuisier-fabricant",
+        "telephone": "06 07 30 39 57",
+        "site_web": "https://www.facebook.com/Seblemenuisier/",
+        "adresse": "8 Rue Grande Rue, 36260 Sainte-Lizaigne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17832516717685766403",
+        "nom": "La Boutique Du Menuisier - sas l'artisan du coin",
+        "slug": "la-boutique-du-menuisier-sas-lartisan-du-coin",
+        "telephone": "02 48 52 96 76",
+        "site_web": "http://laboutiquedumenuisier.fr/boutiques/lartisan-du-coin/?utm_source=gmb",
+        "adresse": "37 bis Av. de Bel-air, 18120 Méreau",
+        "note": 4.9,
+        "avis": 163,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1984107219465768368",
+        "nom": "De Sa Roger",
+        "slug": "de-sa-roger",
+        "telephone": "02 54 04 01 00",
+        "site_web": "https://www.desaroger.fr/",
+        "adresse": "20 Rte de l'Echardon, 36260 Sainte-Lizaigne",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "pouligny-saint-pierre": {
+    "artisans": [
+      {
+        "id": "14752061062826872633",
+        "nom": "Barreau Yannick",
+        "slug": "barreau-yannick",
+        "telephone": "06 87 43 72 44",
+        "site_web": null,
+        "adresse": "4 Les Chézeaux, 36300 Pouligny-Saint-Pierre",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vendoeuvres": {
+    "artisans": [
+      {
+        "id": "1321825762778293401",
+        "nom": "EIRL Brillaud Michaël",
+        "slug": "eirl-brillaud-michael",
+        "telephone": "06 40 73 20 28",
+        "site_web": "http://www.eirlbrillaud.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12866091265102611207",
+        "nom": "Blardat Philippe",
+        "slug": "blardat-philippe",
+        "telephone": "06 08 17 53 20",
+        "site_web": "https://sites.google.com/view/philippe-blardat/accueil",
+        "adresse": "3 Rue Victor, 36500 Vendœuvres",
+        "note": 0,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "reuilly": {
+    "artisans": [
+      {
+        "id": "18148161563241637209",
+        "nom": "TRIGANO REMORQUES (site de Reuilly)",
+        "slug": "trigano-remorques-site-de-reuilly",
+        "telephone": "02 48 58 58 10",
+        "site_web": null,
+        "adresse": "3 Rue des Maquis du Nord-Indre, 36260 Reuilly",
+        "note": 3.3,
+        "avis": 24,
+        "type": "Fabricant de remorques"
+      }
+    ]
+  },
+  "villedieu-sur-indre": {
+    "artisans": [
+      {
+        "id": "17530640156884248188",
+        "nom": "TRYBA Villedieu-sur-Indre",
+        "slug": "tryba-villedieu-sur-indre",
+        "telephone": "02 21 83 12 93",
+        "site_web": "https://www.tryba.com/espace-conseil/36/tryba-villedieu-sur-indre/?utm_campaign=Tryba_Villedieu-sur-Indre&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1 rue Monier, 36320 Villedieu-sur-Indre",
+        "note": 4.8,
+        "avis": 121,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-gaultier": {
+    "artisans": [
+      {
+        "id": "17606173569960316923",
+        "nom": "La boutique du menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "02 54 37 10 94",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/souverain-patrick-et-fils",
+        "adresse": "5 La Carrière, 36500 Saint-Lactencin",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vatan": {
+    "artisans": [
+      {
+        "id": "5171096455314513472",
+        "nom": "Entreprise Chevallier",
+        "slug": "entreprise-chevallier",
+        "telephone": "07 71 57 16 96",
+        "site_web": "http://www.ent-chevallier.fr/",
+        "adresse": "49 Rue de la République, 49 Rte d'Issoudun, 36150 Vatan",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "1854911503156446024",
+        "nom": "\"Travaux 2 Plaquiste\" ( Plaquiste/Plâtrier Klevi)",
+        "slug": "travaux-2-plaquiste-plaquisteplatrier-klevi",
+        "telephone": "06 67 45 94 29",
+        "site_web": "https://www.facebook.com/share/167KdYwg43/",
+        "adresse": "19 Av. de la Libération, 36150 Vatan",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8036607735236354887",
+        "nom": "Menuiserie Isolation MARTIN",
+        "slug": "menuiserie-isolation-martin",
+        "telephone": "02 54 49 01 62",
+        "site_web": "http://www.menuiserie-isolation-martin.fr/",
+        "adresse": "7 Pl. de la République, 36150 Vatan",
+        "note": 5,
+        "avis": 18,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "1767093498042828134",
+        "nom": "Thomas Déco",
+        "slug": "thomas-deco",
+        "telephone": "07 87 66 20 79",
+        "site_web": null,
+        "adresse": "42 Rue du Beuil, 36150 Vatan",
+        "note": 5,
+        "avis": 5,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "chateauroux": {
+    "artisans": [
+      {
+        "id": "15061928015391645807",
+        "nom": "Serrurier 36",
+        "slug": "serrurier-36",
+        "telephone": "07 56 89 51 34",
+        "site_web": "https://www.serrurier36.fr/",
+        "adresse": "Rue de Notz, 36000 Châteauroux",
+        "note": 5,
+        "avis": 100,
+        "type": "Serrurier"
+      },
+      {
+        "id": "6211101846833270432",
+        "nom": "Monsieur Store Châteauroux - Maquin Guéné",
+        "slug": "monsieur-store-chateauroux-maquin-guene",
+        "telephone": "02 54 22 00 52",
+        "site_web": "https://monsieurstore.com/magasin/chateauroux-36000/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "115 Av. d'Argenton, 36000 Châteauroux",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "11641325559019646226",
+        "nom": "Serrurier Chateauroux",
+        "slug": "serrurier-chateauroux",
+        "telephone": "07 68 52 68 22",
+        "site_web": "https://serrurier-chateauroux.com/",
+        "adresse": "1 Rue du Rochat, 36000 Châteauroux",
+        "note": 4.7,
+        "avis": 53,
+        "type": "Serrurier"
+      },
+      {
+        "id": "11481961728237709537",
+        "nom": "D'ac Dépannage Automatisme Centre EIRL",
+        "slug": "dac-depannage-automatisme-centre-eirl",
+        "telephone": "06 83 93 09 48",
+        "site_web": "http://www.facebook.com/Dac-Depannage-automatisme-centre-110074597447325/?utm_source=gmb",
+        "adresse": "12 ter rue Prés de Mousseaux Grangeroux, 36130 Déols",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "17929237259324515420",
+        "nom": "Amgo",
+        "slug": "amgo",
+        "telephone": "0 820 22 31 02",
+        "site_web": "https://www.amgo.fr/",
+        "adresse": "9-11 Rue du Rondeau, 36000 Châteauroux",
+        "note": 4.2,
+        "avis": 43,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "aigurande": {
+    "artisans": [
+      {
+        "id": "6519085957683094966",
+        "nom": "Atelier Degay Et Fils",
+        "slug": "atelier-degay-et-fils",
+        "telephone": "02 54 06 39 47",
+        "site_web": "http://www.facebook.com/DEGAYETFILSBAT/",
+        "adresse": "34 Les Merlots, 36140 Aigurande",
+        "note": 2.8,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "7202766732585353568",
+        "nom": "SAS JEAUMOT Denis",
+        "slug": "sas-jeaumot-denis",
+        "telephone": "02 54 06 30 31",
+        "site_web": "http://www.sarljeaumotdenis.fr/",
+        "adresse": "Zone Artisanale, La Chagnade, 36140 Aigurande",
+        "note": 4,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "11382689972884070168",
+        "nom": "Boudard - Tout Faire",
+        "slug": "boudard-tout-faire",
+        "telephone": "02 54 06 37 91",
+        "site_web": "https://www.toutfaire.fr/boudard-aigurande.html",
+        "adresse": "Av. de la Gare, 36140 Aigurande",
+        "note": 4.3,
+        "avis": 25,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17487006093862368136",
+        "nom": "Micouraud Gilles",
+        "slug": "micouraud-gilles",
+        "telephone": "05 55 89 73 32",
+        "site_web": "http://www.micouraud.fr/",
+        "adresse": "18 Rue des Fossés Saint-Jean, 36140 Aigurande",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "10056389906165438175",
+        "nom": "Degay et Fils SAS",
+        "slug": "degay-et-fils-sas",
+        "telephone": "02 54 06 37 46",
+        "site_web": "https://www.cuisineplaisir.fr/magasin/cuisine-plaisir-aigurande-sur-bouzanne",
+        "adresse": "quincaillerie, 14 Pl. de la Promenade, 36140 Aigurande",
+        "note": 4.3,
+        "avis": 45,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "1693524913741826257",
+        "nom": "Viard Philippe",
+        "slug": "viard-philippe",
+        "telephone": "02 54 06 45 52",
+        "site_web": null,
+        "adresse": "10 Pl. du Champ de Foire, 36140 Aigurande",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7153052177821631290",
+        "nom": "Moulin Patrick Bernard",
+        "slug": "moulin-patrick-bernard",
+        "telephone": "02 54 06 91 30",
+        "site_web": "https://www.patrickmoulin.fr/",
+        "adresse": "1 La Regnière, 36140 Aigurande",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8930316635721930688",
+        "nom": "Herault Jean-Michel",
+        "slug": "herault-jean-michel",
+        "telephone": "02 54 06 41 23",
+        "site_web": null,
+        "adresse": "36140 Aigurande",
+        "note": 3,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "17877643999700918122",
+        "nom": "Berry Concept Maçonnerie",
+        "slug": "berry-concept-maconnerie",
+        "telephone": "02 54 06 36 68",
+        "site_web": "http://www.berryconcept.fr/",
+        "adresse": "95 Av. de la République, 36140 Aigurande",
+        "note": 3.9,
+        "avis": 13,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "10028498070193606447",
+        "nom": "Viard Philippe",
+        "slug": "viard-philippe",
+        "telephone": "02 54 06 45 52",
+        "site_web": null,
+        "adresse": "46 Av. George Sand A, 36140 Aigurande",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "buzancais": {
+    "artisans": [
+      {
+        "id": "17606173569960316923",
+        "nom": "La boutique du menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "02 54 37 10 94",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/souverain-patrick-et-fils",
+        "adresse": "5 La Carrière, 36500 Saint-Lactencin",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9913967110657053660",
+        "nom": "SARL PARNY BENOIT",
+        "slug": "sarl-parny-benoit",
+        "telephone": "07 62 36 49 74",
+        "site_web": "http://bpelectricitebatiment.site-solocal.com/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 30,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "arthon": {
+    "artisans": [
+      {
+        "id": "1990318384665844744",
+        "nom": "Arthon",
+        "slug": "arthon",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36330 Arthon",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "argenton-sur-creuse": {
+    "artisans": [
+      {
+        "id": "14091269476200009696",
+        "nom": "Aubailly Patrick",
+        "slug": "aubailly-patrick",
+        "telephone": "02 54 08 68 31",
+        "site_web": "https://www.menuiserie-aubailly.fr/",
+        "adresse": "zi, 3 Les Narrons, 36200 Argenton-sur-Creuse",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12555463597757014455",
+        "nom": "A.M.E",
+        "slug": "ame",
+        "telephone": "02 54 24 36 78",
+        "site_web": "http://www.ame36.fr/",
+        "adresse": "7 Bd du Limousin, 36200 Argenton-sur-Creuse",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17170245303953482042",
+        "nom": "Berry Bâtiment et Conception",
+        "slug": "berry-batiment-et-conception",
+        "telephone": "06 48 72 68 03",
+        "site_web": "http://www.berrybatimentetconception.fr/",
+        "adresse": "Zi, 4 Les Narrons, 36200 Argenton-sur-Creuse",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "ardentes": {
+    "artisans": [
+      {
+        "id": "16726088557576821623",
+        "nom": "SAP Transports et Matériaux - Tout Faire",
+        "slug": "sap-transports-et-materiaux-tout-faire",
+        "telephone": "02 54 36 79 67",
+        "site_web": null,
+        "adresse": "55 Av. de Verdun, 36120 Ardentes",
+        "note": 4.5,
+        "avis": 39,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "le-blanc": {
+    "artisans": [
+      {
+        "id": "160489731986651717",
+        "nom": "Isolation Service - Expert Rénovateur K.LINE",
+        "slug": "isolation-service-expert-renovateur-kline",
+        "telephone": "02 54 37 32 35",
+        "site_web": "http://www.isolationservice.com/",
+        "adresse": "5 Rue Abbé Pierre, 36300 Le Blanc",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chabris": {
+    "artisans": [
+      {
+        "id": "6963490722607940968",
+        "nom": "Les Ateliers de l'Habitat",
+        "slug": "les-ateliers-de-lhabitat",
+        "telephone": "02 54 40 76 04",
+        "site_web": "http://oknoplast.fr/boutiques/les-ateliers-de-l-habitat/",
+        "adresse": "33 Rue de Verdun, 36210 Chabris",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "2374054932935875619",
+        "nom": "Bc Menuisier Plaquiste",
+        "slug": "bc-menuisier-plaquiste",
+        "telephone": "02 54 76 52 46",
+        "site_web": "http://www.bcmenuisier-plaquiste.fr/",
+        "adresse": "3 Rue de la Barangère, 41130 Gièvres",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8618395895980105252",
+        "nom": "Menuiserie du Grand Chêne",
+        "slug": "menuiserie-du-grand-chene",
+        "telephone": "09 66 84 65 00",
+        "site_web": "https://www.facebook.com/Menuiserie-du-grand-Ch%C3%AAne-1644287735839262/timeline",
+        "adresse": "Zone Artisanale du, Le Grand Chêne, 41130 Gièvres",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16434767200347286081",
+        "nom": "J.Montagne",
+        "slug": "jmontagne",
+        "telephone": "06 50 80 32 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "eguzon-chantome": {
+    "artisans": [
+      {
+        "id": "292110376680070992",
+        "nom": "Éguzon-Chantôme",
+        "slug": "eguzon-chantome",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36270 Éguzon-Chantôme",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "issoudun": {
+    "artisans": [
+      {
+        "id": "16781814526673647258",
+        "nom": "Menuiserie Serrurerie Issoldunoise",
+        "slug": "menuiserie-serrurerie-issoldunoise",
+        "telephone": "02 59 16 21 14",
+        "site_web": "https://www.serrurerie-issoldunoise.com/",
+        "adresse": "1 Rue Guillaume Massicot, 36100 Issoudun",
+        "note": 5,
+        "avis": 27,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chaillac": {
+    "artisans": [
+      {
+        "id": "10284563982580822557",
+        "nom": "Clair de Baie Tours",
+        "slug": "clair-de-baie-tours",
+        "telephone": "02 47 29 67 09",
+        "site_web": "https://www.clairdebaie.fr/",
+        "adresse": "5 Rue de la Motte, 37390 Mettray",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ecueille": {
+    "artisans": [
+      {
+        "id": "18137451665698204923",
+        "nom": "Cd Renovation",
+        "slug": "cd-renovation",
+        "telephone": "02 54 40 67 02",
+        "site_web": null,
+        "adresse": "3 Rue Jacques Morin, 36240 Écueillé",
+        "note": 2,
+        "avis": 62,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17797269973374481931",
+        "nom": "Lemoine-Pivron",
+        "slug": "lemoine-pivron",
+        "telephone": "06 33 27 05 08",
+        "site_web": null,
+        "adresse": "Le Château de Paille, 36240 Écueillé",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chatillon-sur-indre": {
+    "artisans": [
+      {
+        "id": "15597991964500796836",
+        "nom": "CHARPENTIER MICHEL",
+        "slug": "charpentier-michel",
+        "telephone": "02 54 38 79 81",
+        "site_web": "https://www.charpentier-couverture-36.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "ZI La Besselerie, 4 Rue de la Varennes, 36700 Châtillon-sur-Indre",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12559604498717681688",
+        "nom": "Sarl Colosio",
+        "slug": "sarl-colosio",
+        "telephone": "02 54 38 90 64",
+        "site_web": null,
+        "adresse": "62 Rte de Tours, 36700 Châtillon-sur-Indre",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans le marbre"
+      },
+      {
+        "id": "14847433637247483241",
+        "nom": "Bricomarché Châtillon-Sur-Indre",
+        "slug": "bricomarche-chatillon-sur-indre",
+        "telephone": "02 54 02 22 22",
+        "site_web": "https://www.bricomarche.com/magasin/ch%C3%A2tillon-sur-indre/20370?store=20370&utm_source=gmb",
+        "adresse": "24 Rue Jean Lurçat, 36700 Châtillon-sur-Indre",
+        "note": 4,
+        "avis": 460,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15540700215971684643",
+        "nom": "Brunet Electricité",
+        "slug": "brunet-electricite",
+        "telephone": "02 54 38 86 69",
+        "site_web": "http://brunet-electricite.fr/",
+        "adresse": "5 Rte du Blanc, 36700 Châtillon-sur-Indre",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "16010372671905366351",
+        "nom": "POITEVIN Menuiserie Platrerie Isolation",
+        "slug": "poitevin-menuiserie-platrerie-isolation",
+        "telephone": "06 45 03 05 55",
+        "site_web": "https://www.poitevin-menuiserie.fr/",
+        "adresse": "Sables de Beauregard, 36700 Châtillon-sur-Indre",
+        "note": 5,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "etrechet": {
+    "artisans": [
+      {
+        "id": "13703503551989895153",
+        "nom": "PAILLOUX SEBASTIEN",
+        "slug": "pailloux-sebastien",
+        "telephone": "02 54 26 94 40",
+        "site_web": "https://www.copaline.com/",
+        "adresse": "19 Rte de la Châtre, 36120 Étrechet",
+        "note": 4.8,
+        "avis": 95,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "16067912202838962382",
+        "nom": "Grimplet Sas",
+        "slug": "grimplet-sas",
+        "telephone": "06 09 75 65 50",
+        "site_web": "http://www.grimplet-antennes-etrechet.fr/",
+        "adresse": "Rue Antoine de Saint-Exupéry, 36120 Étrechet",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Magasin de matériel de surveillance"
+      },
+      {
+        "id": "4811094564710008920",
+        "nom": "Blanchet monte escalier",
+        "slug": "blanchet-monte-escalier",
+        "telephone": "02 54 22 06 76",
+        "site_web": "https://monteescalier-blanchet.fr/",
+        "adresse": "27 Rue de Notz, 36000 Châteauroux",
+        "note": 4.9,
+        "avis": 85,
+        "type": "Magasin de matériel médical"
+      },
+      {
+        "id": "15928471171998474646",
+        "nom": "Vente et Pose Menuiserie Châteauroux Fenêtres, Baies, Portails, Pergolas sur-mesure",
+        "slug": "vente-et-pose-menuiserie-chateauroux-fenetres-baies-portails-pergolas-sur-mesure",
+        "telephone": "09 72 19 08 44",
+        "site_web": "https://venteetposemenuiseriechateauroux.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "936771010202423843",
+        "nom": "Guillot Charpente",
+        "slug": "guillot-charpente",
+        "telephone": "02 54 25 35 28",
+        "site_web": "http://www.guillot-charpente-indre.fr/?utm_source=gmb",
+        "adresse": "31 Chem. des Fossés, 36120 Ardentes",
+        "note": 5,
+        "avis": 9,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1934462787365121804",
+        "nom": "Msl menuiserie",
+        "slug": "msl-menuiserie",
+        "telephone": "07 80 58 80 38",
+        "site_web": null,
+        "adresse": "7 Rte du Mez, 36230 Mers-sur-Indre",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16411972269253548693",
+        "nom": "Akena véranda et pergola bioclimatique Chateauroux",
+        "slug": "akena-veranda-et-pergola-bioclimatique-chateauroux",
+        "telephone": "02 54 34 79 13",
+        "site_web": "https://www.akena.com//agences/akena-chateauroux/?utm_source=MAPS&utm_medium=organic&utm_campaign=Google_local_business",
+        "adresse": "Champs de Chagnat, 36130 Déols",
+        "note": 3.7,
+        "avis": 7,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "16703692645633564368",
+        "nom": "Levoux Pascal",
+        "slug": "levoux-pascal",
+        "telephone": "02 54 07 98 82",
+        "site_web": "https://www.menuiserielevoux.com/",
+        "adresse": "ZA des champs du bois, 320 Rue Sylvain Rebrioux, 36130 Déols",
+        "note": 4.3,
+        "avis": 16,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "deols": {
+    "artisans": [
+      {
+        "id": "16744130855234480237",
+        "nom": "CTS FAÇADES",
+        "slug": "cts-facades",
+        "telephone": "07 60 18 19 02",
+        "site_web": "http://ctsfacades.fr/",
+        "adresse": "31 Rue St Luc, 36000 Châteauroux",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "3914651420895394388",
+        "nom": "Les Ateliers HD",
+        "slug": "les-ateliers-hd",
+        "telephone": "06 66 73 32 55",
+        "site_web": "http://www.lesateliershd.fr/",
+        "adresse": "12 Rte Châteauroux, 36250 Saint-Maur",
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-chatre": {
+    "artisans": [
+      {
+        "id": "18048410593142399283",
+        "nom": "Pose Menuiserie La Châtre",
+        "slug": "pose-menuiserie-la-chatre",
+        "telephone": "02 42 17 00 57",
+        "site_web": "https://posemenuiserielachatre.ovh/",
+        "adresse": "40 Rue des Oiseaux, 36400 La Châtre",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "levroux": {
+    "artisans": [
+      {
+        "id": "14909738738682563006",
+        "nom": "Porte De Champagne",
+        "slug": "porte-de-champagne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Rue de Champagne, 36110 Levroux",
+        "note": 4.4,
+        "avis": 7,
+        "type": null
+      },
+      {
+        "id": "8184139529062162779",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 54 34 33 11",
+        "site_web": "https://magasins.lapeyre.fr/centre-val-de-loire/indre/lapeyre-chateauroux-9",
+        "adresse": "42 Av. d'Occitanie, 36250 Saint-Maur",
+        "note": 4,
+        "avis": 248,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14070922984188952545",
+        "nom": "SARL PASCAL CHAMPAGNE",
+        "slug": "sarl-pascal-champagne",
+        "telephone": "02 54 35 69 27",
+        "site_web": null,
+        "adresse": "10 Z I DE BEL AIR, 36110 Levroux",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "12106773611984639720",
+        "nom": "Passion Granit",
+        "slug": "passion-granit",
+        "telephone": "02 54 35 75 21",
+        "site_web": "https://www.passion-granit.fr/",
+        "adresse": "ZI de bel air, 36110 Levroux",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de granit"
+      }
+    ]
+  },
+  "luant": {
+    "artisans": [
+      {
+        "id": "4154155327366020161",
+        "nom": "LS-ELEC",
+        "slug": "ls-elec",
+        "telephone": "06 79 98 56 29",
+        "site_web": "https://www.facebook.com/profile.php?id=61572634187086",
+        "adresse": "6 Imp. de la Gare, 36350 Luant",
+        "note": 5,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "14292138674941047538",
+        "nom": "Mab36",
+        "slug": "mab36",
+        "telephone": "06 80 38 27 34",
+        "site_web": "https://www.facebook.com/profile.php?id=100090209845546",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10407940823802197366",
+        "nom": "SAS TP Franck LAMY",
+        "slug": "sas-tp-franck-lamy",
+        "telephone": "02 54 34 91 12",
+        "site_web": "http://www.stnc36.fr/",
+        "adresse": "9 L' Aiguillon, route de saint maur, 36250 Niherne",
+        "note": 3.9,
+        "avis": 13,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "14744563621674688882",
+        "nom": "MAB36",
+        "slug": "mab36",
+        "telephone": "06 80 38 27 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1905067872553724949",
+        "nom": "36000 services",
+        "slug": "36000-services",
+        "telephone": "07 81 68 78 48",
+        "site_web": "https://36000services.wixsite.com/website",
+        "adresse": "28 la penthiere basse, 36350 Luant",
+        "note": 5,
+        "avis": 13,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "11394981096365122506",
+        "nom": "Ménard Paysagiste",
+        "slug": "menard-paysagiste",
+        "telephone": "06 78 05 55 78",
+        "site_web": null,
+        "adresse": "8 Rte de la Perouille, 36350 Luant",
+        "note": 5,
+        "avis": 1,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "saint-marcel": {
+    "artisans": [
+      {
+        "id": "3596247194247401080",
+        "nom": "Davier Menuiserie",
+        "slug": "davier-menuiserie",
+        "telephone": "02 54 24 13 45",
+        "site_web": "https://www.daviermenuiserie.fr/?utm_source=gmb",
+        "adresse": "Chem. des Plantes, 36800 Le Pont-Chrétien-Chabenet",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tournon-saint-martin": {
+    "artisans": [
+      {
+        "id": "2414767643023450702",
+        "nom": "Jdsi Bel Air",
+        "slug": "jdsi-bel-air",
+        "telephone": "02 54 37 68 31",
+        "site_web": "http://www.facebook.com/jean.michel.jarion/",
+        "adresse": "14 Rue de Bel air, 36220 Tournon-Saint-Martin",
+        "note": 4.3,
+        "avis": 8,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "16651571918834714534",
+        "nom": "Debien Dimitri",
+        "slug": "debien-dimitri",
+        "telephone": "02 54 28 78 64",
+        "site_web": null,
+        "adresse": "26 Rue du Petit Paris, 36220 Tournon-Saint-Martin",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-maur": {
+    "artisans": [
+      {
+        "id": "10330482877072805244",
+        "nom": "Fenetres OuvertureS Portes PROXIRENOV",
+        "slug": "fenetres-ouvertures-portes-proxirenov",
+        "telephone": "01 84 23 02 02",
+        "site_web": "https://proxirenov.com/",
+        "adresse": "8 Av. du Bac, 94100 Saint-Maur-des-Fossés",
+        "note": 4.9,
+        "avis": 203,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}
