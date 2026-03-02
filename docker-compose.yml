@@ -1,0 +1,9 @@
+services:
+  web:
+    build: .
+    container_name: annuaire-pisciniste
+    ports:
+      - "8000:80"
+    volumes:
+      - .:/var/www/html:rw
+    restart: unless-stopped
