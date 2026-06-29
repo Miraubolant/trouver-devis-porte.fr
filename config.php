@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * ============================================
  * ANNUAIRE-PORTES.FR - CONFIGURATION
@@ -12,7 +12,7 @@
 define('SITE_NAME', 'trouver-devis-porte.fr');
 define('SITE_DOMAIN', 'trouver-devis-porte.fr');
 define('SITE_URL', 'https://trouver-devis-porte.fr');
-define('SITE_EMAIL', 'contact@trouver-devis-porte.fr');
+define('SITE_EMAIL', 'admin@miraubolant.com');
 define('SITE_TAGLINE', 'Portes, Serrurerie & Portails Partout en France');
 define('SITE_DESCRIPTION', 'Trouvez un installateur de portes près de chez vous. Portes d\'entrée, portes de garage, portes blindées, serrurerie, portails, visiophones et interphones. Devis gratuit et sans engagement.');
 
